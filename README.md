@@ -1,10 +1,21 @@
-# wherenodoctor
-where there is no doctor - donde no hay doctor
+WHERE THERE IS NO DOCTOR 
+---
+A Village Health Care Book
 
-# status:
-plan
+_Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman, Jane Maxwell
+(orignal title: Donde No Hay Doctor ISBN	978-0-942364-15-6)_
 
-# source
+
+# Status:
+- Plan to make a mobile friendly version. 
+- As second step make it easily translatable.
+
+# Done:
+- inital collection of PDF release
+- github repo
+
+
+# Source:
 
 ## Where There Is No Doctor
 The most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more. 
