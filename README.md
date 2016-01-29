@@ -18,4 +18,4 @@ In the Journal of the American Medical Association, a 2010 review said,
 
 Firstly published in 1977 by [hesperian.org](http://hesperian.org/books-and-resources/)
 
-![cover] (https://en.wikipedia.org/wiki/Where_There_Is_No_Doctor#/media/File:Where_There_Is_No_Doctor_book_cover,_13th_revised_printing.jpg)
+![cover] (https://upload.wikimedia.org/wikipedia/en/f/f9/Where_There_Is_No_Doctor_book_cover%2C_13th_revised_printing.jpg)
