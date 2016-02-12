@@ -1,13 +1,4 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-
-_logo/lab/whereNOdoctor.svg
-
-_logo/lab/whereNOdoctor2.ai
-
-_logo/lab/where NO Doctor.pdf
-
-_logo/lab/whereNOdoctor3.ai
-
-_logo/lab/WRKT 00916 Yes Doctor.pdf
+.DS_Store
