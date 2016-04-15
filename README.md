@@ -1,4 +1,4 @@
-WHERE THERE IS NO DOCTOR 
+WHERE THERE IS NO DOCTOR
 ---
 A Village Health Care Book
 
@@ -6,19 +6,24 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 (orignal title: Donde No Hay Doctor ISBN	978-0-942364-15-6)_
 
 
+![app logo](logos.png)
+
+
 # Status:
-- Plan to make a mobile friendly version. 
+- Plan to make a mobile friendly version.
+- Plan to make it working off-line too via serviceworkers.
 - As second step make it easily translatable.
 
 # Done:
 - inital collection of PDF release
+- logo thanks to david@[work-it](http://work-it.it)
 - github repo
 
 
 # Source:
 
 ## Where There Is No Doctor
-The most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more. 
+The most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
 
 
 In the Journal of the American Medical Association, a 2010 review said,
