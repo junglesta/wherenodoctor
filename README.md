@@ -14,11 +14,14 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - Plan to make it working off-line too via serviceworkers.
 - As second step make it easily translatable.
 
-# Done:
-- inital collection of PDF release
-- logo thanks to david@[work-it](http://work-it.it)
-- github repo
+# 2do
+- [ ] setup [upup.js]() 
 
+# Done:
+- [X] inital collection of PDF release
+- [X] logo thanks to david@[work-it](http://work-it.it)
+- [X] github repo
+- [X] https [check](https://junglesta.github.io/wherenodoctor/)
 
 # Source:
 
