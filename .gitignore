@@ -1,4 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+js
+.workinprogress
 .DS_Store
+css/**
