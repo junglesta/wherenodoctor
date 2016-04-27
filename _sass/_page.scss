@@ -1,0 +1,31 @@
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing_unit 0;
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing_unit;
+    }
+}
+
+.post-meta {
+    font-size: $small_font-size;
+    color: $grey-color;
+    display: none;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}

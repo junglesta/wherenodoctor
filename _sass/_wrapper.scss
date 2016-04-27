@@ -1,0 +1,10 @@
+
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing_unit;
+    padding-left: $spacing_unit;
+    @extend %clearfix;
+    max-width: 650px;
+
+}

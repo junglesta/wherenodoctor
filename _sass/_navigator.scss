@@ -1,0 +1,91 @@
+
+.navigator {
+    min-height: 56px;
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
+.site-title {//a
+    font-size: $h1_font_size;
+    font-weight: 300;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    float: left;
+    margin: 1rem 3rem 1rem 0;
+    display: block;
+
+    &,
+    &:visited {
+        color: $grey-color-dark;
+    }
+}
+
+.site-nav {
+    float: right;
+    line-height: 56px;
+
+    .menu-icon {
+        display: none;
+    }
+
+    .page-link {
+        color: $text_color;
+        line-height: $base_line_height;
+        text-transform: capitalize;
+
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+            margin-right: 20px;
+        }
+    }
+
+  @include media( "screen", ">bp1Width") {
+        position: absolute;
+        top: 9px;
+        right: $spacing_unit / 2;
+        background-color: $background_color;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+        text-align: right;
+
+        .menu-icon {
+            display: block;
+            float: right;
+            width: 36px;
+            height: 26px;
+            line-height: 0;
+            padding-top: 10px;
+            text-align: center;
+
+            > svg {
+                width: 18px;
+                height: 15px;
+
+                path {
+                    fill: $grey-color-dark;
+                }
+            }
+        }
+
+        .trigger {
+            clear: both;
+            display: none;
+        }
+
+        &:hover .trigger {
+            display: block;
+            padding-bottom: 5px;
+        }
+
+        .page-link {
+            display: block;
+            padding: 5px 10px;
+
+            &:not(:last-child) {
+                margin-right: 0;
+            }
+            margin-left: 20px;
+        }
+    }
+}

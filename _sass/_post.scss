@@ -1,0 +1,19 @@
+
+.post-header {
+    margin-bottom: $spacing_unit;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media( "screen", ">maxWidth") {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+  margin-bottom: $spacing_unit;
+
+}
