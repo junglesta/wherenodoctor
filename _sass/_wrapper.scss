@@ -6,5 +6,6 @@
     padding-left: $spacing_unit;
     @extend %clearfix;
     max-width: 650px;
-
+    .cover & {padding-top: $spacing_unit;}
+    .page-content & {padding-top:0;}
 }

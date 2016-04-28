@@ -17,6 +17,7 @@ ul, ol, dl, figure,
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base_font_weight;
     text-transform: capitalize;
+    margin-top: $spacing_unit;
 }
 
 
@@ -51,9 +52,9 @@ body {
 }
 
 
-h1 { font-size: $h1_font_size; }
-h2 { font-size: $h2_font_size; }
-h3 { font-size: $h3_font_size; }
+h1 { font-size: $h1_font_size; line-height: 1.25;}
+h2 { font-size: $h2_font_size; line-height: 1.35;}
+h3 { font-size: $h3_font_size; line-height: 1.45;}
 h4 { font-size: $h4_font_size; }
 h5 { font-size: $h5_font_size; }
 h6 { font-size: $h6_font_size; }
