@@ -1,8 +1,8 @@
 title: where there is no doctor
 email:
 description: Village Healthcare Handbook is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://junglesta.github.io/wherenodoctor/" # the base hostname & protocol for your site
+baseurl: "/wherenodoctor" # the subpath of your site, e.g. /blog
+url: "https://junglesta.github.io/" # the base hostname & protocol for your site
 twitter_username: rokmatwit
 github_username: junglesta
 github_repo:
