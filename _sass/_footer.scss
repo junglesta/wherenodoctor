@@ -7,6 +7,7 @@
   h2 {
     color: $background-color;
   }
+  a:hover {color: lighten($brand_color, 20);}
   li {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -15,6 +16,12 @@
     font-weight: normal;
     font-size: 110%;
     display: block;
+  }
+  span:not(.icon):not(.username) {
+    display: block;
+    @include media( "screen", ">bp1Width") {
+      display: inline;
+    }
   }
 }
 
@@ -27,21 +34,4 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
-}
-
-
-.footnav {
-  border-top: 1px solid $grey-color-light;
-  ul {
-    list-style: none;
-    margin-left: 0;
-  }
-  a.active {
-    color: black;
-    li & {
-      background-color: red;
-      display: block;
-      border: 1px solid $grey-color-light;
-    }
-  }
 }

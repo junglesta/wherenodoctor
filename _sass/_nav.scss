@@ -1,0 +1,38 @@
+
+.nav {
+  border-top: 1px solid $grey-color-light;
+  ul {
+    list-style: none;
+    margin-left: 0;
+  }
+  small {
+    line-height: 40px;
+    float: left;
+    padding-right: 1rem;
+  }
+  a.active {
+    color: black;
+    li & {
+      background-color: red;
+      display: block;
+      border: 1px solid $grey-color-light;
+    }
+  }
+}
+
+
+.site-title {//a
+  font-size: $h1_font_size;
+  font-weight: 300;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  float: left;
+  margin: 1rem 3rem 1rem 0;
+  display: block;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}

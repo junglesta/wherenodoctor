@@ -13,23 +13,31 @@
       </li>
 
       <li>
-        Developer: <a href="{{ site.producer.url }}">{{ site.producer.name }}</a>
-        {% if site.email %}
-        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <span>
+          Dev <a href="{{ site.producer.url }}">{{ site.producer.name }}</a>
+          {% if site.email %}
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          {% endif %}
+        </span>
+
+        &nbsp;
+
+        {% if site.github_username %}
+        <span>
+          {% include icon-github.html username=site.github_username %}
+        </span>
         {% endif %}
-      </li>
 
-      {% if site.github_username %}
-      <li>
-        {% include icon-github.html username=site.github_username %}
-      </li>
-      {% endif %}
+        {% if site.twitter_username %}
+        <span>
+          {% include icon-twitter.html username=site.twitter_username %}
+        </span>
+        {% endif %}
 
-      {% if site.twitter_username %}
-      <li>
-        {% include icon-twitter.html username=site.twitter_username %}
+        &nbsp;
+
+        <span class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">{% include icon-rss.html %} RSS</a></span>
       </li>
-      {% endif %}
 
 
     </ul>
