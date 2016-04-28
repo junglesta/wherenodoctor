@@ -42,5 +42,5 @@ Firstly published in 1977 by [hesperian.org](http://hesperian.org/books-and-reso
 
 ## dev 
 ```sh
-jekyll serve --watch --trace
+jekyll serve --watch --trace --baseurl ''
 ```
