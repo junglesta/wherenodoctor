@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "words to the village health worker"
-permalink: /village-health-worker/
+permalink: /00/
 ---
 
 # Who is the village health worker?

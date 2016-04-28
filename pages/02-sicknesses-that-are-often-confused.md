@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "sicknesses that are often confused"
-categories: chapter
+permalink: /02/
 ---
 # WHAT CAUSES SICKNESS?
 
