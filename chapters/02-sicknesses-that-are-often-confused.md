@@ -20,7 +20,7 @@ A social reformer may say the unhealthy conditions that lead to frequent childho
 A teacher may place the blame on lack of education.
 People see the cause of sickness in terms of their own experience and point of view. Who then is right about the cause? Possibly everyone is right, or partly right. This is because...
 
->**Sickness usually results from a combination of causes**
+>Sickness usually results from a combination of causes
 
 Each of the causes suggested above may be a part of the reason why a baby gets diarrhea.
 
@@ -44,7 +44,7 @@ When considering how to prevent or treat different sicknesses, it helps to think
 
 Non-infectious diseases have many different causes. But they are never caused by germs, bacteria, or other living organisms that attack the body. They never spread from one person to another. It is important to realize that antibiotics, or medicines that fight germs (see p. 55), do not help cure non-infectious diseases.
 
->**Remember: Antibiotics are of no use for non-infectious diseases**
+>Remember: Antibiotics are of no use for non-infectious diseases.
 
 
 ### EXAMPLES OF NON-INFECTIOUS DISEASES

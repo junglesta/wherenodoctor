@@ -92,7 +92,7 @@ When instructions for a medicine say: Take 1 tsp, this means take 5 ml.
 
 Many of the ‘teaspoons’ people use hold as much as 8 ml or as little as 3 ml.
 
->**When using a teaspoon to give medicine, it is important that it measure 5 ml. No more, no less.**
+>When using a teaspoon to give medicine, it is important that it measure 5 ml. No more, no less.
 
 # How to Make Sure that the Teaspoon Used for Medicine Measures 5 ml
 

@@ -12,7 +12,7 @@ Some village health workers receive training and help from an organized program,
 
 In the larger sense, a village health worker is anyone who takes part in making his or her village a healthier place to live.
 
->**This means almost everyone can and should be a health worker**:
+>This means almost everyone can and should be a health worker:
 
   - Mothers and fathers can show their children how to keep clean;
 
@@ -31,7 +31,7 @@ This book was written for the health worker in the larger sense. It is for anyon
 
 If you are a community health worker, an auxiliary nurse, or even a doctor, remember: this book is not just for you. It is for all the people. Share it!
 
->**Use this book to help explain what you know to others.**
+>Use this book to help explain what you know to others.
 
 Perhaps you can get small groups together to read a chapter at a time and discuss it.
 

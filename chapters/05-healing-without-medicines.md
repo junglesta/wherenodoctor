@@ -5,7 +5,7 @@ permalink: /05/
 ---
 For most sicknesses no medicines are needed. Our bodies have their own defenses, or ways to resist and fight disease. In most cases, these natural defenses are far more important to our health than are medicines.
 
->**People will get well from most sicknesses —including the common cold and ‘flu’—by themselves, without need for medicines.**
+>People will get well from most sicknesses —including the common cold and ‘flu’—by themselves, without need for medicines.
 
 To help the body fight off or overcome a sickness, often all that is needed is to:
 
@@ -18,7 +18,7 @@ Even in a case of more serious illness, when a medicine may be needed, it is the
 
 Much of the art of health care does not—and should not—depend on use of medications. Even if you live in an area where there are no modern medicines, there is a great deal you can do to prevent and treat most common sicknesses—if you learn how.
 
->**Many sicknesses can be prevented or treated without medicine**
+>Many sicknesses can be prevented or treated without medicine.
 
 If people simply learned how to use water correctly, this alone might do more to prevent and cure illnesses than all the medicines they now use. . .and misuse.
 

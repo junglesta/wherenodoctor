@@ -9,11 +9,11 @@ Also, people sometimes use the best medicines in the wrong way, so that they do 
 
 Many people, including most doctors and health workers, prescribe far more medicines than are needed—and by so doing cause much needless sickness and death.
 
->**There is some danger in the use of any medicine**
+>There is some danger in the use of any medicine.
 
 Some medicines are much more dangerous than others. Unfortunately, people sometimes use very dangerous medicines for mild sicknesses. (I have seen a baby die because his parents gave him a dangerous medicine, chloramphenicol, for a cold.) Never use a dangerous medicine for a mild illness.
 
->**REMEMBER: MEDICINES CAN KILL**
+>REMEMBER: MEDICINES CAN KILL.
 
 Guidelines for the use of medicine:
 

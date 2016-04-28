@@ -6,7 +6,7 @@ permalink: /04/
 
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.
 
->**The care a sick person receives is frequently the most important part of his treatment.**
+>The care a sick person receives is frequently the most important part of his treatment.
 
 Medicines are often not necessary. But good care is always important. The following are the basis of good care:
 
@@ -89,7 +89,7 @@ It is very important to look for signs that warn you that the person’s sicknes
 
 A person who has one or more of the following signs is probably too sick to be treated at home without skilled medical help. His life may be in danger.
 
->**Seek medical help as soon as possible.**
+>Seek medical help as soon as possible.
 
 _Until help comes, follow the instructions on the pages indicated:_
 

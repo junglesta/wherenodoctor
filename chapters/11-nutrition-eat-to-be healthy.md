@@ -51,7 +51,7 @@ _Although the following problems may have other causes, they are sometimes cause
 **Poor nutrition during pregnancy** causes weakness and anemia in the mother and increases the risk of her dying during or after childbirth. It is also a cause of miscarriage, or of the baby being born dead, too small, or with a disability.
 
 
->**Eating right helps the body resist sickness**
+>Eating right helps the body resist sickness
 
 
 Not eating well may be the direct cause of the health problems just listed. But most important, poor nutrition weakens the body’s ability to resist all kinds of diseases, especially infections:
@@ -63,7 +63,7 @@ Not eating well may be the direct cause of the health problems just listed. But 
   - Cirrhosis of the liver, which comes in part from drinking too much alcohol, is more common and worse in persons who are poorly nourished.
   - Even minor problems like the common cold are usually worse, last longer, or lead to pneumonia more often in persons who are poorly nourished.
 
->**Eating right helps the sick get well**
+>Eating right helps the sick get well
 
 
 Not only does good food help prevent disease, it helps the sick body fight disease and become well again. So when a person is sick, eating enough nutritious food is especially important.
@@ -78,8 +78,8 @@ Often the signs of poor nutrition first appear when a person has some other sick
 **During and after any sickness, it is very important to eat well.**
 
 
->**EATING WELL AND KEEPING CLEAN ARE THE BEST GUARANTEES
-OF GOOD HEALTH.**
+>EATING WELL AND KEEPING CLEAN ARE THE BEST GUARANTEES
+OF GOOD HEALTH.
 
 # WHY IT IS IMPORTANT TO EAT RIGHT
 
@@ -114,7 +114,7 @@ We can do 2 things to help meet such children’s energy needs:
 
   1. Feed children more often—at least 5 times a day when a child is very young, too thin, or not growing well. Also give her snacks between meals.
 
-  >**CHILDREN, LIKE CHICKENS, SHOULD ALWAYS BE PECKING.**
+  >CHILDREN, LIKE CHICKENS, SHOULD ALWAYS BE PECKING.
 
   2. Also add high energy ‘helper foods’ such as oils and sugar or honey to the main food. It is best to add vegetable oil or foods containing oils—nuts, groundnuts (peanuts), or seeds, especially pumpkin or sesame seeds.
 

@@ -5,7 +5,7 @@ permalink: /14/
 ---
 **The diseases covered in this chapter are often difficult or impossible to cure without medical help. Many need special medicines that are difficult to get in rural areas. Home remedies will not cure them. If a person has one of these illnesses,**
 
->**THE SOONER HE GETS MEDICAL HELP, THE BETTER HIS CHANCE OF GETTING WELL.**
+>THE SOONER HE GETS MEDICAL HELP, THE BETTER HIS CHANCE OF GETTING WELL.
 
 
 CAUTION: Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, p. 42.
@@ -74,7 +74,7 @@ the same as TB of the lungs, but the treatment may be longer. This includes TB i
 
 TB in family members often starts very slowly and quietly. If anyone in the family shows signs of TB, have tests done and begin treatment at once.
 
->**Early and full treatment is a key part of prevention**
+>Early and full treatment is a key part of prevention.
 
 # RABIES
 
@@ -111,8 +111,8 @@ The first symptoms of rabies appear from 10 days up to 2 years after the bite (u
   - Cooperate with programs to vaccinate dogs.
   - Keep children far away from any animal that seems sick or acts strangely.
 
->**Take great care in handling any animal that seems sick or acts strangely. Even if it does not bite anyone, its saliva can cause rabies
-if it gets into a cut or scratch.**
+>Take great care in handling any animal that seems sick or acts strangely. Even if it does not bite anyone, its saliva can cause rabies
+if it gets into a cut or scratch.
 
 # TETANUS (LOCKJAW)
 
@@ -141,7 +141,7 @@ Tetanus germs enter through the umbilical cord of a newborn baby because of lack
   - The jaw gets stiff (lockjaw), then the muscles of the neck and other parts of the body get stiff. The person has difficulty walking normally.
   - Painful convulsions (sudden tightening) of the jaw and finally of the whole body. Moving or touching the person may trigger sudden spasms like this:  
 
-  >**Sudden noise or bright light may also bring on these spasms.**
+  >Sudden noise or bright light may also bring on these spasms.
 
 
 In the newborn, the first signs of tetanus generally appear 3 to 10 days after birth. The child begins to cry continuously and is unable to suck. Often the umbilical area is dirty or infected. After several hours or days, lockjaw and the other signs of tetanus begin.
