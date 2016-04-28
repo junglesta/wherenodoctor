@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "nutrition-eat-to-be healthy"
+title:  "nutrition eat to be healthy"
 permalink: /11/
 ---
 # SICKNESSES CAUSED BY NOT EATING WELL
