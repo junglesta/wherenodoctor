@@ -10,7 +10,7 @@ Always examine the person where there is good light, preferably in the sunlight 
 
 There are certain basic things to ask and to look for in anyone who is sick. These include things the sick person feels or reports (symptoms), as well as things you notice on examining him (signs). These signs can be especially important in babies and persons unable to talk. In this book the word ‘signs’ is used for both symptoms and signs.
 
-**When you examine a sick person, write down your findings and keep them for the health worker in case he is needed** (see p. 44).
+>**When you examine a sick person, write down your findings and keep them for the health worker in case he is needed** (see p. 44).
 
 
 # QUESTIONS

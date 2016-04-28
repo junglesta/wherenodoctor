@@ -28,14 +28,14 @@ Sicknesses like pneumonia, tetanus, typhoid, tuberculosis, appendicitis, disease
 It is sometimes hard to be sure which home remedies work well and which do not. More careful studies are needed. For this reason:
 
 
-**It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible**
+>**It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible**
 
 
 #Old Ways and New
 Some modern ways of meeting health needs work better than old ones. But at times the older, traditional ways are best. For example, traditional ways of caring for children or old people are often kinder and work better than some newer, less personal ways.
 Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, see p. 271.
 
-**Respect your people’s traditions and build on them**
+>**Respect your people’s traditions and build on them**
 
 For more ideas for building on local traditions, see Helping Health Workers Learn, Chapter 7.
 
