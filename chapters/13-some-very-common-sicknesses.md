@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "some very common sicknesses"
+title:  "sicknesses: some very common"
 permalink: /13/
+index: true
 ---
 #DEHYDRATION
 

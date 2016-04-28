@@ -28,3 +28,21 @@
     list-style: none;
     margin-left: 0;
 }
+
+
+.footnav {
+  border-top: 1px solid $grey-color-light;
+  ul {
+    list-style: none;
+  }
+  a.active {
+    color: black;
+    &:after {
+      content: '< YOU ARE HERE';
+      display: inline-block;
+      border: 1px solid $grey-color-light;
+      margin-left: 1rem;
+      padding: 0 .5rem;
+    }
+  }
+}

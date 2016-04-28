@@ -2,6 +2,7 @@
 layout: page
 title: "about this guide book"
 permalink: /about/
+index: false
 ---
 
 WHERE THERE IS NO DOCTOR

@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "how to examine a sick person"
+title:  "sick person: how to examine"
 permalink: /03/
+index: true
 ---
 
 To find out the needs of a sick person, first you must ask important questions and then examine him carefully. You should look for signs and symptoms that help you tell how ill the person is and what kind of sickness he may have.

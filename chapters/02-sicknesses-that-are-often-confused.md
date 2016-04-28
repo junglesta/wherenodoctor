@@ -2,6 +2,7 @@
 layout: page
 title:  "sicknesses that are often confused"
 permalink: /02/
+index: true
 ---
 # WHAT CAUSES SICKNESS?
 

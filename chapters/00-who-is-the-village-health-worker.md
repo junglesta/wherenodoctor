@@ -2,6 +2,7 @@
 layout: page
 title:  "words to the village health worker"
 permalink: /00/
+index: true
 ---
 
 # Who is the village health worker?

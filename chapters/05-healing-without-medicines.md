@@ -2,6 +2,7 @@
 layout: page
 title:  "healing without medicines"
 permalink: /05/
+index: true
 ---
 For most sicknesses no medicines are needed. Our bodies have their own defenses, or ways to resist and fight disease. In most cases, these natural defenses are far more important to our health than are medicines.
 

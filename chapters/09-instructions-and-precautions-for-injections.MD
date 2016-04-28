@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "instructions and precautions for injections"
+title:  "injections: instructions and precautions"
 permalink: /09/
+index: true
 ---
 # WHEN TO INJECT AND WHEN NOT TO
 

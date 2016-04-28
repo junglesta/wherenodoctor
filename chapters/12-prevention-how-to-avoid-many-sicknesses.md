@@ -2,6 +2,7 @@
 layout: page
 title:  "Prevention: How to Avoid Many Sicknesses"
 permalink: /12/
+index: true
 ---
 
 _An ounce of prevention is worth a pound of cure! If we all took more care to eat well, to keep ourselves, our homes, and our villages clean, and to be sure that our children are vaccinated, we could stop most sicknesses before they start.

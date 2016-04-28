@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "how to measure and give medicine"
+title:  "measure and give medicine: how to"
 permalink: /08/
+index: true
 ---
 # SYMBOLS:
 

@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "how to take care of a sick person"
+title:  "sick person: how to take care"
 permalink: /04/
+index: true
 ---
 
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.
