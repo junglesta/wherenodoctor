@@ -30,3 +30,8 @@ Doctors and other health workers sometimes prescribe injections when they are no
 # EMERGENCIES WHEN IT IS IMPORTANT TO GIVE INJECTIONS
 
 In case of the following sicknesses, get medical help as fast as you can. If there will be any delay in getting help or in taking the sick person to a health center, inject the appropriate medicine as soon as possible. For details of the doses, consult the pages listed below. Before injecting, know the possible side effects and take the needed precautions (see the Green Pages).
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

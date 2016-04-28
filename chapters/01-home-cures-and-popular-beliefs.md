@@ -53,3 +53,9 @@ It was his faith in her treatment, and not the yam itself, that made him feel be
 Included in this group of sicknesses are: bewitchment or hexing, unreasonable or hysterical fear, uncertain ‘aches and pains’ (especially in persons going through stressful times, such as teenage girls or older women), and anxiety or nervous worry. Also included are some cases of asthma, hiccups, indigestion, stomach ulcers, migraine headaches, and even warts.
 
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
+
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

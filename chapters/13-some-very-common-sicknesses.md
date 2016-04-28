@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "sicknesses: some very common"
+title:  "some very common sicknesses"
 permalink: /13/
 index: true
 ---
@@ -148,3 +148,8 @@ For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the
   - An underweight child should get plenty of energy foods and some body-building foods (proteins) all the time he has diarrhea—and extra when he gets well. If he stops eating because he feels too sick or is vomiting, he should eat again as soon as he can. Giving Rehydration Drink will help the child be able to eat. Although giving food may cause more frequent stools at first, it can save his life.
   - If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more often—at least 5 or 6 meals each day. Often no other treatment is needed.
   - If possible, give zinc supplements to a baby or child with diarrhea (see p. 381).
+
+
+  ```
+  ¯¯\_(ツ)_/¯¯ this for now...
+  ```

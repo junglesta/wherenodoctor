@@ -73,3 +73,9 @@ Here is a list of the most common and dangerous errors people make in using mode
   10. **Vitamin B12, liver extract, and iron injections** (p. 392)
 
       Vitamin B12 and liver extract do not help anemia or ‘weakness’ except in rare cases. Also, they have certain risks when injected. They should only be used when a specialist has prescribed them after testing the blood. Also, avoid injectable iron, such as Imferon. To combat anemia, iron pills are safer and work as well (see p. 124).
+
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

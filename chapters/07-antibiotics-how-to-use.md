@@ -15,3 +15,9 @@ There are many kinds of antibiotics, and each kind is sold under several ‘bran
 |antibiotic group|generic name|examples of brands|page|
 |PENICILLINS|penicillin, ampicillin, amoxicillin|Pen-V-K|350|
 |MACROLIDES|erythromycin|Erythrocin|354|
+
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

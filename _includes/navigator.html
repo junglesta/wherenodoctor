@@ -12,9 +12,9 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% for p in site.pages %}
+          {% if p.title %}
+          <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
       </div>

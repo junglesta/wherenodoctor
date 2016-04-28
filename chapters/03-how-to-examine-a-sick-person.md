@@ -139,3 +139,8 @@ Look for ‘sucking in’ of the skin between ribs and at the angle of the neck 
 If the person has a cough, ask if it keeps her from sleeping. Find out if she coughs up mucus, how much, its color, and if there is blood in it.
 
 Pay attention to the strength, the rate, and the regularity of the pulse. If you have a watch or timer, count the pulses per minute.
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title:  "sicknesses that are often confused"
@@ -92,3 +93,9 @@ Non-infectious diseases have many different causes. But they are never caused by
 # Infectious Diseases
 
 Infectious diseases are caused by bacteria and other organisms (living things) that harm the body. They are spread in many ways. Here are some of the most important kinds of organisms that cause infections and examples of sicknesses they cause:
+
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

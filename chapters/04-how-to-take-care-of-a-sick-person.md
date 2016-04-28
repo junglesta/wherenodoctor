@@ -101,4 +101,9 @@ _Until help comes, follow the instructions on the pages indicated:_
   4. Great difficulty in breathing; does not improve with rest 167, 325
   5. The person cannot be wakened (coma) 78
   6. The person is so weak he faints when he stands up 325
-...
+
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```

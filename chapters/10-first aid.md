@@ -91,3 +91,9 @@ At the first sign of shock, or if there is risk of shock:
   - If you or someone nearby knows how, give intravenous solution (normal saline)
   at a fast drip.
   - Seek medical help fast.
+
+
+
+  ```
+  ¯¯\_(ツ)_/¯¯ this for now...
+  ```

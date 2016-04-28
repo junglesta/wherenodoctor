@@ -54,3 +54,10 @@ If the family had taken any of the following precautions, the spread of the sick
   - if the mother had washed her hands after touching the child and before preparing food.
 
 If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see p. 154 and Chapter 11).
+
+
+
+
+```
+¯¯\_(ツ)_/¯¯ this for now...
+```
