@@ -6,19 +6,7 @@ layout: default
 
   <h2 class="page-heading">Chapters</h2>
 
-  <ul class="post-list">
-    {% for p in site.pages %}
-      <li>
-
-        <span class="post-meta">{{ p.date | date: "%b %-d, %Y" }}</span>
-
-        <h3>
-          <a class="post-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.permalink | replace:'/','' }} - {{ p.title }}</a>
-        </h3>
-
-      </li>
-    {% endfor %}
-  </ul>
+  {% include footnav.html %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
