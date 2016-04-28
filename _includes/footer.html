@@ -9,12 +9,15 @@
       <li>{{ site.description }}</li>
 
       <li><strong>This web project is not yet ready!</strong>
-        Plan is to make it an "Offline-Ready" Web App that runs in your Android browser. Developed by: <a href="{{ site.producer.url }}">{{ site.producer.name }}</a>
+        The whole book content will be available as Web App that runs in your Android browser also when your are offline.
       </li>
 
-      {% if site.email %}
-      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      {% endif %}
+      <li>
+        Developer: <a href="{{ site.producer.url }}">{{ site.producer.name }}</a>
+        {% if site.email %}
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        {% endif %}
+      </li>
 
       {% if site.github_username %}
       <li>
