@@ -4,16 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Chapters</h1>
+  <h2 class="page-heading">Chapters</h2>
 
   <ul class="post-list">
-    {% for post in site.pages %}
+    {% for p in site.pages %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <span class="post-meta">{{ p.date | date: "%b %-d, %Y" }}</span>
+
+        <h3>
+          <a class="post-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.permalink | replace:'/','' }} - {{ p.title }}</a>
+        </h3>
+
       </li>
     {% endfor %}
   </ul>
