@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "how-to-examine-a-sick-person"
+title:  "how to examine a sick person"
 permalink: /03/
 ---
 

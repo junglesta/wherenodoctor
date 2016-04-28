@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about this guide book
+title: "about this guide book"
 permalink: /about/
 ---
 

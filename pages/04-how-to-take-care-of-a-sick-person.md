@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "how-to-take-care-of-a-sick-person"
+title:  "how to take care of a sick person"
 permalink: /04/
 ---
 
