@@ -1,7 +1,21 @@
 
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing_unit 0;
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing_unit 0;
+  background-color: $text_color;
+  color: $grey_color_light;
+  h2 {
+    color: $background-color;
+  }
+  li {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  strong {
+    font-weight: normal;
+    font-size: 110%;
+    display: block;
+  }
 }
 
 .footer-heading {
