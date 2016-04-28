@@ -4,8 +4,8 @@ description: Village Healthcare Handbook is the most widely-used health care man
 baseurl: "/wherenodoctor"
 url: "https://junglesta.github.io/"
 twitter_username: rokmatwit
-github_username: junglesta
-github_repo:
+github:
+  repository: junglesta/wherenodoctor
 producer:
   name: Junglestar
   url: http://junglestar.org

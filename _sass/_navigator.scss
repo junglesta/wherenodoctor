@@ -1,8 +1,9 @@
 
 .navigator {
     min-height: 56px;
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 .site-title {//a
