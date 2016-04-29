@@ -65,102 +65,88 @@ This is one way to figure the dosages for different medicines. For more informat
 
 # ANTIBIOTICS
 
-## The Penicillins: Very Important Antibiotics 350
+## Penicillin:
 
-## PENICILLIN BY MOUTH Penicilin V (phenoxylmethyl penicillin) 351
-
-## INJECTABLE PENICILLIN 351
-
-Crystalline penicillin, benzylpenicillin, penicillin G, aqueous penicillin, soluble penicillin, sodium penicillin, potassium penicillin 352
-
-Procaine penicillin, procaine benzylpenicillin, procaine penicillin G 352
-
-Benzathine penicillin 352
+|---|---|
+|The Penicillins Very Important Antibiotics|350|
+|PENICILLIN BY MOUTH: Penicilin V (phenoxylmethyl penicillin)|351|
+|INJECTABLE PENICILLIN|351|
+|Crystalline penicillin, benzylpenicillin, penicillin G, aqueous penicillin, soluble penicillin, sodium penicillin, potassium penicillin|352|
+|Procaine penicillin, procaine benzylpenicillin, procaine penicillin|352|
+|Benzathine penicillin|352|
 
 
-## AMPICILLIN AND AMOXICILLIN:
+### AMPICILLIN AND AMOXICILLIN:
 
-Broad-Spectrum Penicillins 352
+|---|---|
+|Broad-Spectrum Penicillins|352|
+|Erthyromycin: An Alternative to Penicillin|354|
+|Tetracyclines: Broad-Spectrum Antibiotics|355|
+|Tetracyline, tetracycline HCI, oxytetracycline, etc|355|
+|Doxycycline|355|
+|Chloramphenicol: An Antibiotic for Certain Severe Infections|356|
+|The Sulfas or Sulfonamides: Inexpensive Medicine for Common Infections|356|
+|Sulfisoxazole, sulfamethoxazole, ulfadoxine|356|
+|Cotrimoxazole (sulfamethoxazole with trimethoprim)|357|
 
-## Erthyromycin: An Alternative to Penicillin 354
+### Cephalosporins
 
-Tetracyclines: Broad-Spectrum Antibiotics 355
+|---|---|
+|Cephalosporins Antibiotics|357|
+|Ceftriaxone|358|
 
-Tetracyline, tetracycline HCI, oxytetracycline, etc 355
+### Other Antibiotics
 
-Doxycycline 355
+|---|---|
+|Ciprofloxacin|358|
+|Clindamycin|358|
+|Gentamicin|358|
 
-## Chloramphenicol: An Antibiotic for Certain Severe Infections 356
+### For Gonorrhea and Chlamydia
 
-## The Sulfas or Sulfonamides: Inexpensive Medicine for Common Infections 356
+|---|---|
+|Medicines for Gonorrhea and Chlamydia|359|
 
-Sulfisoxazole, sulfamethoxazole, ulfadoxine 356
+### For Tuberculosis
 
-Cotrimoxazole (sulfamethoxazole with trimethoprim) 357
+|---|---|
+|Medicines for Tuberculosis|359|
+|Isoniazid (INH)|360|
+|Rifampicin|360|
+|Pyrazinamide|361|
+|Ethambutol|361|
+|Streptomycin|361|
 
-## Cephalosporins 357
+### For Leprosy
 
-Ceftriaxone 358
-
-## Other Antibiotics 358
-
-Ciprofloxacin 358
-
-Clindamycin 358
-
-Gentamicin 358
-
-## Medicines for Gonorrhea and Chlamydia 359
-
-## Medicines for Tuberculosis 359
-
-Isoniazid (INH) 360
-
-Rifampicin 360
-
-Pyrazinamide 361
-
-Ethambutol 361
-
-Streptomycin 361
-
-## Medicines for Leprosy 362
-
-Dapsone (diaminodiphenylsulfone, DDS) 362
-
-Rifampicin 362
-
-Clofazimine (Lamprene) 363
+|---|---|
+|Dapsone (diaminodiphenylsulfone, DDS)|362|
+|Rifampicin|362|
+|Clofazimine (Lamprene)|363|
 
 # OTHER MEDICINES
 
-## For Malaria 363
+### For Malaria
 
-Artesunate 364
+|---|---|
+|Medicines For Malaria|363|
+|Artesunate|364|
+|Artemether with lumefantrine (Coartem)|364|
+|Pyrimethamine with sulfadoxine (Fansidar)|364|
+|Mefloquine|365|
+|Amodiaquine|365|
+|Quinine|365|
+|Chloroquine|366
+|Primaquine|367|
+|Proguanil|367|
 
-Artemether with lumefantrine (Coartem) 364
+### For Amebas and Giardia
 
-Pyrimethamine with sulfadoxine (Fansidar) 364
-
-Mefloquine 365
-
-Amodiaquine 365
-
-Quinine 365
-
-Chloroquine 366
-
-Primaquine 367
-
-Proguanil 367
-
-## For Amebas and Giardia 367
-
-Metronidazole 368
-
-Diloxanide furoate 368
-
-Quinacrine 369
+|---|---|
+|Medicines For Amebas and Giardia|367|
+|Metronidazole|368|
+|Diloxanide furoate|368|
+|Quinacrine|369|
 
 
 ```

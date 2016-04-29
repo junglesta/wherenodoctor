@@ -17,3 +17,12 @@
   margin-bottom: $spacing_unit;
 
 }
+
+table {
+  width: 100%;
+  td {padding: .5rem 0;}
+  td:last-child {
+    text-align: right;
+    vertical-align: bottom;
+  }
+}

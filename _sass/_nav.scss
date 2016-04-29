@@ -5,18 +5,27 @@
     list-style: none;
     margin-left: 0;
   }
+  li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    -ms-grid-row-align: center;
+    align-items: center;
+
+    h3, small {
+      margin: .5rem;
+      line-height: 1.25;
+    }
+  }
   small {
-    line-height: 40px;
-    float: left;
     padding-right: 1rem;
   }
   a.active {
     color: black;
-    li & {
-      background-color: red;
-      display: block;
-      border: 1px solid $grey-color-light;
-    }
   }
 }
 

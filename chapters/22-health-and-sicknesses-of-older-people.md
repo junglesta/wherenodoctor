@@ -9,8 +9,9 @@ This chapter is about the prevention and treatment of problems seen mostly in ol
 
 # SUMMARY OF HEALTH PROBLEMS DISCUSSED IN OTHER CHAPTERS
 
-## Difficulties with Vision (see p. 217)
+## Difficulties with Vision
 
+(see p. 217)  
 After the age of 40, many people have problems seeing close objects clearly. They are becoming farsighted. Often glasses will help.
 
 Everyone over age 40 should watch for signs of glaucoma, which can cause blindness if left untreated. Any person with signs of glaucoma (see p. 222) should seek medical help.
@@ -21,13 +22,17 @@ Cataracts (see p. 225) and ‘floaters’ before the eyes (tiny moving spots—p
 
 Old people understandably have less energy and strength than when they were younger, but they will become even weaker if they do not eat well. Although older people often do not eat very much, they should eat some body building and protective foods every day (see pages 110 to 111).
 
-## Swelling of the Feet (see p. 176)
+## Swelling of the Feet
 
+(see p. 176)  
 This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see p. 325). Whatever the cause, keeping the feet up is the best treatment. Walking helps too—but do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
 
-## Chronic Sores of the Legs or Feet (see p. 213)
+## Chronic Sores of the Legs or Feet
 
-These may result from poor circulation, often because of varicose veins (p. 175). Sometimes diabetes is part of the cause (p. 127). For other possibilities, see page 20.
+(see p. 213)  
+These may result from poor circulation, often because of varicose veins (p. 175). Sometimes diabetes is part of the cause (p. 127).
+
+For other possibilities, see page 20.
 
 Sores that result from poor circulation heal very slowly.
 
@@ -35,18 +40,20 @@ Keep the sore as clean as possible. Wash it with boiled water and mild soap and 
 
 When sitting or sleeping, keep the foot up.
 
-## Difficulty Urinating (see p. 235)
+## Difficulty Urinating
 
 Difficulty Urinating (see p. 235)
 
-## Chronic Cough (see p. 168)
+## Chronic Cough
 
+(see p. 168)
 Older people who cough a lot should not smoke and should seek medical advice. If they had symptoms of tuberculosis when they were younger, or have ever coughed up blood, they may have tuberculosis.
 
 If an older person develops a cough with wheezing or trouble breathing (asthma) or if his feet also swell, he may have heart trouble (see the next page).
 
-## Rheumatoid Arthritis (painful joints) (see p. 173)
+## Rheumatoid Arthritis (painful joints)
 
+(see p. 173)  
 Many older people have arthritis. **To help arthritis:**
 
   - Rest the joints that hurt.
