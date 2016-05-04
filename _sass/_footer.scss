@@ -14,8 +14,8 @@
   }
   strong {
     font-weight: normal;
-    font-size: 110%;
     display: block;
+    color: lighten($brand_color, 20);
   }
   span:not(.icon):not(.username) {
     display: block;
