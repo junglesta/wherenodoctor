@@ -6,10 +6,12 @@
     {% if p.index and p.index != "true" %}
       <li {% if p.url == page.url %}class="active"{% endif %}>
         <small>{{ p.permalink | replace:'/','' }}</small>
-        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}"><h3>{{ p.title | upcase }}</h3></a>
+        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}"><h3>{{ p.title | upcase }}</h3></a>
       </li>
     {% endif %}
     {% endfor %}
   </ul>
 
 </div>
+<!--
+{{ "/upup.min.js" | prepend: site.baseurl }} -->
