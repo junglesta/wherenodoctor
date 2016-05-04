@@ -95,5 +95,5 @@ At the first sign of shock, or if there is risk of shock:
 
 
   ```
-  ¯¯\_(ツ)_/¯¯ this for now...
+  there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
   ```

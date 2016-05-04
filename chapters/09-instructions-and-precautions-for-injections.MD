@@ -33,5 +33,5 @@ In case of the following sicknesses, get medical help as fast as you can. If the
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

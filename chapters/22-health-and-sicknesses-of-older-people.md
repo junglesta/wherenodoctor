@@ -85,5 +85,5 @@ Heart disease is more frequent in older people, especially in those who are fat,
   - In women, a feeling like indigestion, nausea, clamminess, spasms, jaw pain (heart attack).
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

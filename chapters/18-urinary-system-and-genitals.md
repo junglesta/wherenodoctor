@@ -50,5 +50,5 @@ There are many different problems of the urinary tract. They are not always easy
   5. In some parts of the world schistosomiasis (blood flukes) is the most common cause of blood in the urine. This is discussed with other worm infections. See page 146.
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

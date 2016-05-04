@@ -5,6 +5,12 @@ code {
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #eef;
+    p & {
+      background-color: transparentize($brand-color, .8);
+      border: 0 none;
+      border-radius: 0;
+      padding: .75rem;
+    }
 }
 
 code {

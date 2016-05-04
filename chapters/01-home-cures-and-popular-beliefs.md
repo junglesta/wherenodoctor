@@ -57,5 +57,5 @@ For all of these problems, **the manner or ‘touch’ of the healer can be very
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

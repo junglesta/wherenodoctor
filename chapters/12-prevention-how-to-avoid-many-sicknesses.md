@@ -59,5 +59,5 @@ If there are many cases of diarrhea, worms, and other intestinal parasites in yo
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

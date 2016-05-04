@@ -151,5 +151,5 @@ For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the
 
 
   ```
-  ¯¯\_(ツ)_/¯¯ this for now...
+  there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
   ```

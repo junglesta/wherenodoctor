@@ -19,5 +19,5 @@ There are many kinds of antibiotics, and each kind is sold under several ‘bran
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

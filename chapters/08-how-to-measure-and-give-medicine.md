@@ -110,5 +110,5 @@ Many medicines that come as pills or capsules also come in syrups or suspensions
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

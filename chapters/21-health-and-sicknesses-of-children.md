@@ -41,5 +41,5 @@ Chapter 12. Teach children to follow them—and to understand their importance. 
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now...
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```
