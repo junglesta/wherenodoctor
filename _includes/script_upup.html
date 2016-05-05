@@ -1,4 +1,4 @@
-<script src="{{ "/upup.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/upup.min.js" | prepend: site.baseurl | prepend: site.url }}"></script>
 <script>
 UpUp.start({
   'content-url': '{{ page.url | prepend: site.baseurl | prepend: site.url }}',
