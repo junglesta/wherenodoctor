@@ -15,6 +15,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - As second step make it easily translatable.
 
 # 2do
+- [ ] squeeze all chapters into one single page, its all text!
 - [ ] setup [upup.js](https://github.com/TalAter/UpUp)
 
 # Done:
