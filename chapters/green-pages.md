@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "the green pages"
-permalink: /use/
+permalink: /chapter/use/
 index: true
 ---
 # THE USES, DOSAGE, AND PRECAUTIONS FOR THE MEDICINES REFERRED TO IN THIS BOOK

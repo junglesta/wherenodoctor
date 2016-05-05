@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "health and sicknesses of older people"
-permalink: /22/
+permalink: /chapter/22/
 index: true
 ---
 

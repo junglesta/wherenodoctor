@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "additional informations"
-permalink: /plus/
+permalink: /chapter/plus/
 index: true
 ---
 

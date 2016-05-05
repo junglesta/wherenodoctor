@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "first aid"
-permalink: /10/
+permalink: /chapter/10/
 index: true
 ---
 # BASIC CLEANLINESS AND PROTECTION

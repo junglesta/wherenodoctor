@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "the medicine kit"
-permalink: /23/
+permalink: /chapter/23/
 index: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "health and sicknesses of children"
-permalink: /21/
+permalink: /chapter/21/
 index: true
 ---
 

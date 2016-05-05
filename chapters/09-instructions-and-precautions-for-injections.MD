@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "injections: instructions and precautions"
-permalink: /09/
+permalink: /chapter/09/
 index: true
 ---
 # WHEN TO INJECT AND WHEN NOT TO

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "teeth, gums, and mouth"
-permalink: /17/
+permalink: /chapter/17/
 index: true
 ---
 # CARE OF THE TEETH AND GUMS

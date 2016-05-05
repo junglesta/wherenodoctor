@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "vocabulary"
-permalink: /terms/
+permalink: /chapter/terms/
 index: true
 ---
 This vocabulary is listed in the order of the alphabet:

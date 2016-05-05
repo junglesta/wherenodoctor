@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "measure and give medicine: how to"
-permalink: /08/
+permalink: /chapter/08/
 index: true
 ---
 # SYMBOLS:

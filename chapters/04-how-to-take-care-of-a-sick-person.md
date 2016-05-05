@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "sick person: how to take care"
-permalink: /04/
+permalink: /chapter/04/
 index: true
 ---
 

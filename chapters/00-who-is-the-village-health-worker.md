@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "words to the village health worker"
-permalink: /00/
+permalink: /chapter/00/
 index: true
 ---
 

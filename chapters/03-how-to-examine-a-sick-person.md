@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "sick person: how to examine"
-permalink: /03/
+permalink: /chapter/03/
 index: true
 ---
 

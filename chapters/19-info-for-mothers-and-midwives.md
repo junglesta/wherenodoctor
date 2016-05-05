@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "infos for mothers and midwives"
-permalink: /19/
+permalink: /chapter/19/
 index: true
 ---
 

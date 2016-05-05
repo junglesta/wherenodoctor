@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Prevention: How to Avoid Many Sicknesses"
-permalink: /12/
+permalink: /chapter/12/
 index: true
 ---
 

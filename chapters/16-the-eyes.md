@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "the eyes"
-permalink: /16/
+permalink: /chapter/16/
 index: true
 ---
 # DANGER SIGNS

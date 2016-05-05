@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "some very common sicknesses"
-permalink: /13/
+permalink: /chapter/13/
 index: true
 ---
 #DEHYDRATION

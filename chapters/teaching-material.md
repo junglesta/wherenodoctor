@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "teaching material"
-permalink: /get/
+permalink: /chapter/get/
 index: true
 ---
 

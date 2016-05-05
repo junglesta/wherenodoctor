@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "home cures and popular beliefs"
-permalink: /01/
+permalink: /chapter/01/
 index: true
 ---
 Everywhere on earth people use home remedies. In some places, the older or traditional ways of healing have been passed down from parents to children for hundreds of years.
