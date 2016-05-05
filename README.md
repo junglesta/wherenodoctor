@@ -15,7 +15,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - As second step make it easily translatable.
 
 # 2do
-- [ ] setup [upup.js]()
+- [ ] setup [upup.js](https://github.com/TalAter/UpUp)
 
 # Done:
 - [X] inital collection of PDF release
@@ -40,7 +40,7 @@ Firstly published in 1977 by [hesperian.org](http://hesperian.org/books-and-reso
 ![cover] (https://upload.wikimedia.org/wikipedia/en/f/f9/Where_There_Is_No_Doctor_book_cover%2C_13th_revised_printing.jpg)
 
 
-## dev 
+## dev
 ```sh
 jekyll serve --watch --trace --baseurl ''
 ```
