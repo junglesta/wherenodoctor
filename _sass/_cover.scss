@@ -1,4 +1,10 @@
 //cover styles
 .site_logo{ //a
   display: block;
+  .chapter_title & {
+    svg {
+      margin-top: $spacing_unit;
+      max-width: 200px;
+    }
+  }
 }

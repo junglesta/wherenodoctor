@@ -1,0 +1,16 @@
+.chapter {
+  padding-bottom: $spacing_unit*2;
+  margin-bottom: $spacing_unit*4;
+
+}
+
+.chapter_title {
+  background-color: lighten($brand_color, 40%);
+  small {
+    color: $grey-color-light;
+  }
+}
+
+.chapter_content {
+  margin-top:  $spacing_unit;
+}

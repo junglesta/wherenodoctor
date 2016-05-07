@@ -1,11 +1,63 @@
 ---
-layout: default
 ---
+<!DOCTYPE html>
+<html>
 
-<div class="home">
+  {% include head.html %}
 
-  <h2 class="page-heading">Chapters</h2>
+  <body {% if page.class %}class="{{ page.class }}"{% endif %}>
 
-  {% include nav.html %}
+    {% include cover.html %}
 
-</div>
+    <div class="page-content">
+
+      <div class="home">
+
+        <div class="wrapper">
+          <h2 class="page-heading">Chapters</h2>
+          <nav>
+            <ul>
+            {% for node in site.posts reversed %}
+            {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+              <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+            {% endfor %}
+            </ul>
+          </nav>
+        </div>
+
+
+        {% for page in site.posts reversed %}
+        {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+          <div id="{{id}}" class="chapter p-{{id}}">
+
+            <div class="chapter_title">
+              <div class="wrapper">
+                <a class="site_logo" href="{{ site.baseurl }}/" alt ="{{ site.title }}" >
+                  {% include logo.svg %}
+                </a>
+                <h1><small>chapter {{ page.permalink | remove: '/' | remove: 'chapter'  }} </small><br>{{ page.title }}</h1>
+              </div>
+            </div>
+
+
+            <div class="wrapper">
+              <div class="chapter_content {{ page.style }}">
+                {{ page.content }}
+              </div>
+            </div>
+
+
+          </div>
+
+
+        {% endfor %}
+
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
