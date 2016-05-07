@@ -18,7 +18,7 @@
           <ul>
             {% for node in site.posts reversed %}
             {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-              <li class="p-{{id}}"><a href="#{{id}}"><small>{{ node.permalink | remove: '/' | remove: 'chapter'  }} </small><h3>{{node.title | upcase}}</h3></a></li>
+              <li class="p-{{id}}"><a href="#{{id}}"><h3><small>{{ node.permalink | remove: '/' | remove: 'chapter'  }} </small>{{node.title | upcase}}</h3></a></li>
             {% endfor %}
           </ul>
         </nav>

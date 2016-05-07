@@ -5,6 +5,7 @@
     display: none;
     @include media( "screen", ">bp1Width") {
       display: inline-block;
+      float: left;
       min-width: 30px;
     }
   }
