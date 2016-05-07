@@ -7,10 +7,15 @@
 .chapter_title {
   background-color: lighten($brand_color, 40%);
   small {
-    color: $grey-color-light;
+    color: $background_color;
   }
 }
 
 .chapter_content {
   margin-top:  $spacing_unit;
+}
+
+.site_logo_svg--chapter {
+  margin-top: $spacing_unit;
+  max-width: 150px;
 }

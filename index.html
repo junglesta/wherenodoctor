@@ -7,52 +7,61 @@
 
   <body {% if page.class %}class="{{ page.class }}"{% endif %}>
 
+    {% include svg/defs.html %}
+
     {% include cover.html %}
 
     <div class="page-content">
 
-      <div class="home">
-
-        <div class="wrapper">
-          <h2 class="page-heading">Chapters</h2>
-          <nav>
-            <ul>
+      <div class="wrapper">
+        <nav class="nav">
+          <ul>
             {% for node in site.posts reversed %}
             {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-              <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+              <li class="p-{{id}}"><a href="#{{id}}"><small>{{ node.permalink | remove: '/' | remove: 'chapter'  }} </small><h3>{{node.title | upcase}}</h3></a></li>
             {% endfor %}
-            </ul>
-          </nav>
-        </div>
+          </ul>
+        </nav>
+      </div>
 
+      {% for page in site.posts reversed %}
+      {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
 
-        {% for page in site.posts reversed %}
-        {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-          <div id="{{id}}" class="chapter p-{{id}}">
+      <div id="{{id}}" class="chapter p-{{id}}">
 
-            <div class="chapter_title">
-              <div class="wrapper">
-                <a class="site_logo" href="{{ site.baseurl }}/" alt ="{{ site.title }}" >
-                  {% include logo.svg %}
-                </a>
-                <h1><small>chapter {{ page.permalink | remove: '/' | remove: 'chapter'  }} </small><br>{{ page.title }}</h1>
-              </div>
-            </div>
+        <div class="chapter_title">
 
+          <div class="wrapper">
 
-            <div class="wrapper">
-              <div class="chapter_content {{ page.style }}">
-                {{ page.content }}
-              </div>
-            </div>
+            <a class="site_logo" href="{{ site.baseurl }}/" alt ="{{ site.title }}" >
 
+              {% include svg/use.html id="icn--circlelogo" class="site_logo_svg--chapter" %}
+
+            </a>
+
+            <h1>
+              <small>chapter {{ page.permalink | remove: '/' | remove: 'chapter'  }} </small>
+              <br>
+              {{ page.title }}
+            </h1>
 
           </div>
 
+        </div>
 
-        {% endfor %}
+        <div class="wrapper">
+
+          <div class="chapter_content {{ page.style }}">
+
+            {{ page.content }}
+
+          </div>
+
+        </div>
 
       </div>
+
+      {% endfor %}
 
     </div>
 

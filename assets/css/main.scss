@@ -20,12 +20,13 @@ $spacing_unit: 30px;
 
 $background_color: darken(#fff, 3%);
 $text_color: #000;
-$brand_color: #2a7ae2;//#b3d4fc;
+$brand_color: hsla(213, 95%, 39%, 1); // #055ac2  rgba(5, 90, 194, 1)
 
 $grey-color: #333333;
 // derivs
  $grey-color-light: lighten($grey-color, 40%);
  $grey-color-dark:  darken($grey-color, 25%);
+ $background_color_tone: lighten($brand_color, 35%);
 
 // target needs CRAPPY PHONES Break-points here:
 $mediaMinWidth: 320px;

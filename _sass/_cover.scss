@@ -1,10 +1,14 @@
 //cover styles
+.cover {
+  background-color:  $background_color_tone;
+}
 .site_logo{ //a
   display: block;
-  .chapter_title & {
-    svg {
-      margin-top: $spacing_unit;
-      max-width: 200px;
-    }
-  }
+  width: 100%;
+}
+
+.site_logo_svg--cover {
+  display: block;
+  width:100%;
+  min-height: 50vh;
 }
