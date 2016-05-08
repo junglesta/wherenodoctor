@@ -1,5 +1,4 @@
 ---
-
 title:  "the green pages"
 permalink: /chapter/use/
 index: true

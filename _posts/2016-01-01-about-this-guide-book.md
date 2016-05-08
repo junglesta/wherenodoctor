@@ -1,5 +1,4 @@
 ---
-
 title: "about this guide book"
 permalink: /chapter/about/
 index: false

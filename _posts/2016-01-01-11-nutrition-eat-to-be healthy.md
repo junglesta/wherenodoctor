@@ -1,5 +1,4 @@
 ---
-
 title:  "nutrition: eat to be healthy"
 permalink: /chapter/11/
 index: true

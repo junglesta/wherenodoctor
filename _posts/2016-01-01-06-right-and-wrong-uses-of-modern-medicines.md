@@ -1,5 +1,4 @@
 ---
-
 title:  "modern medicines: right and wrong uses"
 permalink: /chapter/06/
 index: true

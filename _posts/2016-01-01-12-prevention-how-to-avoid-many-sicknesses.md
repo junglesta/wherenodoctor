@@ -1,5 +1,4 @@
 ---
-
 title:  "Prevention: How to Avoid Many Sicknesses"
 permalink: /chapter/12/
 index: true

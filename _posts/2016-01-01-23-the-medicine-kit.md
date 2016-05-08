@@ -1,5 +1,4 @@
 ---
-
 title:  "the medicine kit"
 permalink: /chapter/23/
 index: true

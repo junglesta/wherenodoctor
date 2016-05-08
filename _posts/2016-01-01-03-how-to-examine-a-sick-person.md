@@ -1,5 +1,4 @@
 ---
-
 title:  "sick person: how to examine"
 permalink: /chapter/03/
 index: true

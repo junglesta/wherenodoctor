@@ -1,5 +1,4 @@
 ---
-
 title:  "home cures and popular beliefs"
 permalink: /chapter/01/
 index: true

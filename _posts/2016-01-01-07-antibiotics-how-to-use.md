@@ -1,5 +1,4 @@
 ---
-
 title:  "antibiotics: how to use"
 permalink: /chapter/07/
 index: true

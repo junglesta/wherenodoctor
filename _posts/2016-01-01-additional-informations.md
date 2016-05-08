@@ -1,5 +1,4 @@
 ---
-
 title:  "additional informations"
 permalink: /chapter/plus/
 index: true

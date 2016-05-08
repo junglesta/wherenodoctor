@@ -1,5 +1,4 @@
 ---
-
 title:  "sick person: how to take care"
 permalink: /chapter/04/
 index: true

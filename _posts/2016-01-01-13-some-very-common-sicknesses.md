@@ -1,5 +1,4 @@
 ---
-
 title:  "some very common sicknesses"
 permalink: /chapter/13/
 index: true

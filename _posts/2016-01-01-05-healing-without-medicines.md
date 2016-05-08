@@ -1,5 +1,4 @@
 ---
-
 title:  "healing without medicines"
 permalink: /chapter/05/
 index: true

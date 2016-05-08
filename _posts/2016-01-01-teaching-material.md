@@ -1,5 +1,4 @@
 ---
-
 title:  "teaching material"
 permalink: /chapter/get/
 index: true

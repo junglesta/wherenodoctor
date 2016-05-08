@@ -1,5 +1,4 @@
 ---
-
 title:  "vocabulary"
 permalink: /chapter/terms/
 index: true

@@ -1,5 +1,4 @@
 ---
-
 title:  "skin problems"
 permalink: /chapter/15/
 index: true

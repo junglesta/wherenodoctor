@@ -1,5 +1,4 @@
 ---
-
 title:  "serious illnesses that need special medical attention"
 permalink: /chapter/14/
 index: true

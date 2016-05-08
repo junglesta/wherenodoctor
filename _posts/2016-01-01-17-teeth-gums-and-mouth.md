@@ -1,5 +1,4 @@
 ---
-
 title:  "teeth, gums, and mouth"
 permalink: /chapter/17/
 index: true

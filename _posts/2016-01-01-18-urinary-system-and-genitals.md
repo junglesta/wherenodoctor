@@ -1,5 +1,4 @@
 ---
-
 title:  "the urinary system and the genitals"
 permalink: /chapter/18/
 index: true

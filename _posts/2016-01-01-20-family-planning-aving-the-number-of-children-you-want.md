@@ -1,5 +1,4 @@
 ---
-
 title:  "family planning: having the number of children you want"
 permalink: /chapter/20/
 index: true

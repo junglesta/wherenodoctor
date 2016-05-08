@@ -1,5 +1,4 @@
 ---
-
 title:  "injections: instructions and precautions"
 permalink: /chapter/09/
 index: true
