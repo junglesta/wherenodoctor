@@ -12,4 +12,4 @@ producer:
 
 # Build settings
 markdown: kramdown
-permalink: / ## disables post output
+permalink: nil ## should disable post output, but...
