@@ -2,6 +2,7 @@
 title:  "vocabulary"
 chapter: terms
 index: true
+style: red
 ---
 This vocabulary is listed in the order of the alphabet:
 

@@ -23,9 +23,6 @@
     -ms-flex-align: center;
     -ms-grid-row-align: center;
     align-items: center;
-
-
-
   }
   small {
     padding-right: .5rem;
@@ -48,7 +45,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $color_grey--dark;
   }
 }
 
@@ -62,5 +59,28 @@
   -webkit-align-items: baseline;
   -ms-flex-align: baseline;
   align-items: baseline;
+}
 
+.variant {
+  a {
+    margin-top: $spacing_unit/2;
+  }
+  &.yellow a {
+    border-left: 4px solid $color_yellow;
+  }
+  &.green a {
+    border-left: 4px solid $color_green;
+  }
+  &.red a {
+    border-left: 4px solid $color_red;
+  }
+  &.blue a {
+    border-left: 4px solid lighten($brand_color, 40%);
+  }
+  &.grey a {
+    border-left: 4px solid $color_grey--light;
+  }
+  h3 {
+    margin-top: $spacing_unit/2;
+  }
 }

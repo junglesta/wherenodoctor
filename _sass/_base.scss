@@ -339,8 +339,8 @@ a {
 //Blockquotes
 
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $color_grey;
+    border-left: 4px solid $color_grey--light;
     padding-left: $spacing_unit / 2;
     font-size: $base_font_size*1.4;
     font-weight: $base_font_weight;
@@ -365,7 +365,7 @@ blockquote {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $color_grey;
         }
     }
 }

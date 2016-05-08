@@ -13,21 +13,12 @@
 
     <div class="page-content">
 
-      <div class="wrapper">
-        <nav class="nav">
-          <ul>
-            {% for node in site.posts reversed %}
-            {% capture id %}{{ node.id | remove:'/'| downcase }}{% endcapture %}
-              <li class="{{id}}"><a class="nav_link" href="#{{id}}"><small>{{ node.chapter'}} </small><h3>{{node.title | upcase}}</h3></a></li>
-            {% endfor %}
-          </ul>
-        </nav>
-      </div>
+      {% include nav.html %}
 
       {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
 
-      <div id="{{id}}" class="chapter {{id}} {{node.style}}">
+      <div id="{{id}}" class="{%if page.style%}addon {{page.style}}{%else%}chapter {% endif%}">
 
         <div class="chapter_title">
 
@@ -40,7 +31,12 @@
             </a>
 
             <h1>
+              {% if page.style %}
+              <small> </small>
+              {% else %}
               <small>chapter {{ page.chapter }} </small>
+              {% endif %}
+
               <br>
               {{ page.title }}
             </h1>

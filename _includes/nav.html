@@ -1,0 +1,17 @@
+<div class="wrapper">
+  <nav class="nav">
+    <ul>
+      {% for node in site.posts reversed %}
+      {% capture id %}{{ node.id | remove:'/'| downcase }}{% endcapture %}
+        <li class="{{id}} {% if node.style %}variant {{node.style}}{% endif %}">
+          <a class="nav_link" href="#{{id}}">
+            {% if node.style %}<small> </small>
+            {% else %}<small>{{ node.chapter}} </small>
+            {% endif %}
+            <h3>{{node.title | upcase}}</h3>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>

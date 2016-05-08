@@ -2,6 +2,7 @@
 title:  "teaching material"
 chapter: get
 index: true
+style: blue
 ---
 
 ## Addresses for Teaching Materials

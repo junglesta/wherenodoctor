@@ -4,12 +4,6 @@
  */
 .page-content {
     padding: $spacing_unit 0;
-    .yellow-pages {
-      background-color: $yellow-pages;
-    }
-    .green-pages {
-      background-color: $green-pages;
-    }
 }
 
 .page-heading {
@@ -27,7 +21,7 @@
 
 .post-meta {
     font-size: $small_font-size;
-    color: $grey-color;
+    color: $color_grey;
     display: none;
 }
 

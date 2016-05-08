@@ -20,13 +20,14 @@ $spacing_unit: 30px;
 
 $background_color: darken(#fff, 3%);
 $text_color: #000;
-$brand_color: hsla(213, 95%, 39%, 1); // #055ac2  rgba(5, 90, 194, 1)
-$yellow-pages: hsla(56, 100%, 50%, 0.1);
-$green-pages: hsla(115, 100%, 50%, 0.1);
-$grey-color: #333333;
+$brand_color: hsla(213, 95%, 39%, 1);
+$color_yellow: hsla(56, 100%, 50%, 0.75);
+$color_green: hsla(115, 100%, 50%, 0.5);
+$color_red: red;
+$color_grey: #333333;
 // derivs
- $grey-color-light: lighten($grey-color, 40%);
- $grey-color-dark:  darken($grey-color, 25%);
+ $color_grey--light: lighten($color_grey, 40%);
+ $color_grey--dark:  darken($color_grey, 25%);
  $background_color_tone: lighten($brand_color, 35%);
 
 // target needs CRAPPY PHONES Break-points here:
