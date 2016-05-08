@@ -2,7 +2,7 @@
 title:  "the green pages"
 chapter: use
 index: true
-style: greenpages
+style: green-pages
 ---
 # THE USES, DOSAGE, AND PRECAUTIONS FOR THE MEDICINES REFERRED TO IN THIS BOOK
 
@@ -150,5 +150,5 @@ This is one way to figure the dosages for different medicines. For more informat
 
 
 ```
-¯¯\_(ツ)_/¯¯ this for now
+there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
 ```

@@ -21,7 +21,8 @@ $spacing_unit: 30px;
 $background_color: darken(#fff, 3%);
 $text_color: #000;
 $brand_color: hsla(213, 95%, 39%, 1); // #055ac2  rgba(5, 90, 194, 1)
-
+$yellow-pages: hsla(56, 100%, 50%, 0.1);
+$green-pages: hsla(115, 100%, 50%, 0.1);
 $grey-color: #333333;
 // derivs
  $grey-color-light: lighten($grey-color, 40%);

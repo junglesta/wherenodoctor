@@ -9,6 +9,12 @@
   small {
     color: $background_color;
   }
+  .yellow-pages & {
+    background-color: $yellow-pages;
+  }
+  .green-pages & {
+    background-color: $green-pages;
+  }
 }
 
 .chapter_content {

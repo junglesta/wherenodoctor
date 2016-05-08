@@ -485,9 +485,9 @@ can only be seen with the aid of microscope.
 # N
 ---
 
-Narrow-spectrum antibiotic A medicine that works against a limited number of different kinds of bacteria.
+**^Narrow-spectrum antibiotic** A medicine that works against a limited number of different kinds of bacteria.
 
-**^Nasal** Of or relating to the nose.
+**Nasal** Of or relating to the nose.
 
 **Nausea** Stomach distress or upset; feeling like you
 need to vomit.

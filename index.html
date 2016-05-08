@@ -5,7 +5,7 @@
 
   {% include head.html %}
 
-  <body {% if page.class %}class="{{ page.class }}"{% endif %}>
+  <body>
 
     {% include svg/defs.html %}
 
@@ -27,7 +27,7 @@
       {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
 
-      <div id="{{id}}" class="chapter {{id}}">
+      <div id="{{id}}" class="chapter {{id}} {{node.style}}">
 
         <div class="chapter_title">
 
@@ -51,7 +51,7 @@
 
         <div class="wrapper">
 
-          <div class="chapter_content {{ page.style }}">
+          <div class="chapter_content">
 
             {{ page.content }}
 
