@@ -1,6 +1,6 @@
 ---
 title:  "health and sicknesses of children"
-permalink: /chapter/21/
+chapter: 21
 index: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "modern medicines: right and wrong uses"
-permalink: /chapter/06/
+chapter: 06
 index: true
 ---
 Some medicines sold in pharmacies or village stores can be very useful. But many are of no value. Of the 60,000 medicines sold in most countries, the World Health Organization says that only about 200 are necessary.

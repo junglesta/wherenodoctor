@@ -1,6 +1,6 @@
 ---
 title:  "injections: instructions and precautions"
-permalink: /chapter/09/
+chapter: 09
 index: true
 ---
 # WHEN TO INJECT AND WHEN NOT TO

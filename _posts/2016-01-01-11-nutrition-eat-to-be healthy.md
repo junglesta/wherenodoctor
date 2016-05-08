@@ -1,6 +1,6 @@
 ---
 title:  "nutrition: eat to be healthy"
-permalink: /chapter/11/
+chapter: 11
 index: true
 ---
 # SICKNESSES CAUSED BY NOT EATING WELL

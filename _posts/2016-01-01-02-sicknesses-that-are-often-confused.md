@@ -1,6 +1,6 @@
 ---
 title:  "sicknesses that are often confused"
-permalink: /chapter/02/
+chapter: 02
 index: true
 ---
 # WHAT CAUSES SICKNESS?

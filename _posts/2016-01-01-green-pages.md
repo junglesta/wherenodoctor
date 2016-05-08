@@ -1,6 +1,6 @@
 ---
 title:  "the green pages"
-permalink: /chapter/use/
+chapter: use
 index: true
 style: greenpages
 ---

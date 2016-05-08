@@ -1,6 +1,6 @@
 ---
 title:  "the medicine kit"
-permalink: /chapter/23/
+chapter: 23
 index: true
 ---
 

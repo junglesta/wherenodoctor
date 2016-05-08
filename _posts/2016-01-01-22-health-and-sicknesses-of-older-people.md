@@ -1,6 +1,6 @@
 ---
 title:  "health and sicknesses of older people"
-permalink: /chapter/22/
+chapter: 22
 index: true
 ---
 

@@ -17,15 +17,15 @@
         <nav class="nav">
           <ul>
             {% for node in site.posts reversed %}
-            {% capture id %}{{ node.id | remove:'/' | remove: 'chapter'| downcase }}{% endcapture %}
-              <li class="{{id}}"><a href="#{{id}}"><h3><small>{{ node.permalink | remove: '/' | remove: 'chapter'}} </small>{{node.title | upcase}}</h3></a></li>
+            {% capture id %}{{ node.id | remove:'/'| downcase }}{% endcapture %}
+              <li class="{{id}}"><a class="nav_link" href="#{{id}}"><small>{{ node.chapter'}} </small><h3>{{node.title | upcase}}</h3></a></li>
             {% endfor %}
           </ul>
         </nav>
       </div>
 
       {% for page in site.posts reversed %}
-      {% capture id %}{{ page.id | remove:'/' | remove: 'chapter' | downcase }}{% endcapture %}
+      {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
 
       <div id="{{id}}" class="chapter {{id}}">
 
@@ -40,7 +40,7 @@
             </a>
 
             <h1>
-              <small>chapter {{ page.permalink | remove: '/' | remove: 'chapter'}} </small>
+              <small>chapter {{ page.chapter }} </small>
               <br>
               {{ page.title }}
             </h1>

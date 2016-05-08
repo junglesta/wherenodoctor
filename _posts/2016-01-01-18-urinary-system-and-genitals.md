@@ -1,6 +1,6 @@
 ---
 title:  "the urinary system and the genitals"
-permalink: /chapter/18/
+chapter: 18
 index: true
 ---
 **The urinary system** or tract serves the body by removing waste material from the blood and getting rid of it in the form of urine:

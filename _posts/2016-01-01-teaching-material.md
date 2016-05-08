@@ -1,6 +1,6 @@
 ---
 title:  "teaching material"
-permalink: /chapter/get/
+chapter: get
 index: true
 ---
 

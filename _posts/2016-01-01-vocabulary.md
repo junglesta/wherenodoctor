@@ -1,6 +1,6 @@
 ---
 title:  "vocabulary"
-permalink: /chapter/terms/
+chapter: terms
 index: true
 ---
 This vocabulary is listed in the order of the alphabet:

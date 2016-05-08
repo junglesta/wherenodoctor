@@ -1,6 +1,6 @@
 ---
 title:  "some very common sicknesses"
-permalink: /chapter/13/
+chapter: 13
 index: true
 ---
 #DEHYDRATION

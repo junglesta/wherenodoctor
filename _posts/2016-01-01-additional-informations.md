@@ -1,6 +1,6 @@
 ---
 title:  "additional informations"
-permalink: /chapter/plus/
+chapter: plus
 index: true
 ---
 

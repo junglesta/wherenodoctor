@@ -1,6 +1,6 @@
 ---
 title: "about this guide book"
-permalink: /chapter/about/
+chapter: about
 index: false
 ---
 

@@ -24,6 +24,7 @@
     -ms-grid-row-align: center;
     align-items: center;
 
+
     h3, small {
       margin: .5rem;
       line-height: 1.25;
@@ -52,4 +53,17 @@
   &:visited {
     color: $grey-color-dark;
   }
+}
+
+
+.nav_link {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+
 }

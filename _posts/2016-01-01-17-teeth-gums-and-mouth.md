@@ -1,6 +1,6 @@
 ---
 title:  "teeth, gums, and mouth"
-permalink: /chapter/17/
+chapter: 17
 index: true
 ---
 # CARE OF THE TEETH AND GUMS

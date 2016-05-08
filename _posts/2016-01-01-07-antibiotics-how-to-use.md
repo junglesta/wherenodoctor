@@ -1,6 +1,6 @@
 ---
 title:  "antibiotics: how to use"
-permalink: /chapter/07/
+chapter: 07
 index: true
 ---
 When used correctly, antibiotics are extremely useful and important medicines. They fight certain infections and diseases caused by bacteria. Well-known antibiotics are penicillin, tetracycline, erythromycin, cotrimoxazole, and ciprofloxacin.
