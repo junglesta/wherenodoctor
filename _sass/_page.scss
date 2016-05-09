@@ -3,7 +3,17 @@
  * Page content
  */
 .page-content {
-    padding: $spacing_unit 0;
+    padding: $spacing_unit 0 0 0;
+
+    .addon.yellow {
+      background-color: lighten($color_yellow, 40%);
+    }
+    .addon.green {
+      background-color: lighten($color_green, 40%);
+    }
+    .addon.red {
+      background-color: lighten($color_red, 40%);
+    }
 }
 
 .page-heading {

@@ -15,10 +15,14 @@
   .green & {
     background-color: $color_green;
   }
+  .red & {
+    background-color: lighten($color_red, 20%);
+  }
 }
 
 .chapter_content {
-  margin-top:  $spacing_unit;
+  margin-top: $spacing_unit*2;
+  padding-bottom:  $spacing_unit*2;
 }
 
 .site_logo_svg--chapter {

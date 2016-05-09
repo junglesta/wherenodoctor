@@ -184,7 +184,11 @@ figure {
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  height: 0;
+  border: 0;
+  height: 1px;
+  background: #000;
+  margin-bottom: $spacing_unit;
+    // background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
 pre {
