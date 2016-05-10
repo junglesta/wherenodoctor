@@ -41,7 +41,9 @@ An illness caused by the HIV virus. A person has AIDS when the immune system get
 
 **Amebas (also amoebas)** Tiny animals that live in water or in the gut and can only be seen with a microscope. They can cause diarrhea, dysentery, and liver abscess.
 
-**Amputation** Loss of a body part. Analgesic Medicine to calm pain.
+**Amputation** Loss of a body part.
+
+**Analgesic** Medicine to calm pain.
 
 **Anemia** A disease in which the blood gets thin for lack of red blood cells. Signs include tiredness, pale skin, and lack of energy. See also Pernicious anemia.
 
@@ -65,7 +67,9 @@ An illness caused by the HIV virus. A person has AIDS when the immune system get
 
 **Aorta** The main artery or vessel that carries blood out of the heart to the body.
 
-**Apoplexy** An old word for stroke. See Stroke. Appendix A finger-like sac attached to the large intestine (gut).
+**Apoplexy** An old word for stroke. See Stroke.
+
+**Appendix** A finger-like sac attached to the large intestine (gut).
 
 **Appropriate** Something that is easiest, safest, and most likely to work in a particular situation or condition.
 
@@ -174,7 +178,11 @@ out buttocks or legs first.
 
 **Conjunctiva** A thin, protective layer that covers the white of the eye and inner side of the eyelids.
 
-**Consciousness** See Loss of consciousness. Constipation Dry, hard, difficult stools (bowel movements) that do not come often. Consumption An old name for tuberculosis.
+**Consciousness** See Loss of consciousness.
+
+**Constipation** Dry, hard, difficult stools (bowel movements) that do not come often.
+
+**Consumption** An old name for tuberculosis.
 
 **Contact** Touch. Contagious diseases can be spread by a sick person coming in contact with (touching or being close to) another person.
 
@@ -412,8 +420,7 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 
 **Kidneys** Large, bean-shaped organs in the lower back that filter waste from the blood, forming urine.
 
-**Kidney stones** Small stones that form in the kidneys and pass down to the urinary tube. They can cause
-a sharp pain in the lower back, side, urinary tube, or lower belly. In the bladder they may block the urinary tube and make urination painful or impossible.
+**Kidney stones** Small stones that form in the kidneys and pass down to the urinary tube. They can cause a sharp pain in the lower back, side, urinary tube, or lower belly. In the bladder they may block the urinary tube and make urination painful or impossible.
 
 **Kilogram (kg)** One thousand grams. A ‘kilo’ is equal to a little over 2 pounds.
 
@@ -470,7 +477,9 @@ can only be seen with the aid of microscope.
 
 **Migraine** A severe, throbbing headache, sometimes on one side of the head only. It often causes vomiting.
 
-**Milligram (mg)** One thousandth of a gram. Milliliter (ml) One thousandth of a liter.
+**Milligram (mg)** One thousandth of a gram.
+
+**Milliliter (ml)** One thousandth of a liter.
 
 **Minerals** Simple metals or other things the body needs, such as iron, calcium, and iodine.
 
@@ -615,8 +624,7 @@ given amount of time.
 
 **Rehydration Drink** A drink to correct dehydration, which you can make with boiled water, salt, and sugar or powdered cereal.
 
-**Resistance** The ability of something to defend itself against something that would normally harm or kill
-it. Many bacteria become resistant to the effects of certain antibiotics.
+**Resistance** The ability of something to defend itself against something that would normally harm or kill it. Many bacteria become resistant to the effects of certain antibiotics.
 
 **Resource** What is needed or available for doing or making something. People, land, animals, money, skills, and plants are resources that can be used for improving health.
 
