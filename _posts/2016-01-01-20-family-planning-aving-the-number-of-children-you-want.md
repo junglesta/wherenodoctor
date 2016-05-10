@@ -2,6 +2,7 @@
 title:  "family planning: having the number of children you want"
 chapter: 20
 index: true
+bookpage: 283
 ---
 
 # BOTH THESE FAMILIES LIVE IN POOR COMMUNITIES:

@@ -10,19 +10,20 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 
 # Status:
-- Plan to make a mobile friendly version.
+- Many chapters to be completed
 - Plan to make it working off-line too via serviceworkers.
 - As second step make it easily translatable.
 
 # 2do
-- [ ] squeeze all chapters into one single page, its all text!
+- [X] squeeze all chapters into one single page, its all text!
 - [ ] setup [upup.js](https://github.com/TalAter/UpUp)
 
 # Done:
-- [X] inital collection of PDF release
-- [X] logo thanks to david@[work-it](http://work-it.it)
-- [X] github repo
-- [X] https [check](https://junglesta.github.io/wherenodoctor/)
+- [X] mobile friendly version one pager.
+- [X] inital collection of PDF release.
+- [X] logo. _thanks to david@[work-it](http://work-it.it)_
+- [X] github repo.
+- [X] https. _[check](https://junglesta.github.io/wherenodoctor/)_
 
 # Source:
 

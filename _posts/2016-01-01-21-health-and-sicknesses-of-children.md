@@ -2,6 +2,7 @@
 title:  "health and sicknesses of children"
 chapter: 21
 index: true
+bookpage: 295
 ---
 
 # WHAT TO DO TO PROTECT CHILDREN’S HEALTH

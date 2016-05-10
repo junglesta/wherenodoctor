@@ -2,6 +2,7 @@
 title:  "infos for mothers and midwives"
 chapter: 19
 index: true
+bookpage: 245
 ---
 
 # MENSTRUAL PERIOD (MONTHLY BLEEDING IN WOMEN)

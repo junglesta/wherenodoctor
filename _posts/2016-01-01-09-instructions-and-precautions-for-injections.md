@@ -2,6 +2,7 @@
 title:  "injections: instructions and precautions"
 chapter: 09
 index: true
+bookpage: 65
 ---
 # WHEN TO INJECT AND WHEN NOT TO
 

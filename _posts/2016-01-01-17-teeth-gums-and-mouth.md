@@ -2,6 +2,7 @@
 title:  "teeth, gums, and mouth"
 chapter: 17
 index: true
+bookpage: 229
 ---
 # CARE OF THE TEETH AND GUMS
 

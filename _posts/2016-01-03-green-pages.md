@@ -3,6 +3,7 @@ title:  "the green pages"
 chapter: use
 style: green
 index: true
+bookpage: 339
 ---
 # THE USES, DOSAGE, AND PRECAUTIONS FOR THE MEDICINES REFERRED TO IN THIS BOOK
 

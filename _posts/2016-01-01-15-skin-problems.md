@@ -2,6 +2,7 @@
 title:  "skin problems"
 chapter: 15
 index: true
+bookpage: 193
 ---
 Some skin problems are caused by diseases or irritations that affect the skin only—such as ringworm, diaper rash, or warts. Other skin problems are signs of diseases that affect the whole body—such as the rash of measles or the sore, dry patches of pellagra (malnutrition). Certain kinds of sores or skin conditions may be signs of serious diseases—like tuberculosis, syphilis, leprosy, or HIV infection.
 

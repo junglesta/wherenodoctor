@@ -2,6 +2,7 @@
 title:  "health and sicknesses of older people"
 chapter: 22
 index: true
+bookpage: 232
 ---
 
 This chapter is about the prevention and treatment of problems seen mostly in older persons.

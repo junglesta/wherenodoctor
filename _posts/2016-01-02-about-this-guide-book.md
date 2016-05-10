@@ -1,7 +1,6 @@
 ---
 title: "about this guide book"
 chapter: about
-index: false
 style: grey
 ---
 

@@ -3,7 +3,8 @@ title:  "the yellow pages"
 chapter: index
 index: true
 style: yellow
-bookpage: 433
+bookpage: 391
+pdfpage: 433
 ---
 
 Things in this book are listed in the order of the alphabet:

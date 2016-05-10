@@ -2,6 +2,7 @@
 title:  "measure and give medicine: how to"
 chapter: 08
 index: true
+bookpage: 59
 ---
 # SYMBOLS:
 

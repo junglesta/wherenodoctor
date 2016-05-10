@@ -2,6 +2,7 @@
 title:  "sick person: how to take care"
 chapter: 04
 index: true
+bookpage: 39
 ---
 
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.

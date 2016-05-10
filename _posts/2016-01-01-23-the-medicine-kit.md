@@ -2,6 +2,7 @@
 title:  "the medicine kit"
 chapter: 23
 index: true
+bookpage: 331
 ---
 
 Every family and every village should have certain medical supplies ready in case of emergency:
