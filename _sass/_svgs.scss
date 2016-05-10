@@ -6,3 +6,12 @@
 .bandaid_color {
   fill: $background_color;
 }
+
+.bandaid_color--invert {
+  fill: $text_color;
+}
+
+.site_logo_svg--footer {
+  width: 140px;
+  height: 140px;
+}
