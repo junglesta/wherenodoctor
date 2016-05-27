@@ -2,5 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 __LAB/UpUp-master
+__LAB/favicons
 
 *.zip

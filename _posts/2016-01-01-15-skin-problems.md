@@ -22,17 +22,17 @@ Although many skin problems need specific treatment, there are a few general mea
 
  If the skin shows signs of serious infection such as:
 
-    - inflammation (redness or darkening of skin around the affected areas)
-    - swelling
-    - pain
-    - heat (it feels hot)
-    - pus
+  - inflammation (redness or darkening of skin around the affected areas)
+  - swelling
+  - pain
+  - heat (it feels hot)
+  - pus
 
   Do the following:
 
-    - Keep the affected part still and elevate it (put it higher than the rest of the body).
-    - Apply hot, moist cloths.
-    - If the infection is severe or the person has a fever, give antibiotics (penicillin, a sulfonamide, or erythromycin).
+  - Keep the affected part still and elevate it (put it higher than the rest of the body).
+  - Apply hot, moist cloths.
+  - If the infection is severe or the person has a fever, give antibiotics (penicillin, a sulfonamide, or erythromycin).
 
   Danger signs include: swollen lymph nodes, a red or dark line above the infected area, or a bad smell. If these do not get better with treatment use an antibiotic and seek medical help quickly.
 
