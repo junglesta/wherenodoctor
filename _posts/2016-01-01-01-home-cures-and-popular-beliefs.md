@@ -366,6 +366,7 @@ First clean and wash out a pressure sore that has dead flesh in it. Then soak a 
 ```
 page 14
 ```
+
 ## HOMEMADE CASTS — FOR KEEPING BROKEN BONES IN PLACE
 
 In Mexico several different plants such as tepeguaje (a tree of the bean family) and solda con solda (a huge, tree-climbing arum lily) are used to make casts. However, any plant will do if a syrup can be made from it that will dry hard and firm and will not irritate the skin. In India, traditional bone-setters make casts using a mixture of egg whites and herbs instead of a syrup made from plant juices. But the method is similar. Try out different plants in your area.
