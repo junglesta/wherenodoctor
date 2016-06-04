@@ -4,7 +4,8 @@ chapter: 13
 index: true
 bookpage: 151
 ---
-#DEHYDRATION
+
+# DEHYDRATION
 
 Most children who die from diarrhea die because they do not have enough water left in their bodies. This lack of water is called dehydration.
 
@@ -31,7 +32,7 @@ It is important that everyone—especially mothers—know the signs of dehydrati
 
 Very severe dehydration may cause rapid, weak pulse (see Shock, p. 77), fast, deep breathing, fever, or seizures (fits, convulsions, p. 178).
 
-When a person has watery diarrhea, or diarrhea and vomiting, do not wait for signs of dehydration. **Act quickly**—read on.
+When a person has watery diarrhea, or diarrhea and vomiting, do not wait for signs of dehydration. **Act quickly** — read on.
 
 
 To prevent or treat dehydration: When a person has watery diarrhea, act quickly:
@@ -40,28 +41,33 @@ To prevent or treat dehydration: When a person has watery diarrhea, act quickly:
   - Keep giving food. As soon as the sick child (or adult) will accept food, give frequent feedings of foods he likes and accepts.
   - To babies, keep giving breast milk often—and before other drinks.
 
-A special Rehydration Drink helps to prevent or treat dehydration, especially in
-cases of severe watery diarrhea:
+A special Rehydration Drink helps to prevent or treat dehydration, especially in cases of severe watery diarrhea:
 
 ## 2 WAYS TO MAKE ‘HOME MIX’ REHYDRATION DRINK
 
-  1. WITH SUGAR AND SALT (Raw sugar or molasses can be used instead of sugar)
+**WITH SUGAR AND SALT**
 
-  In 1 liter of clean WATER put half of a level teaspoon of SALT and 8 level teaspoons of SUGAR.
+(Raw sugar or molasses can be used instead of sugar)
 
-  CAUTION: Before adding the sugar, taste the drink and be sure it is less salty than tears.
+- In 1 liter of clean WATER put half of a level teaspoon of SALT and 8 level teaspoons of SUGAR.
 
-  To either Drink add half a cup of fruit juice, coconut water, or mashed ripe banana, if available. This provides potassium which may help the child accept more food and drink.
+- CAUTION: Before adding the sugar, taste the drink and be sure it is less salty than tears.
 
-  2. WITH POWDERED CEREAL AND SALT (Powdered rice is best. Or use  nely ground maize, wheat  our, sorghum, or cooked and mashed potatoes.)
+- To either Drink add half a cup of fruit juice, coconut water, or mashed ripe banana, if available. This provides potassium which may help the child accept more food and drink.
 
-  In 1 liter of WATER put half a teaspoon of SALT And 8 heaping teaspoons (or 2 handfuls) of powdered CEREAL.
+**WITH POWDERED CEREAL AND SALT**
 
-  Boil for 5 to 7 minutes to form a liquid gruel or watery porridge. Cool the Drink quickly and start giving it to the child.
+(Powdered rice is best. Or use nely ground maize, wheat our, sorghum, or cooked and mashed potatoes.)
 
-  CAUTION: Taste the Drink each time before you give it to be sure it is not spoiled. Cereal drinks can spoil in a few hours in hot weather.
+- In 1 liter of WATER put half a teaspoon of SALT And 8 heaping teaspoons (or 2 handfuls) of powdered CEREAL.
 
-  **_IMPORTANT:** Adapt the Drink to your area. If liter containers or teaspoons are not in most homes, adjust quantities to local forms of measurement. Where people traditionally give cereal gruels to young children, add enough water to make it liquid, and use that. Look for an easy and simple way._
+- Boil for 5 to 7 minutes to form a liquid gruel or watery porridge. Cool the Drink quickly and start giving it to the child.
+
+- CAUTION: Taste the Drink each time before you give it to be sure it is not spoiled. Cereal drinks can spoil in a few hours in hot weather.
+
+**IMPORTANT**
+
+_**Adapt the Drink to your area. If liter containers or teaspoons are not in most homes, adjust quantities to local forms of measurement. Where people traditionally give cereal gruels to young children, add enough water to make it liquid, and use that. Look for an easy and simple way.**_
 
 
 Give the dehydrated person sips of this Drink every 5 minutes, day and night, until he begins to urinate normally. A large person needs 3 or more liters a day.
@@ -76,17 +82,20 @@ A small child usually needs at least 1 liter a day, or 1 glass for each watery s
 # DIARRHEA AND DYSENTERY
 
 When a person has loose or watery stools, he has diarrhea. If mucus and blood can be seen in the stools, he has dysentery.
+
 Diarrhea can be mild or serious. It can be acute (sudden and severe) or chronic (lasting many days).
 
 Diarrhea is more common and more dangerous in young children, especially those who are poorly nourished.
 
-Diarrhea has many causes. Usually no medicines are needed, and the child gets well in a few days if you give him lots of Rehydration Drink and food. (If he does not eat much, give him a little food many times a day.) Occasionally, special treatment is needed. However, most diarrhea can be treated successfully in the home, even if you are not sure of the exact cause or causes.
+Diarrhea has many causes. Usually no medicines are needed, and the child gets well in a few days if you give him lots of Rehydration Drink and food. (If he does not eat much, give him a little food many times a day.)
+
+Occasionally, special treatment is needed. However, most diarrhea can be treated successfully in the home, even if you are not sure of the exact cause or causes.
 
 # THE MAIN CAUSES OF DIARRHEA
 
   - poor nutrition (p. 154) weakens the child and makes diarrhea from other causes more frequent and worse
   - shortage of water and unclean conditions (no latrines) spread the germs that cause diarrhea
-  - virus infection or ‘intestinal  u’
+  - virus infection or ‘intestinal flu’
   - an infection of the gut caused by bacteria (p. 131), amebas (p. 144), or giardia (p. 145)
   - worm infections (p. 140 to 144) (most worm infections do not cause diarrhea)
   - infections outside the gut (ear infections, p. 309; tonsillitis, p. 309; measles, p. 311; urinary infections, p. 234)
@@ -104,9 +113,7 @@ Diarrhea has many causes. Usually no medicines are needed, and the child gets we
 
 Although diarrhea has many different causes, the most common are infection and poor nutrition. With good hygiene and good food, most diarrhea could be prevented. And if treated correctly by giving lots of drink and food, fewer children who get diarrhea would die.
 
-
 Diarrhea is also very dangerous for people with HIV, especially children. Using cotrimoxazole can prevent diarrhea in persons with HIV (see p. 357).
-
 
 Children who are poorly nourished get diarrhea and die from it far more often than those who are well nourished. Yet diarrhea itself can be part of the cause of malnutrition.
 
@@ -128,15 +135,14 @@ Here are some other important suggestions for preventing diarrhea in babies:
   - Breastfeed rather than bottle feed babies. Give only breast milk for the first 6 months. Breast milk helps babies resist the infections that cause diarrhea. If it is not possible to breastfeed a baby, feed her with a cup and spoon. Do not use a baby bottle because it is harder to keep clean and more likely to cause an infection.
 
 
-  - When you begin to give the baby new or solid food,
-  start by giving her just a little, mashing it well, and mixing it with a little breast milk. The baby has to learn how to digest new foods. If she starts with too much at one time, she may get diarrhea. Do not stop giving breast milk suddenly. Start with other foods while the baby is still breastfeeding.
+  - When you begin to give the baby new or solid food, start by giving her just a little, mashing it well, and mixing it with a little breast milk. The baby has to learn how to digest new foods. If she starts with too much at one time, she may get diarrhea. Do not stop giving breast milk suddenly. Start with other foods while the baby is still breastfeeding.
 
   - Keep the baby clean—and in a clean place. Try to keep her from putting dirty things in her mouth.
 
   - Do not give babies unnecessary medicines.
 
 
-#Treatment of diarrhea:
+# Treatment of diarrhea:
 
 For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the biggest danger is dehydration. If the diarrhea lasts a long time, the biggest danger is malnutrition. So the most important part of treatment has to do with giving enough liquids and enough food. No matter what the cause of diarrhea, always take care with the following:
 
@@ -144,12 +150,12 @@ For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the
 
 2. MEET NUTRITIONAL NEEDS. A person with diarrhea needs food as soon as he will eat. This is especially important in small children or persons who are already poorly nourished. Also, when a person has diarrhea, food passes through the gut very quickly and is not all used. So give the person food many times a day—especially if he only takes a little at a time.
 
-  - A baby with diarrhea should go on breastfeeding.
-  - An underweight child should get plenty of energy foods and some body-building foods (proteins) all the time he has diarrhea—and extra when he gets well. If he stops eating because he feels too sick or is vomiting, he should eat again as soon as he can. Giving Rehydration Drink will help the child be able to eat. Although giving food may cause more frequent stools at first, it can save his life.
-  - If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more often—at least 5 or 6 meals each day. Often no other treatment is needed.
-  - If possible, give zinc supplements to a baby or child with diarrhea (see p. 381).
+    - A baby with diarrhea should go on breastfeeding.
+    - An underweight child should get plenty of energy foods and some body-building foods (proteins) all the time he has diarrhea—and extra when he gets well. If he stops eating because he feels too sick or is vomiting, he should eat again as soon as he can. Giving Rehydration Drink will help the child be able to eat. Although giving food may cause more frequent stools at first, it can save his life.
+    - If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more often—at least 5 or 6 meals each day. Often no other treatment is needed.
+    - If possible, give zinc supplements to a baby or child with diarrhea (see p. 381).
 
 
   ```
-  there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+  more coming ¯¯\_(ツ)_/¯¯ this is all for now...
   ```
