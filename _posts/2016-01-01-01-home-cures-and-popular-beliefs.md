@@ -5,9 +5,8 @@ index: true
 bookpage: 1
 ---
 
-```
-page 1
-```
+# page 1
+
 
 Everywhere on earth people use home remedies. In some places, the older or traditional ways of healing have been passed down from parents to children for hundreds of years.
 
@@ -22,7 +21,7 @@ For many sicknesses, time-tested home remedies work as well as modern medicines�
 
 For example, many of the herbal teas people use for home treatment of coughs and colds do more good and cause fewer problems than cough syrups and strong medicines some doctors prescribe.
 
-Also, the ‘rice water’, teas, or sweetened drinks that many mothers give to babies with diarrhea are often safer and do more good than any modern medicine. What matters most is that a baby with diarrhea get plenty of liquids (see p. 151).
+Also, the ‘rice water’, teas, or sweetened drinks that many mothers give to babies with diarrhea are often safer and do more good than any modern medicine. What matters most is that a baby with diarrhea get plenty of liquids ([see page 151](#page-151){:id="#page-151"})
 
 # The Limitations of Home Remedies
 
@@ -37,14 +36,13 @@ It is sometimes hard to be sure which home remedies work well and which do not. 
 >**It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible**
 
 
-```
-page 2
-```
+# page 2
 
 ## Old Ways and New
 
 Some modern ways of meeting health needs work better than old ones. But at times the older, traditional ways are best. For example, traditional ways of caring for children or old people are often kinder and work better than some newer, less personal ways.
-Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, see p. 271.
+Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, [see page 271](#page-271){:id="#page-271"}.
+
 
 >Respect your people’s traditions and build on them.
 
@@ -65,9 +63,7 @@ Included in this group of sicknesses are: bewitchment or hexing, unreasonable or
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
 
 
-```
-page 3
-```
+# page 3
 
 Sometimes a person’s belief in a remedy can help with problems that have completely physical causes.
 
@@ -90,9 +86,9 @@ But the benefit of these home remedies for snakebite is limited. In spite of the
 
 For snakebite it is usually better to use modern treatment. Be prepared: obtain ‘antivenoms’ or ‘serums’ for poisonous bites before you need them (see p. 387). Do not wait until it is too late.
 
-```
-page 4
-```
+
+# page 4
+
 
 ## BELIEFS THAT CAN MAKE PEOPLE SICK
 
@@ -117,9 +113,8 @@ By understanding the truth about the orange, the injection, and the tricks of he
 
 >**Many things do harm only because people believe they are**
 
-```
-page 5
-```
+
+#page 5
 
 ## WITCHCRAFT—BLACK MAGIC—AND THE EVIL EYE
 
@@ -135,9 +130,9 @@ Some people think that they are ‘bewitched’ when they have strange or fright
 
 If you have a strange sickness do not blame a witch, do not go to a magic center. Ask for medical advice.
 
-```
-page 6
-```
+
+# page 6
+
 
 QUESTIONS AND ANSWERS ON SOME FOLK BELIEFS AND HOME REMEDIES
 These examples are from the mountains of Mexico, the area that I know best. Perhaps some of the beliefs of your people are similar. Think about ways to learn which beliefs in your area lead to better health and which do not.
@@ -160,9 +155,9 @@ Is it true that mothers should give birth in a darkened room?
 **It is true that soft light is easier on the eyes of both the mother and the newborn child. But there should be enough light for the midwife to see what she is doing.**
 
 
-```
-page 7  
-```
+
+# page 7  
+
 
 
 Is it true that a newborn baby should not be bathed until the cord falls off?
@@ -185,9 +180,9 @@ What foods should women avoid in the first few weeks after childbirth?
 **In the weeks following childbirth, women should not avoid any nutritious foods. Instead, they should eat plenty of fruit, vegetables, meat, milk, eggs, whole grains, and beans** (see p. 276).
 
 
-```
-page 8  
-```
+
+# page 8  
+
 Is it a good idea to bathe a sick person, or will it do him harm?
 
 **It is a good idea. Sick people should be bathed in warm water every day.**
@@ -209,9 +204,9 @@ Is it true that tea made from willow bark will help bring fever down and stop pa
 
 
 
-```
-page 9
-```
+
+# page 9
+
 
 ## SUNKEN FONTANEL OR SOFT SPOT
 
@@ -231,9 +226,9 @@ Treatment:
 Note: If the soft spot is swollen or bulges upward, this may be a sign of meningitis. Begin treatment at once (see p. 185), and get medical help.
 
 
-```
-page 10
-```
+
+# page 10
+
 
 ## WAYS TO TELL WHETHER A HOME REMEDY WORKS OR NOT
 
@@ -261,9 +256,9 @@ For example:
 These two remedies do not help at all. The first one can cause dangerous infections. Belief in remedies like these sometimes causes delay in getting proper medical care.
 
 
-```
-page 11
-```
+
+# page 11
+
 
 ### 3. REMEDIES THAT USE ANIMAL OR HUMAN WASTE DO NO GOOD AND CAN CAUSE DANGEROUS INFECTIONS. NEVER USE THEM.
 
@@ -287,9 +282,9 @@ The association between each of the following illnesses and its remedy is clear 
 These remedies, and many other similar ones, have no curative value in themselves. They may be of some benefit if people believe in them. But for serious problems, be sure their use does not delay more effective treatment.
 
 
-```
-page 12
-```
+
+# page 12
+
 
 # MEDICINAL PLANTS
 
@@ -328,9 +323,9 @@ To treat vaginal infections with garlic, see p. 241 and 242.
 
 
 
-```
-page 13
-```
+
+# page 13
+
 
 #### CARDON CACTUS (Pachycereus pecten-aboriginum)
 
@@ -363,9 +358,9 @@ Papayas can also be used for treating pressure sores. The fruit contains chemica
 First clean and wash out a pressure sore that has dead flesh in it. Then soak a sterile cloth or gauze with ‘milk’ from the trunk or green fruit of a papaya plant and pack this into the sore, Repeat cleaning and repacking 3 times a day.
 
 
-```
-page 14
-```
+
+# page 14
+
 
 ## HOMEMADE CASTS — FOR KEEPING BROKEN BONES IN PLACE
 
@@ -393,9 +388,9 @@ A temporary leg or arm splint can be made of cardboard, folded paper, or the thi
 Never put on a cast over a cut or a wound.
 
 
-```
-page 15
-```
+
+# page 15
+
 
 ## ENEMAS, LAXATIVES, AND PURGES: WHEN TO USE THEM AND WHEN NOT TO
 
@@ -425,9 +420,9 @@ Do not make a habit of using laxatives often (see Constipation, p. 126).
 
 
 
-```
-page 16
-```
+
+# page 16
+
 
 ## PURGES AND LAXATIVES THAT ARE OFTEN USED
 

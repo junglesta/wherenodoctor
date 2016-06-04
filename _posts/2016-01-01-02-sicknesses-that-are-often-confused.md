@@ -6,9 +6,9 @@ bookpage: 17
 ---
 
 
-```
-page 17
-```
+
+# page 17
+
 
 # WHAT CAUSES SICKNESS?
 
@@ -38,9 +38,9 @@ In this book, different sicknesses are discussed mostly according to the systems
 To make good use of this book, and safe use of the medicines it recommends, you will need some understanding of sicknesses and their causes according to medical science. Reading this chapter may help.
 
 
-```
-page 18
-```
+
+# page 18
+
 
 # DIFFERENT KINDS OF SICKNESSES AND THEIR CAUSES
 
@@ -104,9 +104,9 @@ Non-infectious diseases have many different causes. But they are never caused by
 Infectious diseases are caused by bacteria and other organisms (living things) that harm the body. They are spread in many ways. Here are some of the most important kinds of organisms that cause infections and examples of sicknesses they cause:
 
 
-```
-page 19
-```
+
+# page 19
+
 
 ## EXAMPLES OF INFECTIOUS DISEASES
 
@@ -375,9 +375,9 @@ Antibiotics (penicillin, tetracycline, etc.) are medicines that help cure certai
 
 **Do not treat virus infections with antibiotics.** They will not help and may be harmful (see antibiotics, p. 55).
 
-```
-page 20
-```
+
+# page 20
+
 
 ## SICKNESSES THAT ARE HARD TO TELL APART
 
@@ -426,9 +426,9 @@ This book describes the typical history and signs for many illnesses. But be car
 >**If you are not fairly sure what an illness is and how to treat it, or if the illness is very serious, get medical help.**
 
 
-```
-page 21
-```
+
+# page 21
+
 
 ## SICKNESSES THAT ARE OFTEN CONFUSED
 OR GIVEN THE SAME NAME
@@ -493,9 +493,9 @@ kind of pain include:
 ---
 
 
-```
-page 22
-```
+
+# page 22
+
 
 Spanish Name: LA CONGESTIÓN (CONGESTION)
 
@@ -523,9 +523,9 @@ Different illnesses that are sometimes called la congestión are:
 
 ---
 
-```
-page 23
-```
+
+# page 23
+
 
 Spanish Name: LA CONGESTIÓN (CONGESTION)
 
@@ -556,9 +556,9 @@ Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit
 ---
 
 
-```
-page 24
-```
+
+# page 24
+
 
 
 Spanish Name: SUSTO (HYSTERIA, FRIGHT)
@@ -603,9 +603,9 @@ Treatment:
 ♦ Explain to her that the problem is not dangerous and she will soon be all right.
 
 
-```
-page 25
-```
+
+# page 25
+
 
 ## MISUNDERSTANDINGS DUE TO CONFUSION OF NAMES
 
@@ -642,9 +642,9 @@ Mexican villagers call any open spreading sore lepra. This leads to confusion, b
 • less commonly, leprosy (p. 191) or tuberculosis of the skin (p. 212)
 
 
-```
-page 26
-```
+
+# page 26
+
 
 ### CONFUSION BETWEEN DIFFERENT ILLNESSES THAT CAUSE FEVER
 
@@ -674,9 +674,9 @@ Person loses appetite. Does not wish to eat or smoke. Wants to vomit (nausea). E
 
 
 
-```
-page 27
-```
+
+# page 27
+
 
 Pneumonia: (see p. 171)
 

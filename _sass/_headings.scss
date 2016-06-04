@@ -1,0 +1,10 @@
+h1[id*="page-"] {
+    font-size: 15px;
+    background-color: transparent;
+    text-align: right;
+    color: transparentize($brand-color, .5);
+    padding: 1px 5px;
+    font-family: monospace;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
