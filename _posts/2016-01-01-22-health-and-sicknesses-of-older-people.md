@@ -5,6 +5,8 @@ index: true
 bookpage: 232
 ---
 
+# page 232
+
 This chapter is about the prevention and treatment of problems seen mostly in older persons.
 
 # SUMMARY OF HEALTH PROBLEMS DISCUSSED IN OTHER CHAPTERS

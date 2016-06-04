@@ -5,6 +5,8 @@ index: true
 bookpage: 295
 ---
 
+# page 295
+
 # WHAT TO DO TO PROTECT CHILDREN’S HEALTH
 
 Chapters 11 and 12 tell more about the importance of nutritious food, cleanliness, and vaccination. Parents should read these chapters carefully and use them to help care for—and teach—their children. The main points are briefly repeated here.

@@ -5,6 +5,8 @@ index: true
 bookpage: 331
 ---
 
+# page 331
+
 Every family and every village should have certain medical supplies ready in case of emergency:
 
   - The family should have a HOME MEDICINE KIT (see p. 334) with the necessary medicines for first aid, simple infections, and the most common health problems.

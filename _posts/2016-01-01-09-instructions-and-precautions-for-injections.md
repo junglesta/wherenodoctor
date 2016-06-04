@@ -4,6 +4,9 @@ chapter: 09
 index: true
 bookpage: 65
 ---
+
+# page 65
+
 # WHEN TO INJECT AND WHEN NOT TO
 
 Injections are not needed often. Most sicknesses that require medical treatment can be treated as well or better with medicines taken by mouth. Each year, millions of people—especially children—become ill, disabled, or die as a result of unnecessary injections. Combating misuse and overuse of medicines is as important to good health as vaccination, clean water, or the correct use of latrines. As a general rule:

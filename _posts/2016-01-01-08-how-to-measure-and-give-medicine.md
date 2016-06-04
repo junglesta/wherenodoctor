@@ -4,6 +4,9 @@ chapter: 08
 index: true
 bookpage: 59
 ---
+
+# page 59
+
 # SYMBOLS:
 
 = means: is equal to or is the same as

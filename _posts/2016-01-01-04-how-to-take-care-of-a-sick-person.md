@@ -5,6 +5,8 @@ index: true
 bookpage: 39
 ---
 
+# page 39
+
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.
 
 >The care a sick person receives is frequently the most important part of his treatment.

@@ -4,6 +4,9 @@ chapter: 05
 index: true
 bookpage: 45
 ---
+
+# page 45
+
 For most sicknesses no medicines are needed. Our bodies have their own defenses, or ways to resist and fight disease. In most cases, these natural defenses are far more important to our health than are medicines.
 
 >People will get well from most sicknesses —including the common cold and ‘flu’—by themselves, without need for medicines.

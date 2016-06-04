@@ -4,6 +4,9 @@ chapter: 07
 index: true
 bookpage: 55
 ---
+
+# page 55
+
 When used correctly, antibiotics are extremely useful and important medicines. They fight certain infections and diseases caused by bacteria. Well-known antibiotics are penicillin, tetracycline, erythromycin, cotrimoxazole, and ciprofloxacin.
 
 The different antibiotics work in different ways against specific infections. All antibiotics have dangers in their use, but some are far more dangerous than others. Take great care in choosing and using antibiotics.
