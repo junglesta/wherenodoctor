@@ -283,5 +283,5 @@ In cold climates, or cold, wet or windy weather, persons who are not wearing eno
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

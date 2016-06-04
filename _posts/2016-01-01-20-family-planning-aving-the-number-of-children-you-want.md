@@ -48,5 +48,5 @@ The chart on the next page shows how well each family planning method works to p
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

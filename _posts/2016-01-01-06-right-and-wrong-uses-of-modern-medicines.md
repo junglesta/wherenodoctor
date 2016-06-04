@@ -77,5 +77,5 @@ Here is a list of the most common and dangerous errors people make in using mode
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

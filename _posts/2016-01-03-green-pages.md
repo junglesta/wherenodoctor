@@ -151,5 +151,5 @@ This is one way to figure the dosages for different medicines. For more informat
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

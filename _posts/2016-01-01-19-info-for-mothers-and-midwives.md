@@ -26,5 +26,5 @@ If it is very painful, it may help to take aspirin (p. 378) or ibuprofen (p. 379
 During the period—as at all times—a woman should take care to keep clean, get enough sleep, and eat a well balanced diet. She can eat everything she normally eats and can continue to do her usual work. It is not harmful to have sex during the menstrual period. (However, if one of the partners has HIV, the risk of infecting the other partner may be higher.)
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

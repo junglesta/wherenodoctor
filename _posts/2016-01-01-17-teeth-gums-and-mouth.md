@@ -79,5 +79,5 @@ Inflamed (red and swollen), painful gums that bleed easily are caused by:
 _Note:_ Sometimes medicines for seizures (epilepsy), such as phenytoin (Dilantin), cause swelling and unhealthy growth of the gums (see p. 389). If this happens, consult a health worker and consider using a different medicine.
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

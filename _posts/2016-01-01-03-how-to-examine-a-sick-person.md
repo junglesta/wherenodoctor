@@ -142,5 +142,5 @@ Pay attention to the strength, the rate, and the regularity of the pulse. If you
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

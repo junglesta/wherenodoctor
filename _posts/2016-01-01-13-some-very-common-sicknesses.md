@@ -157,5 +157,5 @@ For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the
 
 
   ```
-  more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+  more ¯¯\_(ツ)_/¯¯ coming
   ```

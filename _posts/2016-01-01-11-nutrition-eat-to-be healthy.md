@@ -145,5 +145,5 @@ REMEMBER: Feeding children enough and feeding them often (3 to 5 times a day) is
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

@@ -289,5 +289,5 @@ This is a disease that comes from drinking fresh milk from infected cows or goat
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

@@ -53,5 +53,5 @@ On the next 2 pages are a number of other situations in which **it is often more
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

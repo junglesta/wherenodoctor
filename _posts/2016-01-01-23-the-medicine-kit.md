@@ -42,5 +42,5 @@ When buying medicines, compare prices. Some brands are much more expensive than 
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

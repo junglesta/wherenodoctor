@@ -61,5 +61,5 @@ Although many skin problems need specific treatment, there are a few general mea
 # SKIN PROBLEMS—A Guide to Identification
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

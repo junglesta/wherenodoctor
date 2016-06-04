@@ -42,5 +42,5 @@ Perhaps you can get small groups together to read a chapter at a time and discus
 THE VILLAGE HEALTH WORKER LIVES AND WORKS WITH HIS PEOPLE. HIS FIRST JOB IS TO SHARE HIS KNOWLEDGE.
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```

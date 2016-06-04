@@ -96,5 +96,5 @@ Infectious diseases are caused by bacteria and other organisms (living things) t
 
 
 ```
-there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...
+more ¯¯\_(ツ)_/¯¯ coming
 ```
