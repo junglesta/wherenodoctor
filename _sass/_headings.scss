@@ -2,9 +2,11 @@ h1[id*="page-"] {
     font-size: 15px;
     background-color: transparent;
     text-align: right;
-    color: transparentize($brand-color, .5);
+    color: lighten($brand_color, 40%);
     padding: 1px 5px;
-    font-family: monospace;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    text-transform: none;
+    position: relative;
+    left: 2rem;
 }
