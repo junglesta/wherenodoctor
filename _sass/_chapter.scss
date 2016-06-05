@@ -15,9 +15,13 @@
   .green & {
     background-color: $color_green;
   }
+  .brown & {
+    background-color: $color_brown;
+  }
   .red & {
     background-color: lighten($color_red, 20%);
   }
+
   .grey & {
     background-color: lighten($color_grey--light, 20%);
   }

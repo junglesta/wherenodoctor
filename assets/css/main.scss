@@ -10,7 +10,7 @@ $base_line_height: 1.5;
 // derivates
   $small_font-size:  $base_font_size * 0.875;
   $h1_font_size: $base_font_size*2;
-  $h2_font_size: $base_font_size*1.65;
+  $h2_font_size: $base_font_size*1.55;
   $h3_font_size: $base_font_size*1.45;
   $h4_font_size: $base_font_size*1.30;
   $h5_font_size: $base_font_size*1.15;
@@ -24,6 +24,7 @@ $brand_color: hsla(213, 95%, 39%, 1);
 $color_yellow: hsla(56, 100%, 50%, 0.75);
 $color_green: hsla(115, 100%, 50%, 0.5);
 $color_red: red;
+$color_brown: hsla(29, 71%, 23%, 0.5);
 $color_grey: #333333;
 // derivs
  $color_grey--light: lighten($color_grey, 40%);
@@ -52,5 +53,6 @@ $mediaMaxWidth: 960px;
  "post",
  "index",
  "footer",
+ "hashchange",
  "print"
 ;

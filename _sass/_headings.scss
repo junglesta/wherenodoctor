@@ -2,7 +2,7 @@ h1[id*="page-"] {
     font-size: 15px;
     background-color: transparent;
     text-align: right;
-    color: lighten($brand_color, 40%);
+    color: lighten(desaturate($brand_color, 100%), 20%);
     padding: 1px 5px;
     margin-top: 2rem;
     margin-bottom: 2rem;

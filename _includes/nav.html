@@ -1,5 +1,5 @@
 <div class="wrapper">
-  <nav class="nav">
+  <nav class="nav" id="page-nav">
     <ul>
       {% for node in site.posts reversed %}
       {% capture id %}{{ node.id | remove:'/'| downcase }}{% endcapture %}

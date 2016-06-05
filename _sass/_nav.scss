@@ -63,6 +63,7 @@
 }
 
 .variant {
+
   a {
     margin-top: $spacing_unit/2;
   }
@@ -75,6 +76,9 @@
   &.red a {
     border-left: 4px solid $color_red;
   }
+  &.brown a {
+    border-left: 4px solid $color_brown;
+  }
   &.blue a {
     border-left: 4px solid lighten($brand_color, 40%);
   }
@@ -82,6 +86,7 @@
     border-left: 4px solid $color_grey--light;
   }
   h3 {
+    padding-left: 1rem;
     margin-top: $spacing_unit/2;
   }
 }

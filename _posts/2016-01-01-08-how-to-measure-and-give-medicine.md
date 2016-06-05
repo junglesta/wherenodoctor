@@ -1,6 +1,6 @@
 ---
 title:  "measure and give medicine: how to"
-chapter: 08
+chapter: 8
 index: true
 bookpage: 59
 ---

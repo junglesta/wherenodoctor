@@ -1,0 +1,44 @@
+
+<div id="address-bar">
+  <input id="address" type="text">
+</div>
+
+<script type="text/javascript">
+// http://s.codepen.io/Ghodmode/debug/jqOqpq
+
+  window.onload = function() {
+  // Set the value of the pseudo-address bar that makes this easier to see
+  // in a CodePen iframe.
+  var address = document.getElementById('address');
+
+  address.value = location.hash;
+
+  // Set a click event handler for each of the links that prevents the
+  // default action and navigates using window.scrollTo and
+  // history.pushState.
+  var nav = document.getElementById('page-nav');
+  var links = nav.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener('click', function(e) {
+      e.preventDefault();
+
+      // This may be a CodePen oddity: If I just use this.href, I get
+      // the whole URL, not just the value of the href property.
+      var href = this.getAttribute('href');
+      address.value = location.pathname + href;
+      history.pushState(null, null, href);
+      var targetElement = document.getElementById(href.substr(1));
+      var targetElement_top = targetElement.offsetTop;
+      window.scrollTo(0, targetElement_top);
+    });
+  }
+
+  window.onhashchange = function() {
+    console.log('hashchange');
+    address.value = location.pathname + location.hash;
+  };
+};
+
+//# sourceURL=peterpen.js
+
+</script>

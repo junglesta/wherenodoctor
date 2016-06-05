@@ -3,10 +3,10 @@ title:  "vocabulary"
 chapter: terms
 index: true
 style: red
-bookpage: 379
+bookpage: 419
 ---
 
-# page 379
+# page 419
 
 This vocabulary is listed in the order of the alphabet:
 
@@ -77,10 +77,12 @@ An illness caused by the HIV virus. A person has AIDS when the immune system get
 
 **Appropriate** Something that is easiest, safest, and most likely to work in a particular situation or condition.
 
+# page 420
 
 **Artery** A vessel carrying blood from the heart through the body. Arteries have a pulse. Veins, which return blood to the heart, have no pulse.
 
 **Ascaris (roundworm)** Large worms that live in people’s intestines and cause discomfort, indigestion, weakness, and sometimes gut obstruction (blocking of the gut).
+
 
 
 # B
@@ -166,6 +168,8 @@ out buttocks or legs first.
 
 **Climacteric** Menopause.
 
+# page 421
+
 **Colic** Sharp abdominal pains caused by spasms or cramps in the gut.
 
 **Colostrum** The first milk a mother’s breasts produce. It looks watery but is rich in protein and helps protect the baby against infection.
@@ -248,6 +252,8 @@ out buttocks or legs first.
 **Drowning** When a person stops breathing (suffocates) from being under water.
 
 **Dysentery** Diarrhea with mucus and blood. It is usually caused by an infection.
+
+# page 422
 
 # E
 ---
@@ -341,6 +347,7 @@ digest fatty foods.
 
 **Gut thread or gut suture material** A special thread for sewing or stitching certain  wounds, and especially tears from childbirth. The gut thread is slowly absorbed (disappears) so that the stitches do not need to be taken out.
 
+# page 423
 
 # H
 ---
@@ -416,6 +423,8 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 ---
 
 **Jaundice** A yellow color of the eyes and skin. It is a sign of disease in the liver, gallbladder, pancreas, or blood.
+
+# page 424
 
 # K
 ---
@@ -495,6 +504,8 @@ can only be seen with the aid of microscope.
 
 **Mucus** A thick, slippery liquid that moistens and protects the linings of the nose, throat, stomach, guts, and vagina.
 
+
+# page 425
 
 # N
 ---
@@ -576,6 +587,8 @@ the womb. The risk of dangerous bleeding is high. Women who have bleeding late i
 
 **Plantain** A kind of banana with a lot of starch and fiber. It is often cooked and eaten when green.
 
+# page 426
+
 **Pollen** The fine dust made in the flower of a seed plant. People who are allergic to pollen often have hay fever at times of the year when plants put a lot of this dust into the air.
 
 **Postpartum** After childbirth.
@@ -646,6 +659,7 @@ given amount of time.
 
 **Rupture** See Hernia.
 
+# page 427
 
 # S
 ---
@@ -731,6 +745,9 @@ up an opening or wound.
 **^Thalassemia** A form of hereditary anemia seen only in certain countries. A child may become very anemic by age 2, with a large liver and spleen.
 
 **Thermometer** An instrument used to measure a person’s body temperature.
+
+
+# page 428
 
 **Tick** A crawling insect-like animal that buries its
 head under the skin and sucks blood.

@@ -511,9 +511,9 @@ Different illnesses that are sometimes called la congestión are:
 
 • Food poisoning, from eating spoiled food: causes sudden vomiting followed by diarrhea, cramps, and weakness ([see page 135](#page-135){:id="#page-135"}).
 
-• A severe allergic reaction, in allergic persons after they eat certain foods (shellfish, chocolate, etc,), take certain medicines, or are injected with penicillin. May cause vomiting, diarrhea, cold sweat, breathing trouble, itchy rash, and severe distress (see p. 166).
+• A severe allergic reaction, in allergic persons after they eat certain foods (shellfish, chocolate, etc,), take certain medicines, or are injected with penicillin. May cause vomiting, diarrhea, cold sweat, breathing trouble, itchy rash, and severe distress ([see page 166](#page-166){:id="#page-166"}).
 
-• Any sudden upset of the stomach or gut: see diarrhea (p. 153), vomiting (p. 161), and acute abdomen (p. 93).
+• Any sudden upset of the stomach or gut: see diarrhea ([see page 153](#page-153){:id="#page-153"}), vomiting ([see page 161](#page-161){:id="#page-1161"}), and acute abdomen ([see page 93](#page-93){:id="#page-93"}).
 
 • Sudden or severe difficulty breathing: caused by asthma (p. 167), pneumonia (p. 171), or something stuck in the throat (p. 79).
 
