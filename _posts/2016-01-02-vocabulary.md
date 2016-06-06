@@ -6,7 +6,7 @@ style: red
 bookpage: 419
 ---
 
-# page 419
+#[419](#page-419)
 
 This vocabulary is listed in the order of the alphabet:
 
@@ -77,7 +77,8 @@ An illness caused by the HIV virus. A person has AIDS when the immune system get
 
 **Appropriate** Something that is easiest, safest, and most likely to work in a particular situation or condition.
 
-# page 420
+
+#[420](#page-420)
 
 **Artery** A vessel carrying blood from the heart through the body. Arteries have a pulse. Veins, which return blood to the heart, have no pulse.
 
@@ -168,7 +169,7 @@ out buttocks or legs first.
 
 **Climacteric** Menopause.
 
-# page 421
+#[421](#page-421)
 
 **Colic** Sharp abdominal pains caused by spasms or cramps in the gut.
 
@@ -253,7 +254,8 @@ out buttocks or legs first.
 
 **Dysentery** Diarrhea with mucus and blood. It is usually caused by an infection.
 
-# page 422
+
+#[422](#page-422)
 
 # E
 ---
@@ -347,7 +349,8 @@ digest fatty foods.
 
 **Gut thread or gut suture material** A special thread for sewing or stitching certain  wounds, and especially tears from childbirth. The gut thread is slowly absorbed (disappears) so that the stitches do not need to be taken out.
 
-# page 423
+
+#[423](#page-423)
 
 # H
 ---
@@ -424,7 +427,8 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 
 **Jaundice** A yellow color of the eyes and skin. It is a sign of disease in the liver, gallbladder, pancreas, or blood.
 
-# page 424
+
+#[424](#page-424)
 
 # K
 ---
@@ -504,8 +508,7 @@ can only be seen with the aid of microscope.
 
 **Mucus** A thick, slippery liquid that moistens and protects the linings of the nose, throat, stomach, guts, and vagina.
 
-
-# page 425
+#[425](#page-425)
 
 # N
 ---
@@ -587,7 +590,7 @@ the womb. The risk of dangerous bleeding is high. Women who have bleeding late i
 
 **Plantain** A kind of banana with a lot of starch and fiber. It is often cooked and eaten when green.
 
-# page 426
+#[426](#page-426)
 
 **Pollen** The fine dust made in the flower of a seed plant. People who are allergic to pollen often have hay fever at times of the year when plants put a lot of this dust into the air.
 
@@ -659,7 +662,7 @@ given amount of time.
 
 **Rupture** See Hernia.
 
-# page 427
+#[427](#page-427)
 
 # S
 ---
@@ -747,7 +750,7 @@ up an opening or wound.
 **Thermometer** An instrument used to measure a person’s body temperature.
 
 
-# page 428
+#[428](#page-428)
 
 **Tick** A crawling insect-like animal that buries its
 head under the skin and sucks blood.

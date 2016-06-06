@@ -4,7 +4,7 @@
     margin-left: auto;
     padding-right: $spacing_unit;
     padding-left: $spacing_unit;
-    
+
     @extend %clearfix;
     max-width: 650px;
     .cover & {
@@ -12,4 +12,5 @@
       padding-bottom: $spacing_unit;
     }
     .page-content & {padding-top:0;}
+    .chapter_title & {position:relative;}
 }

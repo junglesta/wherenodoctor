@@ -5,7 +5,7 @@ index: true
 bookpage: 39
 ---
 
-# page 39
+#[39](#page-39)
 
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.
 
@@ -28,6 +28,8 @@ It is important to keep the sick person clean. He should be bathed every day. If
 
 His clothes, sheets, and covers must also be kept clean. Take care to keep crumbs and bits of food out of the bed.
 
+
+#[40](#page-40)
 
 # 4. Good Food
 
@@ -63,6 +65,8 @@ If the person is not drinking or urinating enough, or if he begins to show signs
 
 If he will not drink these, give him a Rehydration Drink (see p. 152). If he cannot drink enough of this, and develops signs of dehydration, a health worker may be able to give him intravenous solution. But the need for this can usually be avoided if the person is urged to take small sips often.
 
+#[41](#page-41)
+
 # 2. Food
 
 If the person is too sick to eat solid foods, give her soups, milk, juices, broths, and other nutritious liquids (see Chapter 11). A porridge of cornmeal, oatmeal, or rice is also good, but should be given together with body-building foods. Soups can be made with egg, beans, or well-chopped meat, fish, or chicken. If the person can eat only a little at a time, she should eat several small meals each day.
@@ -87,6 +91,7 @@ Also write down the amount of liquids the person drinks and how many times a day
 
 It is very important to look for signs that warn you that the person’s sickness is serious or dangerous. A list of Signs of Dangerous Illness is on the next page. If the person shows any of these signs, seek medical help immediately.
 
+#[42](#page-42)
 
 # SIGNS OF DANGEROUS ILLNESS
 
@@ -96,16 +101,200 @@ A person who has one or more of the following signs is probably too sick to be t
 
 _Until help comes, follow the instructions on the pages indicated:_
 
+1. Loss of large amounts of blood from anywhere in the body 82, 264, 281
 
-  1. Loss of large amounts of blood from anywhere in the body 82, 264, 281
-  2. Coughing up blood 179
-  3. Marked blueness of lips and nails (if it is new) 30
-  4. Great difficulty in breathing; does not improve with rest 167, 325
-  5. The person cannot be wakened (coma) 78
-  6. The person is so weak he faints when he stands up 325
+2. Coughing up blood 179
+
+3. Marked blueness of lips and nails (if it is new) 30
+
+4. Great difficulty in breathing; does not improve with rest 167, 325
+
+5. The person cannot be wakened (coma) 78
+
+6. The person is so weak he faints when he stands up 325
+
+7. Twelve hours or more without being able to urinate 234
+
+8. A day or more without being able to drink any liquids 151
+
+9. Heavy vomiting or severe diarrhea that lasts for more than one day or more than a few hours in babies. 151
+
+10. Black stools like tar, or vomit with blood or feces  128
+
+11. Strong, continuous stomach pains with vomiting in a person who does not have diarrhea or cannot have a bowel movement 93
+
+12. Any strong continuous pain that lasts for more than 3 days 29 > 38
+
+13. Stiff neck with arched back, with or without a stiff jaw  182,185
+
+14. More than one seizure (fit) in someone with fever or serious illness 76, 185
+
+15. High fever (above 39° C) that cannot be
+brought down or that lasts more than 4 or 5 days 75
+
+16. Weight loss over an extended time 20, 400
+
+17. Blood in the urine 146,234
+
+18. Sores that keep growing and do not go away with treatment 191, 196, 211, 212
+
+19. A lump in any part of the body that keeps getting bigger 196, 280
+
+20. Very high blood pressure (220/120 or greater) 327
+
+21. Problems with pregnancy and childbirth:
+
+ - any bleeding during pregnancy 249, 281
+
+ - high blood pressure (140/90 or greater) 249
+
+ - long delay once the waters have broken and labor has begun 267
+
+ - severe bleeding 264
 
 
+#[43](#page-43)
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# WHEN AND HOW TO LOOK FOR MEDICAL HELP
+
+Seek medical help at the first sign of a dangerous illness. Do not wait until the person is so sick that it becomes difficult or impossible to take him to a health center or hospital.
+
+If a sick or injured person’s condition could be made worse by the difficulties in moving him to a health center, try to bring a health worker to the person. But in an emergency when very special attention or
+an operation may be needed (for example, appendicitis), do not wait for the health
+worker. Take the person to the health
+center or the hospital at once.
+
+When you need to carry a person on a stretcher, make sure he is as comfortable as possible and cannot fall out. If he has any broken bones, splint them before moving him (see p. 99). If the sun is very strong, rig a sheet over the stretcher to give shade yet allow fresh air to pass underneath
+
+# WHAT TO TELL THE HEALTH WORKER
+
+For a health worker or doctor to recommend treatment or prescribe medicine wisely, she should see the sick person. If the sick person cannot be moved, have the health worker come to him. If this is not possible, send a responsible person who knows the details of the illness. Never send a small child or a fool.
+
+Before sending for medical help, examine the sick person carefully and completely. Then write down the details of his disease and general condition (see Chapter 3).
+
+On the next page is a form on which you can make a PATIENT REPORT. Several copies of this form are at the end of this book. Tear out one of these forms and carefully complete the report, giving all the details you can.
+
+>**When you send someone for medical help, always send a completed information form with him.**
+
+
+#[44](#page-44)
+
+#### PATIENT REPORT
+
+TO USE WHEN SENDING FOR MEDICAL HELP
+
+Name of the sick person:
+
+Age:  
+
+Male  Female
+
+Where is he (she)?  
+
+What is the main sickness or problem right now?
+
+When did it begin?  
+
+How did it begin?  
+
+Has the person had the same problem before?
+
+When?
+
+Is there fever?
+
+How high?°
+
+When and for how long?
+
+Pain?
+
+Where?
+
+What kind?
+
+#### What is wrong or different from normal in any of the following?
+
+**Skin:
+
+Ears:
+
+Eyes:  
+
+Mouth and throat:
+
+Genitals:  
+
+Urine:**
+
+Much or little?  
+
+Color?
+
+Trouble urinating?
+
+Describe:  
+
+Times in 24 hours:
+
+Times at night:
+
+**Stools:**
+
+- Color?  
+
+- Blood or mucus?
+
+- Diarrhea?  
+
+- Number of times a day:  
+
+- Cramps?
+
+- Dehydration?
+
+- Mild or severe?  
+
+- Worms?
+
+- What kind?
+
+**Breathing:**
+
+- Breaths per minute:
+
+- Deep, shallow, or normal?  
+
+- Difficulty breathing (describe):
+
+- Cough (describe):
+
+- Wheezing?  
+
+- Mucus?  
+
+- With blood?
+
+**Does the person have any of the SIGNS OF DANGEROUS ILLNESS** listed on page 42?
+
+- Which? (give details):
+
+**Other signs:**
+
+- Is the person taking medicine?
+
+- What?
+
+- Has the person ever used medicine that has caused a rash, hives (or bumps) ?
+
+- with itching, or other allergic reactions?
+
+- What?
+
+- The state of the sick person is:
+
+  - Not very serious
+
+  - Serious
+
+  - Very serious

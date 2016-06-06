@@ -3,6 +3,7 @@
  * Page content
  */
 .page-content {
+    overflow-x: hidden;
     padding: $spacing_unit 0 0 0;
 
     .addon.yellow {

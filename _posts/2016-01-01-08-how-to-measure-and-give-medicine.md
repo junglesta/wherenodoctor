@@ -5,7 +5,7 @@ index: true
 bookpage: 59
 ---
 
-# page 59
+#[59](#page-59)
 
 # SYMBOLS:
 

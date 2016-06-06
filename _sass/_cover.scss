@@ -5,6 +5,8 @@
 .site_logo{ //a
   display: block;
   width: 100%;
+  position: relative;
+  z-index: 10;
 }
 
 .site_logo_svg--cover {

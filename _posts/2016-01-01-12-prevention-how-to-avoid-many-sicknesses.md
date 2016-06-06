@@ -5,7 +5,7 @@ index: true
 bookpage: 131
 ---
 
-# page 131
+#[131](#page-131)
 
 _An ounce of prevention is worth a pound of cure! If we all took more care to eat well, to keep ourselves, our homes, and our villages clean, and to be sure that our children are vaccinated, we could stop most sicknesses before they start.
 In Chapter 11 we discussed eating well. In this chapter we talk about cleanliness and vaccination_

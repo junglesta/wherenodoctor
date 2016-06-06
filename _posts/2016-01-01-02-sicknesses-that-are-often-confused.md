@@ -7,7 +7,7 @@ bookpage: 17
 
 
 
-# page 17
+#[17](#page-17)
 
 
 # WHAT CAUSES SICKNESS?
@@ -39,7 +39,7 @@ To make good use of this book, and safe use of the medicines it recommends, you 
 
 
 
-# page 18
+#[18](#page-18)
 
 
 # DIFFERENT KINDS OF SICKNESSES AND THEIR CAUSES
@@ -53,7 +53,7 @@ When considering how to prevent or treat different sicknesses, it helps to think
 
 # Non-infectious Diseases
 
-Non-infectious diseases have many different causes. But they are never caused by germs, bacteria, or other living organisms that attack the body. They never spread from one person to another. It is important to realize that antibiotics, or medicines that fight germs ([see page 55](#page-55){:id="#page-55"}), do not help cure non-infectious diseases.
+Non-infectious diseases have many different causes. But they are never caused by germs, bacteria, or other living organisms that attack the body. They never spread from one person to another. It is important to realize that antibiotics, or medicines that fight germs ([see page 55](#section-55)), do not help cure non-infectious diseases.
 
 >Remember: Antibiotics are of no use for non-infectious diseases.
 
@@ -105,7 +105,7 @@ Infectious diseases are caused by bacteria and other organisms (living things) t
 
 
 
-# page 19
+#[19](#page-19)
 
 
 ## EXAMPLES OF INFECTIOUS DISEASES
@@ -373,10 +373,10 @@ Antibiotics (penicillin, tetracycline, etc.) are medicines that help cure certai
 
 **Antibiotics have no effect on illnesses caused by viruses**, such as colds, flu, mumps, chickenpox, etc.
 
-**Do not treat virus infections with antibiotics.** They will not help and may be harmful ([see antibiotics](#page-55){:id="#page-55"}).
+**Do not treat virus infections with antibiotics.** They will not help and may be harmful ([see antibiotics](#section-55){:id="#section-55"}).
 
 
-# page 20
+#[20](#page-20)
 
 
 ## SICKNESSES THAT ARE HARD TO TELL APART
@@ -385,33 +385,33 @@ Sometimes diseases that have different causes and require different treatment re
 
 1. **A child who slowly becomes thin and wasted, while his belly gets more and more swollen, could have any (or several) of the following problems:**
 
-    • malnutrition ([see page 112](#page-112){:id="#page-112"})
+    • malnutrition ([see page 112](#section-112){:id="#section-112"})
 
-    • a lot of roundworms, ([see page 140](#page-140){:id="#page-140"}), (usually together with malnutrition)
+    • a lot of roundworms, ([see page 140](#section-140){:id="#section-140"}), (usually together with malnutrition)
 
-    • advanced tuberculosis ([see page 179](#page-179){:id="#page-179"})
+    • advanced tuberculosis ([see page 179](#section-179){:id="#section-179"})
 
-    • a long-term severe urinary infection ([see page 234](#page-234){:id="#page-234"})
+    • a long-term severe urinary infection ([see page 234](#section-234){:id="#section-234"})
 
     • any of several problems of the liver or spleen
 
     • leukemia (cancer of the blood)
 
-    • HIV ([see page 339](#page-339){:id="#page-339"})
+    • HIV ([see page 339](#section-339){:id="#section-339"})
 
 2. **An older person with a big, open, slowly growing sore on the ankle could have:**
 
-    • bad circulation that results from varicose veins or other causes ([see page 213](#page-213){:id="#page-213"})
+    • bad circulation that results from varicose veins or other causes ([see page 213](#section-213){:id="#section-213"})
 
-    • diabetes([see page 127](#page-127){:id="#page-127"})
+    • diabetes([see page 127](#section-127){:id="#section-127"})
 
     • infection of the bone (osteomyelitis)
 
-    • leprosy ([see page 191](#page-191){:id="#page-191"})
+    • leprosy ([see page 191](#section-191){:id="#section-191"})
 
-    • tuberculosis of the skin ([see page 212](#page-212){:id="#page-212"})
+    • tuberculosis of the skin ([see page 212](#section-212){:id="#section-212"})
 
-    • advanced syphilis ([see page 237](#page-237){:id="#page-237"})
+    • advanced syphilis ([see page 237](#section-237){:id="#section-237"})
 
 The medical treatment for each of these diseases is different, so to treat them correctly it is important to tell them apart.
 
@@ -427,7 +427,7 @@ This book describes the typical history and signs for many illnesses. But be car
 
 
 
-# page 21
+#[21](#page-21)
 
 
 ## SICKNESSES THAT ARE OFTEN CONFUSED
@@ -456,19 +456,19 @@ Examples cannot be given for each country or area where this book may be used. T
 
 Spanish Name: EMPACHO (STOPPED-UP GUT)
 
-In medical terms empacho (impaction) means that the gut is stopped up or obstructed ([see page 94](#page-94){:id="#page-94"}). But in Mexican villages any illness causing stomach-ache or diarrhea may be called empacho. It is said that a ball of hair or something else blocks a part of the gut. People put the blame on witches or evil spirits, and treat with magic cures and cupping (see picture). Sometimes folk healers pretend to take a ball of hair and thorns out of the gut by sucking on the belly.
+In medical terms empacho (impaction) means that the gut is stopped up or obstructed ([see page 94](#section-94){:id="#section-94"}). But in Mexican villages any illness causing stomach-ache or diarrhea may be called empacho. It is said that a ball of hair or something else blocks a part of the gut. People put the blame on witches or evil spirits, and treat with magic cures and cupping (see picture). Sometimes folk healers pretend to take a ball of hair and thorns out of the gut by sucking on the belly.
 
 Different illnesses that cause stomach pain or discomfort and are sometimes called empacho are:
 
-• diarrhea or dysentery with cramps ([see page 153](#page-153){:id="#page-153"})
+• diarrhea or dysentery with cramps ([see page 153](#section-153){:id="#section-153"})
 
-• worms ([see page 140](#page-140){:id="#page-140"})
+• worms ([see page 140](#section-140){:id="#section-140"})
 
-• swollen stomach due to malnutrition ([see page 112](#page-112){:id="#page-112"})
+• swollen stomach due to malnutrition ([see page 112](#section-112){:id="#section-112"})
 
-• indigestion or stomach ulcer ([see page 128](#page-128){:id="#page-128"})
+• indigestion or stomach ulcer ([see page 128](#section-128){:id="#section-128"})
 
-• and rarely, true gut obstruction or appendicitis ([see page 94](#page-94){:id="#page-94"})
+• and rarely, true gut obstruction or appendicitis ([see page 94](#section-94){:id="#section-94"})
 
 Most of these problems are not helped much by magic cures or cupping. To treat empacho, try to identify and treat the sickness that causes it.
 
@@ -480,21 +480,21 @@ Spanish Name: DOLOR DE IJAR (SIDE PAINS)
 This name is used for any pain women get in one side of their belly. Often the pain goes around to the mid or lower back. Possible causes of this
 kind of pain include:
 
-• an infection of the urinary system (the kidneys, the bladder, or the tubes that join them, ([see page 234](#page-234){:id="#page-234"})
+• an infection of the urinary system (the kidneys, the bladder, or the tubes that join them, ([see page 234](#section-234){:id="#section-234"})
 
-• cramps or gas pains ([see diarrhea 153](#page-153){:id="#page-153"})
+• cramps or gas pains ([see diarrhea 153](#section-153){:id="#section-153"})
 
-• menstrual pains ([see page 245](#page-245){:id="#page-245"})
+• menstrual pains ([see page 245](#section-245){:id="#section-245"})
 
-• appendicitis ([see page 94](#page-94){:id="#page-94"})
+• appendicitis ([see page 94](#section-94){:id="#section-94"})
 
-• an infection, cyst, or tumor in the womb or ovaries ([see page 243](#page-243){:id="#page-243"}) or an ectopic pregnancy ([see page 280](#page-280){:id="#page-280"})
+• an infection, cyst, or tumor in the womb or ovaries ([see page 243](#section-243){:id="#section-243"}) or an ectopic pregnancy ([see page 280](#section-280){:id="#section-280"})
 
 ---
 
 
 
-# page 22
+#[22](#page-22)
 
 
 Spanish Name: LA CONGESTIÓN (CONGESTION)
@@ -503,17 +503,17 @@ Spanish Name: LA CONGESTIÓN (CONGESTION)
 Any sudden upset or illness that causes great distress is called la congestión by Mexican villagers. People speak of congestión of:
 
 the head, the chest, the stomach, or the whole body.
-It is said that la congestión strikes persons who break ‘the diet’ ([see page 123](#page-123){:id="#page-123"}), by eating foods that are forbidden or taboo after childbirth, while taking a medicine, or when they have a cold or cough.
+It is said that la congestión strikes persons who break ‘the diet’ ([see page 123](#section-123){:id="#section-123"}), by eating foods that are forbidden or taboo after childbirth, while taking a medicine, or when they have a cold or cough.
 
 Although these foods usually cause no harm and are sometimes just what their bodies need, many people will not touch them because they are so afraid of getting la congestión.
 
 Different illnesses that are sometimes called la congestión are:
 
-• Food poisoning, from eating spoiled food: causes sudden vomiting followed by diarrhea, cramps, and weakness ([see page 135](#page-135){:id="#page-135"}).
+• Food poisoning, from eating spoiled food: causes sudden vomiting followed by diarrhea, cramps, and weakness ([see page 135](#section-135){:id="#section-135"}).
 
-• A severe allergic reaction, in allergic persons after they eat certain foods (shellfish, chocolate, etc,), take certain medicines, or are injected with penicillin. May cause vomiting, diarrhea, cold sweat, breathing trouble, itchy rash, and severe distress ([see page 166](#page-166){:id="#page-166"}).
+• A severe allergic reaction, in allergic persons after they eat certain foods (shellfish, chocolate, etc,), take certain medicines, or are injected with penicillin. May cause vomiting, diarrhea, cold sweat, breathing trouble, itchy rash, and severe distress ([see page 166](#section-166){:id="#section-166"}).
 
-• Any sudden upset of the stomach or gut: see diarrhea ([see page 153](#page-153){:id="#page-153"}), vomiting ([see page 161](#page-161){:id="#page-1161"}), and acute abdomen ([see page 93](#page-93){:id="#page-93"}).
+• Any sudden upset of the stomach or gut: see diarrhea ([see page 153](#section-153){:id="#section-153"}), vomiting ([see page 161](#section-161){:id="#section-1161"}), and acute abdomen ([see page 93](#section-93){:id="#section-93"}).
 
 • Sudden or severe difficulty breathing: caused by asthma (p. 167), pneumonia (p. 171), or something stuck in the throat (p. 79).
 
@@ -524,7 +524,7 @@ Different illnesses that are sometimes called la congestión are:
 ---
 
 
-# page 23
+#[23](#page-23)
 
 
 Spanish Name: LA CONGESTIÓN (CONGESTION)
@@ -557,7 +557,7 @@ Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit
 
 
 
-# page 24
+#[24](#page-24)
 
 
 
@@ -604,7 +604,7 @@ Treatment:
 
 
 
-# page 25
+#[25](#page-25)
 
 
 ## MISUNDERSTANDINGS DUE TO CONFUSION OF NAMES
@@ -643,7 +643,7 @@ Mexican villagers call any open spreading sore lepra. This leads to confusion, b
 
 
 
-# page 26
+#[26](#page-26)
 
 
 ### CONFUSION BETWEEN DIFFERENT ILLNESSES THAT CAUSE FEVER
@@ -675,7 +675,7 @@ Person loses appetite. Does not wish to eat or smoke. Wants to vomit (nausea). E
 
 
 
-# page 27
+#[27](#page-27)
 
 
 Pneumonia: (see p. 171)

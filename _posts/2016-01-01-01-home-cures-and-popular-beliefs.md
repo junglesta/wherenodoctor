@@ -5,8 +5,8 @@ index: true
 bookpage: 1
 ---
 
-# page 1
 
+#[1](#page-1)
 
 Everywhere on earth people use home remedies. In some places, the older or traditional ways of healing have been passed down from parents to children for hundreds of years.
 
@@ -21,7 +21,7 @@ For many sicknesses, time-tested home remedies work as well as modern medicines�
 
 For example, many of the herbal teas people use for home treatment of coughs and colds do more good and cause fewer problems than cough syrups and strong medicines some doctors prescribe.
 
-Also, the ‘rice water’, teas, or sweetened drinks that many mothers give to babies with diarrhea are often safer and do more good than any modern medicine. What matters most is that a baby with diarrhea get plenty of liquids ([see page 151](#page-151){:id="#page-151"})
+Also, the ‘rice water’, teas, or sweetened drinks that many mothers give to babies with diarrhea are often safer and do more good than any modern medicine. What matters most is that a baby with diarrhea get plenty of liquids ([see page 151](#page-151))
 
 # The Limitations of Home Remedies
 
@@ -36,12 +36,12 @@ It is sometimes hard to be sure which home remedies work well and which do not. 
 >**It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible**
 
 
-# page 2
+#[2](#page-2)
 
 ## Old Ways and New
 
 Some modern ways of meeting health needs work better than old ones. But at times the older, traditional ways are best. For example, traditional ways of caring for children or old people are often kinder and work better than some newer, less personal ways.
-Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, [see page 271](#page-271){:id="#page-271"}.
+Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, [see page 271](#page-271).
 
 
 >Respect your people’s traditions and build on them.
@@ -63,7 +63,7 @@ Included in this group of sicknesses are: bewitchment or hexing, unreasonable or
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
 
 
-# page 3
+#[3](#page-3)
 
 Sometimes a person’s belief in a remedy can help with problems that have completely physical causes.
 
@@ -84,10 +84,10 @@ But the benefit of these home remedies for snakebite is limited. In spite of the
 
 >**No home cure for poisonous bites (whether from snakes, scorpions, spiders, or other poisonous animals) has much effect beyond that of the healing power of belief.**
 
-For snakebite it is usually better to use modern treatment. Be prepared: obtain ‘antivenoms’ or ‘serums’ for poisonous bites before you need them ([see page 387](#page-387){:id="#page-387"}). Do not wait until it is too late.
+For snakebite it is usually better to use modern treatment. Be prepared: obtain ‘antivenoms’ or ‘serums’ for poisonous bites before you need them ([see page 387](#page-387)). Do not wait until it is too late.
 
 
-# page 4
+#[4](#page-4)
 
 
 ## BELIEFS THAT CAN MAKE PEOPLE SICK
@@ -114,25 +114,24 @@ By understanding the truth about the orange, the injection, and the tricks of he
 >**Many things do harm only because people believe they are**
 
 
-#page 5
+#[5](#page-5)
 
 ## WITCHCRAFT—BLACK MAGIC—AND THE EVIL EYE
 
-If a person believes strongly enough that someone has the power to harm him, he may actually become ill. Anyone who believes he is bewitched or has been given the evil eye is really the victim of his own fears (see Susto, [see page 24](#page-24){:id="#page-24"}).
+If a person believes strongly enough that someone has the power to harm him, he may actually become ill. Anyone who believes he is bewitched or has been given the evil eye is really the victim of his own fears (see Susto, [see page 24](#page-24)).
 
 A ‘witch’ has no power over other people, except for her ability to make them believe that she has. For this reason
 
 >**It is impossible to bewitch a person who does not believe in witchcraft**
 
-Some people think that they are ‘bewitched’ when they have strange or frightening illnesses (such as tumors of the genitals or cirrhosis of the liver, [see page 328](#page-328){:id="#page-328"}). Such sicknesses have nothing to do with witchcraft or black magic. Their causes are natural.
+Some people think that they are ‘bewitched’ when they have strange or frightening illnesses (such as tumors of the genitals or cirrhosis of the liver, [see page 328](#page-328)). Such sicknesses have nothing to do with witchcraft or black magic. Their causes are natural.
 
 **Do not waste your money at ‘magic centers’ that claim to cure witchcraft. And do not seek revenge against a witch, because it will not solve anything. If you are seriously ill, go for medical help.**
 
 If you have a strange sickness do not blame a witch, do not go to a magic center. Ask for medical advice.
 
 
-# page 6
-
+#[6](#page-6)
 
 QUESTIONS AND ANSWERS ON SOME FOLK BELIEFS AND HOME REMEDIES
 These examples are from the mountains of Mexico, the area that I know best. Perhaps some of the beliefs of your people are similar. Think about ways to learn which beliefs in your area lead to better health and which do not.
@@ -144,11 +143,11 @@ When people think someone is bewitched, is it true that he will get well if his 
 
 Is it true that when the ‘soft spot’ on top of a baby’s head sinks inward this means the baby will die of diarrhea unless he gets special treatment?
 
-**This is often true. The ‘soft spot’ sinks because the baby has lost too much liquid** ([see page 151](#page-151){:id="#page-151"}). **Unless he gets more liquid soon, he may die** ([see page 152](#page-152){:id="#page-152"}).
+**This is often true. The ‘soft spot’ sinks because the baby has lost too much liquid** ([see page 151](#page-151)). **Unless he gets more liquid soon, he may die** ([see page 152](#page-152)).
 
 Is it true that if the light of the eclipsing moon falls on a pregnant mother, her child will be born deformed or mentally slow?
 
-**This is not true! But children may be born mentally slow, deaf, or deformed if the mother does not use iodized salt, if she takes certain medicines, or for other reasons** ([see page 318](#page-318){:id="#page-318"}).
+**This is not true! But children may be born mentally slow, deaf, or deformed if the mother does not use iodized salt, if she takes certain medicines, or for other reasons** ([see page 318](#page-318)).
 
 Is it true that mothers should give birth in a darkened room?
 
@@ -156,7 +155,7 @@ Is it true that mothers should give birth in a darkened room?
 
 
 
-# page 7  
+#[7](#page-7)
 
 
 
@@ -177,11 +176,11 @@ Is it true that traditional breastfeeding is better than ‘modern’ bottle fee
 
 What foods should women avoid in the first few weeks after childbirth?
 
-**In the weeks following childbirth, women should not avoid any nutritious foods. Instead, they should eat plenty of fruit, vegetables, meat, milk, eggs, whole grains, and beans** ([see page 276](#page-276){:id="#page-276"}).
+**In the weeks following childbirth, women should not avoid any nutritious foods. Instead, they should eat plenty of fruit, vegetables, meat, milk, eggs, whole grains, and beans** ([see page 276](#page-276)).
 
 
 
-# page 8  
+#[8](#page-8)  
 
 Is it a good idea to bathe a sick person, or will it do him harm?
 
@@ -195,7 +194,7 @@ Is it true that oranges, guavas, and other fruits are harmful when one has a col
 
 Is it true that when a person has a high fever, he should be wrapped up so that the air will not harm him?
 
-**NO! When a person has a high fever, take off all covers and clothing. Let the air reach his body. This will help the fever go down** [see page 76](#page-76){:id="#page-76"}.
+**NO! When a person has a high fever, take off all covers and clothing. Let the air reach his body. This will help the fever go down** [see page 76](#page-76).
 
 
 Is it true that tea made from willow bark will help bring fever down and stop pain?
@@ -204,8 +203,7 @@ Is it true that tea made from willow bark will help bring fever down and stop pa
 
 
 
-
-# page 9
+#[9](#page-9)
 
 
 ## SUNKEN FONTANEL OR SOFT SPOT
@@ -214,20 +212,20 @@ The fontanel is the soft spot on the top of a newborn baby’s head. It is where
 
 Mothers in different lands realize that when the soft spot sinks inward their babies are in danger. They have many beliefs to explain this. In Latin America mothers think the baby’s brains have slipped downward.
 
-They try to correct this by sucking on the soft spot, by pushing up on the roof of the mouth, or by holding the baby upside down and slapping his feet. This does not help because... A sunken soft spot is really caused by dehydration ([see page 151](#page-151){:id="#page-151"}).
+They try to correct this by sucking on the soft spot, by pushing up on the roof of the mouth, or by holding the baby upside down and slapping his feet. This does not help because... A sunken soft spot is really caused by dehydration ([see page 151](#page-151)).
 
 This means the child is losing more liquid than he is drinking. He is too dry—usually because he has diarrhea, or diarrhea with vomiting.
 Treatment:
 
-1. Give the child plenty of liquid: Rehydration Drink ([see page 152](#page-152){:id="#page-152"}), breast milk, or boiled water.
+1. Give the child plenty of liquid: Rehydration Drink ([see page 152](#page-152)), breast milk, or boiled water.
 
-2. If necessary, treat the causes of the diarrhea and vomiting ([see page 152](#page-152){:id="#page-152"} to [page 161](#page-161){:id="#page-161"}). For most diarrheas, medicine is not needed, and may do more harm than good.
+2. If necessary, treat the causes of the diarrhea and vomiting ([see page 152](#page-152) to [page 161](#page-161)). For most diarrheas, medicine is not needed, and may do more harm than good.
 
-Note: If the soft spot is swollen or bulges upward, this may be a sign of meningitis. Begin treatment at once ([see page 185](#page-185){:id="#page-185"}), and get medical help.
+Note: If the soft spot is swollen or bulges upward, this may be a sign of meningitis. Begin treatment at once ([see page 185](#page-185)), and get medical help.
 
 
 
-# page 10
+#[10](#page-10)
 
 
 ## WAYS TO TELL WHETHER A HOME REMEDY WORKS OR NOT
@@ -244,7 +242,7 @@ For example: In rural Mexico there are many home remedies for goiter, none of wh
 4. to smear human feces on the goiter. DON’T
 
 Not one of these many remedies works. If it did, the others would not be needed. When a sickness has just one popular cure, it is more likely to be a good one. For prevention and treatment of goiter use iodized salt.
-[see page 131](#page-131){:id="#page-131"}
+[see page 131](#page-131)
 
 
 ### 2. FOUL OR DISGUSTING REMEDIES ARE NOT LIKELY TO HELP—AND ARE OFTEN HARMFUL.
@@ -258,7 +256,7 @@ These two remedies do not help at all. The first one can cause dangerous infecti
 
 
 
-# page 11
+#[11](#page-11)
 
 
 ### 3. REMEDIES THAT USE ANIMAL OR HUMAN WASTE DO NO GOOD AND CAN CAUSE DANGEROUS INFECTIONS. NEVER USE THEM.
@@ -284,7 +282,7 @@ These remedies, and many other similar ones, have no curative value in themselve
 
 
 
-# page 12
+#[12](#page-12)
 
 
 # MEDICINAL PLANTS
@@ -308,7 +306,7 @@ Grind up 1 or 2 leaves of Angel’s Trumpet and soak them for a day in 7 tablesp
 
 #### CORN SILK (the tassels or ‘silk’ from an ear of maize)
 
-A tea made from corn silk makes a person pass more urine. This can help reduce swelling of the feet—especially in pregnant women ([see page 176](#page-176){:id="#page-176"} and [page 248](#page-248){:id="#page-248"})
+A tea made from corn silk makes a person pass more urine. This can help reduce swelling of the feet—especially in pregnant women ([see page 176](#page-176) and [page 248](#page-248))
 
 Boil a large handful of corn silk in water and drink 1 or 2 glasses. It is not dangerous.
 
@@ -320,10 +318,10 @@ Chop finely, or crush, 4 cloves of garlic and mix with 1 glass of liquid (water,
 
 **Dosage**: Drink 1 glass daily for 3 weeks.
 
-To treat vaginal infections with garlic, see [see page 241](#page-241){:id="#page-241"} and [see page 242](#page-242){:id="#page-242"}.
+To treat vaginal infections with garlic, see [see page 241](#page-241) and [see page 242](#page-242).
 
 
-# page 13
+#[13](#page-13)
 
 
 #### CARDON CACTUS (Pachycereus pecten-aboriginum)
@@ -358,7 +356,7 @@ First clean and wash out a pressure sore that has dead flesh in it. Then soak a 
 
 
 
-# page 14
+#[14](#page-14)
 
 
 ## HOMEMADE CASTS — FOR KEEPING BROKEN BONES IN PLACE
@@ -366,7 +364,7 @@ First clean and wash out a pressure sore that has dead flesh in it. Then soak a 
 In Mexico several different plants such as tepeguaje (a tree of the bean family) and solda con solda (a huge, tree-climbing arum lily) are used to make casts. However, any plant will do if a syrup can be made from it that will dry hard and firm and will not irritate the skin. In India, traditional bone-setters make casts using a mixture of egg whites and herbs instead of a syrup made from plant juices. But the method is similar. Try out different plants in your area.
 
 For a cast using tepeguaje: Put 1 kilogram of the bark into 5 liters of water and boil until only 2 liters are left. Strain and boil until a thick syrup is formed. Dip strips of flannel or clean sheet in the syrup and carefully use as follows.
-Make sure the bones are in a good position ([see page 98](#page-98){:id="#page-98"})
+Make sure the bones are in a good position ([see page 98](#page-98))
 
 Do not put the cast directly against the skin.
 Wrap the arm or leg in a soft cloth.
@@ -388,7 +386,7 @@ Never put on a cast over a cut or a wound.
 
 
 
-# page 15
+#[15](#page-15)
 
 
 ## ENEMAS, LAXATIVES, AND PURGES: WHEN TO USE THEM AND WHEN NOT TO
@@ -402,25 +400,25 @@ Enemas and purges are very popular home cures. And they are often very harmful. 
 
 ### CASES IN WHICH IT IS DANGEROUS TO USE ENEMAS OR LAXATIVES
 
-Never use an enema or laxative if a person has a severe stomach-ache or any other sign of appendicitis or ‘acute abdomen’ ([see page 93](#page-93){:id="#page-93"}), even if he passes days without a bowel movement.
+Never use an enema or laxative if a person has a severe stomach-ache or any other sign of appendicitis or ‘acute abdomen’ ([see page 93](#page-93)), even if he passes days without a bowel movement.
 
 Never give an enema or laxative to a person with a bullet wound or other injury to the gut.
 
 Never give a strong laxative to a weak or sick person. It will weaken him more.
 Never give an enema or purge to a baby less than 2 years old.
 
-Never give a laxative or purge to a child with high fever, vomiting, diarrhea or signs of dehydration ([see page 151](#page-151){:id="#page-151"} ). It can increase dehydration and kill the child.
-Do not make a habit of using laxatives often (see Constipation, [see page 126](#page-126){:id="#page-126"} ).
+Never give a laxative or purge to a child with high fever, vomiting, diarrhea or signs of dehydration ([see page 151](#page-151)). It can increase dehydration and kill the child.
+Do not make a habit of using laxatives often (see Constipation, [see page 126](#page-126)).
 
 ### THE CORRECT USES OF ENEMAS
 
 1. Simple enemas can help relieve constipation (dry, hard, difficult stools). Use warm water only.
-2. When a person with severe vomiting is dehydrated, you can try replacing water by giving an enema of Rehydration Drink very slowly ([see page 152](#page-152){:id="#page-152"}).
+2. When a person with severe vomiting is dehydrated, you can try replacing water by giving an enema of Rehydration Drink very slowly ([see page 152](#page-152)).
 
 
 
 
-# page 16
+#[16](#page-16)
 
 
 ## PURGES AND LAXATIVES THAT ARE OFTEN USED
@@ -430,12 +428,12 @@ CASTOR OIL, SENNA LEAF, CASCARA (cascara sagrada)
 These are irritating purges that often do more harm than good. It is better not to use them.
 
 
-MAGNESIUM HYDROXIDE, MILK OF MAGNESIA, EPSOM SALTS (magnesium sulfate)([see page 382](#page-382){:id="#page-382"})
+MAGNESIUM HYDROXIDE, MILK OF MAGNESIA, EPSOM SALTS (magnesium sulfate)([see page 382](#page-382))
 
 These are salt purges. Use them only in low doses, as laxative for constipation.
 Do not use them often and never when there is pain in the belly.
 
-MINERAL OIL ([see page 382](#page-382){:id="#page-382"})
+MINERAL OIL ([see page 382](#page-382))
 
 This is sometimes used for constipation in persons with piles...but it is like passing greased rocks. Not recommended.
 
@@ -443,12 +441,12 @@ This is sometimes used for constipation in persons with piles...but it is like p
 
 Laxatives are like purges but weaker. All the products listed above are laxatives when taken in small doses and purges when taken in large doses. Laxatives soften and hurry the bowel movement; purges cause diarrhea. Purges are always harmful, but laxatives can sometimes be used to relieve constipation.
 
-Laxatives: One can use milk of magnesia or other magnesium salts in small doses, as laxatives, in some cases of constipation. People with hemorrhoids (piles, [see page 175](#page-175){:id="#page-175"}) who have constipation can take mineral oil but this only makes their stools slippery, not soft. The dose for mineral oil is 3 to 6 teaspoons at bedtime (never with a meal because the oil will rob the body of important vitamins in the food). This is not the best way.
+Laxatives: One can use milk of magnesia or other magnesium salts in small doses, as laxatives, in some cases of constipation. People with hemorrhoids (piles, [see page 175](#page-175)) who have constipation can take mineral oil but this only makes their stools slippery, not soft. The dose for mineral oil is 3 to 6 teaspoons at bedtime (never with a meal because the oil will rob the body of important vitamins in the food). This is not the best way.
 
 Suppositories, or bullet-shaped pills that can be pushed up the rectum, can also be used to relieve constipation or piles (see pages 175, 382, and 391).
 
 ### A BETTER WAY
 
-Foods with fiber. The healthiest and most gentle way to have softer, more frequent stools is to drink a lot of water and to eat more foods with lots of natural fiber, or ‘roughage’ like cassava, yam, or bran (wheat husks) and other whole grain cereals ([see page 126](#page-126){:id="#page-126"}). Eating plenty of fruits and vegetables also helps.
+Foods with fiber. The healthiest and most gentle way to have softer, more frequent stools is to drink a lot of water and to eat more foods with lots of natural fiber, or ‘roughage’ like cassava, yam, or bran (wheat husks) and other whole grain cereals ([see page 126](#page-126)). Eating plenty of fruits and vegetables also helps.
 
 People who traditionally eat lots of food with natural fiber suffer much less from piles, constipation, and cancer of the gut than do people who eat a lot of refined ‘modern’ foods. For better bowel habits, avoid refined foods and eat foods prepared from unpolished or unrefined grains.

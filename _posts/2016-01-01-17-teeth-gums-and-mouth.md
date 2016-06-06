@@ -5,7 +5,7 @@ index: true
 bookpage: 229
 ---
 
-# page 229
+#[229](#page-229)
 
 # CARE OF THE TEETH AND GUMS
 
