@@ -6,7 +6,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 (orignal title: Donde No Hay Doctor ISBN	978-0-942364-15-6)_
 
 
-![app logo](logos.png)
+![app logo](screen.png)
 
 
 # Status:
