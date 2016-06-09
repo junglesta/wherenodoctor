@@ -15,10 +15,11 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - As second step make it easily translatable.
 
 # 2do
-- [X] squeeze all chapters into one single page, its all text!
-- [ ] setup [upup.js](https://github.com/TalAter/UpUp)
+- [ ] install [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)
+- [X] setup [upup.js](https://github.com/TalAter/UpUp)
 
 # Done:
+- [X] squeezed all chapters into one single page.
 - [X] mobile friendly version one pager.
 - [X] inital collection of PDF release.
 - [X] logo. _thanks to david@[work-it](http://work-it.it)_
