@@ -47,3 +47,8 @@ Firstly published in 1977 by [hesperian.org](http://hesperian.org/books-and-reso
 ```sh
 jekyll serve --watch --trace --baseurl ''
 ```
+
+
+**make sure:**
+
+ - "#[page-.." needs to read "#[page-" (with space after "#")
