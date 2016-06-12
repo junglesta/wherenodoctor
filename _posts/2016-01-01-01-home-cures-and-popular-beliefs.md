@@ -6,7 +6,7 @@ bookpage: 1
 ---
 
 
-#[1](#page-1)
+# [1](#page-1)
 
 Everywhere on earth people use home remedies. In some places, the older or traditional ways of healing have been passed down from parents to children for hundreds of years.
 
