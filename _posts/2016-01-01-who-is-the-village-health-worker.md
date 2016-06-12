@@ -5,7 +5,6 @@ index: true
 style: brown
 bookpage: w1
 ---
-# [w1](#page-w1)
 
 # Who is the village health worker?
 

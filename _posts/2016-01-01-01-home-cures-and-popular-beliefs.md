@@ -6,8 +6,6 @@ bookpage: 1
 ---
 
 
-# [1](#page-1)
-
 Everywhere on earth people use home remedies. In some places, the older or traditional ways of healing have been passed down from parents to children for hundreds of years.
 
 Many home remedies have great value. Others have less. And some may be risky or harmful. Home remedies, like modern medicines, must be used with caution.

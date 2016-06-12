@@ -5,7 +5,6 @@ index: true
 bookpage: 151
 ---
 
-# [151](#page-151)
 
 # DEHYDRATION
 

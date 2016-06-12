@@ -5,8 +5,6 @@ index: true
 bookpage: 245
 ---
 
-# [245](#page-245)
-
 # MENSTRUAL PERIOD (MONTHLY BLEEDING IN WOMEN)
 
 Most girls have their first ‘period’ or monthly bleeding between the ages of 11 and 16. This means that they are now old enough to become pregnant.

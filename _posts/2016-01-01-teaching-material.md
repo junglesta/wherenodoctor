@@ -6,8 +6,6 @@ style: blue
 bookpage: 389
 ---
 
-# [389](#page-389)
-
 ## Addresses for Teaching Materials
 
 ### Hesperian Health Guides

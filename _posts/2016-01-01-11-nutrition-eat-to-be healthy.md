@@ -5,8 +5,6 @@ index: true
 bookpage: 107
 ---
 
-# [107](#page-107)
-
 # SICKNESSES CAUSED BY NOT EATING WELL
 
 Good food is needed for a person to grow well, work hard, and stay healthy. Many common sicknesses come from not eating enough.

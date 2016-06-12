@@ -6,8 +6,6 @@ index: true
 bookpage: 339
 ---
 
-# [339](#page-339)
-
 # THE USES, DOSAGE, AND PRECAUTIONS FOR THE MEDICINES REFERRED TO IN THIS BOOK
 
 The medicines in this section are grouped according to their uses. For example, all the medicines used to treat infections caused by worms are listed under the heading FOR WORMS.

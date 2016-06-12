@@ -5,9 +5,6 @@ index: true
 bookpage: 49
 ---
 
-# [49](#page-49)
-
-
 Some medicines sold in pharmacies or village stores can be very useful. But many are of no value. Of the 60,000 medicines sold in most countries, the World Health Organization says that only about 200 are necessary.
 
 Also, people sometimes use the best medicines in the wrong way, so that they do more harm than good. **To be helpful, medicine must be used correctly.**

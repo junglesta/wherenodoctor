@@ -22,19 +22,23 @@
 
       <div id="{{id}}" class="{%if page.style%}addon {{page.style}}{%else%}chapter {% endif%}">
 
-        {% include chapter_title.html %}
+        {%if page.bookpage%}
+          <h1 class="chapter_page_anchor" id="page-{{ page.bookpage }}"><a href="#page-{{ page.bookpage }}"></a></h1>
+        {%endif%}
 
-        <div class="wrapper">
+        {% include chapter_title.html %}
 
           <div class="chapter_content">
 
-            {{ page.content }}
+            <div class="wrapper">
+
+              {{ page.content }}
+
+            </div>
 
           </div>
 
         </div>
-
-      </div>
 
       {% endfor %}
 

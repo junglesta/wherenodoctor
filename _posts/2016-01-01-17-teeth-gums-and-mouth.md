@@ -5,8 +5,6 @@ index: true
 bookpage: 229
 ---
 
-# [229](#page-229)
-
 # CARE OF THE TEETH AND GUMS
 
 Taking good care of teeth and gums is important because:

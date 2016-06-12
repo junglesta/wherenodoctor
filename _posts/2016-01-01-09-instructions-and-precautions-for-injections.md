@@ -5,7 +5,6 @@ index: true
 bookpage: 65
 ---
 
-# [65](#page-65)
 
 # WHEN TO INJECT AND WHEN NOT TO
 

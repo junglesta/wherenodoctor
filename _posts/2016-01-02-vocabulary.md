@@ -6,8 +6,6 @@ style: red
 bookpage: 419
 ---
 
-# [419](#page-419)
-
 This vocabulary is listed in the order of the alphabet:
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ

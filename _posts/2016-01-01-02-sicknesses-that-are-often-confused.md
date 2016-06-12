@@ -6,10 +6,6 @@ bookpage: 17
 ---
 
 
-
-# [17](#page-17)
-
-
 # WHAT CAUSES SICKNESS?
 
 Persons from different countries or backgrounds have different ways to explain what causes sickness.

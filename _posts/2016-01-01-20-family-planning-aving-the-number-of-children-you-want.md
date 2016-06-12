@@ -5,8 +5,6 @@ index: true
 bookpage: 283
 ---
 
-# [283](#page-283)
-
 # BOTH THESE FAMILIES LIVE IN POOR COMMUNITIES:
 
 Some mothers and fathers want a lot of children—especially in countries where poor people are denied a fair share of land, resources, and social benefits. This is because children help with work and provide care for their parents in old age. In such areas, having just a few children may be a privilege only wealthier people can afford.
