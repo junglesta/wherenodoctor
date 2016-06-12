@@ -28,16 +28,38 @@
   input {
     width: 100%;
     min-height: 48px;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: white;
     background-color: transparent;
     border: 0 none;
     text-align: center;
+    font-weight: 100!important;
+    &:focus{color: black;}
   }
-  ::-webkit-input-placeholder { color: white; text-align: center; }
-  :-moz-placeholder { color: white;  text-align: center;}
-  ::-moz-placeholder { color: white;  text-align: center;}
-  :-ms-input-placeholder { color: white;  text-align: center;}
+
+  ::-webkit-input-placeholder {
+    color: white;
+    text-align: center;
+    font-weight: 100!important;
+  }
+
+  :-moz-placeholder {
+    color: white;
+    text-align: center;
+    font-weight: 100!important;
+  }
+
+  ::-moz-placeholder {
+    color: white;
+    text-align: center;
+    font-weight: 100!important;
+  }
+
+  :-ms-input-placeholder {
+    color: white;
+    text-align: center;
+    font-weight: 100!important;
+  }
 }
 
 
