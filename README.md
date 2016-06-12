@@ -11,11 +11,13 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # Status:
 - Many chapters to be completed
+- Chapters that have full text, right now: **[1,2,3,4,5]**
+- Chapters that have all links working, right now: **[content]**
 - Plan to make it working off-line too via serviceworkers.
 - As second step make it easily translatable.
 
 # 2do
-- [ ] install [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)
+- [ ] make [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search) work with content, not just chapter titles!
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
 
 # Done:
