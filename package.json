@@ -1,0 +1,14 @@
+{
+  "name": "Where No Doctor",
+  "version": "0.4.0",
+  "description": "Where No Doctor - healthcare handbook",
+  "main": "gulpfile.js",
+  "author": "rokma",
+  "license": "GPL-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junglesta/wherenodoctor.git"
+  },
+  "devDependencies": {
+  }
+}
