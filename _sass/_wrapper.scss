@@ -8,7 +8,7 @@
     @extend %clearfix;
     max-width: 650px;
     .cover & {
-      padding-top: $spacing_unit;
+      padding-top: 0;
       padding-bottom: $spacing_unit;
     }
     .page-content & {padding-top:0;}

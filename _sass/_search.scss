@@ -25,18 +25,6 @@
     background-color: rgba(255,255,255,.5);
   }
 
-  input {
-    width: 100%;
-    min-height: 48px;
-    font-size: 1.5rem;
-    color: white;
-    background-color: transparent;
-    border: 0 none;
-    text-align: center;
-    font-weight: 100!important;
-    &:focus{color: black;}
-  }
-
   ::-webkit-input-placeholder {
     color: white;
     text-align: center;
@@ -60,6 +48,20 @@
     text-align: center;
     font-weight: 100!important;
   }
+
+  input {
+    width: 100%;
+    min-height: 48px;
+    font-size: 1.5rem;
+    color: rgba(255,255,255,.25);
+    background-color: transparent;
+    border: 0 none;
+    text-align: center;
+    text-transform: uppercase;
+
+    &:focus{color: white;font-weight: 200!important;}
+  }
+
 }
 
 
