@@ -5,7 +5,7 @@ index: true
 bookpage: 331
 ---
 
-#[331](#page-331å)
+# [331](#page-331å)
 
 Every family and every village should have certain medical supplies ready in case of emergency:
 

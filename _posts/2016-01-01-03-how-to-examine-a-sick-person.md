@@ -5,7 +5,7 @@ index: true
 bookpage: 29
 ---
 
-#[29](#page-29)
+# [29](#page-29)
 
 To find out the needs of a sick person, first you must ask important questions and then examine him carefully. You should look for signs and symptoms that help you tell how ill the person is and what kind of sickness he may have.
 
@@ -39,7 +39,7 @@ Can you sleep with the pain?
 
 If the sick person is a baby who still does not talk, look for signs of pain. Notice his movements and how he cries. (For example, a child with an earache sometimes rubs the side of his head or pulls at his ear.)
 
-#[30](#page-30)
+# [30](#page-30)
 
 # GENERAL CONDITION OF HEALTH
 
@@ -80,7 +80,7 @@ For example:
   • Tuberculosis sometimes causes a mild fever in the afternoon. At night the person often sweats, and the fever goes down.
 
 
-#[31](#page-31)
+# [31](#page-31)
 
 # HOW TO USE A THERMOMETER
 
@@ -121,7 +121,7 @@ _Note:_ In newborn babies a temperature that is unusually high or unusually low 
 ♦ To learn about other fever patterns, see p. 26 to 27.  
 ♦ To learn what to do for a fever, see p. 75.  
 
-#[32](#page-32)
+# [32](#page-32)
 
 # BREATHING (RESPIRATION)
 
@@ -162,7 +162,7 @@ children - 80 to 100
 
 babies - 100 to 140
 
-#[33](#page-33)
+# [33](#page-33)
 
 The pulse gets much faster with exercise and when a person is nervous, frightened, or has a fever. As a general rule, the pulse increases 20 beats per minute for each degree (°C) rise in fever.
 
@@ -198,7 +198,7 @@ A big difference in the size of the pupils is almost always a medical emergency.
 **Always compare the pupils of a person who is unconscious or has had a head injury.**
 
 
-#[34](#page-34)
+# [34](#page-34)
 
 EARS, THROAT, AND NOSE
 Ears: Always check for signs of pain and infection in the ears-especially in a child with fever or a cold. A baby who cries a lot or pulls at his ear may have an ear infection (p. 309).
@@ -237,7 +237,7 @@ For identification of different skin problems, see pages 196–198.
 
 
 
-#[34](#page-34)
+# [34](#page-34)
 
 # THE BELLY (ABDOMEN)
 
@@ -264,7 +264,7 @@ Listen for gurgles in the intestines. If you hear nothing after about 2 minutes,
 
 >**A silent belly is like a silent dog. Beware!**
 
-#[36](#page-36)
+# [36](#page-36)
 
 These pictures show the areas of the belly that usually hurt when a person has the following problems:
 
@@ -296,7 +296,7 @@ pain on one side or both, sometimes with pain in the shoulder or neck
 _Note:_ For different causes of back pain, see p. 173
 
 
-#[37](#page-37)
+# [37](#page-37)
 
 
 # MUSCLES AND NERVES
@@ -331,7 +331,7 @@ If muscle loss and weakness is uneven or worse on one side, in children, think f
 
 For more information on muscle testing and physical examination of disabled persons, see Disabled Village Children, Chapter 4.
 
-#[38](#page-38)
+# [38](#page-38)
 
 ### Check for stiffness or tightness of different muscles:
 

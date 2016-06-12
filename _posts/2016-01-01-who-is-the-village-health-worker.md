@@ -5,7 +5,7 @@ index: true
 style: brown
 bookpage: w1
 ---
-#[w1](#page-w1)
+# [w1](#page-w1)
 
 # Who is the village health worker?
 
@@ -41,7 +41,7 @@ Perhaps you can get small groups together to read a chapter at a time and discus
 
 THE VILLAGE HEALTH WORKER LIVES AND WORKS WITH HIS PEOPLE. HIS FIRST JOB IS TO SHARE HIS KNOWLEDGE.
 
-#[w2](#page-w2)
+# [w2](#page-w2)
 
 Dear Village Health Worker,
 
@@ -68,7 +68,7 @@ There is nothing you have learned that, if carefully explained, should be of dan
 LOOK FOR WAYS TO SHARE YOUR KNOWLEDGE.
 
 
-#[w3](#page-w3)
+# [w3](#page-w3)
 
 ### 3. RESPECT YOUR PEOPLE’S TRADITIONS AND IDEAS.
 
@@ -95,7 +95,7 @@ Learn from them and encourage them to learn from you.
 
 
 
-#[w4](#page-w4)
+# [w4](#page-w4)
 
 
 

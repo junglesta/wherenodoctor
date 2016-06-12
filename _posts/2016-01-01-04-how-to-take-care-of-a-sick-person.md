@@ -5,7 +5,7 @@ index: true
 bookpage: 39
 ---
 
-#[39](#page-39)
+# [39](#page-39)
 
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.
 
@@ -29,7 +29,7 @@ It is important to keep the sick person clean. He should be bathed every day. If
 His clothes, sheets, and covers must also be kept clean. Take care to keep crumbs and bits of food out of the bed.
 
 
-#[40](#page-40)
+# [40](#page-40)
 
 # 4. Good Food
 
@@ -65,7 +65,7 @@ If the person is not drinking or urinating enough, or if he begins to show signs
 
 If he will not drink these, give him a Rehydration Drink (see p. 152). If he cannot drink enough of this, and develops signs of dehydration, a health worker may be able to give him intravenous solution. But the need for this can usually be avoided if the person is urged to take small sips often.
 
-#[41](#page-41)
+# [41](#page-41)
 
 # 2. Food
 
@@ -91,7 +91,7 @@ Also write down the amount of liquids the person drinks and how many times a day
 
 It is very important to look for signs that warn you that the person’s sickness is serious or dangerous. A list of Signs of Dangerous Illness is on the next page. If the person shows any of these signs, seek medical help immediately.
 
-#[42](#page-42)
+# [42](#page-42)
 
 # SIGNS OF DANGEROUS ILLNESS
 
@@ -153,7 +153,7 @@ brought down or that lasts more than 4 or 5 days 75
  - severe bleeding 264
 
 
-#[43](#page-43)
+# [43](#page-43)
 
 # WHEN AND HOW TO LOOK FOR MEDICAL HELP
 
@@ -177,7 +177,7 @@ On the next page is a form on which you can make a PATIENT REPORT. Several copie
 >**When you send someone for medical help, always send a completed information form with him.**
 
 
-#[44](#page-44)
+# [44](#page-44)
 
 #### PATIENT REPORT
 

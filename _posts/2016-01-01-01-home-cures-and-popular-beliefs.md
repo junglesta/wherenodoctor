@@ -36,7 +36,7 @@ It is sometimes hard to be sure which home remedies work well and which do not. 
 >**It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible**
 
 
-#[2](#page-2)
+# [2](#page-2)
 
 ## Old Ways and New
 
@@ -63,7 +63,7 @@ Included in this group of sicknesses are: bewitchment or hexing, unreasonable or
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
 
 
-#[3](#page-3)
+# [3](#page-3)
 
 Sometimes a person’s belief in a remedy can help with problems that have completely physical causes.
 
@@ -87,7 +87,7 @@ But the benefit of these home remedies for snakebite is limited. In spite of the
 For snakebite it is usually better to use modern treatment. Be prepared: obtain ‘antivenoms’ or ‘serums’ for poisonous bites before you need them ([see page 387](#page-387)). Do not wait until it is too late.
 
 
-#[4](#page-4)
+# [4](#page-4)
 
 
 ## BELIEFS THAT CAN MAKE PEOPLE SICK
@@ -114,7 +114,7 @@ By understanding the truth about the orange, the injection, and the tricks of he
 >**Many things do harm only because people believe they are**
 
 
-#[5](#page-5)
+# [5](#page-5)
 
 ## WITCHCRAFT—BLACK MAGIC—AND THE EVIL EYE
 
@@ -131,7 +131,7 @@ Some people think that they are ‘bewitched’ when they have strange or fright
 If you have a strange sickness do not blame a witch, do not go to a magic center. Ask for medical advice.
 
 
-#[6](#page-6)
+# [6](#page-6)
 
 QUESTIONS AND ANSWERS ON SOME FOLK BELIEFS AND HOME REMEDIES
 These examples are from the mountains of Mexico, the area that I know best. Perhaps some of the beliefs of your people are similar. Think about ways to learn which beliefs in your area lead to better health and which do not.
@@ -155,7 +155,7 @@ Is it true that mothers should give birth in a darkened room?
 
 
 
-#[7](#page-7)
+# [7](#page-7)
 
 
 
@@ -180,7 +180,7 @@ What foods should women avoid in the first few weeks after childbirth?
 
 
 
-#[8](#page-8)  
+# [8](#page-8)  
 
 Is it a good idea to bathe a sick person, or will it do him harm?
 
@@ -203,7 +203,7 @@ Is it true that tea made from willow bark will help bring fever down and stop pa
 
 
 
-#[9](#page-9)
+# [9](#page-9)
 
 
 ## SUNKEN FONTANEL OR SOFT SPOT
@@ -225,7 +225,7 @@ Note: If the soft spot is swollen or bulges upward, this may be a sign of mening
 
 
 
-#[10](#page-10)
+# [10](#page-10)
 
 
 ## WAYS TO TELL WHETHER A HOME REMEDY WORKS OR NOT
@@ -256,7 +256,7 @@ These two remedies do not help at all. The first one can cause dangerous infecti
 
 
 
-#[11](#page-11)
+# [11](#page-11)
 
 
 ### 3. REMEDIES THAT USE ANIMAL OR HUMAN WASTE DO NO GOOD AND CAN CAUSE DANGEROUS INFECTIONS. NEVER USE THEM.
@@ -282,7 +282,7 @@ These remedies, and many other similar ones, have no curative value in themselve
 
 
 
-#[12](#page-12)
+# [12](#page-12)
 
 
 # MEDICINAL PLANTS
@@ -321,7 +321,7 @@ Chop finely, or crush, 4 cloves of garlic and mix with 1 glass of liquid (water,
 To treat vaginal infections with garlic, see [see page 241](#page-241) and [see page 242](#page-242).
 
 
-#[13](#page-13)
+# [13](#page-13)
 
 
 #### CARDON CACTUS (Pachycereus pecten-aboriginum)
@@ -356,7 +356,7 @@ First clean and wash out a pressure sore that has dead flesh in it. Then soak a 
 
 
 
-#[14](#page-14)
+# [14](#page-14)
 
 
 ## HOMEMADE CASTS — FOR KEEPING BROKEN BONES IN PLACE
@@ -386,7 +386,7 @@ Never put on a cast over a cut or a wound.
 
 
 
-#[15](#page-15)
+# [15](#page-15)
 
 
 ## ENEMAS, LAXATIVES, AND PURGES: WHEN TO USE THEM AND WHEN NOT TO
@@ -418,7 +418,7 @@ Do not make a habit of using laxatives often (see Constipation, [see page 126](#
 
 
 
-#[16](#page-16)
+# [16](#page-16)
 
 
 ## PURGES AND LAXATIVES THAT ARE OFTEN USED

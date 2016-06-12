@@ -6,7 +6,7 @@ index: true
 bookpage: 339
 ---
 
-#[339](#page-339)
+# [339](#page-339)
 
 # THE USES, DOSAGE, AND PRECAUTIONS FOR THE MEDICINES REFERRED TO IN THIS BOOK
 

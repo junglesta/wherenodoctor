@@ -5,7 +5,7 @@ index: true
 bookpage: 45
 ---
 
-#[45](#page-45)
+# [45](#page-45)
 
 For most sicknesses no medicines are needed. Our bodies have their own defenses, or ways to resist and fight disease. In most cases, these natural defenses are far more important to our health than are medicines.
 
@@ -27,7 +27,7 @@ Much of the art of health care does not—and should not—depend on use of medi
 If people simply learned how to use water correctly, this alone might do more to prevent and cure illnesses than all the medicines they now use. . .and misuse.
 
 
-#[46](#page-46)
+# [46](#page-46)
 
 # HEALING WITH WATER
 
@@ -52,7 +52,7 @@ On the next 2 pages are a number of other situations in which **it is often more
 
 
 
-#[47](#page-47)
+# [47](#page-47)
 
 # Times When the Right Use of Water May Do More Good than Medicines
 
@@ -87,7 +87,7 @@ drink plenty of liquids [152](page-152)
 5. cough, asthma, bronchitis, pneumonia / drink a lot of water and breathe hot water vapors (to loosen mucus) [166](page-166)
 
 
-#[48](#page-48)
+# [48](#page-48)
 
 
 **to treat / use water**

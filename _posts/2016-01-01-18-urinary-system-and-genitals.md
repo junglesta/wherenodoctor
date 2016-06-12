@@ -5,7 +5,7 @@ index: true
 bookpage: 233
 ---
 
-#[233](#page-233)
+# [233](#page-233)
 
 **The urinary system** or tract serves the body by removing waste material from the blood and getting rid of it in the form of urine:
 

@@ -5,7 +5,7 @@ index: true
 bookpage: 283
 ---
 
-#[283](#page-283)
+# [283](#page-283)
 
 # BOTH THESE FAMILIES LIVE IN POOR COMMUNITIES:
 

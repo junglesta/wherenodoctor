@@ -5,7 +5,7 @@ index: true
 bookpage: 179
 ---
 
-#[179](#page-179)
+# [179](#page-179)
 
 **The diseases covered in this chapter are often difficult or impossible to cure without medical help. Many need special medicines that are difficult to get in rural areas. Home remedies will not cure them. If a person has one of these illnesses,**
 
