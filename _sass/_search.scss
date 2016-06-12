@@ -1,13 +1,15 @@
 .search_input_block {
-  position: fixed;
+  // position: fixed;
   top: 0;
   left: 0;
   min-width: 100%;
   padding: 0;
   margin: 0;
   background-color: $background_color_tone;
-  ul.search_input_list {
+  .search_results_list {
+    list-style: none;
     margin-bottom:0!important;
     padding: 0;
+    padding-bottom: 1rem;
   }
 }

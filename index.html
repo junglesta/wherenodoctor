@@ -9,6 +9,8 @@
 
     {% include svg/defs.html %}
 
+    {% include script_search_view.html %}
+
     {% include cover.html %}
 
     <div class="page-content">
@@ -20,29 +22,7 @@
 
       <div id="{{id}}" class="{%if page.style%}addon {{page.style}}{%else%}chapter {% endif%}">
 
-        <div class="chapter_title">
-
-          <div class="wrapper">
-
-            <a class="site_logo" href="{{ site.baseurl }}/" alt ="{{ site.title }}" >
-
-              {% include svg/use.html id="icn--circlelogo" class="site_logo_svg--chapter" %}
-
-            </a>
-
-            {% if page.style %}
-              <small> </small>
-            {% else %}
-              <div class="chapter_no">{{ page.chapter }} </div>
-            {% endif %}
-
-            <h1>
-              {{ page.title }}
-            </h1>
-
-          </div>
-
-        </div>
+        {% include chapter_title.html %}
 
         <div class="wrapper">
 
@@ -62,7 +42,6 @@
 
     {% include footer.html %}
 
-    <!-- search better be first one -->
     {% include script_search.html %}
 
     {% include script_blank.html %}

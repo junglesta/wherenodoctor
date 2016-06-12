@@ -1,22 +1,25 @@
 
-<div id="search-container" class="search_input_block">
- <input type="text" id="search-input" placeholder="search...">
- <ul id="results-container" class="search_results_list"></ul>
-</div>
-
-
 <script src="{{ site.baseurl }}/assets/js/jekyll-search.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
   SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '{{ site.baseurl }}/search.json',
+  searchResultTemplate: '<li class="result"><a href="{url}" title="{desc}">{title}</a></li>'
+  })
+</script>
+
+<!-- <script type="text/javascript">
+  SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '{{ site.baseurl }}/search.json',
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-    noResultsText: 'No results found',
+    noResultsText: 'No results found. Try an other word.',
     limit: 10,
     fuzzy: false,
     exclude: ['Welcome']
   })
-</script>
+</script> -->

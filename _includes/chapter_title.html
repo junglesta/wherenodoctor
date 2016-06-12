@@ -1,0 +1,23 @@
+<div class="chapter_title">
+
+  <div class="wrapper">
+
+    <a class="site_logo" href="{{ site.baseurl }}/#top" alt ="{{ site.title }}" >
+
+      {% include svg/use.html id="icn--circlelogo" class="site_logo_svg--chapter" %}
+
+    </a>
+
+    {% if page.style %}
+      <small> </small>
+    {% else %}
+      <div class="chapter_no">{{ page.chapter }} </div>
+    {% endif %}
+
+    <h1>
+      {{ page.title }}
+    </h1>
+
+  </div>
+
+</div>
