@@ -11,8 +11,8 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # Status:
 - Many chapters to be completed
-- Chapters that have full text, right now: **[1,2,3,4,5]**
-- Chapters that have all links working, right now: **[content]**
+- Chapters with full text: **[1,2,3,4,5]**
+- Chapters with all links working: **[content]**
 - Plan to make it working off-line too via serviceworkers.
 - As second step make it easily translatable.
 
