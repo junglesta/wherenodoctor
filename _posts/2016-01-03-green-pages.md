@@ -5,6 +5,8 @@ style: green
 index: true
 bookpage: 339
 ---
+* TOC
+{:toc}
 
 # THE USES, DOSAGE, AND PRECAUTIONS FOR THE MEDICINES REFERRED TO IN THIS BOOK
 
@@ -14,10 +16,9 @@ If you want information on a medicine, look for the name of that medicine in the
 
 Medicines are listed according to their generic (scientific) names rather than their brand names (names given by the companies that make them). This is because generic names are similar everywhere, but brand names differ from place to place. **Also, medicines are often much cheaper when you buy generic rather than brand‐name products.**
 
-In a few cases, well-known brand names are given after the generic name. In this book brand names are written in italics and begin with a capital letter. For example, Phenergan is a brand name for an antihistamine called **promethazine** (promethazine is the generic name).
+In a few cases, well-known brand names are given after the generic name. In this book brand names are written in _italics_ and begin with a Capital letter. For example, Phenergan is a brand name for an antihistamine called **promethazine** (promethazine is the generic name).
 
-With the information on each medicine, blank spaces_____________ have
-been left for you to **write in** the name and price of the most common or least expensive product in your area. For example, if the cheapest or only available form of tetracycline in your area is Terramycin, you would write in the blank spaces as follows:
+With the information on each medicine, blank spaces _ _ _ _ _ have been left for you to **write in** the name and price of the most common or least expensive product in your area. For example, if the cheapest or only available form of tetracycline in your area is Terramycin, you would write in the blank spaces as follows:
 
 
 >_Note:_ Not all the medicines listed in the Green Pages are needed in your Home or Village Medicine kit. Because different medicines are available in different countries, information has sometimes been given for a number of medicines that do the same job. However, it is wise to
@@ -39,7 +40,7 @@ been left for you to **write in** the name and price of the most common or least
 
 ### DECIDING DOSAGE BY HOW MUCH A PERSON WEIGHS
 
-In these pages most instructions for dosage are given according to the age of a person—so that children get smaller doses than adults. However, it is more exact to determine dosage according to a person’s weight. Information for doing this is sometimes included briefly in parentheses ( ), for use of health workers who have scales. If you read.
+In these pages most instructions for dosage are given according to the age of a person, so that children get smaller doses than adults. However, it is more exact to determine dosage according to a person’s weight. Information for doing this is sometimes included briefly in parentheses ( ), for use of health workers who have scales. If you read.
 
 **(100 mg/kg/day),**
 
@@ -138,7 +139,7 @@ This is one way to figure the dosages for different medicines. For more informat
 |Mefloquine|365|
 |Amodiaquine|365|
 |Quinine|365|
-|Chloroquine|366
+|Chloroquine|366|
 |Primaquine|367|
 |Proguanil|367|
 

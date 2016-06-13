@@ -4,6 +4,8 @@ chapter: 22
 index: true
 bookpage: 232
 ---
+* TOC
+{:toc}
 
 This chapter is about the prevention and treatment of problems seen mostly in older persons.
 
@@ -16,7 +18,7 @@ After the age of 40, many people have problems seeing close objects clearly. The
 
 Everyone over age 40 should watch for signs of glaucoma, which can cause blindness if left untreated. Any person with signs of glaucoma (see p. 222) should seek medical help.
 
-Cataracts (see p. 225) and ‘floaters’ before the eyes (tiny moving spots—p. 227) are also common problems of old age.
+Cataracts (see p. 225) and ‘floaters’ before the eyes (tiny moving spots, p. 227) are also common problems of old age.
 
 ## Weakness, Tiredness, and Eating Habits
 
@@ -25,7 +27,7 @@ Old people understandably have less energy and strength than when they were youn
 ## Swelling of the Feet
 
 (see p. 176)  
-This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see p. 325). Whatever the cause, keeping the feet up is the best treatment. Walking helps too—but do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
+This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see p. 325). Whatever the cause, keeping the feet up is the best treatment. Walking helps too, but do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
 
 ## Chronic Sores of the Legs or Feet
 
@@ -75,7 +77,7 @@ Heart disease is more frequent in older people, especially in those who are fat,
 
   - Anxiety and dif culty in breathing after exercise; asthma-like attacks that get worse when the person lies down (cardiac asthma).
   - A rapid, weak, or irregular pulse.
-  - Swelling of the feet— worse in the afternoons.
+  - Swelling of the feet,  worse in the afternoons.
 
 ### Treatment:
 
@@ -83,6 +85,9 @@ Heart disease is more frequent in older people, especially in those who are fat,
   - Sudden, painful attacks in the chest, left shoulder, or arm that occur when exercising and go away after resting for a few minutes (angina pectoris).
   - A sharp pain like a great weight crushing the chest; does not go away with rest (heart attack).
   - In women, a feeling like indigestion, nausea, clamminess, spasms, jaw pain (heart attack).
+
+# [233](#page-233)
+{:.no_toc}
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming

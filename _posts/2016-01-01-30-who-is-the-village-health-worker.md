@@ -5,6 +5,8 @@ index: true
 style: brown
 bookpage: w1
 ---
+* TOC
+{:toc}
 
 # Who is the village health worker?
 
@@ -41,6 +43,7 @@ Perhaps you can get small groups together to read a chapter at a time and discus
 THE VILLAGE HEALTH WORKER LIVES AND WORKS WITH HIS PEOPLE. HIS FIRST JOB IS TO SHARE HIS KNOWLEDGE.
 
 # [w2](#page-w2)
+{:.no_toc}
 
 Dear Village Health Worker,
 
@@ -60,7 +63,7 @@ Kindness often helps more than medicine. Never be afraid to show you care.
 
 ### 2. SHARE YOUR KNOWLEDGE.
 
-As a health worker, your first job is to teach. This means helping people learn more about how to keep from getting sick. It also means helping people learn how to recognize and manage their illnesses—including the sensible use of home remedies and common medicines.
+As a health worker, your first job is to teach. This means helping people learn more about how to keep from getting sick. It also means helping people learn how to recognize and manage their illnesses, including the sensible use of home remedies and common medicines.
 
 There is nothing you have learned that, if carefully explained, should be of danger to anyone. Some doctors talk about self-care as if it were dangerous, perhaps because they like people to depend on their costly services. But in truth, most common health problems could be handled earlier and better by people in their own homes.
 
@@ -68,6 +71,7 @@ LOOK FOR WAYS TO SHARE YOUR KNOWLEDGE.
 
 
 # [w3](#page-w3)
+{:.no_toc}
 
 ### 3. RESPECT YOUR PEOPLE’S TRADITIONS AND IDEAS.
 
@@ -86,15 +90,16 @@ People are slow to change their attitudes and traditions, and with good reason. 
 
 Modern medicine does not have all the answers either. It has helped solve some problems, yet has led to other, sometimes even bigger ones. People quickly come to depend too much on modern medicine and its experts, to overuse medicines, and to forget how to care for themselves and each other.
 
-So go slow—and always keep a deep respect for your people, their traditions, and their human dignity. Help them build on the knowledge and skills they already have.
+So go slow, and always keep a deep respect for your people, their traditions, and their human dignity. Help them build on the knowledge and skills they already have.
 
-WORK WITH TRADITIONAL HEALERS AND MIDWIVES— NOT AGAINST THEM.
+WORK WITH TRADITIONAL HEALERS AND MIDWIVES,  NOT AGAINST THEM.
 
 Learn from them and encourage them to learn from you.
 
 
 
 # [w4](#page-w4)
+{:.no_toc}
 
 
 
@@ -112,7 +117,7 @@ But if the mother is bleeding very heavily and you are a long way from the healt
 
 Do not take unnecessary chances. But when the danger is clearly greater if you do nothing, do not be afraid to try something you feel reasonably sure will help.
 
-Know your limits—but also use your head. Always do your best to protect the sick person rather than yourself.
+Know your limits, but also use your head. Always do your best to protect the sick person rather than yourself.
 
 
 5. KEEP LEARNING.
@@ -125,7 +130,7 @@ Never pass up the chance to take refresher courses or get additional training.
 
 Your first job is to teach, and unless you keep learning more, soon you will not have anything new to teach others.
 
-**KEEP LEARNING** _— Do not let anyone tell you there are things you should not learn or know._
+**KEEP LEARNING** _,  Do not let anyone tell you there are things you should not learn or know._
 
 6. PRACTICE WHAT YOU TEACH.
 
@@ -133,7 +138,7 @@ People are more likely to pay attention to what you do than what you say. As a h
 
 Before you ask people to make latrines, be sure your own family has one.
 
-Also, if you help organize a work group—for example, to dig a common garbage hole—be sure you work and sweat as hard as everyone else.
+Also, if you help organize a work group, for example, to dig a common garbage hole, be sure you work and sweat as hard as everyone else.
 
 _PRACTICE WHAT YOU TEACH. (Or who will listen to you?)_
 
@@ -144,7 +149,7 @@ _PRACTICE WHAT YOU TEACH. (Or who will listen to you?)_
 
 If you want other people to take part in improving their village and caring for their health, you must enjoy such activity yourself. If not, who will want to follow your example?
 
-Try to make community work projects fun. For example, fencing off the public water hole to keep animals away from where people take water can be hard work. But if the whole village helps do it as a ‘work festival’—perhaps with refreshments and music—the job will be done quickly and can be fun.
+Try to make community work projects fun. For example, fencing off the public water hole to keep animals away from where people take water can be hard work. But if the whole village helps do it as a ‘work festival’, perhaps with refreshments and music, the job will be done quickly and can be fun.
 
 Children will work hard and enjoy it, if they can turn work into play.
 
@@ -152,10 +157,10 @@ You may or may not be paid for your work. But never refuse to care, or care less
 This way you will win your people’s love and respect. These are worth far more than money.
 
 
-_WORK FIRST FOR THE PEOPLE—NOT THE MONEY. (People are worth more.)_
+_WORK FIRST FOR THE PEOPLE, NOT THE MONEY. (People are worth more.)_
 
 
-8. LOOK AHEAD—AND HELP OTHERS TO LOOK AHEAD.
+8. LOOK AHEAD, AND HELP OTHERS TO LOOK AHEAD.
 
 A responsible health worker does not wait for people to get sick. She tries to stop sickness before it starts. She encourages people to take action now to protect their health and well-being in the future.
 
@@ -211,17 +216,17 @@ w7
 
 Because you have grown up in your community and know your people well, you are already familiar with many of their health problems. You have an inside view. But in order to see the whole picture, you will need to look carefully at your community from many points of view.
 
-As a village health worker, your concern is for the well-being of all the people—not just those you know well or who come to you. Go to your people. Visit their homes, fields, gathering places, and schools. Understand their joys and concerns. Examine with them their habits, the things in their daily lives that bring about good health, and those that may lead to sickness or injury.
+As a village health worker, your concern is for the well-being of all the people, not just those you know well or who come to you. Go to your people. Visit their homes, fields, gathering places, and schools. Understand their joys and concerns. Examine with them their habits, the things in their daily lives that bring about good health, and those that may lead to sickness or injury.
 
 Before you and your community attempt any project or activity, carefully think about what it will require and how likely it is to work. To do this, you must consider all the following:
 
-1. Felt needs—what people feel are their biggest problems.
+1. Felt needs, what people feel are their biggest problems.
 
-2. Real needs—steps people can take to correct these problems in a lasting way.
+2. Real needs, steps people can take to correct these problems in a lasting way.
 
-3. Willingness—or readiness of people to plan and take the needed steps.
+3. Willingness, or readiness of people to plan and take the needed steps.
 
-4. Resources—the persons, skills, materials, and/or money needed to carry out the activities decided upon.
+4. Resources, the persons, skills, materials, and/or money needed to carry out the activities decided upon.
 
 As a simple example of how each of these things can be important, let us suppose that a man who smokes a lot comes to you complaining of a cough that has steadily been getting worse.
 
@@ -241,7 +246,7 @@ As a health worker, you will first want to find out your people’s most importa
 
 On the next 2 pages are samples of the kinds of things you may want to ask. But think of questions that are important in your area. Ask questions that not only help you get information, but that get others asking important questions themselves.
 
-Do not make your list of questions too long or complicated—especially a list you take from house to house. Remember, people are not numbers and do not like to be looked at as numbers. As you gather information, be sure your first interest is always in what individuals want and feel. It may be better not even to carry a list of questions. But in considering the needs of your community, you should keep certain basic questions in mind.
+Do not make your list of questions too long or complicated, especially a list you take from house to house. Remember, people are not numbers and do not like to be looked at as numbers. As you gather information, be sure your first interest is always in what individuals want and feel. It may be better not even to carry a list of questions. But in considering the needs of your community, you should keep certain basic questions in mind.
 
 ### Sample Lists of Questions
 
@@ -251,7 +256,7 @@ To Help Determine Community Health Needs and at the Same Time Get People Thinkin
 
 What things in your people’s daily lives (living conditions, ways of doing things, beliefs, etc.) do they feel help them to be healthy?
 
-What do people feel to be their major problems, concerns, and needs—not only those related to health, but in general?
+What do people feel to be their major problems, concerns, and needs, not only those related to health, but in general?
 
 #### HOUSING AND SANITATION
 
@@ -313,7 +318,7 @@ What other preventive measures are being taken? What others might be taken? How 
 
 #### SELF-HELP
 
-What are the most important things that affect your people’s health and well-being—now and in the future?
+What are the most important things that affect your people’s health and well-being, now and in the future?
 
 How many of their common health problems can people care
 for themselves? How much must they rely on outside help and medication?

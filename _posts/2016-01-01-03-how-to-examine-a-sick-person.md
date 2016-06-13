@@ -4,10 +4,12 @@ chapter: 03
 index: true
 bookpage: 29
 ---
+* TOC
+{:toc}
 
 To find out the needs of a sick person, first you must ask important questions and then examine him carefully. You should look for signs and symptoms that help you tell how ill the person is and what kind of sickness he may have.
 
-Always examine the person where there is good light, preferably in the sunlight — **never** in a dark room.
+Always examine the person where there is good light, preferably in the sunlight ,  **never** in a dark room.
 
 There are certain basic things to ask and to look for in anyone who is sick. These include things the sick person feels or reports (symptoms), as well as things you notice on examining him (signs). These signs can be especially important in babies and persons unable to talk. In this book the word ‘signs’ is used for both symptoms and signs.
 
@@ -38,6 +40,7 @@ Can you sleep with the pain?
 If the sick person is a baby who still does not talk, look for signs of pain. Notice his movements and how he cries. (For example, a child with an earache sometimes rubs the side of his head or pulls at his ear.)
 
 # [30](#page-30)
+{:.no_toc}
 
 # GENERAL CONDITION OF HEALTH
 
@@ -79,13 +82,14 @@ For example:
 
 
 # [31](#page-31)
+{:.no_toc}
 
 # HOW TO USE A THERMOMETER
 
 Every family should have a thermometer. Take the temperature of a sick person
 4 times a day and always write it down (see p. 462).
 
-How to read the thermometer (using one marked in degrees centigrade—°C):
+How to read the thermometer (using one marked in degrees centigrade, °C):
 
  - Turn the thermometer until you can see the silver line.
 
@@ -120,10 +124,11 @@ _Note:_ In newborn babies a temperature that is unusually high or unusually low 
 ♦ To learn what to do for a fever, see p. 75.  
 
 # [32](#page-32)
+{:.no_toc}
 
 # BREATHING (RESPIRATION)
 
-Pay special attention to the way the sick person breathes—the depth (deep or shallow), rate (how often breaths are taken), and difficulty. Notice if both sides of the chest move equally when she breathes.
+Pay special attention to the way the sick person breathes, the depth (deep or shallow), rate (how often breaths are taken), and difficulty. Notice if both sides of the chest move equally when she breathes.
 
 If you have a watch or simple timer, count the number of breaths per minute (when the person is quiet).
 
@@ -161,6 +166,7 @@ children - 80 to 100
 babies - 100 to 140
 
 # [33](#page-33)
+{:.no_toc}
 
 The pulse gets much faster with exercise and when a person is nervous, frightened, or has a fever. As a general rule, the pulse increases 20 beats per minute for each degree (°C) rise in fever.
 
@@ -197,13 +203,17 @@ A big difference in the size of the pupils is almost always a medical emergency.
 
 
 # [34](#page-34)
+{:.no_toc}
 
 EARS, THROAT, AND NOSE
-Ears: Always check for signs of pain and infection in the ears-especially in a child with fever or a cold. A baby who cries a lot or pulls at his ear may have an ear infection (p. 309).
+
+**Ears**: Always check for signs of pain and infection in the ears-especially in a child with fever or a cold. A baby who cries a lot or pulls at his ear may have an ear infection (p. 309).
+
 Pull the ear gently. If this increases pain, the infection is probably in the tube of the ear (ear canal). Also look for redness or pus inside the ear. A small flashlight or penlight will help. But never put a stick, wire, or other hard object inside the ear.
-Find out if the person hears well, or if one side is
-more deaf than the other. Rub your thumb and fingers together near the person’s ear to see if he can hear it. For deafness and ringing of the ears see page 327.
+Find out if the person hears well, or if one side is more deaf than the other. Rub your thumb and fingers together near the person’s ear to see if he can hear it. For deafness and ringing of the ears see page 327.
+
 Throat and Mouth: With a torch (flashlight) or sunlight examine the mouth and throat. To do this hold down tongue with a spoon handle or have the person say ‘ahhhhh...’ Notice if the throat is red and if the tonsils (2 lumps at the back of the throat) are swollen or have spots with pus (see p. 309). Also examine the mouth for sores, inflamed gums, sore tongue, rotten or abscessed teeth and other problems. (Read Chapter 17.)
+
 Nose: Is the nose runny or plugged? (Notice if and how a baby breathes through his nose.) Shine a light inside and look for mucus, pus, blood; also look for redness, swelling, or bad smell. Check for signs of sinus trouble or hay fever (p. 165).
 
 ### SKIN
@@ -236,6 +246,7 @@ For identification of different skin problems, see pages 196–198.
 
 
 # [34](#page-34)
+{:.no_toc}
 
 # THE BELLY (ABDOMEN)
 
@@ -250,7 +261,7 @@ First, ask the person to point with one finger where it hurts.
 
 Then, beginning on the opposite side from the spot where he has pointed, press gently on different parts of the belly to see where it hurts most.
 
-See if the belly is soft or hard and whether the person can relax his stomach muscles. A very hard belly could mean an acute abdomen—perhaps appendicitis or peritonitis (see p. 94).
+See if the belly is soft or hard and whether the person can relax his stomach muscles. A very hard belly could mean an acute abdomen, perhaps appendicitis or peritonitis (see p. 94).
 
 If you suspect peritonitis or appendicitis, do the test for rebound pain described on page 95.
 
@@ -263,6 +274,7 @@ Listen for gurgles in the intestines. If you hear nothing after about 2 minutes,
 >**A silent belly is like a silent dog. Beware!**
 
 # [36](#page-36)
+{:.no_toc}
 
 These pictures show the areas of the belly that usually hurt when a person has the following problems:
 
@@ -295,7 +307,7 @@ _Note:_ For different causes of back pain, see p. 173
 
 
 # [37](#page-37)
-
+{:.no_toc}
 
 # MUSCLES AND NERVES
 
@@ -309,7 +321,7 @@ If it came slowly, it may be a brain tumor. Get medical advice.
 
 Also check for normal eye movement, size of pupils (p. 217), and how well he can see.
 
-**Arms and legs:** Look for loss of muscle. Notice—or measure— difference in thickness of arms or legs.
+**Arms and legs:** Look for loss of muscle. Notice, or measure,  difference in thickness of arms or legs.
 
 Watch how he moves and walks. If muscle loss or weakness affects the whole body, suspect malnutrition (p. 112) or a chronic (long-term) illness like tuberculosis.
 
@@ -330,6 +342,7 @@ If muscle loss and weakness is uneven or worse on one side, in children, think f
 For more information on muscle testing and physical examination of disabled persons, see Disabled Village Children, Chapter 4.
 
 # [38](#page-38)
+{:.no_toc}
 
 ### Check for stiffness or tightness of different muscles:
 

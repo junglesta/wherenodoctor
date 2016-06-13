@@ -4,6 +4,8 @@ chapter: 07
 index: true
 bookpage: 55
 ---
+* TOC
+{:toc}
 
 When used correctly, antibiotics are extremely useful and important medicines. They fight certain infections and diseases caused by bacteria. Well-known antibiotics are penicillin, tetracycline, erythromycin, cotrimoxazole, and ciprofloxacin.
 
@@ -17,7 +19,8 @@ There are many kinds of antibiotics, and each kind is sold under several ‘bran
 |PENICILLINS|penicillin, ampicillin, amoxicillin|Pen-V-K|350|
 |MACROLIDES|erythromycin|Erythrocin|354|
 
-
+# [56](#page-56)
+{:.no_toc}
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming

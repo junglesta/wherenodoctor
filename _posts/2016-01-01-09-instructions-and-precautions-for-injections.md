@@ -4,11 +4,12 @@ chapter: 9
 index: true
 bookpage: 65
 ---
-
+* TOC
+{:toc}
 
 # WHEN TO INJECT AND WHEN NOT TO
 
-Injections are not needed often. Most sicknesses that require medical treatment can be treated as well or better with medicines taken by mouth. Each year, millions of people—especially children—become ill, disabled, or die as a result of unnecessary injections. Combating misuse and overuse of medicines is as important to good health as vaccination, clean water, or the correct use of latrines. As a general rule:
+Injections are not needed often. Most sicknesses that require medical treatment can be treated as well or better with medicines taken by mouth. Each year, millions of people, especially children, become ill, disabled, or die as a result of unnecessary injections. Combating misuse and overuse of medicines is as important to good health as vaccination, clean water, or the correct use of latrines. As a general rule:
 
 >It is more dangerous to inject medicine than to take it by mouth.
 
@@ -33,6 +34,8 @@ Doctors and other health workers sometimes prescribe injections when they are no
 
 In case of the following sicknesses, get medical help as fast as you can. If there will be any delay in getting help or in taking the sick person to a health center, inject the appropriate medicine as soon as possible. For details of the doses, consult the pages listed below. Before injecting, know the possible side effects and take the needed precautions (see the Green Pages).
 
+# [65](#page-65)
+{:.no_toc}
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming

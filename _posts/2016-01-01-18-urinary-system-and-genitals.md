@@ -4,6 +4,8 @@ chapter: 18
 index: true
 bookpage: 233
 ---
+* TOC
+{:toc}
 
 **The urinary system** or tract serves the body by removing waste material from the blood and getting rid of it in the form of urine:
 
@@ -49,6 +51,11 @@ There are many different problems of the urinary tract. They are not always easy
   3. Prostate trouble (difficulty passing urine caused by an enlarged prostate gland; most common in older men).
   4. Gonorrhea or chlamydia (infectious diseases spread by sexual contact that often cause difficulty or pain in passing urine).
   5. In some parts of the world schistosomiasis (blood flukes) is the most common cause of blood in the urine. This is discussed with other worm infections. See page 146.
+
+
+# [234](#page-234)
+{:.no_toc}
+
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming

@@ -4,6 +4,8 @@ chapter: 04
 index: true
 bookpage: 39
 ---
+* TOC
+{:toc}
 
 Sickness weakens the body. To gain strength and get well quickly, special care is needed.
 
@@ -28,6 +30,7 @@ His clothes, sheets, and covers must also be kept clean. Take care to keep crumb
 
 
 # [40](#page-40)
+{:.no_toc}
 
 # 4. Good Food
 
@@ -37,7 +40,7 @@ A sick person should drink plenty of liquids and eat a lot of nourishing food (s
 
 If the person is very weak, give him as much nourishing food as he can eat, many times a day. If necessary, mash the foods, or make them into soups or juices.
 
-Energy foods are especially important—for example, porridges of rice, wheat, oatmeal, potato, or cassava. Adding a little sugar and vegetable oil will increase the energy. Also encourage the sick person to drink plenty of sweetened drinks, especially if he will not eat much.
+Energy foods are especially important, for example, porridges of rice, wheat, oatmeal, potato, or cassava. Adding a little sugar and vegetable oil will increase the energy. Also encourage the sick person to drink plenty of sweetened drinks, especially if he will not eat much.
 
 _A few problems do require special diets. These are explained on the following pages:_
 
@@ -64,6 +67,7 @@ If the person is not drinking or urinating enough, or if he begins to show signs
 If he will not drink these, give him a Rehydration Drink (see p. 152). If he cannot drink enough of this, and develops signs of dehydration, a health worker may be able to give him intravenous solution. But the need for this can usually be avoided if the person is urged to take small sips often.
 
 # [41](#page-41)
+{:.no_toc}
 
 # 2. Food
 
@@ -90,6 +94,7 @@ Also write down the amount of liquids the person drinks and how many times a day
 It is very important to look for signs that warn you that the person’s sickness is serious or dangerous. A list of Signs of Dangerous Illness is on the next page. If the person shows any of these signs, seek medical help immediately.
 
 # [42](#page-42)
+{:.no_toc}
 
 # SIGNS OF DANGEROUS ILLNESS
 
@@ -152,6 +157,7 @@ brought down or that lasts more than 4 or 5 days 75
 
 
 # [43](#page-43)
+{:.no_toc}
 
 # WHEN AND HOW TO LOOK FOR MEDICAL HELP
 
@@ -176,6 +182,8 @@ On the next page is a form on which you can make a PATIENT REPORT. Several copie
 
 
 # [44](#page-44)
+{:.no_toc}
+
 
 #### PATIENT REPORT
 

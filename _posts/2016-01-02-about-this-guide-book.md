@@ -3,6 +3,8 @@ title: "about this guide book"
 chapter: about
 style: grey
 ---
+* TOC
+{:toc}
 
 ## About the offline-enabled web app
 
@@ -58,7 +60,7 @@ Please send Hesperian a copy of any materials in which text or illustrations fro
 
 ### Original Printed Edition thanks
 
-This 2015 revision of **Where There Is No Doctor** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions—these have guided us in updating this information.
+This 2015 revision of **Where There Is No Doctor** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
 
 **David Werner** is the author of the original Spanish and English versions of the book. His vision, caring, and commitment are present on every page.
 
@@ -89,4 +91,4 @@ Our thanks to Val Price, Al Hotti, Kathleen Tandy, Max Capestany, Rudolf Bock, K
 
 We are grateful for financial support from the Carnegie Corporation, Flora Family Foundation, Ford Foundation, Grousebeck Family Foundation, Moriah Fund, Gladys and Merrill Muttart Foundation, Myra Polinger, the Public Welfare Foundation, Misereor, the W.K. Kellogg Foundation, the Sunflower Foundation, the Edna McConnell Clark Foundation, and West Foundation.
 
-Finally, our warm thanks to the village health workers of Project Piaxtla in rural Mexico — especially Martín Reyes, Miguel Angel Manjárrez, Miguel Angel Alvarez, and Roberto Fajardo, whose experience and commitment provided the foundation for this book.
+Finally, our warm thanks to the village health workers of Project Piaxtla in rural Mexico ,  especially Martín Reyes, Miguel Angel Manjárrez, Miguel Angel Alvarez, and Roberto Fajardo, whose experience and commitment provided the foundation for this book.

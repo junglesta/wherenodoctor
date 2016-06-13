@@ -4,12 +4,14 @@ chapter: 11
 index: true
 bookpage: 107
 ---
+* TOC
+{:toc}
 
 # SICKNESSES CAUSED BY NOT EATING WELL
 
 Good food is needed for a person to grow well, work hard, and stay healthy. Many common sicknesses come from not eating enough.
 
-A person who is weak or sick because he does not eat enough, or does not eat the foods his body needs, is said to be poorly nourished—or malnourished. He suffers from malnutrition.
+A person who is weak or sick because he does not eat enough, or does not eat the foods his body needs, is said to be poorly nourished, or malnourished. He suffers from malnutrition.
 Poor nutrition can result in the following health problems:
 
 
@@ -70,7 +72,7 @@ Not eating well may be the direct cause of the health problems just listed. But 
 
 Not only does good food help prevent disease, it helps the sick body fight disease and become well again. So when a person is sick, eating enough nutritious food is especially important.
 
-Unfortunately, some mothers stop feeding a child or stop giving certain nutritious foods when he is sick or has diarrhea—so the child becomes weaker, cannot fight off the illness, and may die. **Sick children need food! If a sick child will not eat, encourage him to do so.**
+Unfortunately, some mothers stop feeding a child or stop giving certain nutritious foods when he is sick or has diarrhea, so the child becomes weaker, cannot fight off the illness, and may die. **Sick children need food! If a sick child will not eat, encourage him to do so.**
 
 Feed him as much as he will eat and drink. And be patient. A sick child often does not want to eat much. So feed him something many times during the day. Also, try to make sure that he drinks a lot of liquid so that he pees (passes urine) several times a day. If the child will not take solid foods, mash them and give them as a mush or gruel.
 
@@ -99,7 +101,7 @@ A malnourished child does not grow well. She generally is thinner and shorter th
 **Checking Children for Malnutrition: The Sign of the Upper Arm**
 
 After 1 year of age, any child whose middle
-upper arm measures less than 11 1⁄2 cm. around is malnourished — no matter how ‘fat’ his feet, hands, and face may look. If the arm measures between 11 1⁄2 and 12 1⁄2 cm., he is at risk of becoming malnourished.
+upper arm measures less than 11 1⁄2 cm. around is malnourished ,  no matter how ‘fat’ his feet, hands, and face may look. If the arm measures between 11 1⁄2 and 12 1⁄2 cm., he is at risk of becoming malnourished.
 
 Another good way to tell if a child is well nourished or poorly nourished is to weigh him regularly: once a month in the first year, then once every 3 months. A healthy, well nourished child gains weight regularly. The weighing of children and the use of the Child Health Chart are discussed fully in Chapter 21.
 
@@ -114,11 +116,11 @@ However, the main food alone is not enough to keep a person healthy. Certain hel
 Even if a child regularly gets enough of the main food to fill her, she may become thin and weak. This is because the main food often has so much water and fiber in it, that the child’s belly fills up before she gets enough energy to help her grow.
 We can do 2 things to help meet such children’s energy needs:
 
-  1. Feed children more often—at least 5 times a day when a child is very young, too thin, or not growing well. Also give her snacks between meals.
+  1. Feed children more often, at least 5 times a day when a child is very young, too thin, or not growing well. Also give her snacks between meals.
 
   >CHILDREN, LIKE CHICKENS, SHOULD ALWAYS BE PECKING.
 
-  2. Also add high energy ‘helper foods’ such as oils and sugar or honey to the main food. It is best to add vegetable oil or foods containing oils—nuts, groundnuts (peanuts), or seeds, especially pumpkin or sesame seeds.
+  2. Also add high energy ‘helper foods’ such as oils and sugar or honey to the main food. It is best to add vegetable oil or foods containing oils, nuts, groundnuts (peanuts), or seeds, especially pumpkin or sesame seeds.
 
   >If the child’s belly fills up before her energy needs are met, the child will become thin and weak.
 
@@ -135,7 +137,7 @@ Also try to add protective foods such as orange or yellow fruits and vegetables,
 
 #EATING RIGHT TO STAY HEALTHY
 
-The ‘main food’ your family eats usually provides most—but not all—of the body’s energy and other nutritional needs. By adding helper foods to the main food you can make low cost nutritious meals. You do not have to eat all the foods listed here to be healthy. Eat the main foods you are accustomed to, and add whatever ‘helper foods’ are available in your area. Try to include ‘helper foods’ from each group, as often as possible.
+The ‘main food’ your family eats usually provides most, but not all, of the body’s energy and other nutritional needs. By adding helper foods to the main food you can make low cost nutritious meals. You do not have to eat all the foods listed here to be healthy. Eat the main foods you are accustomed to, and add whatever ‘helper foods’ are available in your area. Try to include ‘helper foods’ from each group, as often as possible.
 
 
 REMEMBER: Feeding children enough and feeding them often (3 to 5 times a day) is usually more important than the types of food you feed them.
@@ -143,7 +145,8 @@ REMEMBER: Feeding children enough and feeding them often (3 to 5 times a day) is
 
 **_Note to nutrition workers:_** This plan for meeting food needs resembles teaching about ‘food groups’, but places more importance on giving enough of the traditional ‘main food’ and above all, giving frequent feedings with plenty of energy-rich helpers. This approach is more adaptable to the resources and limitations of poor families.
 
-
+# [108](#page-108)
+{:.no_toc}
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming

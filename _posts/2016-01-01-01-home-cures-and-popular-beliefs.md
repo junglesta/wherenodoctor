@@ -4,7 +4,8 @@ chapter: 01
 index: true
 bookpage: 1
 ---
-
+* TOC
+{:toc}
 
 Everywhere on earth people use home remedies. In some places, the older or traditional ways of healing have been passed down from parents to children for hundreds of years.
 
@@ -15,7 +16,7 @@ know exactly how to use them.
 
 # HOME CURES THAT HELP
 
-For many sicknesses, time-tested home remedies work as well as modern medicines— or even better. They are often cheaper. And in some cases they are safer.
+For many sicknesses, time-tested home remedies work as well as modern medicines,  or even better. They are often cheaper. And in some cases they are safer.
 
 For example, many of the herbal teas people use for home treatment of coughs and colds do more good and cause fewer problems than cough syrups and strong medicines some doctors prescribe.
 
@@ -31,12 +32,14 @@ Sicknesses like pneumonia, tetanus, typhoid, tuberculosis, appendicitis, disease
 It is sometimes hard to be sure which home remedies work well and which do not. More careful studies are needed. For this reason:
 
 
->**It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible**
+>**It is often safer to treat very serious illnesses with modern medicine, following the advice of a health worker if possible**
 
 
 # [2](#page-2)
+{:.no_toc}
 
-## Old Ways and New
+
+# Old Ways and New
 
 Some modern ways of meeting health needs work better than old ones. But at times the older, traditional ways are best. For example, traditional ways of caring for children or old people are often kinder and work better than some newer, less personal ways.
 Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, [see page 271](#page-271).
@@ -49,30 +52,40 @@ For more ideas for building on local traditions, see Helping Health Workers Lear
 
 # BELIEFS THAT CAN MAKE PEOPLE WELL
 
+## The healing power of belief can be very strong
+
 Some home remedies have a direct effect on the body. Others seem to work only because people believe in them. **The healing power of belief can be very strong.**
 
-For example, I once saw a man who suffered from a very bad headache. To cure him, a woman gave him a small piece of yam, or sweet potato. She
-told him it was a strong painkiller. He believed her—and the pain went away quickly.
+For example, I once saw a man who suffered from a very bad headache. To cure him, a woman gave him a small piece of yam, or sweet potato. She told him it was a strong painkiller. He believed her, and the pain went away quickly.
 
-It was his faith in her treatment, and not the yam itself, that made him feel better. Many home remedies work in this way. They help largely because people have faith in them. For this reason, they are **especially useful to cure illnesses that are partly in people’s minds, or those caused in part by a person’s beliefs, worry, or fears.**
+It was his faith in her treatment, and not the yam itself, that made him feel better. Many home remedies work in this way. They help largely because people have faith in them.
 
-Included in this group of sicknesses are: bewitchment or hexing, unreasonable or hysterical fear, uncertain ‘aches and pains’ (especially in persons going through stressful times, such as teenage girls or older women), and anxiety or nervous worry. Also included are some cases of asthma, hiccups, indigestion, stomach ulcers, migraine headaches, and even warts.
+For this reason, they are **especially useful to cure illnesses that are partly in people’s minds, or those caused in part by a person’s beliefs, worry, or fears.**
+
+Included in this group of sicknesses are: bewitchment or hexing, unreasonable or hysterical fear, uncertain ‘aches and pains’ (especially in persons going through stressful times, such as teenage girls or older women), and anxiety or nervous worry.
+
+Also included are some cases of asthma, hiccups, indigestion, stomach ulcers, migraine headaches, and even warts.
+
+## What it often comes down to is showing you care
 
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
 
 
 # [3](#page-3)
+{:.no_toc}
 
 Sometimes a person’s belief in a remedy can help with problems that have completely physical causes.
 
 For example, Mexican villagers have the following home cures for poisonous snakebite:
 
-1. to use ‘guaco’ leaves
-2. to bite the snake
-3. to apply tobacco
-4. to apply the skin of a poisonous lizard
+ 1. to use ‘guaco’ leaves
+ 2. to bite the snake
+ 3. to apply tobacco
+ 4. to apply the skin of a poisonous lizard
 
-In other lands people have their own snakebite remedies—often many different ones. As far as we know, none of these home remedies has any direct effect against snake poison. The person who says that a home remedy kept a snake’s poison from harming him at all was probably bitten by a non-poisonous snake!
+In other lands people have their own snakebite remedies, often many different ones. As far as we know, none of these home remedies has any direct effect against snake poison. The person who says that a home remedy kept a snake’s poison from harming him at all was probably bitten by a non-poisonous snake!
+
+## May do some good if a person believes in it
 
 Yet any of these home remedies may do some good if a person believes in it.
 
@@ -82,17 +95,18 @@ But the benefit of these home remedies for snakebite is limited. In spite of the
 
 >**No home cure for poisonous bites (whether from snakes, scorpions, spiders, or other poisonous animals) has much effect beyond that of the healing power of belief.**
 
-For snakebite it is usually better to use modern treatment. Be prepared: obtain ‘antivenoms’ or ‘serums’ for poisonous bites before you need them ([see page 387](#page-387)). Do not wait until it is too late.
+For snakebite it is usually better to use modern treatment. Be prepared: obtain ‘antivenoms’ or ‘serums’ for poisonous bites before you need them ([see page 387](#page-387)).  
+Do not wait until it is too late.
 
 
 # [4](#page-4)
+{:.no_toc}
 
-
-## BELIEFS THAT CAN MAKE PEOPLE SICK
+# BELIEFS THAT CAN MAKE PEOPLE SICK
 
 **The power of belief can help heal people. But it can also harm them.** If a person believes strongly enough that something will hurt him, his own fear can make him sick. For example:
 
-Once I was called to see a woman who had just had a miscarriage and was still bleeding a little. There was an orange tree near her house. So I suggested she drink a glass of orange juice. (Oranges have vitamin C which helps strengthen blood vessels.) She drank it—even though she was afraid it would harm her.
+Once I was called to see a woman who had just had a miscarriage and was still bleeding a little. There was an orange tree near her house. So I suggested she drink a glass of orange juice. (Oranges have vitamin C which helps strengthen blood vessels.) She drank it, even though she was afraid it would harm her.
 
 Her fear was so great that soon she became very ill. I examined her, but could find nothing physically wrong.
 
@@ -113,8 +127,9 @@ By understanding the truth about the orange, the injection, and the tricks of he
 
 
 # [5](#page-5)
+{:.no_toc}
 
-## WITCHCRAFT—BLACK MAGIC—AND THE EVIL EYE
+## WITCHCRAFT, BLACK MAGIC, AND THE EVIL EYE
 
 If a person believes strongly enough that someone has the power to harm him, he may actually become ill. Anyone who believes he is bewitched or has been given the evil eye is really the victim of his own fears (see Susto, [see page 24](#page-24)).
 
@@ -130,8 +145,10 @@ If you have a strange sickness do not blame a witch, do not go to a magic center
 
 
 # [6](#page-6)
+{:.no_toc}
 
-QUESTIONS AND ANSWERS ON SOME FOLK BELIEFS AND HOME REMEDIES
+# QUESTIONS AND ANSWERS ON SOME FOLK BELIEFS AND HOME REMEDIES
+
 These examples are from the mountains of Mexico, the area that I know best. Perhaps some of the beliefs of your people are similar. Think about ways to learn which beliefs in your area lead to better health and which do not.
 
 
@@ -154,7 +171,7 @@ Is it true that mothers should give birth in a darkened room?
 
 
 # [7](#page-7)
-
+{:.no_toc}
 
 
 Is it true that a newborn baby should not be bathed until the cord falls off?
@@ -177,8 +194,8 @@ What foods should women avoid in the first few weeks after childbirth?
 **In the weeks following childbirth, women should not avoid any nutritious foods. Instead, they should eat plenty of fruit, vegetables, meat, milk, eggs, whole grains, and beans** ([see page 276](#page-276)).
 
 
-
-# [8](#page-8)  
+# [8](#page-8)
+{:.no_toc}
 
 Is it a good idea to bathe a sick person, or will it do him harm?
 
@@ -202,7 +219,7 @@ Is it true that tea made from willow bark will help bring fever down and stop pa
 
 
 # [9](#page-9)
-
+{:.no_toc}
 
 ## SUNKEN FONTANEL OR SOFT SPOT
 
@@ -212,7 +229,7 @@ Mothers in different lands realize that when the soft spot sinks inward their ba
 
 They try to correct this by sucking on the soft spot, by pushing up on the roof of the mouth, or by holding the baby upside down and slapping his feet. This does not help because... A sunken soft spot is really caused by dehydration ([see page 151](#page-151)).
 
-This means the child is losing more liquid than he is drinking. He is too dry—usually because he has diarrhea, or diarrhea with vomiting.
+This means the child is losing more liquid than he is drinking. He is too dry, usually because he has diarrhea, or diarrhea with vomiting.
 Treatment:
 
 1. Give the child plenty of liquid: Rehydration Drink ([see page 152](#page-152)), breast milk, or boiled water.
@@ -224,64 +241,67 @@ Note: If the soft spot is swollen or bulges upward, this may be a sign of mening
 
 
 # [10](#page-10)
+{:.no_toc}
 
-
-## WAYS TO TELL WHETHER A HOME REMEDY WORKS OR NOT
+# WAYS TO TELL WHETHER A HOME REMEDY WORKS OR NOT
 
 Because a lot of people use a home cure does not necessarily mean it works well or is safe. It is often hard to know which remedies are helpful and which may be harmful. Careful study is needed to be sure. Here are four rules to help tell which remedies are least likely to work, or are dangerous. (Examples are from Mexican villages.)
 
-### 1. THE MORE REMEDIES THERE ARE FOR ANY ONE ILLNESS, THE LESS LIKELY IT IS THAT ANY OF THEM WORKS.
+## THE MORE REMEDIES THERE ARE FOR ANY ONE ILLNESS, THE LESS LIKELY IT IS THAT ANY OF THEM WORKS.
 
 For example: In rural Mexico there are many home remedies for goiter, none of which does any real good. Here are some of them:
 
-1. to tie a crab on the goiter. DON’T
-2. to rub the goiter with the hand of a dead child. DON’T
-3. to smear the brains of a vulture on the goiter. DON’T
-4. to smear human feces on the goiter. DON’T
+  1. to tie a crab on the goiter. DON’T
+  2. to rub the goiter with the hand of a dead child. DON’T
+  3. to smear the brains of a vulture on the goiter. DON’T
+  4. to smear human feces on the goiter. DON’T
 
 Not one of these many remedies works. If it did, the others would not be needed. When a sickness has just one popular cure, it is more likely to be a good one. For prevention and treatment of goiter use iodized salt.
 [see page 131](#page-131)
 
 
-### 2. FOUL OR DISGUSTING REMEDIES ARE NOT LIKELY TO HELP—AND ARE OFTEN HARMFUL.
+## FOUL OR DISGUSTING REMEDIES ARE NOT LIKELY TO HELP, AND ARE OFTEN HARMFUL.
+
 For example:
 
-1. the idea that leprosy can be cured by a drink made of rotting snakes. DON’T
+  1. the idea that leprosy can be cured by a drink made of rotting snakes. DON’T
 
-2. the idea that syphilis can be cured by eating a vulture. DON’T
+  2. the idea that syphilis can be cured by eating a vulture. DON’T
 
 These two remedies do not help at all. The first one can cause dangerous infections. Belief in remedies like these sometimes causes delay in getting proper medical care.
 
 
 
 # [11](#page-11)
+{:.no_toc}
 
-
-### 3. REMEDIES THAT USE ANIMAL OR HUMAN WASTE DO NO GOOD AND CAN CAUSE DANGEROUS INFECTIONS. NEVER USE THEM.
+## REMEDIES THAT USE ANIMAL OR HUMAN WASTE DO NO GOOD AND CAN CAUSE DANGEROUS INFECTIONS. NEVER USE THEM.
 
 Examples:
-1. Putting human feces around the eye does not cure blurred vision and can cause infections. DON’T!
-2. Smearing cow dung on the head to fight ringworm can cause tetanus and other dangerous infections.. DON’T!
+
+ 1. Putting human feces around the eye does not cure blurred vision and can cause infections. DON’T!
+
+ 2. Smearing cow dung on the head to fight ringworm can cause tetanus and other dangerous infections.. DON’T!
 
 Also, the droppings of rabbits or other animals do not help heal burns. To use them is very dangerous. Cow dung, held in the hand, cannot help control seizures. Teas made from human, pig, or any other animal feces do not cure anything. They can make people sicker. Never put feces on the navel of a newborn baby. This can cause tetanus.
 
-### 4. THE MORE A REMEDY RESEMBLES THE SICKNESS IT IS SAID TO CURE, THE MORE LIKELY ITS BENEFITS COME ONLY FROM THE POWER OF BELIEF.
+## THE MORE A REMEDY RESEMBLES THE SICKNESS IT IS SAID TO CURE, THE MORE LIKELY ITS BENEFITS COME ONLY FROM THE POWER OF BELIEF.
 
 The association between each of the following illnesses and its remedy is clear in these examples from Mexico:
 
-1. for a nosebleed, using yesca (a bright red mushroom)
-2. for deafness, putting powdered rattlesnake’s rattle in the ear
-3. for dog bite, drink tea made from the dog’s tail
-4. for scorpion sting, tying a scorpion against the stung  nger
-5. to prevent diarrhea when a child is teething, putting a necklace of snake’s fangs around the baby’s neck
-6. to ‘bring out’ the rash of measles, making tea from kapok bark
+  1. for a nosebleed, using yesca (a bright red mushroom)
+  2. for deafness, putting powdered rattlesnake’s rattle in the ear
+  3. for dog bite, drink tea made from the dog’s tail
+  4. for scorpion sting, tying a scorpion against the stung  nger
+  5. to prevent diarrhea when a child is teething, putting a necklace of snake’s fangs around the baby’s neck
+  6. to ‘bring out’ the rash of measles, making tea from kapok bark
 
 These remedies, and many other similar ones, have no curative value in themselves. They may be of some benefit if people believe in them. But for serious problems, be sure their use does not delay more effective treatment.
 
 
 
 # [12](#page-12)
-
+{:.no_toc}
 
 # MEDICINAL PLANTS
 
@@ -293,7 +313,7 @@ Nevertheless, not all ‘curative herbs’ people use have medical value... and 
 
 Here are a few examples of plants that can be useful if used correctly:
 
-#### ANGEL’S TRUMPET (Brugmansia arborea)
+## ANGEL’S TRUMPET (Brugmansia arborea)
 
 The leaves of this and certain other members of the nightshade family contain a drug that helps to calm intestinal cramps, stomach-aches, and even gallbladder pain.
 Grind up 1 or 2 leaves of Angel’s Trumpet and soak them for a day in 7 tablespoons (100 ml.) of water.
@@ -302,13 +322,13 @@ Grind up 1 or 2 leaves of Angel’s Trumpet and soak them for a day in 7 tablesp
 
 >**WARNING: Angel’s Trumpet is very poisonous if you take more than the recommended dose.**
 
-#### CORN SILK (the tassels or ‘silk’ from an ear of maize)
+## CORN SILK (the tassels or ‘silk’ from an ear of maize)
 
-A tea made from corn silk makes a person pass more urine. This can help reduce swelling of the feet—especially in pregnant women ([see page 176](#page-176) and [page 248](#page-248))
+A tea made from corn silk makes a person pass more urine. This can help reduce swelling of the feet, especially in pregnant women ([see page 176](#page-176) and [page 248](#page-248))
 
 Boil a large handful of corn silk in water and drink 1 or 2 glasses. It is not dangerous.
 
-#### GARLIC
+## GARLIC
 
 A drink made from garlic may help get rid of pinworms.
 
@@ -320,9 +340,9 @@ To treat vaginal infections with garlic, see [see page 241](#page-241) and [see 
 
 
 # [13](#page-13)
+{:.no_toc}
 
-
-#### CARDON CACTUS (Pachycereus pecten-aboriginum)
+## CARDON CACTUS (Pachycereus pecten-aboriginum)
 
 Cactus juice can be used to clean wounds when there is no boiled water and no way to get any. Cardon cactus also helps stop a wound from bleeding, because the juice makes the cut blood vessels squeeze shut.
 
@@ -331,13 +351,13 @@ When the bleeding is under control, tie a piece of the cactus to the wound with 
 
 After 2 or 3 hours, take off the cactus and clean the wound with boiled water and soap. There are more instructions on how to care for wounds and control bleeding on pages 82 to 87.
 
-#### ALOE VERA (Sabila)
+## ALOE VERA (Sabila)
 
 Aloe vera can be used to treat minor burns and wounds. The thick, slimy juice inside the plant calms pain and itching, aids healing, and helps prevent infection. Cut off a piece of the plant, peel back the outer layer, and apply the fleshy leaf or juice directly to the burn or wound.
 
 Aloe can also help treat stomach ulcers and gastritis. Chop the spongy leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter liquid every 2 hours.
 
-#### PAPAYA
+## PAPAYA
 
 Ripe papayas are rich in vitamins and also aid digestion. Eating them is especially helpful for weak or old people who complain of upset stomach when they eat meat, chicken, or eggs. Papaya makes these foods easier to digest.
 
@@ -355,13 +375,16 @@ First clean and wash out a pressure sore that has dead flesh in it. Then soak a 
 
 
 # [14](#page-14)
+{:.no_toc}
 
+# HOMEMADE CASTS ,  FOR KEEPING BROKEN BONES IN PLACE
 
-## HOMEMADE CASTS — FOR KEEPING BROKEN BONES IN PLACE
+In Mexico several different plants such as tepeguaje (a tree of the bean family) and solda con solda (a huge, tree-climbing arum lily) are used to make casts. However, any plant will do if a syrup can be made from it that will dry hard and firm and will not irritate the skin.
 
-In Mexico several different plants such as tepeguaje (a tree of the bean family) and solda con solda (a huge, tree-climbing arum lily) are used to make casts. However, any plant will do if a syrup can be made from it that will dry hard and firm and will not irritate the skin. In India, traditional bone-setters make casts using a mixture of egg whites and herbs instead of a syrup made from plant juices. But the method is similar. Try out different plants in your area.
+In India, traditional bone-setters make casts using a mixture of egg whites and herbs instead of a syrup made from plant juices. But the method is similar. Try out different plants in your area.
 
 For a cast using tepeguaje: Put 1 kilogram of the bark into 5 liters of water and boil until only 2 liters are left. Strain and boil until a thick syrup is formed. Dip strips of flannel or clean sheet in the syrup and carefully use as follows.
+
 Make sure the bones are in a good position ([see page 98](#page-98))
 
 Do not put the cast directly against the skin.
@@ -375,6 +398,7 @@ Most doctors recommend that the cast cover the joint above and the joint below t
 This would mean that, for a broken wrist, the cast should cover almost the whole arm, like this:
 
 Leave the finger tips uncovered so that you can see if they keep a good color.
+
 However, traditional bone-setters in China and Latin America use a short cast on a simple break of the arm saying that a little movement of the bone-ends speeds healing. Recent scientific studies have proven this to be true.
 
 A temporary leg or arm splint can be made of cardboard, folded paper, or the thick curved stem of dried banana leaf, or palm leaf.
@@ -385,18 +409,18 @@ Never put on a cast over a cut or a wound.
 
 
 # [15](#page-15)
+{:.no_toc}
 
-
-## ENEMAS, LAXATIVES, AND PURGES: WHEN TO USE THEM AND WHEN NOT TO
+# ENEMAS, LAXATIVES, AND PURGES: WHEN TO USE THEM AND WHEN NOT TO
 
 Many people give enemas and take laxatives far too often. The ‘urge to purge’ is worldwide.
 
 Enemas and purges are very popular home cures. And they are often very harmful. Many people believe fever and diarrhea can be ‘washed out’ by giving an **enema** (running water into the gut through the anus) or by using a purge, or strong laxative. Unfortunately, such efforts to clean or purge the sick body often cause more injury to the already damaged gut.
 
 
->**Rarely do enemas or laxatives do any good at all. Often they are dangerous—especially strong laxative**
+>**Rarely do enemas or laxatives do any good at all. Often they are dangerous, especially strong laxative**
 
-### CASES IN WHICH IT IS DANGEROUS TO USE ENEMAS OR LAXATIVES
+## CASES IN WHICH IT IS DANGEROUS TO USE ENEMAS OR LAXATIVES
 
 Never use an enema or laxative if a person has a severe stomach-ache or any other sign of appendicitis or ‘acute abdomen’ ([see page 93](#page-93)), even if he passes days without a bowel movement.
 
@@ -408,43 +432,57 @@ Never give an enema or purge to a baby less than 2 years old.
 Never give a laxative or purge to a child with high fever, vomiting, diarrhea or signs of dehydration ([see page 151](#page-151)). It can increase dehydration and kill the child.
 Do not make a habit of using laxatives often (see Constipation, [see page 126](#page-126)).
 
-### THE CORRECT USES OF ENEMAS
+## THE CORRECT USES OF ENEMAS
 
-1. Simple enemas can help relieve constipation (dry, hard, difficult stools). Use warm water only.
-2. When a person with severe vomiting is dehydrated, you can try replacing water by giving an enema of Rehydration Drink very slowly ([see page 152](#page-152)).
+  1. Simple enemas can help relieve constipation (dry, hard, difficult stools). Use warm water only.
+
+  2. When a person with severe vomiting is dehydrated, you can try replacing water by giving an enema of Rehydration Drink very slowly ([see page 152](#page-152)).
 
 
 
 
 # [16](#page-16)
-
+{:.no_toc}
 
 ## PURGES AND LAXATIVES THAT ARE OFTEN USED
 
-CASTOR OIL, SENNA LEAF, CASCARA (cascara sagrada)
+#### CASTOR OIL, SENNA LEAF, CASCARA (cascara sagrada)
 
-These are irritating purges that often do more harm than good. It is better not to use them.
+These are irritating purges that often do more harm than good. **It is better not to use them**.
 
 
-MAGNESIUM HYDROXIDE, MILK OF MAGNESIA, EPSOM SALTS (magnesium sulfate)([see page 382](#page-382))
+#### MAGNESIUM HYDROXIDE, MILK OF MAGNESIA, EPSOM SALTS (magnesium sulfate)([see page 382](#page-382))
 
 These are salt purges. Use them only in low doses, as laxative for constipation.
+
 Do not use them often and never when there is pain in the belly.
 
-MINERAL OIL ([see page 382](#page-382))
+#### MINERAL OIL ([see page 382](#page-382))
 
 This is sometimes used for constipation in persons with piles...but it is like passing greased rocks. Not recommended.
 
-### CORRECT USES OF LAXATIVES
+## CORRECT USES OF LAXATIVES
 
 Laxatives are like purges but weaker. All the products listed above are laxatives when taken in small doses and purges when taken in large doses. Laxatives soften and hurry the bowel movement; purges cause diarrhea. Purges are always harmful, but laxatives can sometimes be used to relieve constipation.
 
-Laxatives: One can use milk of magnesia or other magnesium salts in small doses, as laxatives, in some cases of constipation. People with hemorrhoids (piles, [see page 175](#page-175)) who have constipation can take mineral oil but this only makes their stools slippery, not soft. The dose for mineral oil is 3 to 6 teaspoons at bedtime (never with a meal because the oil will rob the body of important vitamins in the food). This is not the best way.
+#### Laxatives
 
-Suppositories, or bullet-shaped pills that can be pushed up the rectum, can also be used to relieve constipation or piles (see pages 175, 382, and 391).
+One can use milk of magnesia or other magnesium salts in small doses, as laxatives, in some cases of constipation. People with hemorrhoids (piles, [see page 175](#page-175)) who have constipation can take mineral oil but this only makes their stools slippery, not soft. The dose for mineral oil is 3 to 6 teaspoons at bedtime (never with a meal because the oil will rob the body of important vitamins in the food). This is not the best way.
 
-### A BETTER WAY
+#### Suppositories
 
-Foods with fiber. The healthiest and most gentle way to have softer, more frequent stools is to drink a lot of water and to eat more foods with lots of natural fiber, or ‘roughage’ like cassava, yam, or bran (wheat husks) and other whole grain cereals ([see page 126](#page-126)). Eating plenty of fruits and vegetables also helps.
+Or bullet-shaped pills that can be pushed up the rectum, can also be used to relieve constipation or piles ([see page 175](#page-175), [page 382](#page-382),[page 391](#page-391)).
 
-People who traditionally eat lots of food with natural fiber suffer much less from piles, constipation, and cancer of the gut than do people who eat a lot of refined ‘modern’ foods. For better bowel habits, avoid refined foods and eat foods prepared from unpolished or unrefined grains.
+## A BETTER WAY
+
+#### Foods with fiber.
+
+The healthiest and most gentle way to have softer, more frequent stools is to drink a lot of water and to eat more foods with lots of natural fiber, or ‘roughage’ like cassava, yam, or bran (wheat husks) and other whole grain cereals ([see page 126](#page-126)).
+
+People who traditionally eat lots of food with natural fiber suffer much less from piles, constipation, and cancer of the gut than do people who eat a lot of refined ‘modern’ foods.
+
+For better bowel habits, **avoid refined foods** and eat foods prepared from **unpolished or unrefined grains**.
+
+#### Plenty of fruits and vegetables
+
+Eating plenty of fruits and vegetables also helps.

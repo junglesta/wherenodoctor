@@ -4,7 +4,8 @@ chapter: 02
 index: true
 bookpage: 17
 ---
-
+* TOC
+{:toc}
 
 # WHAT CAUSES SICKNESS?
 
@@ -36,7 +37,7 @@ To make good use of this book, and safe use of the medicines it recommends, you 
 
 
 # [18](#page-18)
-
+{:.no_toc}
 
 # DIFFERENT KINDS OF SICKNESSES AND THEIR CAUSES
 
@@ -47,23 +48,27 @@ When considering how to prevent or treat different sicknesses, it helps to think
 **Non-Infectious diseases** do not spread from person to person. They have other causes. Therefore, it is important to know which sicknesses are infectious and which are not.
 
 
-# Non-infectious Diseases
+# NON-INFECTIOUS DISEASES
 
 Non-infectious diseases have many different causes. But they are never caused by germs, bacteria, or other living organisms that attack the body. They never spread from one person to another. It is important to realize that antibiotics, or medicines that fight germs ([see page 55](#section-55)), do not help cure non-infectious diseases.
 
 >Remember: Antibiotics are of no use for non-infectious diseases.
 
 
-### EXAMPLES OF NON-INFECTIOUS DISEASES
+#### EXAMPLES OF NON-INFECTIOUS DISEASES
 
-**Problems caused by something that wears out or goes wrong within the body:**
+**Problems caused by:**
+
+**something that wears out or goes wrong within the body**
+
   - rheumatism
   - heart attack epileptic seizures stroke
   - migraine headaches cataract
   - cancer
 
 
-**Problems caused by something from outside that harms or troubles the body:**
+**something from outside that harms or troubles the body**
+
   - allergies
   - asthma
   - poisons
@@ -72,7 +77,8 @@ Non-infectious diseases have many different causes. But they are never caused by
   - stomach ulcer
   - alcoholism
 
-**Problems caused by a lack of something the body needs:**
+**lack of something the body needs**
+
   - malnutrition
   - anemia
   - pellagra
@@ -80,7 +86,8 @@ Non-infectious diseases have many different causes. But they are never caused by
   - goiter and hypothyroidism
   - cirrhosis of the liver (part of the cause)
 
-**Problems people are born with:**
+**Problems people are born with**
+
   - harelip
   - crossed or wall-eyes (squint)
   - other deformities
@@ -89,20 +96,23 @@ Non-infectious diseases have many different causes. But they are never caused by
   - birthmark
 
 
-**Problems that begin in the mind (mental illnesses):**
+**Problems that begin in the mind (mental illnesses)**
+
   - fear that something is harmful when it is not (paranoia)
   - nervous worry (anxiety)
   - belief in hexes (witchcraft)
   - uncontrolled fear (hysteria)
 
-# Infectious Diseases
+
+
+# INFECTIOUS DISEASES
 
 Infectious diseases are caused by bacteria and other organisms (living things) that harm the body. They are spread in many ways. Here are some of the most important kinds of organisms that cause infections and examples of sicknesses they cause:
 
 
 
 # [19](#page-19)
-
+{:.no_toc}
 
 ## EXAMPLES OF INFECTIOUS DISEASES
 
@@ -363,7 +373,7 @@ permethrin, keeping very clean
 
 ---
 
-Bacteria, like many of the organisms that cause infections, are so small you cannot see them without a microscope—an instrument that makes tiny things look bigger. Viruses are even smaller than bacteria.
+Bacteria, like many of the organisms that cause infections, are so small you cannot see them without a microscope, an instrument that makes tiny things look bigger. Viruses are even smaller than bacteria.
 
 Antibiotics (penicillin, tetracycline, etc.) are medicines that help cure certain illnesses caused by bacteria.
 
@@ -373,9 +383,9 @@ Antibiotics (penicillin, tetracycline, etc.) are medicines that help cure certai
 
 
 # [20](#page-20)
+{:.no_toc}
 
-
-## SICKNESSES THAT ARE HARD TO TELL APART
+# SICKNESSES THAT ARE HARD TO TELL APART
 
 Sometimes diseases that have different causes and require different treatment result in problems that look very much alike. For example:
 
@@ -413,7 +423,7 @@ The medical treatment for each of these diseases is different, so to treat them 
 
 Many illnesses at first seem very similar. But if you ask the right questions and know what to look for, you can often learn information and see certain signs that will help tell you what illness a person has.
 
-This book describes the typical history and signs for many illnesses. But be careful! Diseases do not always show the signs described for them—or the signs may be confusing.
+This book describes the typical history and signs for many illnesses. But be careful! Diseases do not always show the signs described for them, or the signs may be confusing.
 
 **For difficult cases, the help of a skilled health worker or doctor is often needed.** Sometimes special tests or analyses are necessary.
 
@@ -424,12 +434,12 @@ This book describes the typical history and signs for many illnesses. But be car
 
 
 # [21](#page-21)
+{:.no_toc}
 
-
-## SICKNESSES THAT ARE OFTEN CONFUSED
+# SICKNESSES THAT ARE OFTEN CONFUSED
 OR GIVEN THE SAME NAME
 
-Many of the common names people use for their sicknesses were first used long before anyone knew about germs or bacteria or the medicines that fight them. Different diseases that caused more or less similar problems-such as ‘high fever’ or ‘pain in the side’—were often given a single name. In many parts of the world, these common names are still used.
+Many of the common names people use for their sicknesses were first used long before anyone knew about germs or bacteria or the medicines that fight them. Different diseases that caused more or less similar problems-such as ‘high fever’ or ‘pain in the side’, were often given a single name. In many parts of the world, these common names are still used.
 
 City-trained doctors often neither know nor use these names. For this reason, people sometimes think they apply to ‘sicknesses doctors do not treat’. So they treat these home sicknesses with herbs or home remedies.
 
@@ -442,13 +452,13 @@ To know which sicknesses definitely require modern medicines and to decide what 
 >**If you cannot find the sickness you are looking for in this book, look for it under a different name or in the chapter that covers the same sort of problem.
 Use the list of CONTENTS and the Index**
 
-If you are unsure what the sickness is—especially if it seems serious—try to get medical help.
+If you are unsure what the sickness is, especially if it seems serious, try to get medical help.
 
 The rest of this chapter gives examples of common or traditional names people use for various sicknesses. Often a single name is given to diseases that are different according to medical science.
 
 Examples cannot be given for each country or area where this book may be used. Therefore, I have kept those from the Spanish edition, with names used by villagers in western Mexico. They will not be the same names you use. However, people in many parts of the world see and speak of their illnesses in a similar way. So the examples may help you think about how people name diseases in your area.
 
-### EXAMPLES OF LOCAL NAMES FOR SICKNESSES
+## EXAMPLES OF LOCAL NAMES FOR SICKNESSES
 
 Spanish Name: EMPACHO (STOPPED-UP GUT)
 
@@ -491,7 +501,7 @@ kind of pain include:
 
 
 # [22](#page-22)
-
+{:.no_toc}
 
 Spanish Name: LA CONGESTIÓN (CONGESTION)
 
@@ -521,7 +531,7 @@ Different illnesses that are sometimes called la congestión are:
 
 
 # [23](#page-23)
-
+{:.no_toc}
 
 Spanish Name: LA CONGESTIÓN (CONGESTION)
 
@@ -547,14 +557,14 @@ Different illnesses that are sometimes called la congestión are:
 
 Spanish Name: LATIDO (PULSING)
 
-Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit of the stomach. It is really the pulse of the aorta or big blood vessel coming from the heart. This pulse can be seen and felt on a person who is very thin and hungry. Latido is often a sign of malnutrition (p. 112)—or hunger! Eating enough good food is the only real treatment (see p. 110 and 111).
+Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit of the stomach. It is really the pulse of the aorta or big blood vessel coming from the heart. This pulse can be seen and felt on a person who is very thin and hungry. Latido is often a sign of malnutrition (p. 112), or hunger! Eating enough good food is the only real treatment (see p. 110 and 111).
 
 ---
 
 
 
 # [24](#page-24)
-
+{:.no_toc}
 
 
 Spanish Name: SUSTO (HYSTERIA, FRIGHT)
@@ -574,7 +584,7 @@ When the susto is caused by a specific illness, treat the illness. Help the pers
 
 When the susto is caused by fright, try to comfort the person and help him understand that his fear itself is the cause of his problem. Magic cures and home remedies sometimes help.
 
-If the frightened person is breathing very hard and fast, his body may be getting too much air—which may be part of the problem:
+If the frightened person is breathing very hard and fast, his body may be getting too much air, which may be part of the problem:
 
 **EXTREME FRIGHT OR HYSTERIA WITH FAST HEAVY BREATHING (HYPERVENTILATION)**
 
@@ -601,13 +611,13 @@ Treatment:
 
 
 # [25](#page-25)
+{:.no_toc}
 
-
-## MISUNDERSTANDINGS DUE TO CONFUSION OF NAMES
+# MISUNDERSTANDINGS DUE TO CONFUSION OF NAMES
 
 This page shows 2 examples of misunderstandings that can result when certain names like ‘cancer’ and ‘leprosy’ mean one thing to medical workers and something else to villagers. In talking with health workers-and in using this book:
 
->**Avoid misunderstanding—go by the signs and history of a person’s sickness, not the name people give it!**
+>**Avoid misunderstanding, go by the signs and history of a person’s sickness, not the name people give it!**
 
 ---
 
@@ -640,13 +650,13 @@ Mexican villagers call any open spreading sore lepra. This leads to confusion, b
 
 
 # [26](#page-26)
+{:.no_toc}
 
-
-### CONFUSION BETWEEN DIFFERENT ILLNESSES THAT CAUSE FEVER
+## CONFUSION BETWEEN DIFFERENT ILLNESSES THAT CAUSE FEVER
 
 Spanish Name: LA FIEBRE (THE FEVER)
 
-Correctly speaking, a fever is a body temperature higher than normal. But in Latin America, a number of serious illnesses that cause high temperatures are all called la fiebre—or ‘the fever’.
+Correctly speaking, a fever is a body temperature higher than normal. But in Latin America, a number of serious illnesses that cause high temperatures are all called la fiebre, or ‘the fever’.
 
 To prevent or treat these diseases successfully, it is important to know how to tell one from another.
 
@@ -672,7 +682,7 @@ Person loses appetite. Does not wish to eat or smoke. Wants to vomit (nausea). E
 
 
 # [27](#page-27)
-
+{:.no_toc}
 
 Pneumonia: (see p. 171)
 

@@ -4,6 +4,8 @@ chapter: 19
 index: true
 bookpage: 245
 ---
+* TOC
+{:toc}
 
 # MENSTRUAL PERIOD (MONTHLY BLEEDING IN WOMEN)
 
@@ -23,7 +25,10 @@ Irregular or painful periods are common in adolescent (teenage) girls. This does
 
 If it is very painful, it may help to take aspirin (p. 378) or ibuprofen (p. 379) and to lie down and put warm compresses on the belly.
 
-During the period—as at all times—a woman should take care to keep clean, get enough sleep, and eat a well balanced diet. She can eat everything she normally eats and can continue to do her usual work. It is not harmful to have sex during the menstrual period. (However, if one of the partners has HIV, the risk of infecting the other partner may be higher.)
+During the period, as at all times, a woman should take care to keep clean, get enough sleep, and eat a well balanced diet. She can eat everything she normally eats and can continue to do her usual work. It is not harmful to have sex during the menstrual period. (However, if one of the partners has HIV, the risk of infecting the other partner may be higher.)
+
+# [245](#page-245)
+{:.no_toc}
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming

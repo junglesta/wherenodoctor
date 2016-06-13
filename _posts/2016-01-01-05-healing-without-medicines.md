@@ -4,10 +4,12 @@ chapter: 05
 index: true
 bookpage: 45
 ---
+* TOC
+{:toc}
 
 For most sicknesses no medicines are needed. Our bodies have their own defenses, or ways to resist and fight disease. In most cases, these natural defenses are far more important to our health than are medicines.
 
->People will get well from most sicknesses —including the common cold and ‘flu’—by themselves, without need for medicines.
+>People will get well from most sicknesses , including the common cold and ‘flu’, by themselves, without need for medicines.
 
 To help the body fight off or overcome a sickness, often all that is needed is to:
 
@@ -18,7 +20,7 @@ To help the body fight off or overcome a sickness, often all that is needed is t
 Even in a case of more serious illness, when a medicine may be needed, it is the body that must overcome the disease; the medicine only helps. Cleanliness, rest, nutritious food, and lots of water are still very important.
 
 
-Much of the art of health care does not—and should not—depend on use of medications. Even if you live in an area where there are no modern medicines, there is a great deal you can do to prevent and treat most common sicknesses—if you learn how.
+Much of the art of health care does not, and should not, depend on use of medications. Even if you live in an area where there are no modern medicines, there is a great deal you can do to prevent and treat most common sicknesses, if you learn how.
 
 >Many sicknesses can be prevented or treated without medicine.
 
@@ -26,10 +28,12 @@ If people simply learned how to use water correctly, this alone might do more to
 
 
 # [46](#page-46)
+{:.no_toc}
+
 
 # HEALING WITH WATER
 
-Most of us could live without medicines. But no one can live without water. In fact, over half (57%) of the human body is water. If everyone living in farms and villages made the best use of water, the amount of sickness and death—especially of children— could be reduced.
+Most of us could live without medicines. But no one can live without water. In fact, over half (57%) of the human body is water. If everyone living in farms and villages made the best use of water, the amount of sickness and death, especially of children,  could be reduced.
 
 For example, correct use of water is basic both in the prevention and treatment of diarrhea. In many areas diarrhea is the most common cause of sickness and death in small children. Contaminated (unclean) water is often part of the cause.
 
@@ -51,6 +55,8 @@ On the next 2 pages are a number of other situations in which **it is often more
 
 
 # [47](#page-47)
+{:.no_toc}
+
 
 # Times When the Right Use of Water May Do More Good than Medicines
 
@@ -86,6 +92,8 @@ drink plenty of liquids [152](page-152)
 
 
 # [48](#page-48)
+{:.no_toc}
+
 
 
 **to treat / use water**

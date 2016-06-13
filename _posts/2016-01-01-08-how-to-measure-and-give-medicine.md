@@ -4,6 +4,8 @@ chapter: 8
 index: true
 bookpage: 59
 ---
+* TOC
+{:toc}
 
 # SYMBOLS:
 
@@ -108,7 +110,8 @@ Many of the ‘teaspoons’ people use hold as much as 8 ml or as little as 3 ml
 
 Many medicines that come as pills or capsules also come in syrups or suspensions (special liquid form) for children. If you compare the amount of medicine you get, the syrups are usually more expensive than pills or capsules. You can save money by making your own syrup in the following way:
 
-
+# [60](#page-60)
+{:.no_toc}
 
 ```
 more ¯¯\_(ツ)_/¯¯ coming
