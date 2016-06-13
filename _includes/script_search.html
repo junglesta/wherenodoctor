@@ -1,3 +1,22 @@
+<script type="text/javascript">
+
+  var iddu = document.getElementById("search-input");
+  var idda = document.getElementById("results-container");
+
+  iddu.addEventListener("focus", function( event ) {
+    event.target.placeholder = "";
+    idda.style.display = "block";
+  }, true);
+
+  iddu.addEventListener("blur", function( event ) {
+    event.target.placeholder = "search";
+    idda.style.display = "none";
+    // clear form now...
+
+  }, true);
+
+</script>
+
 
 <script src="{{ site.baseurl }}/assets/js/jekyll-search.js" type="text/javascript"></script>
 
@@ -7,7 +26,7 @@
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '{{ site.baseurl }}/search.json',
-  searchResultTemplate: '<li class="result"><a href="{url}" title="{desc}">{title}</a></li>'
+  searchResultTemplate: '<li class="result "><a href="{url}" title="{desc}">{title}</a></li>'
   })
 </script>
 

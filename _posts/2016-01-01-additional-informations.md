@@ -2,7 +2,7 @@
 title:  "additional informations"
 chapter: plus
 style: blue
-bookpage:
+bookpage: a1
 ---
 
 _When we revised Where There Is No Doctor in 1992, we added several topics. We continue to update these with each new edition. Some of these topics were specifically requested and others are problems that affect more and more people, such as HIV and AIDS, complications from unsafe abortions, pesticide poisoning, and drug addiction. We added the section on blood pressure because the book is used by many health workers who have equipment for measuring it._
@@ -83,6 +83,9 @@ If possible, have sex with only one partner who has sex only with you.
 Setting up treatment and testing programs will also help prevent HIV from spreading in your community. In the long run, HIV can best be prevented by fighting for fairer social and economic conditions, so that people have stronger bodies from better nutrition, so that families do not need to separate to find work, and so that people need not sell their bodies for sex.
 
 >Be kind to persons with AIDS.
+
+
+# [a2](#page-a2)
 
 ### Preventing HIV:
 
