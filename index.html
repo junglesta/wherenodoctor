@@ -9,22 +9,22 @@
 
     {% include svg/defs.html %}
 
-    {% include script_search_view.html %}
-
     {% include cover.html %}
+
+    {% include script_search_view.html %}
 
     <div class="page-content">
 
       {% include nav.html %}
 
       {% for page in site.posts reversed %}
-      {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+      {% capture id %}{{ page.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase  }}{% endcapture %}
 
       <div id="{{id}}" class="{%if page.style%}addon {{page.style}}{%else%}chapter {% endif%}">
 
-        {%if page.bookpage%}
-          <h1 class="chapter_page_anchor" id="page-{{ page.bookpage }}"><a href="#page-{{ page.bookpage }}"></a></h1>
-        {%endif%}
+        {% if page.bookpage %}
+          <div class="chapter_page_anchor" id="page-{{ page.bookpage }}"><a href="#page-{{ page.bookpage }}"></a></div>
+        {% endif %}
 
         {% include chapter_title.html %}
 

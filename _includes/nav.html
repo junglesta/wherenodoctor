@@ -2,7 +2,7 @@
   <nav class="nav" id="page-nav">
     <ul>
       {% for node in site.posts reversed %}
-      {% capture id %}{{ node.id | remove:'/'| downcase }}{% endcapture %}
+      {% capture id %}{{ node.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase }}{% endcapture %}
         <li class="{{id}} {% if node.style %}variant {{node.style}}{% endif %}">
           <a class="nav_link" href="#{{id}}">
             {% if node.style %}<small> </small>

@@ -8,7 +8,7 @@ h1[id*="page-"] {
   color: white;
 
   padding: 0;
-  margin-top: 10rem;
+  margin-top: 4rem;
   margin-bottom: 1rem;
 
   position: relative;
@@ -35,7 +35,8 @@ h1 a[href*="page-"] {
   pointer-events: none;
 }
 
-h1.chapter_page_anchor {//h1
+.addon .chapter_page_anchor,
+.chapter .chapter_page_anchor {//h1
   top: 10px;
   padding-top: 0!important;
   margin-top: 0!important;
