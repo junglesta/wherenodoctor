@@ -1,6 +1,6 @@
 ---
 title:  "words to the village health worker"
-chapter: 00
+chapter: w
 index: true
 style: brown
 bookpage: w1

@@ -16,8 +16,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 
 # 2do
-- make [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search) work with content, not just chapter titles!
-- auto TOC for each chapter?!
+- **search for a better search** maybe [lunr.js](http://lunrjs.com/) - using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)  but just get chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [ ] Make it easily translatable.
 
 # Done:
@@ -28,6 +27,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - [X] logo. _thanks to david@[work-it](http://work-it.it)_
 - [X] github repo.
 - [X] https. _[check](https://junglesta.github.io/wherenodoctor/)_
+- [X] auto-TOC for each chapter
 
 # Source:
 
