@@ -16,7 +16,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 
 # 2do
-- **search for a better search** maybe [lunr.js](http://lunrjs.com/) - using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)  but just get chapter titles! NOT ENOUGH! no way to make 'content' work...
+- **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/) - Using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search), but it just get chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [ ] Make it easily translatable.
 
 # Done:
