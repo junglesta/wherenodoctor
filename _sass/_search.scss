@@ -23,6 +23,12 @@
     padding-left: 1rem;
 
     background-color: rgba(255,255,255,.5);
+    li:first-child:before {
+      content: "results";
+      display: block;
+      text-transform: capitalize;
+      color: white;
+    }
   }
 
   ::-webkit-input-placeholder {

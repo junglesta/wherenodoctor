@@ -17,6 +17,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # 2do
 - make [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search) work with content, not just chapter titles!
+- auto TOC for each chapter?!
 - [ ] Make it easily translatable.
 
 # Done:

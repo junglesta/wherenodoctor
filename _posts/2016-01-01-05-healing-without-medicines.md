@@ -74,7 +74,7 @@ On the next 2 pages are a number of other situations in which **it is often more
 1. diarrhea, dehydration /
 drink plenty of liquids [152](page-152)
 
-2. illnesses with fever / drink plenty of liquids [75](paghe-75), [76](page-76)
+2. illnesses with fever / drink plenty of liquids [75](page-75), [76](page-76)
 
 3. high fever / remove clothing and soak body with water [76](page-76)
 
