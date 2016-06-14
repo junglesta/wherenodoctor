@@ -55,7 +55,7 @@ Non-infectious diseases have many different causes. But they are never caused by
 >Remember: Antibiotics are of no use for non-infectious diseases.
 
 
-#### EXAMPLES OF NON-INFECTIOUS DISEASES
+#### examples of NON-INFECTIOUS DISEASES
 
 **Problems caused by:**
 
@@ -114,7 +114,7 @@ Infectious diseases are caused by bacteria and other organisms (living things) t
 # [19](#page-19)
 {:.no_toc}
 
-## EXAMPLES OF INFECTIOUS DISEASES
+## examples of INFECTIOUS DISEASES
 
 
 Organism that causes the sickness:
@@ -458,7 +458,7 @@ The rest of this chapter gives examples of common or traditional names people us
 
 Examples cannot be given for each country or area where this book may be used. Therefore, I have kept those from the Spanish edition, with names used by villagers in western Mexico. They will not be the same names you use. However, people in many parts of the world see and speak of their illnesses in a similar way. So the examples may help you think about how people name diseases in your area.
 
-## EXAMPLES OF LOCAL NAMES FOR SICKNESSES
+## examples of local names for sicknesses
 
 Spanish Name: EMPACHO (STOPPED-UP GUT)
 
@@ -652,7 +652,7 @@ Mexican villagers call any open spreading sore lepra. This leads to confusion, b
 # [26](#page-26)
 {:.no_toc}
 
-## CONFUSION BETWEEN DIFFERENT ILLNESSES THAT CAUSE FEVER
+## confusion between different illnesses that cause fever
 
 Spanish Name: LA FIEBRE (THE FEVER)
 

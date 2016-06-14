@@ -26,7 +26,7 @@ With the information on each medicine, blank spaces _ _ _ _ _ have been left for
 
 # Dosage Information:
 
-## HOW FRACTIONS ARE SOMETIMES WRITTEN
+## how fractions are sometimes written
 
 1 tablet = one tablet
 
@@ -79,7 +79,7 @@ This is one way to figure the dosages for different medicines. For more informat
 |Benzathine penicillin|352|
 
 
-### AMPICILLIN AND AMOXICILLIN:
+### ampicillin and amoxicillin:
 
 |---|---|
 |Broad-Spectrum Penicillins|352|

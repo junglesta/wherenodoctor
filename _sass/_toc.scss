@@ -1,13 +1,39 @@
 //toc
-#markdown-toc,
-#markdown-toc ul {
-  margin-left: 4vw;
+
+//variable on the fly for left padding / margin of ToC
+$leftma: 4vw;
+$leftpa: 8px;
+$botpa: 10px;
+$toppa: 10px;
+
+#markdown-toc ul,
+#markdown-toc {
   list-style: none;
   li {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    margin-top: $toppa;
+    margin-bottom: $botpa;
   }
   li:first-letter {
     text-transform: uppercase;
+  }
+}
+
+#markdown-toc {
+  margin-left: 0;
+  padding-left: $leftma/2;
+  padding-right: $leftma/2;
+  border: 4px solid transparentize($brand_color, .9);
+}
+
+#markdown-toc ul {
+  margin-left: $leftma;
+  li {
+    margin-left: -$leftma;
+    padding-left: $leftma/2;
+    border-left: 4px solid transparentize($brand_color, .85);
+  }
+  ul li {
+    margin-left: -.75rem;
+    border-left: 4px solid transparentize($brand_color, .8);
   }
 }

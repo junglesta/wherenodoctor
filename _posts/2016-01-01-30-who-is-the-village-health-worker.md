@@ -51,7 +51,7 @@ This book is mostly about people’s health needs. But to help your village be a
 
 Here are some suggestions that may help you serve your people’s human needs as well as health needs:
 
-### 1. BE KIND.
+### 1. be kind.
 
 A friendly word, a smile, a hand on the shoulder, or some other sign of caring often means more than anything else you can do. **Treat others as your equals**. Even when you are hurried or worried, try to remember the feelings and needs of others. Often it helps to ask yourself, “What would I do if this were a member of my own family?”
 
@@ -61,7 +61,7 @@ HAVE COMPASSION.
 
 Kindness often helps more than medicine. Never be afraid to show you care.
 
-### 2. SHARE YOUR KNOWLEDGE.
+### 2. share your knowledge.
 
 As a health worker, your first job is to teach. This means helping people learn more about how to keep from getting sick. It also means helping people learn how to recognize and manage their illnesses, including the sensible use of home remedies and common medicines.
 
@@ -73,7 +73,7 @@ LOOK FOR WAYS TO SHARE YOUR KNOWLEDGE.
 # [w3](#page-w3)
 {:.no_toc}
 
-### 3. RESPECT YOUR PEOPLE’S TRADITIONS AND IDEAS.
+### 3. respect your people’s traditions and ideas.
 
 Because you learn something about modern medicine does not mean you should no longer appreciate the customs and ways of healing of your people. Too often the human touch in the art of healing is lost when medical science moves in. This is too bad, because. . .
 
@@ -103,7 +103,7 @@ Learn from them and encourage them to learn from you.
 
 
 
-### 4. KNOW YOUR OWN LIMITS.
+### 4. know your own limits.
 
 No matter how great or small your knowledge and skills, you can do a good job as long as you know and work within your limits. This means: Do what you know how to do. Do not try things you have not learned about or have not had enough experience doing, if they might harm or endanger someone.
 But use your judgment.
@@ -252,13 +252,13 @@ Do not make your list of questions too long or complicated, especially a list yo
 
 To Help Determine Community Health Needs and at the Same Time Get People Thinking
 
-#### FELT NEEDS
+#### felt needs
 
 What things in your people’s daily lives (living conditions, ways of doing things, beliefs, etc.) do they feel help them to be healthy?
 
 What do people feel to be their major problems, concerns, and needs, not only those related to health, but in general?
 
-#### HOUSING AND SANITATION
+#### housing and sanitation
 
 What are different houses made of? Walls? Floors? Are the houses kept clean? Is cooking done on the floor or where? How does smoke get out? On what do people sleep?
 
@@ -272,7 +272,7 @@ Where do families get their water? Is it safe to drink? What precautions are tak
 
 How many families have latrines? How many use them properly? Is the village clean? Where do people put garbage? Why?
 
-#### POPULATION
+#### population
 
 How many people live in the community? How many are under 15 years old?
 
@@ -291,14 +291,14 @@ How many children do most parents have? How many children died? Of what? At what
 How many parents are interested in not having any more children or in not having them so often? For what reasons? (See Family Planning, p. 283.)
 
 
-#### NUTRITION
+#### nutrition
 
 How many mothers breast feed their babies? For how long? Are these babies healthier than those who are not breastfed? Why?
 What are the main foods people eat? Where do they come from? Do people make good use of all foods available?
 How many children are underweight (p. 109) or show signs of poor nutrition? How much do parents and school children know about nutritional needs?
 How many people smoke a lot? How many drink alcoholic or soft drinks very often? What effect does this have on their own and their families’ health? (See p. 148 to 150.)
 
-#### LAND AND FOOD
+#### land and food
 
 Does the land provide enough food for each family?
 How long will it continue to produce enough food if families keep growing?
@@ -306,7 +306,7 @@ How is farm land distributed? How many people own their land?
 What efforts are being made to help the land produce more?
 How are crops and food stored? Is there much damage or loss? Why?
 
-#### HEALING, HEALTH
+#### healing, health
 
 What role do local midwives and healers play in health care?
 What traditional ways of healing and medicines are used? Which are of greatest value? Are any harmful or dangerous?
@@ -316,7 +316,7 @@ What health services are nearby? How good are they? What do they cost? How much 
 How many children have been vaccinated? Against what sicknesses?
 What other preventive measures are being taken? What others might be taken? How important are they?
 
-#### SELF-HELP
+#### self-help
 
 What are the most important things that affect your people’s health and well-being, now and in the future?
 

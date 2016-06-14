@@ -5,8 +5,6 @@ index: true
 style: blue
 bookpage: 389
 ---
-* TOC
-{:toc}
 
 ## Addresses for Teaching Materials
 

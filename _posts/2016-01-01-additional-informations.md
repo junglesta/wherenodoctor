@@ -92,7 +92,7 @@ Setting up treatment and testing programs will also help prevent HIV from spread
 
 ### Preventing HIV:
 
-## CARING FOR SOMEONE WITH HIV OR AIDS:
+## caring for someone with hiv or aids:
 
 People with HIV or AIDS need comfort, kindness, and emotional support. You can help them discuss how to tell their loved ones about their illness, and prepare the legal and social arrangements necessary to care for their children, family, and property. They may also need help getting enough to eat or taking their medicines.
 
@@ -122,7 +122,7 @@ Small, hard, whitish or brownish skin growths that have a rough surface. In men 
 Apply a small amount of trichloroacetic acid or podophyllin
 (see p. 373) to each wart. (If possible, first apply some Vaseline or other greasy ointment to the skin around each wart to protect the healthy skin.) Podophyllin must be washed off 6 hours later. Several treatments are usually necessary. The warts will slowly shrink and go away, but often return.
 
-##Prevention:
+## Prevention:
 
 The man should wear a condom (see p. 287) during sex if either he or his partner has genital warts.
 
@@ -169,7 +169,7 @@ _CAUTION:_ If a woman has herpes sores when she gives birth, her baby can get it
 In many communities, boy children are circumcised, as are girls in some parts
 of the world, as a traditional ‘practice’ or ‘custom’. Circumcision is not necessary for health, although male circumcision may provide some protection against HIV. For boys it is usually not dangerous. But for girls, this practice, sometimes called ‘excision’, ‘infibulation’, or ‘female genital cutting’, is very dangerous and should be strongly discouraged. For both boys and girls, unclean cutting tools risk spreading HIV.
 
-## BOYS
+## boys
 
 A baby boy is born with a tube of skin (foreskin) covering the ‘head’ of his penis. As long as urine comes out of the hole at the tip, there should be no problem. The foreskin will usually not pull back completely over the head of the penis until the boy is about 4 years old. This is normal and circumcision is not necessary. Do not try to pull the foreskin back by force.
 
@@ -179,7 +179,7 @@ As a family ritual, simple circumcision of a healthy baby boy may be done by a m
 
 If the bleeding does not stop, wash away the clots of blood with clean water, and pinch the end of the foreskin between the fingers with a piece of clean cloth for as long as it takes the bleeding to stop. No medicine is needed.
 
-## GIRLS
+## girls
 
 In circumcision of girls, or ‘excision’, the soft knob of flesh (clitoris) at the front end of the vagina is cut out. Sometimes, part of the vaginal lips is also cut away. Removing the clitoris is as bad as cutting off the head of a boy’s penis. Excision should not be done. Girls who have been excised may have frequent urinary and vaginal infections, and difficulty during childbirth.
 

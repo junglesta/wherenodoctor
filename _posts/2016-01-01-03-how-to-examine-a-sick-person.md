@@ -101,7 +101,7 @@ How to read the thermometer (using one marked in degrees centigrade, °C):
 
  - High Fever: 39 > 42
 
-## How to take the temperature:
+## How to take the temperature
 
  1. Clean the thermometer well with soap and water or alcohol. Shake it hard, with a snap of the wrist, until it reads less than 36 degrees.
 
@@ -157,7 +157,7 @@ If you cannot  nd the pulse in the wrist, feel for it in the neck beside the voi
 
 Or put your ear directly or the chest and listen for the heartbeat (or use a stethoscope if you have one).
 
-### NORMAL PULSE FOR PEOPLE AT REST
+### normal pulse for people at rest
 
 adults - from 60 to 80 per minute
 
@@ -344,7 +344,7 @@ For more information on muscle testing and physical examination of disabled pers
 # [38](#page-38)
 {:.no_toc}
 
-### Check for stiffness or tightness of different muscles:
+### Check for stiffness or tightness of different muscles
 
 - If the jaw is stiff or will not open, suspect tetanus (p. 182) or a severe infection of the throat (p. 309) or of a tooth (p. 231). If the problem began after he yawned or was hit in the jaw, he may have a dislocated jaw.
 
@@ -361,7 +361,7 @@ If they happen when he is ill, the cause may be high fever (p. 76) or dehydratio
 
 To test a person’s reflexes when you suspect tetanus, see p. 183.
 
-### To check for loss of feeling in the hands, feet, or other parts of the body:
+### To check for loss of feeling in the hands, feet, or other parts of the body
 
 Have the person cover his eyes. Lightly touch or prick the skin in different places. Ask him to say ‘yes’ when he feels it.
 

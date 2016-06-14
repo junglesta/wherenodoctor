@@ -51,7 +51,30 @@ Firstly published in 1977 by [hesperian.org](http://hesperian.org/books-and-reso
 jekyll serve --watch --trace --baseurl ''
 ```
 
+#### Minimal necessary formatting logic / make sure
 
-**make sure:**
+**Page no. anchors**
 
- - "#[page-.." needs to read "#[page-" (with space after "#")
+`#[page-..` needs to read `#[page-` (with space after `#`)
+
+**Table of Content**
+
+auto-TOC: put this at top
+
+```sh
+* TOC
+{:toc}
+```
+and this to stop including in ToC
+
+```sh
+{:.no_toc}
+```
+
+**logic for headers**
+
+`h1` will be UPPERCASED by css.
+
+`h2` need be lowercase and have a `.` at the end when phrases.
+
+`h2` can be uppercase when short names and not phrases.

@@ -22,7 +22,7 @@ For example, many of the herbal teas people use for home treatment of coughs and
 
 Also, the ‘rice water’, teas, or sweetened drinks that many mothers give to babies with diarrhea are often safer and do more good than any modern medicine. What matters most is that a baby with diarrhea get plenty of liquids ([see page 151](#page-151))
 
-# The Limitations of Home Remedies
+## The Limitations of Home Remedies
 
 Some diseases are helped by home remedies. Others can be treated better
 with modern medicine. This is true for most serious infections.
@@ -39,7 +39,7 @@ It is sometimes hard to be sure which home remedies work well and which do not. 
 {:.no_toc}
 
 
-# Old Ways and New
+## Old Ways and New
 
 Some modern ways of meeting health needs work better than old ones. But at times the older, traditional ways are best. For example, traditional ways of caring for children or old people are often kinder and work better than some newer, less personal ways.
 Not many years ago everyone thought that mother’s milk was the best food for a young baby. They were right! Then the big companies that make canned and artificial milk began to tell mothers that bottle feeding was better. This is not true, but many mothers believed them and started to bottle feed their babies. As a result, thousands of babies have suffered and died needlessly from infection or hunger. For the reasons **breast is best**, [see page 271](#page-271).
@@ -52,7 +52,7 @@ For more ideas for building on local traditions, see Helping Health Workers Lear
 
 # BELIEFS THAT CAN MAKE PEOPLE WELL
 
-## The healing power of belief can be very strong
+## The healing power of belief can be very strong!
 
 Some home remedies have a direct effect on the body. Others seem to work only because people believe in them. **The healing power of belief can be very strong.**
 
@@ -66,7 +66,7 @@ Included in this group of sicknesses are: bewitchment or hexing, unreasonable or
 
 Also included are some cases of asthma, hiccups, indigestion, stomach ulcers, migraine headaches, and even warts.
 
-## What it often comes down to is showing you care
+## What it often comes down to is showing you care!
 
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
 
@@ -85,7 +85,7 @@ For example, Mexican villagers have the following home cures for poisonous snake
 
 In other lands people have their own snakebite remedies, often many different ones. As far as we know, none of these home remedies has any direct effect against snake poison. The person who says that a home remedy kept a snake’s poison from harming him at all was probably bitten by a non-poisonous snake!
 
-## May do some good if a person believes in it
+## May do some good if a person believes in it!
 
 Yet any of these home remedies may do some good if a person believes in it.
 
@@ -129,7 +129,7 @@ By understanding the truth about the orange, the injection, and the tricks of he
 # [5](#page-5)
 {:.no_toc}
 
-## WITCHCRAFT, BLACK MAGIC, AND THE EVIL EYE
+## witchcraft, black magic, and the evil eye
 
 If a person believes strongly enough that someone has the power to harm him, he may actually become ill. Anyone who believes he is bewitched or has been given the evil eye is really the victim of his own fears (see Susto, [see page 24](#page-24)).
 
@@ -147,7 +147,7 @@ If you have a strange sickness do not blame a witch, do not go to a magic center
 # [6](#page-6)
 {:.no_toc}
 
-# QUESTIONS AND ANSWERS ON SOME FOLK BELIEFS AND HOME REMEDIES
+## questions and answers on some folk beliefs and home remedies
 
 These examples are from the mountains of Mexico, the area that I know best. Perhaps some of the beliefs of your people are similar. Think about ways to learn which beliefs in your area lead to better health and which do not.
 
@@ -221,7 +221,7 @@ Is it true that tea made from willow bark will help bring fever down and stop pa
 # [9](#page-9)
 {:.no_toc}
 
-## SUNKEN FONTANEL OR SOFT SPOT
+## sunken fontanel or soft spot
 
 The fontanel is the soft spot on the top of a newborn baby’s head. It is where the bones of his skull have not formed completely. Normally it takes a year to a year and a half for the soft spot to close completely.
 
@@ -247,7 +247,7 @@ Note: If the soft spot is swollen or bulges upward, this may be a sign of mening
 
 Because a lot of people use a home cure does not necessarily mean it works well or is safe. It is often hard to know which remedies are helpful and which may be harmful. Careful study is needed to be sure. Here are four rules to help tell which remedies are least likely to work, or are dangerous. (Examples are from Mexican villages.)
 
-## THE MORE REMEDIES THERE ARE FOR ANY ONE ILLNESS, THE LESS LIKELY IT IS THAT ANY OF THEM WORKS.
+## the more remedies there are for any one illness, the less likely it is that any of them works.
 
 For example: In rural Mexico there are many home remedies for goiter, none of which does any real good. Here are some of them:
 
@@ -260,7 +260,7 @@ Not one of these many remedies works. If it did, the others would not be needed.
 [see page 131](#page-131)
 
 
-## FOUL OR DISGUSTING REMEDIES ARE NOT LIKELY TO HELP, AND ARE OFTEN HARMFUL.
+## foul or disgusting remedies are not likely to help, and are often harmful.
 
 For example:
 
@@ -275,7 +275,7 @@ These two remedies do not help at all. The first one can cause dangerous infecti
 # [11](#page-11)
 {:.no_toc}
 
-## REMEDIES THAT USE ANIMAL OR HUMAN WASTE DO NO GOOD AND CAN CAUSE DANGEROUS INFECTIONS. NEVER USE THEM.
+## remedies that use animal or human waste do no good and can cause dangerous infections. never use them.
 
 Examples:
 
@@ -285,7 +285,7 @@ Examples:
 
 Also, the droppings of rabbits or other animals do not help heal burns. To use them is very dangerous. Cow dung, held in the hand, cannot help control seizures. Teas made from human, pig, or any other animal feces do not cure anything. They can make people sicker. Never put feces on the navel of a newborn baby. This can cause tetanus.
 
-## THE MORE A REMEDY RESEMBLES THE SICKNESS IT IS SAID TO CURE, THE MORE LIKELY ITS BENEFITS COME ONLY FROM THE POWER OF BELIEF.
+## the more a remedy resembles the sickness it is said to cure, the more likely its benefits come only from the power of belief.
 
 The association between each of the following illnesses and its remedy is clear in these examples from Mexico:
 
@@ -313,7 +313,7 @@ Nevertheless, not all ‘curative herbs’ people use have medical value... and 
 
 Here are a few examples of plants that can be useful if used correctly:
 
-## ANGEL’S TRUMPET (Brugmansia arborea)
+## Angel’s Trumpet, Brugmansia Arborea, Datura
 
 The leaves of this and certain other members of the nightshade family contain a drug that helps to calm intestinal cramps, stomach-aches, and even gallbladder pain.
 Grind up 1 or 2 leaves of Angel’s Trumpet and soak them for a day in 7 tablespoons (100 ml.) of water.
@@ -322,7 +322,7 @@ Grind up 1 or 2 leaves of Angel’s Trumpet and soak them for a day in 7 tablesp
 
 >**WARNING: Angel’s Trumpet is very poisonous if you take more than the recommended dose.**
 
-## CORN SILK (the tassels or ‘silk’ from an ear of maize)
+## CORN SILK: the tassels or silk from an ear of maize
 
 A tea made from corn silk makes a person pass more urine. This can help reduce swelling of the feet, especially in pregnant women ([see page 176](#page-176) and [page 248](#page-248))
 
@@ -342,7 +342,7 @@ To treat vaginal infections with garlic, see [see page 241](#page-241) and [see 
 # [13](#page-13)
 {:.no_toc}
 
-## CARDON CACTUS (Pachycereus pecten-aboriginum)
+## CARDON CACTUS Pachycereus pecten-aboriginum
 
 Cactus juice can be used to clean wounds when there is no boiled water and no way to get any. Cardon cactus also helps stop a wound from bleeding, because the juice makes the cut blood vessels squeeze shut.
 
@@ -351,7 +351,7 @@ When the bleeding is under control, tie a piece of the cactus to the wound with 
 
 After 2 or 3 hours, take off the cactus and clean the wound with boiled water and soap. There are more instructions on how to care for wounds and control bleeding on pages 82 to 87.
 
-## ALOE VERA (Sabila)
+## ALOE VERA Sabila
 
 Aloe vera can be used to treat minor burns and wounds. The thick, slimy juice inside the plant calms pain and itching, aids healing, and helps prevent infection. Cut off a piece of the plant, peel back the outer layer, and apply the fleshy leaf or juice directly to the burn or wound.
 
@@ -377,7 +377,7 @@ First clean and wash out a pressure sore that has dead flesh in it. Then soak a 
 # [14](#page-14)
 {:.no_toc}
 
-# HOMEMADE CASTS ,  FOR KEEPING BROKEN BONES IN PLACE
+# HOMEMADE CASTS for keeping broken bones in place.
 
 In Mexico several different plants such as tepeguaje (a tree of the bean family) and solda con solda (a huge, tree-climbing arum lily) are used to make casts. However, any plant will do if a syrup can be made from it that will dry hard and firm and will not irritate the skin.
 
@@ -411,7 +411,9 @@ Never put on a cast over a cut or a wound.
 # [15](#page-15)
 {:.no_toc}
 
-# ENEMAS, LAXATIVES, AND PURGES: WHEN TO USE THEM AND WHEN NOT TO
+# ENEMAS, LAXATIVES, AND PURGES
+
+## when to use them and when not to!
 
 Many people give enemas and take laxatives far too often. The ‘urge to purge’ is worldwide.
 
@@ -420,7 +422,7 @@ Enemas and purges are very popular home cures. And they are often very harmful. 
 
 >**Rarely do enemas or laxatives do any good at all. Often they are dangerous, especially strong laxative**
 
-## CASES IN WHICH IT IS DANGEROUS TO USE ENEMAS OR LAXATIVES
+## cases in which it is dangerous to use enemas or laxatives!
 
 Never use an enema or laxative if a person has a severe stomach-ache or any other sign of appendicitis or ‘acute abdomen’ ([see page 93](#page-93)), even if he passes days without a bowel movement.
 
@@ -432,7 +434,7 @@ Never give an enema or purge to a baby less than 2 years old.
 Never give a laxative or purge to a child with high fever, vomiting, diarrhea or signs of dehydration ([see page 151](#page-151)). It can increase dehydration and kill the child.
 Do not make a habit of using laxatives often (see Constipation, [see page 126](#page-126)).
 
-## THE CORRECT USES OF ENEMAS
+## the correct uses of enemas
 
   1. Simple enemas can help relieve constipation (dry, hard, difficult stools). Use warm water only.
 
@@ -444,24 +446,24 @@ Do not make a habit of using laxatives often (see Constipation, [see page 126](#
 # [16](#page-16)
 {:.no_toc}
 
-## PURGES AND LAXATIVES THAT ARE OFTEN USED
+## purges and laxatives often used
 
-#### CASTOR OIL, SENNA LEAF, CASCARA (cascara sagrada)
+#### castor oil, senna leaf, cascara (cascara sagrada)
 
 These are irritating purges that often do more harm than good. **It is better not to use them**.
 
 
-#### MAGNESIUM HYDROXIDE, MILK OF MAGNESIA, EPSOM SALTS (magnesium sulfate)([see page 382](#page-382))
+#### magnesium hydroxide, milk of magnesia, epsom salts, magnesium sulfate ([see page 382](#page-382))
 
 These are salt purges. Use them only in low doses, as laxative for constipation.
 
 Do not use them often and never when there is pain in the belly.
 
-#### MINERAL OIL ([see page 382](#page-382))
+#### mineral oil ([see page 382](#page-382))
 
 This is sometimes used for constipation in persons with piles...but it is like passing greased rocks. Not recommended.
 
-## CORRECT USES OF LAXATIVES
+## correct uses of laxatives
 
 Laxatives are like purges but weaker. All the products listed above are laxatives when taken in small doses and purges when taken in large doses. Laxatives soften and hurry the bowel movement; purges cause diarrhea. Purges are always harmful, but laxatives can sometimes be used to relieve constipation.
 
@@ -473,7 +475,7 @@ One can use milk of magnesia or other magnesium salts in small doses, as laxativ
 
 Or bullet-shaped pills that can be pushed up the rectum, can also be used to relieve constipation or piles ([see page 175](#page-175), [page 382](#page-382),[page 391](#page-391)).
 
-## A BETTER WAY
+## A better way!
 
 #### Foods with fiber.
 
@@ -483,6 +485,6 @@ People who traditionally eat lots of food with natural fiber suffer much less fr
 
 For better bowel habits, **avoid refined foods** and eat foods prepared from **unpolished or unrefined grains**.
 
-#### Plenty of fruits and vegetables
+#### Plenty of fruits and vegetables.
 
 Eating plenty of fruits and vegetables also helps.

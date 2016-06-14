@@ -45,7 +45,7 @@ To prevent or treat dehydration: When a person has watery diarrhea, act quickly:
 
 A special Rehydration Drink helps to prevent or treat dehydration, especially in cases of severe watery diarrhea:
 
-## 2 WAYS TO MAKE ‘HOME MIX’ REHYDRATION DRINK
+## 2 ways to make ‘home mix’ rehydration drink
 
 **WITH SUGAR AND SALT**
 

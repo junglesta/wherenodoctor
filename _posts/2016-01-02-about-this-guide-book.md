@@ -3,8 +3,7 @@ title: "about this guide book"
 chapter: about
 style: grey
 ---
-* TOC
-{:toc}
+
 
 ## About the offline-enabled web app
 
@@ -14,7 +13,7 @@ _We downloaded the September 2015 revision of **Where There Is No Doctor** PDFs 
 
 ## about the book
 
-### WHERE THERE IS NO DOCTOR
+### where there is no doctor
 
 #### A Village Health Care Book
 

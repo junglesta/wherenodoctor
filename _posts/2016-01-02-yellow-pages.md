@@ -11,9 +11,9 @@ pdfpage: 433
 
 Things in this book are listed in the order of the alphabet:
 
-A B C D E F G H I J K L M N OP QR S T U V W X Y Z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
-Page numbers in bold tell you where to find the main reference in this book. Medicines included in the Green Pages are in the Index of Medicines, p. 341.
+Page numbers links let you jump to the subject in this book. Medicines included in the Green Pages are in the Index of Medicines, p. 341.
 
 
 # A

@@ -122,14 +122,14 @@ if it gets into a cut or scratch.
 
 Tetanus results when a germ that lives in the feces of animals or people enters the body through a wound. Deep or dirty wounds are especially dangerous.
 
-## WOUNDS VERY LIKELY TO CAUSE TETANUS
+## wounds very likely to cause tetanus
 
   - animal bites, especially those of dogs and pigs
   - gunshot and holes made with knife wounds dirty needles
   - injuries caused by barbed wire
   - puncture wounds from thorns, splinters, or nails
 
-## CAUSES OF TETANUS IN THE NEWBORN CHILD
+## causes of tetanus in the newborn child
 
 Tetanus germs enter through the umbilical cord of a newborn baby because of lack of cleanliness or failure to take other simple precautions. The chance of tetanus is greater
 
@@ -152,7 +152,7 @@ In the newborn, the first signs of tetanus generally appear 3 to 10 days after b
 
 It is very important to start treating tetanus at the first sign. If you suspect tetanus (or if a newborn child cries continuously or stops nursing), make this test:
 
-## TEST OF KNEE REFLEXES
+## test of knee reflexes
 
 With the leg hanging freely, tap the knee with a knuckle just below the kneecap.
 
@@ -249,7 +249,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
   - If you get better with the medicine, but after several days the fevers start again, you may need another medicine. Get advice from the nearest health center.
   - If a person who possibly has malaria begins to have seizures or other signs of meningitis (p. 185) he may have cerebral malaria. If possible, inject quinine or artesunate at once (see p. 366).
 
-## HOW TO AVOID MALARIA (AND DENGUE)
+## how to avoid MALARIA and DENGUE
 
 Malaria occurs more often during hot, rainy seasons. If everyone cooperates, it can be controlled. All these control measures should be practiced at once.
 
@@ -285,7 +285,7 @@ A severe form of dengue may cause bleeding into the skin (small dark spots), or 
   - Rest, lots of liquids such as rehydration drink, fruit juice, or milk, acetaminophen (but not aspirin or ibuprofen) for fever and pain.
   - In case of severe bleeding, treat for shock, if necessary (see p. 77).
 
-#BRUCELLOSIS (UNDULANT FEVER, MALTA FEVER)
+# BRUCELLOSIS, UNDULANT FEVER, MALTA FEVER
 
 This is a disease that comes from drinking fresh milk from infected cows or goats. It may also enter the body through scrapes or wounds in the skin of persons who work with sick cattle, goats, or pigs, or by breathing it into the lungs.
 

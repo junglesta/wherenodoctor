@@ -58,9 +58,9 @@ On the next 2 pages are a number of other situations in which **it is often more
 {:.no_toc}
 
 
-# Times When the Right Use of Water May Do More Good than Medicines
+# TIMES WHEN THE RIGHT USE OF WATER MAY DO MORE GOOD THAN MEDICINES
 
-## PREVENTION
+## prevention
 
 **to help prevent / use water**
 
@@ -72,7 +72,7 @@ On the next 2 pages are a number of other situations in which **it is often more
 
 
 
-## TREATMENT
+## treatment
 
 
 **to treat / use water**

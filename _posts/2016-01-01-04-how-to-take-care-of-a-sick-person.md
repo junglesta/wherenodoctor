@@ -185,7 +185,7 @@ On the next page is a form on which you can make a PATIENT REPORT. Several copie
 {:.no_toc}
 
 
-#### PATIENT REPORT
+#### patient report
 
 TO USE WHEN SENDING FOR MEDICAL HELP
 
