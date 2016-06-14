@@ -119,8 +119,10 @@ How to read the thermometer (using one marked in degrees centigrade, °C):
 
  5. Wash the thermometer well with soap and water.
 
-_Note:_ In newborn babies a temperature that is unusually high or unusually low (below 36° C) may mean a serious infection (see p. 275).  
-♦ To learn about other fever patterns, see p. 26 to 27.  
+_Note:_ In newborn babies a temperature that is unusually high or unusually low (below 36° C) may mean a serious infection (see p. 275).
+
+♦ To learn about other fever patterns, see p. 26 to 27.
+  
 ♦ To learn what to do for a fever, see p. 75.  
 
 # [32](#page-32)

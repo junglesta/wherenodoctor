@@ -9,10 +9,10 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 ![app logo](screen.png)
 
 
-# Status:
+# Status
 - Many chapters to be completed
 - Chapters with full text: **[1,2,3,4,5]**
-- Chapters w/ ok headers and ToC: **[1]**
+- Chapters w/ ok headers and ToC: **[1,2]**
 - Chapters with all links working: **[content]**
 
 
@@ -20,7 +20,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/) - Using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search), but it just get chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [ ] Make it easily translatable.
 
-# Done:
+# Done
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
 - [X] squeezed all chapters into one single page.
 - [X] mobile friendly version one pager.
@@ -47,20 +47,36 @@ Firstly published in 1977 by [hesperian.org](http://hesperian.org/books-and-reso
 ![cover] (https://upload.wikimedia.org/wikipedia/en/f/f9/Where_There_Is_No_Doctor_book_cover%2C_13th_revised_printing.jpg)
 
 
-## dev
+## Dev
+
 ```sh
 jekyll serve --watch --trace --baseurl ''
 ```
 
-#### Minimal necessary formatting logic / make sure
+### Book formatting style guide
+
+Here the **Minimal necessary formatting** logic defined so far:
+
+**Page Links**
+```sh
+([see page 151](#page-151))
+```
+
+**Page Numbers**
+```sh
+# [32](#page-32)
+{:.no_toc}
+```
 
 **Page no. anchors**
 
-`#[page-..` needs to read `#[page-` (with space after `#`)
+We use auto id creation, so:
+`#[page-..` needs to read `# [page-` (with space after `#`)
+
 
 **Table of Content**
 
-auto-TOC: put this at top
+To have auto-TOCs put this at top:
 
 ```sh
 * TOC
@@ -72,10 +88,10 @@ and this to stop including in ToC
 {:.no_toc}
 ```
 
-**logic for headers**
+**Headers Logic**
 
-`h1` will be UPPERCASED by css.
+  `h1`s will be UPPERCASED by css.
 
-`h2` need be lowercase and have a `.` at the end when phrases.
+  `h2`s need be lowercase and end with `.` when phrases.
 
-`h2` can be uppercase when short names and not phrases.
+  `h2`s can be uppercase when short name and not phrase.
