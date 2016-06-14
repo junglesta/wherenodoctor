@@ -12,6 +12,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 # Status:
 - Many chapters to be completed
 - Chapters with full text: **[1,2,3,4,5]**
+- Chapters w/ ok headers and ToC: **[1]**
 - Chapters with all links working: **[content]**
 
 
