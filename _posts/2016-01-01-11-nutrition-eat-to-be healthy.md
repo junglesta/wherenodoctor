@@ -556,13 +556,19 @@ A spoonful of cooking oil added to a child’s food means he has to eat only 3/4
 
 For a child of this age to be healthy we should:
 
-♦ Keep feeding her breast milk as much as before.
-♦ Feed her other nutritious foods also, always starting with just a little.
-♦ Feed her at least 5 times a day and also give her snacks between meals.
-♦ Make sure the food is clean and freshly prepared.
-♦ Filter, boil, or purify the water she drinks.
-♦ Keep the child and her surroundings clean.
-♦ When she gets sick, feed her extra well and more often, and give her plenty of liquids to drink. For mothers infected with HIV: After 6 months, your baby will be bigger and stronger, and will have less danger of dying from diarrhea. If you have been breastfeeding her, now you should switch to other milks and feed the baby other foods. This way the baby will have less risk of getting HIV.
+  ♦ Keep feeding her breast milk as much as before.
+
+  ♦ Feed her other nutritious foods also, always starting with just a little.
+
+  ♦ Feed her at least 5 times a day and also give her snacks between meals.
+
+  ♦ Make sure the food is clean and freshly prepared.
+
+  ♦ Filter, boil, or purify the water she drinks.
+
+  ♦ Keep the child and her surroundings clean.
+
+  ♦ When she gets sick, feed her extra well and more often, and give her plenty of liquids to drink. For mothers infected with HIV: After 6 months, your baby will be bigger and stronger, and will have less danger of dying from diarrhea. If you have been breastfeeding her, now you should switch to other milks and feed the baby other foods. This way the baby will have less risk of getting HIV.
 
 
 # [122](#page-122)
@@ -585,12 +591,15 @@ However, when food supply is limited or when the main foods have a lot of water 
 **THE FIRST SIX MONTHS:**
 
 - breast milk
+
 - and nothing else
 
 **FORM 6 MONTHS TO 2 YEARS:**
 
 - breast milk
+
 - cow, goat
+
 - or other well-cooked, nutritious foods
 
 # [123](#page-123)
@@ -632,25 +641,29 @@ In children anemia can come from not eating foods rich in iron. It can also come
 
 **The signs of anemia are:**
 
-• pale or transparent skin
-• pale insides of eyelids
-• white fingernails
-• pale gums
-• weakness and fatigue
+  • pale or transparent skin
+
+  • pale insides of eyelids
+
+  • white fingernails
+
+  • pale gums
+
+  • weakness and fatigue
 
 **Treatment and prevention of anemia:**
 
-• If the anemia is very severe, face and feet may be swollen, the heartbeat rapid, and the person may have shortness of breath.
+  • If the anemia is very severe, face and feet may be swollen, the heartbeat rapid, and the person may have shortness of breath.
 
-• Children and women who like to eat dirt are usually anemic.
+  • Children and women who like to eat dirt are usually anemic.
 
-♦ **Eat foods rich in iron**. Meat, fish, and chicken are high in iron. Liver is especially high. Dark green leafy vegetables, beans, peas, and lentils also have some iron. It also helps to cook in iron pots (see p. 117). To help the body absorb more iron, eat raw vegetables and fruit with meals, and avoid drinking coffee and tea with food.
+  ♦ **Eat foods rich in iron**. Meat, fish, and chicken are high in iron. Liver is especially high. Dark green leafy vegetables, beans, peas, and lentils also have some iron. It also helps to cook in iron pots (see p. 117). To help the body absorb more iron, eat raw vegetables and fruit with meals, and avoid drinking coffee and tea with food.
 
-♦ If the anemia is moderate or severe, the person should take iron (ferrous sulfate pills, p. 392). This is especially important for pregnant women who are anemic. For nearly all cases of anemia, ferrous sulfate tablets are much better than liver extract or vitamin B12. As a general rule, **iron should be given by mouth, not injected**, because iron injections can be dangerous and are no better than pills.
+  ♦ If the anemia is moderate or severe, the person should take iron (ferrous sulfate pills, p. 392). This is especially important for pregnant women who are anemic. For nearly all cases of anemia, ferrous sulfate tablets are much better than liver extract or vitamin B12. As a general rule, **iron should be given by mouth, not injected**, because iron injections can be dangerous and are no better than pills.
 
-♦ If the anemia is caused by dysentery (diarrhea with blood), hookworm, malaria, or another disease, this should also be treated.
+  ♦ If the anemia is caused by dysentery (diarrhea with blood), hookworm, malaria, or another disease, this should also be treated.
 
-♦ If the anemia is severe or does not get better, seek medical help. This is especially important for a pregnant woman.
+  ♦ If the anemia is severe or does not get better, seek medical help. This is especially important for a pregnant woman.
 
 **Many women are anemic.** Anemic women run a greater risk of miscarriage and of dangerous bleeding in childbirth. **It is very important that women eat as much of the foods high in iron as possible**, especially during pregnancy. Allowing 2 to 3 years between pregnancies lets the woman regain strength and make new blood (see Chapter 20).
 
@@ -664,9 +677,11 @@ Children whose skin is almost never exposed to the sunlight may become bowlegged
 
 **Signs of rickets:**
 
-- bony necklace
-- curved bones
-- big joints bowed legs
+  - bony necklace
+
+  - curved bones
+
+  - big joints bowed legs
 
 SUNLIGHT IS THE BEST PREVENTION AND TREATMENT OF RICKETS.
 
@@ -678,8 +693,11 @@ High blood pressure can cause many problems, such as heart disease, kidney disea
 **Signs of dangerously high blood pressure:**
 
   • frequent headaches
+
   • pounding of the heart and shortness of breath with mild exercise
+
   • weakness and dizziness
+
   • occasional pain in the left shoulder and chest
 
 All these problems may also be caused by other diseases. Therefore, if a person suspects he has high blood pressure, he should see a health worker and have his blood pressure measured.
@@ -691,9 +709,13 @@ WARNING: High blood pressure at first causes no signs, and it should be lowered 
 _What to do to prevent or care for high blood pressure:_
 
   ♦ If overweight, lose weight (see next page).
+
   ♦ Avoid fatty foods, especially pig fat, and foods with a lot of sugar or starch. Always use vegetable oil instead of pig fat.
+
   ♦ Prepare and eat food with little or no salt.
+
   ♦ Do not smoke. Do not drink much alcohol.
+
   ♦ When the blood pressure is very high, the health worker may give medicines to lower it. Many people can lower their blood pressure by losing weight if they are fat (next page), and by learning to relax.
 
 
@@ -710,10 +732,13 @@ As our diets change and traditional foods are replaced by processed foods, espec
 Losing weight may help with the illnesses mentioned above. Losing weight is also important if you are having difficulty doing your daily activities. You can lose weight by:
 
 
-♦ eating less greasy, fatty, or oily foods.
-♦ eating less sugar or sweet foods.
-♦ getting more exercise.
-♦ stop eating processed foods and eat fresh fruits and vegetables instead.
+  ♦ eating less greasy, fatty, or oily foods.
+
+  ♦ eating less sugar or sweet foods.
+
+  ♦ getting more exercise.
+
+  ♦ stop eating processed foods and eat fresh fruits and vegetables instead.
 
 # Constipation
 
@@ -740,19 +765,28 @@ Persons with diabetes have too much sugar in their blood. This problem can start
 
 _Early signs of diabetes:_
 
-• always thirsty
-• urinates (pees) often and a lot • always tired
-• always hungry
-• weight loss
+  • always thirsty
+
+  • urinates (pees) often and a lot • always tired
+
+  • always hungry
+
+  • weight loss
 
 
 _Later, more serious signs:_
-• itchy skin
-• periods of blurry eyesight
-• some loss of feeling in hands or feet
-• frequent vaginal infections
-• sores on the feet that do not heal
-• loss of consciousness (in extreme cases)
+
+  • itchy skin
+
+  • periods of blurry eyesight
+
+  • some loss of feeling in hands or feet
+
+  • frequent vaginal infections
+
+  • sores on the feet that do not heal
+
+  • loss of consciousness (in extreme cases)
 
 All these signs may be caused by other person diseases. In order to find out whether a has diabetes, test her urine to see if there is sugar in it. One way to test the urine is to taste it. If it tastes sweet to you, have 2 other persons taste it. Have them also taste the urine of 3 other people. If everyone agrees that the same person’s urine is sweeter, she is probably diabetic.
 
@@ -775,19 +809,31 @@ To prevent infection and injury to the skin, clean the teeth after eating, keep 
 
 # Acid Indigestion, Heartburn, and Stomach Ulcers
 
-Acid indigestion and ‘heartburn’ often come from eating too much heavy or greasy food or from drinking too much alcohol or coffee. These make the stomach produce extra acid, which causes discomfort or a ‘burning’ feeling in the stomach or mid chest. Some people mistake the chest pain, called ‘heartburn’, for a heart problem rather than indigestion. If the pain gets worse when lying down, it is probably heartburn.
+Acid indigestion and ‘heartburn’ often come from eating too much heavy or greasy food or from drinking too much alcohol or coffee. These make the stomach produce extra acid, which causes discomfort or a ‘burning’ feeling in the stomach or mid chest.
+
+Some people mistake the chest pain, called ‘heartburn’, for a heart problem rather than indigestion. If the pain gets worse when lying down, it is probably heartburn.
+
 Frequent or lasting acid indigestion is a warning sign of an ulcer.
-An ulcer is a chronic sore in the digestive system, usually caused by bacteria. Too much acid in the stomach prevents it from healing. It may cause a chronic, dull (sometimes sharp) pain in the pit of the stomach. As with acid indigestion, often the pain lessens when the person eats food or drinks a lot of water. The pain usually gets worse an hour or more after eating, if the person misses a meal, or after
-he drinks alcohol or eats fatty or spicy foods. Pain is often worse at night. Without a special examination (endoscopy) it is often hard to know whether a person with frequent stomach pain has an ulcer or not.
+An ulcer is a chronic sore in the digestive system, usually caused by bacteria.
+
+Too much acid in the stomach prevents it from healing. It may cause a chronic, dull (sometimes sharp) pain in the pit of the stomach. As with acid indigestion, often the pain lessens when the person eats food or drinks a lot of water.
+
+The pain usually gets worse an hour or more after eating, if the person misses a meal, or after he drinks alcohol or eats fatty or spicy foods. Pain is often worse at night. Without a special examination (endoscopy) it is often hard to know whether a person with frequent stomach pain has an ulcer or not.
+
 If the ulcer is severe, it can cause vomiting, sometimes with fresh blood, or with digested blood that looks like coffee grounds. Stools with blood from an ulcer are usually black, like tar.
+
 WARNING: Some ulcers are painless or ‘silent’, and the first sign is blood in vomit, or black, sticky stools. This is a medical emergency. The person can quickly bleed to death. GET MEDICAL HELP FAST.
-Prevention and Treatment:
+
+**Prevention and Treatment:**
+
 Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ulcer, a few basic recommendations will probably help calm the pain and prevent it from coming back.
-♦ Do not eat too much. Eat small meals and eat frequent snacks between meals.
-♦ Notice what foods or drinks make the pain worse and avoid them. These usually include alcoholic drinks, coffee,
-spices, pepper, carbonated drinks (soda, pop,
-colas), and fatty or greasy foods.
-♦ If the heartburn is worse at night when lying flat, try sleeping with the upper body somewhat raised.
+
+ ♦ Do not eat too much. Eat small meals and eat frequent snacks between meals.
+
+ ♦ Notice what foods or drinks make the pain worse and avoid them. These usually include alcoholic drinks, coffee, spices, pepper, carbonated drinks (soda, pop, colas), and fatty or greasy foods.
+
+  ♦ If the heartburn is worse at night when lying flat, try sleeping with the upper body somewhat raised.
+
   An ulcer is an open sore in the stomach or gut.
 
 
@@ -795,17 +841,23 @@ colas), and fatty or greasy foods.
 # [129](#page-129)
 {:.no_toc}
 
-♦ Drink a lot of water. Try to drink 2 big glasses of water both before and after each meal. Also drink a lot of water frequently between meals. If the pain comes often, keep drinking water like this, even in those times when you have no pain.
-♦ Avoid tobacco. Smoking or chewing tobacco increases stomach acid and makes the problem worse.
-♦ Take antacids. The best, safest antacids contain magnesium and aluminum hydroxide. (See p. 380 for information, dose, and warnings about different antacids.)
-♦ If the above treatments do not work, you may have an ulcer. Use 2 medicines to treat the bacteria that causes the ulcer: either amoxicillin (p. 352) or tetracycline (p. 355); and metronidazole (p. 368). Also take omeprazole (Prilosec, p. 381) or ranitidine (Zantac, see p. 381) to reduce the production
-of acid in the stomach. These medicines help to calm the
-pain and heal the sore.
-♦ Aloe vera is a plant found in many countries that
-is said to heal ulcers. Chop the spongy leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter water every 2 hours.
+
+  ♦ Drink a lot of water. Try to drink 2 big glasses of water both before and after each meal. Also drink a lot of water frequently between meals. If the pain comes often, keep drinking water like this, even in those times when you have no pain.
+
+  ♦ Avoid tobacco. Smoking or chewing tobacco increases stomach acid and makes the problem worse.
+
+  ♦ Take antacids. The best, safest antacids contain magnesium and aluminum hydroxide. (See p. 380 for information, dose, and warnings about different antacids.)
+
+  ♦ If the above treatments do not work, you may have an ulcer. Use 2 medicines to treat the bacteria that causes the ulcer: either amoxicillin (p. 352) or tetracycline (p. 355); and metronidazole (p. 368). Also take omeprazole (Prilosec, p. 381) or ranitidine (Zantac, see p. 381) to reduce the production of acid in the stomach. These medicines help to calm the pain and heal the sore.
+
+  ♦ Aloe vera is a plant found in many countries that heal ulcers. Chop the spongy leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter water every 2 hours.
+
 CAUTION:
+
 1. Some antacids, such as sodium bicarbonate (baking soda) and Alka-Seltzer may quickly calm acid indigestion, but soon cause more acid. They should be used only for occasional indigestion, never for ulcers. This is also true for antacids with calcium.
+
 2. Some medicines, such as aspirin and ibuprofen, make ulcers worse. Persons with signs of heartburn or acid indigestion should avoid them, use acetaminophen instead of aspirin. Cortico-steroids also make ulcers worse (see p. 51).
+
 It is important to treat an ulcer early. Otherwise it may lead to dangerous bleeding or peritonitis. Ulcers sometimes get better if the person is careful with what he eats and drinks. Anger, tension, and nervousness increase acid in the stomach. Learning to relax and keep calm will help. Treatment with antibiotics is necessary to prevent the ulcer from returning.
 Avoid having minor stomach problems get worse by not eating too much, by not drinking much alcohol or coffee, and by not smoking or using tobacco.
 
@@ -818,22 +870,23 @@ Avoid having minor stomach problems get worse by not eating too much, by not dri
 
 Goiter (a Swelling or Lump on the Throat)
 A goiter is a swelling or big lump on the throat that results from abnormal growth of a gland called the thyroid.
+
 Most goiters are caused by a lack of iodine in the diet. Also, a lack of iodine in a pregnant woman’s diet sometimes causes babies to die or to be born mentally slow and/or deaf (hypothyroidism, p. 318). This can happen even though the mother does not have a goiter.
+
 Goiter and hypothyroidism are most common in mountain areas where there is little natural iodine in the soil, water, or food. In these areas, eating a lot of certain foods like cassava makes it more likely for a person to get a goiter.
+
 How to prevent or cure a goiter and prevent hypothyroidism:
 Everyone living in areas where people get goiters should use iodized salt. Use of iodized salt prevents the common kind of goiter and will help many goiters go away. (Old, hard goiters can only be removed by surgery, but this is usually not necessary.)
+
 If it is not possible to get iodized salt, it may be possible to get iodine oil to take by mouth or injection. Or, mix 1 drop of povidone iodine in 1 liter of water and drink a glass of the mixture every week.
 Most home cures for goiter do not do any good. However, eating crab and other seafood can do some good because they contain iodine. Mixing a little seaweed with food also adds iodine. But the easiest way is to use iodized salt.
+
 HOW TO KEEP FROM GETTING A GOITER
+
 NEVER use regular salt.
+
 ALWAYS use iodized salt.
- IODIZED SALT costs only a little more than other salt and is much better.
+
+IODIZED SALT costs only a little more than other salt and is much better.
 Also, if you live in an area where goiters are common, or you are beginning to develop a goiter, try to avoid eating much cassava or cabbage.
 Note: If a person with a goiter trembles a lot, is very nervous, and has eyes that bulge out, this may be a different kind of goiter (toxic goiter). Seek medical advice.
-
-# [130](#page-130)
-{:.no_toc}
-
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
