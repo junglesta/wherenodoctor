@@ -33,22 +33,35 @@ If people simply learned how to use water correctly, this alone might do more to
 
 # HEALING WITH WATER
 
-Most of us could live without medicines. But no one can live without water. In fact, over half (57%) of the human body is water. If everyone living in farms and villages made the best use of water, the amount of sickness and death, especially of children,  could be reduced.
+Most of us could live without medicines. But no one can live without water. In fact, over half (57%) of the human body is water.
+
+If everyone living in farms and villages made the best use of water, the amount of sickness and death, especially of children, could be reduced.
 
 For example, correct use of water is basic both in the prevention and treatment of diarrhea. In many areas diarrhea is the most common cause of sickness and death in small children. Contaminated (unclean) water is often part of the cause.
 
-An important part of the prevention of diarrhea and many other illnesses is to make sure that drinking water is safe. Protect wells and springs from dirt and animals by putting fences or walls around them. Use cement or rock to provide good drainage around the well or spring, so that rain or spilled water runs away from it.
+An important part of the prevention of diarrhea and many other illnesses is to make sure that drinking water is safe.
+
+Protect wells and springs from dirt and animals by putting fences or walls around them.
+
+Use cement or rock to provide good drainage around the well or spring, so that rain or spilled water runs away from it.
 
 # Prevention
 
-Where water may be contaminated, an  important part of the prevention of diarrhea is to boil or filter the water used for drinking or for preparing foods. This is especially important for babies. Babies’ bottles and eating utensils should also be boiled. If regular boiling of bottles is not possible, it is safer to use a cup and water spoon. Washing hands with soap and water after a bowel movement (shitting) and before eating or handling foods is also important.
+Where water may be contaminated, an  important part of the prevention of diarrhea is to boil or filter the water used for drinking or for preparing foods.
+
+This is especially important for babies. Babies’ bottles and eating utensils should also be boiled.
+
+If regular boiling of bottles is not possible, it is safer to use a cup and water spoon. Washing hands with soap and water after a bowel movement (shitting) and before eating or handling foods is also important.
 
 # Treatment
 
-A common cause of death in children with diarrhea is severe dehydration, or loss of too much water from the body (see p. 151). By giving a child with diarrhea plenty of water (best with sugar or cereal and salt), dehydration can often be prevented or corrected (see Rehydration Drink, p. 152).
+A common cause of death in children with diarrhea is severe dehydration, or loss of too much water from the body ([see page 151](#page-151)).
+
+By giving a child with diarrhea plenty of water (best with sugar or cereal and salt), dehydration can often be prevented or corrected (see Rehydration Drink, p. 152).
 
 
 **Giving lots of liquids to a child with diarrhea is more important than any medicine.** In fact, if enough liquid is given, no medicine is usually needed in the treatment of diarrhea.
+
 On the next 2 pages are a number of other situations in which **it is often more important to use water correctly than to use medicines.**
 
 

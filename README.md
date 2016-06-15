@@ -11,14 +11,15 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # Status
 - Many chapters to be completed
-- Chapters with full text: **[1,2,3,4,5]**
-- Chapters w/ ok headers and ToC: **[1,2]**
+- Chapters with full text: **[1,2,3,4,5,6,7,8]**
+- Chapters w/ ok headers and ToC: **[1,2,3,4,5,6,7,8]**
 - Chapters with all links working: **[content]**
 
 
 # 2do
 - **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/) - Using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search), but it just get chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [ ] Make it easily translatable.
+- [ ] maybe make (page 44) Patient Report fillable > printable PDF.
 
 # Done
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)

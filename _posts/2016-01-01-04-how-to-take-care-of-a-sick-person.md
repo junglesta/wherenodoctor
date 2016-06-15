@@ -172,9 +172,9 @@ When you need to carry a person on a stretcher, make sure he is as comfortable a
 
 # WHAT TO TELL THE HEALTH WORKER
 
-For a health worker or doctor to recommend treatment or prescribe medicine wisely, she should see the sick person. If the sick person cannot be moved, have the health worker come to him. If this is not possible, send a responsible person who knows the details of the illness. Never send a small child or a fool.
+For a health worker or doctor to recommend treatment or prescribe medicine wisely, she should see the sick person. If the sick person cannot be moved, have the health worker come to him. If this is not possible, send a responsible person who knows the details of the illness. **Never send a small child or a fool**.
 
-Before sending for medical help, examine the sick person carefully and completely. Then write down the details of his disease and general condition (see Chapter 3).
+Before sending for medical help, examine the sick person carefully and completely. Then write down the details of his disease and general condition (see [Chapter 3](#page-29)).
 
 On the next page is a form on which you can make a PATIENT REPORT. Several copies of this form are at the end of this book. Tear out one of these forms and carefully complete the report, giving all the details you can.
 
