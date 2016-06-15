@@ -95,13 +95,17 @@ Information on the uses, dosage, risks, and precautions for the antibiotics reco
 # [57](#page-57)
 {:.no_toc}
 
-6. Use streptomycin only for tuberculosis—and always together with other anti-tuberculosis medicines (see p. 361).7. All medicines in the aminoglycoside group (including kanamycin and gentamicin) are quite toxic (poisonous). Too often they are prescribed for mild infections where they may do more harm than good. Use only for certain very serious infections for which these medicines are recommended.8. Eating yogurt or curdled milk helps to replace necessary bacteria killed by antibiotics like ampicillin and to return the body’s natural balance to normal (see next page).
+6. Use streptomycin only for tuberculosis—and always together with other anti-tuberculosis medicines (see p. 361).7. All medicines in the aminoglycoside group (including kanamycin and gentamicin) are quite toxic (poisonous). Too often they are prescribed for mild infections where they may do more harm than good. Use only for certain very serious infections for which these medicines are recommended.8. Eating yogurt or curdled milk helps to replace necessary bacteria killed by antibiotics like ampicillin and to return the body’s natural balance to normal (see next page).
 # WHAT TO DO IF AN ANTIBIOTIC DOES NOT SEEM TO HELP
 
 For most common infections antibiotics begin to bring improvement in a day or two. If the antibiotic you are using does not seem to help, it is possible that:
+
 1. The illness is not what you think. You may be using the wrong medicine. Try to find out more exactly what the illness is—and use the right medicine.
+
 2. The dose of the antibiotic is not correct. Check it.
+
 3. The bacteria have become resistant to this antibiotic (they no longer are harmed by it). Try another one of the antibiotics recommended for that illness.
+
 4. You may not know enough to cure the illness. Get medical help, especially if the condition is serious or getting worse.
 
 >**Antibiotics do no good for the common cold. Use antibiotics only for infections they are known to help.**
@@ -117,15 +121,21 @@ For most common infections antibiotics begin to bring improvement in a day or tw
 
 The use of all medicines should be limited. But this is especially true of antibiotics, for the following reasons:
 
-1. Poisoning and reactions. Antibiotics not only kill bacteria, they can also harm the body, either by poisoning it or by causing allergic reactions. Many people die each year because they take antibiotics they do not need.
+## 1. Poisoning and reactions
 
-2. Upsetting the natural balance. Not all bacteria in the body are harmful. Some are necessary for the body to function normally. Antibiotics often kill the good bacteria along with the harmful ones.
+Antibiotics not only kill bacteria, they can also harm the body, either by poisoning it or by causing allergic reactions. Many people die each year because they take antibiotics they do not need.
+
+## 2. Upsetting the natural balance
+
+Not all bacteria in the body are harmful. Some are necessary for the body to function normally. Antibiotics often kill the good bacteria along with the harmful ones.
 
 Babies who are given antibiotics sometimes develop fungus or yeast infections of the mouth (thrush, p. 232) or skin (moniliasis, p. 242). This is because the antibiotics kill the bacteria that help keep fungus under control.
 
 For similar reasons, persons who take ampicillin and other broad-spectrum antibiotics for several days may develop diarrhea. Antibiotics may kill some kinds of bacteria necessary for digestion, upsetting the natural balance of bacteria in the gut.
 
-3. Resistance to treatment. In the long run, the most important reason the use of antibiotics should be limited, is that WHEN ANTIBIOTICS ARE USED TOO MUCH, THEY BECOME LESS EFFECTIVE.
+## 3. Resistance to treatment
+
+In the long run, the most important reason the use of antibiotics should be limited, is that WHEN ANTIBIOTICS ARE USED TOO MUCH, THEY BECOME LESS EFFECTIVE.
 
 When attacked many times by the same antibiotic, bacteria become stronger and are no longer killed by it. They become resistant to the antibiotic. For this reason, certain dangerous diseases like typhoid are becoming more difficult to treat than they were a few years ago.
 
