@@ -293,6 +293,8 @@ This is a disease that comes from drinking fresh milk from infected cows or goat
 # [180](#page-180)
 {:.no_toc}
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# [181](#page-181)
+{:.no_toc}
+
+# [192](#page-192)
+{:.no_toc}

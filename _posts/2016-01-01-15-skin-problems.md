@@ -68,6 +68,8 @@ Although many skin problems need specific treatment, there are a few general mea
 
 
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# [195](#page-195)
+{:.no_toc}
+
+# [216](#page-216)
+{:.no_toc}

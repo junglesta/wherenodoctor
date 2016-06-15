@@ -52,6 +52,9 @@ The chart on the next page shows how well each family planning method works to p
 {:.no_toc}
 
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# [284](#page-284)
+{:.no_toc}
+
+
+# [294](#page-294)
+{:.no_toc}

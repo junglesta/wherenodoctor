@@ -161,6 +161,9 @@ For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the
 # [152](#page-152)
 {:.no_toc}
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# [153](#page-153)
+{:.no_toc}
+
+
+# [178](#page-178)
+{:.no_toc}

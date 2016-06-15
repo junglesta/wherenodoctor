@@ -7,8 +7,6 @@ bookpage: 331
 * TOC
 {:toc}
 
-# [331](#page-331å)
-
 Every family and every village should have certain medical supplies ready in case of emergency:
 
   - The family should have a HOME MEDICINE KIT (see p. 334) with the necessary medicines for first aid, simple infections, and the most common health problems.
@@ -51,7 +49,5 @@ When buying medicines, compare prices. Some brands are much more expensive than 
 # [333](#page-333)
 {:.no_toc}
 
-
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# [338](#page-338)
+{:.no_toc}

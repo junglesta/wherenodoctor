@@ -331,6 +331,33 @@ Do people work together to meet common needs? Do they share or help each other w
 
 What can be done to make your village a better, healthier place to live? Where might you and your people begin?
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+
+# [w5](#page-w5)
+{:.no_toc}
+
+# [w6](#page-w6)
+{:.no_toc}
+
+# [w7](#page-w7)
+{:.no_toc}
+
+# [w8](#page-w8)
+{:.no_toc}
+
+# [w9](#page-w9)
+{:.no_toc}
+
+# [w10](#page-w10)
+{:.no_toc}
+
+# [w11](#page-w11)
+{:.no_toc}
+
+# [w12](#page-w12)
+{:.no_toc}
+
+
+
+
+# [w29](#page-w29)
+{:.no_toc}

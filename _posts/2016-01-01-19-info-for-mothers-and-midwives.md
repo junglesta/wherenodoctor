@@ -30,6 +30,8 @@ During the period, as at all times, a woman should take care to keep clean, get 
 # [245](#page-245)
 {:.no_toc}
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+# [246](#page-246)
+{:.no_toc}
+
+# [282](#page-282)
+{:.no_toc}

@@ -2,7 +2,7 @@
 title:  "health and sicknesses of older people"
 chapter: 22
 index: true
-bookpage: 232
+bookpage: 332
 ---
 * TOC
 {:toc}
@@ -85,10 +85,3 @@ Heart disease is more frequent in older people, especially in those who are fat,
   - Sudden, painful attacks in the chest, left shoulder, or arm that occur when exercising and go away after resting for a few minutes (angina pectoris).
   - A sharp pain like a great weight crushing the chest; does not go away with rest (heart attack).
   - In women, a feeling like indigestion, nausea, clamminess, spasms, jaw pain (heart attack).
-
-# [233](#page-233)
-{:.no_toc}
-
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
