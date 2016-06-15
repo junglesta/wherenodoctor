@@ -143,15 +143,14 @@ In some places typhoid has become resistant to chloramphenicol, normally the bes
 
 Chloramphenicol has been used far too much for minor infections, infections for which other antibiotics would be safer and work as well, or for which no antibiotic at all is needed.
 
-Throughout the world important diseases are becoming resistant to antibiotics— largely because antibiotics are used too much for minor infections. If antibiotics
-are to continue to save lives, their use must be much more limited than it is at present. This will depend on their wise use by doctors, health workers, and the people themselves.
+Throughout the world important diseases are becoming resistant to antibiotics— largely because antibiotics are used too much for minor infections. **If antibiotics are to continue to save lives, their use must be much more limited than it is at present.** This will depend on their wise use by doctors, health workers, and the people themselves.
 
 For most minor infections antibiotics are not needed and should not be used.
 
-Minor skin infections can usually be successfully treated with mild soap and water, or hot soaks, and perhaps painting them with gentian violet (p. 370). Minor respiratory infections are best treated by drinking lots of liquids, eating good food, and getting plenty of rest. For most diarrheas, antibiotics are not necessary and may even be harmful. What is most important is to drink lots of liquids (p. 155), and provide enough food as soon as the child will eat.
+Minor skin infections can usually be successfully treated with mild soap and water, or hot soaks, and perhaps painting them with gentian violet (p. 370). Minor respiratory infections are best treated by drinking lots of liquids, eating good food, and getting plenty of rest. **For most diarrheas, antibiotics are not necessary and may even be harmful.** What is most important is to drink lots of liquids (p. 155), and provide enough food as soon as the child will eat.
 
 
 
 > Do not use antibiotics for infections the body can fight successfully by itself. Save them for when they are most needed.
 
-For more information on learning to use antibiotics sensibly, see Helping Health Workers Learn, Chapter 19.
+For more information on learning to use antibiotics sensibly, see Helping Health Workers Learn, [Chapter 19](#page-245).
