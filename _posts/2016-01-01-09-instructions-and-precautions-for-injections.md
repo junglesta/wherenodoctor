@@ -308,7 +308,7 @@ Before preparing a syringe, wash hands with soap and water.
 
 10. Remove all air from the syringe.
 
-**Be very careful not to touch the needle with anything—not even the cotton with alcohol. If by chance the needle touches your finger or something else, boil it again.**
+**Be very careful not to touch the needle with anything, not even the cotton with alcohol. If by chance the needle touches your finger or something else, boil it again.**
 
 # [73](#page-73)
 {:.no_toc}
@@ -321,7 +321,7 @@ It is preferable to inject in the muscle of the buttocks, always in the upper ou
 
 # HOW TO INJECT
 
-1. Clean the skin with soap and water (or alcohol—but to prevent severe pain, be sure the alcohol is dry before injecting).
+1. Clean the skin with soap and water (or alcohol, but to prevent severe pain, be sure the alcohol is dry before injecting).
 
 2. Put the needle straight in, all the way. (If it is done with one quick movement, it hurts less.)
 
@@ -345,7 +345,7 @@ When used correctly, certain injected medicines, such as vaccinations, are impor
 
 Unclean needles and syringes can spread germs that cause HIV or other serious diseases, such as hepatitis, from one person to another. Dirty needles and syringes can also cause infections that lead to paralysis or death. Never inject more than 1 person with the same needle or syringe without disinfecting it first.
 
-Some injected medicines can cause dangerous allergic reactions, poisoning, deafness, or other harmful effects. For example, pregnant women are often given hormone injections to speed up childbirth and ‘give strength’—but these injections are dangerous for the mother and can cause brain damage or death of the baby.
+Some injected medicines can cause dangerous allergic reactions, poisoning, deafness, or other harmful effects. For example, pregnant women are often given hormone injections to speed up childbirth and ‘give strength’, but these injections are dangerous for the mother and can cause brain damage or death of the baby.
 
 For more information on how injections disable children, see Disabled Village Children, Chapter 3.
 

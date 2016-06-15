@@ -183,7 +183,7 @@ This means 2 teaspoons twice a day.
 
 ## when you give medicines to anyone . . .
 
-Always write all the following information on the note with the medicine—even if the person cannot read:
+Always write all the following information on the note with the medicine, even if the person cannot read:
 
 • the person’s name
 • the name of the medicine • what it is for
@@ -195,7 +195,7 @@ When you give medicine to someone, it is a good idea to keep a record of this sa
 
 ## taking medicines on a full or empty stomach
 
-Some medicines work best when you take them when the stomach is empty—that is, one hour before meals.
+Some medicines work best when you take them when the stomach is empty, that is, one hour before meals.
 
 Other medicines are less likely to cause upset stomach or heartburn (chest pain) when taken along with a meal or right afterwards.
 This information can be put on the same note as the drawing for dosage.

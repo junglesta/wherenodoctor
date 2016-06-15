@@ -77,7 +77,7 @@ Information on the uses, dosage, risks, and precautions for the antibiotics reco
 1. If you do not know exactly how to use the antibiotic and what infections it can be used for, do not use it.
 2. Use only an antibiotic that is recommended for the infection you wish to treat. (Look for the illness in this book.)
 3. Know the risks in using the antibiotic and take all the recommended precautions (see the GREEN PAGES).
-4. Use the antibiotic only in the recommended does—no more, no less. The dose depends on the illness and the age or weight of the sick person.
+4. Use the antibiotic only in the recommended does, no more, no less. The dose depends on the illness and the age or weight of the sick person.
 5. Never use injections of antibiotics if taking them by mouth is likely to work as well. Inject only when absolutely necessary.
 6. Antibiotics must be given for their full course. Stopping before you have finished all the days of treatment, even if you feel better, can make the infection return in a form that is even harder to cure. (Some illnesses, like tuberculosis and leprosy, need to be treated for many months or years after the person feels better. Follow the instructions for each illness.)
 7. If the antibiotic causes a skin rash, itching, difficult breathing, or any serious reactions, the person must stop using it and never use it again (see p. 70).
@@ -95,12 +95,12 @@ Information on the uses, dosage, risks, and precautions for the antibiotics reco
 # [57](#page-57)
 {:.no_toc}
 
-6. Use streptomycin only for tuberculosis—and always together with other anti-tuberculosis medicines (see p. 361).7. All medicines in the aminoglycoside group (including kanamycin and gentamicin) are quite toxic (poisonous). Too often they are prescribed for mild infections where they may do more harm than good. Use only for certain very serious infections for which these medicines are recommended.8. Eating yogurt or curdled milk helps to replace necessary bacteria killed by antibiotics like ampicillin and to return the body’s natural balance to normal (see next page).
+6. Use streptomycin only for tuberculosis, and always together with other anti-tuberculosis medicines (see p. 361).7. All medicines in the aminoglycoside group (including kanamycin and gentamicin) are quite toxic (poisonous). Too often they are prescribed for mild infections where they may do more harm than good. Use only for certain very serious infections for which these medicines are recommended.8. Eating yogurt or curdled milk helps to replace necessary bacteria killed by antibiotics like ampicillin and to return the body’s natural balance to normal (see next page).
 # WHAT TO DO IF AN ANTIBIOTIC DOES NOT SEEM TO HELP
 
 For most common infections antibiotics begin to bring improvement in a day or two. If the antibiotic you are using does not seem to help, it is possible that:
 
-1. The illness is not what you think. You may be using the wrong medicine. Try to find out more exactly what the illness is—and use the right medicine.
+1. The illness is not what you think. You may be using the wrong medicine. Try to find out more exactly what the illness is, and use the right medicine.
 
 2. The dose of the antibiotic is not correct. Check it.
 
@@ -143,7 +143,7 @@ In some places typhoid has become resistant to chloramphenicol, normally the bes
 
 Chloramphenicol has been used far too much for minor infections, infections for which other antibiotics would be safer and work as well, or for which no antibiotic at all is needed.
 
-Throughout the world important diseases are becoming resistant to antibiotics— largely because antibiotics are used too much for minor infections. **If antibiotics are to continue to save lives, their use must be much more limited than it is at present.** This will depend on their wise use by doctors, health workers, and the people themselves.
+Throughout the world important diseases are becoming resistant to antibiotics,  largely because antibiotics are used too much for minor infections. **If antibiotics are to continue to save lives, their use must be much more limited than it is at present.** This will depend on their wise use by doctors, health workers, and the people themselves.
 
 For most minor infections antibiotics are not needed and should not be used.
 

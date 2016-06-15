@@ -119,7 +119,7 @@ Some common combination medicines that should be avoided are:
 
   • antacids to treat stomach ulcers together with medicine to prevent stomach cramps
 
-  • 2 or more pain medicines (aspirin with acetaminophen—sometimes also with caffeine)
+  • 2 or more pain medicines (aspirin with acetaminophen, sometimes also with caffeine)
 
 
 
@@ -153,9 +153,9 @@ If a sick person is able to swallow and keep down liquids . . .
 
 Many people have beliefs about things they should not do or eat when taking medicines. For this reason they may stop taking a medicine they need.
 
-In truth, no medicine causes harm just because it is taken with certain foods—whether pork, chili pepper, guava, oranges, or any other food.
+In truth, no medicine causes harm just because it is taken with certain foods, whether pork, chili pepper, guava, oranges, or any other food.
 
-But foods with lots of grease or spices can make problems of the stomach or gut worse—whether or not any medicine is being taken (see p. 128).
+But foods with lots of grease or spices can make problems of the stomach or gut worse, whether or not any medicine is being taken (see p. 128).
 
 Certain medicines will cause bad reactions if a person drinks alcohol (see metronidazole, p. 368).
 
@@ -171,7 +171,7 @@ There are situations when, without a doubt, **it is best no to use** certain med
 
 ## A person who's allergic
 
-3. A person who has ever had any sort of allergic reaction — hives, itching, etc. — after taking penicillin, ampicillin, a sulfonamide, or other medicines, **should never use that medicine again for the rest of his life** because it would be dangerous (see Dangerous reactions from injections of certain medicines, p. 70).
+3. A person who has ever had any sort of allergic reaction ,  hives, itching, etc. ,  after taking penicillin, ampicillin, a sulfonamide, or other medicines, **should never use that medicine again for the rest of his life** because it would be dangerous (see Dangerous reactions from injections of certain medicines, p. 70).
 
 ## Persons who have stomach ulcers or heartburn
 

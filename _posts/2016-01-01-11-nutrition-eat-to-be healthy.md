@@ -182,7 +182,7 @@ Examples:
 - **Starchy roots**** (cassava, potatoes, taro)
 - **Starchy fruits** (banana, plantain, breadfruit)
 
-* Note: Main foods are cheap sources of energy. The cereals also provide some protein, iron, and vitamins—at low cost.
+* Note: Main foods are cheap sources of energy. The cereals also provide some protein, iron, and vitamins, at low cost.
 
 
 ## GROW FOODS
@@ -228,20 +228,20 @@ Follow the guidelines for preventing malnutrition.
 
 This occurs most often in babies who stopped breastfeeding early or suddenly, and who are not given sufficient high energy foods often enough. Severe malnutrition often starts when a child has diarrhea or another infection. We can usually recognize children who are severely malnourished without taking any measurements. The 2 main examples are:
 
-# dry malnutrition—or marasmus
+# dry malnutrition, or marasmus
 
 This child does not get enough of any kind of food. He is said to have dry malnutrition or marasmus. In other words, he is starved. His body is small, very thin and wasted. He is little more than skin and bones.
 
-This child needs more food—especially energy foods.
+This child needs more food, especially energy foods.
 
 
 # THIS CHILD IS JUST SKIN AND BONES.
 
-This child’s condition is called wet malnutrition because his feet, hands, and face are swollen. This can happen when a child does not eat enough ‘body building’ helper foods—or proteins. More often it happens when he does not get enough energy foods, and his body burns up whatever proteins he eats for energy.
+This child’s condition is called wet malnutrition because his feet, hands, and face are swollen. This can happen when a child does not eat enough ‘body building’ helper foods, or proteins. More often it happens when he does not get enough energy foods, and his body burns up whatever proteins he eats for energy.
 
 Eating beans, lentils, or other foods that have been stored in a damp place and are a little moldy may also be part of the cause.
 
-This child needs more food more often—a lot of foods rich in energy, and some foods rich in protein (see p. 111).
+This child needs more food more often, a lot of foods rich in energy, and some foods rich in protein (see p. 111).
 
 Also, try to avoid foods that are old, and may be spoiled or moldy.
 
@@ -300,7 +300,7 @@ They may grow crops like coffee or tobacco, which they sell to make money, but w
 
 Or the poor may farm small plots of borrowed land, while the owners take a big share of the harvest. **The problem of hunger and poor nutrition will never be completely solved until people learn to share with each other fairly.**
 
-But there are many things people can do to eat better at low cost—and by eating well gain strength to stand up for their rights. On pages w13 and w14 of “Words to the Village Health Worker” are several suggestions for increasing food production.
+But there are many things people can do to eat better at low cost, and by eating well gain strength to stand up for their rights. On pages w13 and w14 of “Words to the Village Health Worker” are several suggestions for increasing food production.
 
 These include improved use of land through **rotating crops, contour ditches, and irrigation;** also ideas for **breeding fish, beekeeping, grain storage,** and **family gardens.** If the whole village or a group of families works together on some of these things, a lot can be done to improve nutrition.
 
@@ -318,7 +318,7 @@ When money is limited, it is important to use it wisely. This means cooperation 
 Also, some parents buy sweets or soft drinks (fizzy drinks) for their children when they could spend the same money buying eggs, milk, nuts or other nutritious foods. This way their children could become more healthy for the same amount of money. Discuss this with the families and look for solutions.
 
 IF YOU HAVE A LITTLE MONEY AND WANT TO HELP YOUR CHILD GROW STRONG:
-DO NOT BUY HIM A SOFT DRINK OR SWEETS— BUY HIM 2 EGGS OR A HANDFUL OF NUTS.
+DO NOT BUY HIM A SOFT DRINK OR SWEETS,  BUY HIM 2 EGGS OR A HANDFUL OF NUTS.
 
 
 # [116](#page-116)
@@ -326,7 +326,7 @@ DO NOT BUY HIM A SOFT DRINK OR SWEETS— BUY HIM 2 EGGS OR A HANDFUL OF NUTS.
 
 # Better Foods at Low Cost
 
-Many of the world’s people eat a lot of bulky, starchy foods, without adding enough helper foods to provide the extra energy, body building, and protection they need. This is partly because many helper foods are expensive—especially those that come from animals, like milk and meat.
+Many of the world’s people eat a lot of bulky, starchy foods, without adding enough helper foods to provide the extra energy, body building, and protection they need. This is partly because many helper foods are expensive, especially those that come from animals, like milk and meat.
 
 
 >**People can be strong and healthy when most of their proteins and other helper foods come from plants.**
@@ -340,13 +340,13 @@ Try to eat a variety of plant foods. Different plants supply the body with diffe
 
 Here are some suggestions for getting more vitamins, minerals, and proteins at low cost.
 
-1. Breast milk. This is the cheapest, healthiest, and most complete food for a baby. The mother can eat plenty of plant foods and turn them into the perfect baby food—breast milk. Breastfeeding is not only best for the baby, it saves money and prevents diseases!
+1. Breast milk. This is the cheapest, healthiest, and most complete food for a baby. The mother can eat plenty of plant foods and turn them into the perfect baby food, breast milk. Breastfeeding is not only best for the baby, it saves money and prevents diseases!
 
 2. Eggs and chicken. In many places eggs are one of the cheapest and best forms of animal protein. They can be cooked and mixed with foods given to babies who cannot get breast milk. Or they can be given along with breast milk as the baby grows older.
 
 Eggshells that are boiled, finely ground, and mixed with food can provide needed calcium for pregnant women who develop sore, loose teeth or muscle cramps.
 
-Chicken is a good, often fairly cheap form of animal protein—especially if the family raises its own chickens.
+Chicken is a good, often fairly cheap form of animal protein, especially if the family raises its own chickens.
 
 3. Liver, heart, kidney, and blood. These are especially high in protein, vitamins, and iron (for anemia) and are often cheaper than other meat. Also fish is often cheaper than other meat, and is just as nutritious.
 
@@ -366,7 +366,7 @@ Beans, peas, and other legumes are not only a low-cost form of protein. Growing 
 
 Note: Light green vegetables like cabbage and lettuce have less nutritional value. It is better to grow ones with dark colored leaves.
 
-6. Cassava (manioc) leaves contain 7 times as much protein and more vitamins than the root. If eaten together with the root, they add food value—at no additional cost. The young leaves are best.
+6. Cassava (manioc) leaves contain 7 times as much protein and more vitamins than the root. If eaten together with the root, they add food value, at no additional cost. The young leaves are best.
 
 7. Lime soaked maize (corn). When soaked in lime (cal) before cooking, as is the custom in much of Latin America, maize is richer in calcium. Soaking in lime also allows more of the vitamins (niacin) and protein to be used by the body.
 
@@ -390,7 +390,7 @@ For another source of iron, put some iron nails in a little lemon juice for a fe
 12. In some countries, low-cost baby food preparations
 are available, made from different combinations of soybean, cotton seed, skim milk, or dried fish. Some taste better than others, but most are well balanced foods. When mixed with gruel, cooked cereal, or other baby food, they add to its nutrition content at low cost.
 
-# WHERE TO GET VITAMINS: IN PILLS, INJECTIONS, SYRUPS—OR IN FOODS?
+# WHERE TO GET VITAMINS: IN PILLS, INJECTIONS, SYRUPS, OR IN FOODS?
 
 Anyone who eats a good mixture of foods, including vegetables and fruits, gets all the vitamins he needs. It is always better to eat well than to buy vitamin pills, injections, syrups, or tonics.
 
@@ -398,7 +398,7 @@ YES NO
 
 Sometimes nutritious foods are scarce. If a person is already poorly nourished, or has a serious illness like HIV, he should eat as well as he can and perhaps take vitamins besides.
 
-Vitamins taken by mouth work as well as injections, cost less, and are not as dangerous. Do not inject vitamins! It is better to swallow them—preferably in the form of nutritious foods.
+Vitamins taken by mouth work as well as injections, cost less, and are not as dangerous. Do not inject vitamins! It is better to swallow them,  preferably in the form of nutritious foods.
 
 If you want vitamins, buy eggs or other nutritious foods instead of pills or injections.
 
@@ -412,7 +412,7 @@ In addition, certain people need extra:
 
 ♦ Folic Acid (folicin), for pregnant women
 
-♦ Iron (ferrous sulfate, etc.)—especially for pregnant women.
+♦ Iron (ferrous sulfate, etc.), especially for pregnant women.
 
 (For people with anemia, multi-vitamin pills do not have enough iron to help much. Iron pills are more helpful.)
 
@@ -439,7 +439,7 @@ A lot of people believe that there are many kinds of foods that will hurt them, 
 
 Or they may believe that many different foods are bad for a mother with a newborn child. Some of these beliefs are reasonable but others do more harm than good. Often the foods people think they should avoid when they are sick are the very foods they need to get well.
 
-A sick person has even greater need for plenty of nutritious food than a healthy person. We should worry less about foods that might harm a sick person and think more about foods that help make him healthy—for example: high energy foods together with fruit, vegetables, legumes, nuts, milk, meat, eggs, and fish.
+A sick person has even greater need for plenty of nutritious food than a healthy person. We should worry less about foods that might harm a sick person and think more about foods that help make him healthy, for example: high energy foods together with fruit, vegetables, legumes, nuts, milk, meat, eggs, and fish.
 
 As a general rule:
 Also, the things that harm us when we are healthy do us even more harm when we are sick.
@@ -496,7 +496,7 @@ Nearly all mothers can produce all the breast milk their babies need:
 
 ♦ If a mother’s breasts produce little or no milk, she should continue to eat well, drink lots of liquids and let the baby suck her breasts often.
 
-After each breastfeeding, give the baby, by cup (not bottle), some other type of milk— like boiled cow’s or goat’s milk, canned milk, or powdered milk. (Do not use condensed milk.) Add a little sugar or vegetable oil to any of these milks.
+After each breastfeeding, give the baby, by cup (not bottle), some other type of milk,  like boiled cow’s or goat’s milk, canned milk, or powdered milk. (Do not use condensed milk.) Add a little sugar or vegetable oil to any of these milks.
 
 **Note:** Whatever type of milk is used, some cooled, boiled water should be added.
 
@@ -541,7 +541,7 @@ If non–fat milk is used, add another spoonful of oil.
 to breast milk. Always give the breast first, and then the other foods. It is good to start with a gruel or porridge made from the main food (p. 111) such as maize meal or rice cooked in water or milk. Then start adding a little cooking oil for extra energy. After a few days, start adding other helper foods (see p. 110). But start with just a little of the new food, and add only 1 at time or the baby may have trouble digesting them. These new foods need to be well cooked and mashed. At first they can be mixed with a little breast milk to make them easier for the baby to swallow.
 
 3. Prepare inexpensive, nutritious feedings for the baby by adding helper
-foods to the main food (see p. 110). Most important is to add foods that give extra energy (such as oil) and—whenever possible—extra iron (such as dark green leafy vegetables).
+foods to the main food (see p. 110). Most important is to add foods that give extra energy (such as oil) and, whenever possible, extra iron (such as dark green leafy vegetables).
 
 Remember, a young child’s stomach is small and cannot hold much food at one time. So feed her often, and add high-energy helpers to the main food:
 
@@ -598,7 +598,7 @@ However, when food supply is limited or when the main foods have a lot of water 
 
 1. **The diet of mothers after giving birth:**
 
-In many areas there is a dangerous popular belief that a woman who has just had a baby should not eat certain foods. This folk diet—which forbids some of the most nutritious foods and may only let the new mother eat things like cornmeal, noodles, or rice soup—makes her weak and anemic. It may even cause her death, by lowering her resistance to hemorrhage (bleeding) and infection.
+In many areas there is a dangerous popular belief that a woman who has just had a baby should not eat certain foods. This folk diet, which forbids some of the most nutritious foods and may only let the new mother eat things like cornmeal, noodles, or rice soup, makes her weak and anemic. It may even cause her death, by lowering her resistance to hemorrhage (bleeding) and infection.
 
 >**After giving birth a mother needs to eat the most nutritious foods she can get.**
 
@@ -803,7 +803,7 @@ pain and heal the sore.
 is said to heal ulcers. Chop the spongy leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter water every 2 hours.
 CAUTION:
 1. Some antacids, such as sodium bicarbonate (baking soda) and Alka-Seltzer may quickly calm acid indigestion, but soon cause more acid. They should be used only for occasional indigestion, never for ulcers. This is also true for antacids with calcium.
-2. Some medicines, such as aspirin and ibuprofen, make ulcers worse. Persons with signs of heartburn or acid indigestion should avoid them—use acetaminophen instead of aspirin. Cortico-steroids also make ulcers worse (see p. 51).
+2. Some medicines, such as aspirin and ibuprofen, make ulcers worse. Persons with signs of heartburn or acid indigestion should avoid them, use acetaminophen instead of aspirin. Cortico-steroids also make ulcers worse (see p. 51).
 It is important to treat an ulcer early. Otherwise it may lead to dangerous bleeding or peritonitis. Ulcers sometimes get better if the person is careful with what he eats and drinks. Anger, tension, and nervousness increase acid in the stomach. Learning to relax and keep calm will help. Treatment with antibiotics is necessary to prevent the ulcer from returning.
 Avoid having minor stomach problems get worse by not eating too much, by not drinking much alcohol or coffee, and by not smoking or using tobacco.
 
