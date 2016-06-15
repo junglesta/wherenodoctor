@@ -602,11 +602,11 @@ If the frightened person is breathing very hard and fast, his body may be gettin
 
 Treatment:
 
-♦ Keep the person as quiet as possible.
+  ♦ Keep the person as quiet as possible.
 
-♦ Have her put her face in a paper bag and breathe slowly. She should continue breathing the same air for 2 or 3 minutes. This will usually calm her down.
+  ♦ Have her put her face in a paper bag and breathe slowly. She should continue breathing the same air for 2 or 3 minutes. This will usually calm her down.
 
-♦ Explain to her that the problem is not dangerous and she will soon be all right.
+  ♦ Explain to her that the problem is not dangerous and she will soon be all right.
 
 
 

@@ -404,30 +404,31 @@ If you want vitamins, buy eggs or other nutritious foods instead of pills or inj
 
 If you buy vitamin preparations, be sure they have all these vitamins and minerals:
 
-♦ Niacin (niacinamide)
-♦ Vitamin B1 (thiamine)
-♦ Vitamin B2 (riboflavin)
+  ♦ Niacin (niacinamide)
+
+  ♦ Vitamin B1 (thiamine)
+
+  ♦ Vitamin B2 (riboflavin)
 
 In addition, certain people need extra:
 
-♦ Folic Acid (folicin), for pregnant women
+  ♦ Folic Acid (folicin), for pregnant women
 
-♦ Iron (ferrous sulfate, etc.), especially for pregnant women.
+  ♦ Iron (ferrous sulfate, etc.), especially for pregnant women.
 
 (For people with anemia, multi-vitamin pills do not have enough iron to help much. Iron pills are more helpful.)
 
-♦ Vitamin B6 (pyridoxine), for small children and persons taking medicine for tuberculosis
+  ♦ Vitamin B6 (pyridoxine), for small children and persons taking medicine for tuberculosis
 
-♦ Calcium, for children and breastfeeding mothers who do not get enough calcium in foods such as milk, cheese, or foods prepared with lime
+  ♦ Calcium, for children and breastfeeding mothers who do not get enough calcium in foods such as milk, cheese, or foods prepared with lime
 
-♦ Vitamin A
+  ♦ Vitamin A
 
-♦ Vitamin C (ascorbic acid) }children
+  ♦ Vitamin C (ascorbic acid)
 
-♦ Vitamin D
+  ♦ Vitamin D
 
-♦ lodine (in areas where goiter is common)
-for small
+  ♦ Iodine (in areas where goiter is common) for small children
 
 
 # [119](#page-119)
@@ -442,6 +443,7 @@ Or they may believe that many different foods are bad for a mother with a newbor
 A sick person has even greater need for plenty of nutritious food than a healthy person. We should worry less about foods that might harm a sick person and think more about foods that help make him healthy, for example: high energy foods together with fruit, vegetables, legumes, nuts, milk, meat, eggs, and fish.
 
 As a general rule:
+
 Also, the things that harm us when we are healthy do us even more harm when we are sick.
 
 Avoid these things:
@@ -449,15 +451,15 @@ Avoid these things:
 The same foods that are good for us when we are healthy are good for us when we are sick.
 
 
-alcoholic drinks
+- alcoholic drinks
 
-tobacco
+- tobacco
 
-greasy food
+- greasy food
 
-a lot of sugar and sweets
+- a lot of sugar and sweets
 
-too much coffee
+- too much coffee
 
 
 • Alcohol causes or makes worse diseases of the liver, stomach, heart, and nerves. It also causes social problems.
