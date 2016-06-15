@@ -5,8 +5,7 @@ index: true
 style: red
 bookpage: 419
 ---
-* TOC
-{:toc}
+
 
 
 This vocabulary is listed in the order of the alphabet:
