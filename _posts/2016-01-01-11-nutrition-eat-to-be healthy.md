@@ -819,23 +819,21 @@ If the ulcer is severe, it can cause vomiting, sometimes with fresh blood, or wi
 
 WARNING: Some ulcers are painless or ‘silent’, and the first sign is blood in vomit, or black, sticky stools. This is a medical emergency. The person can quickly bleed to death. GET MEDICAL HELP FAST.
 
-**Prevention and Treatment:**
-
-Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ulcer, a few basic recommendations will probably help calm the pain and prevent it from coming back.
-
- ♦ Do not eat too much. Eat small meals and eat frequent snacks between meals.
-
- ♦ Notice what foods or drinks make the pain worse and avoid them. These usually include alcoholic drinks, coffee, spices, pepper, carbonated drinks (soda, pop, colas), and fatty or greasy foods.
-
-  ♦ If the heartburn is worse at night when lying flat, try sleeping with the upper body somewhat raised.
-
-  An ulcer is an open sore in the stomach or gut.
-
 
 
 # [129](#page-129)
 {:.no_toc}
 
+
+**Prevention and Treatment:**
+
+Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ulcer, a few basic recommendations will probably help calm the pain and prevent it from coming back.
+
+  ♦ Do not eat too much. Eat small meals and eat frequent snacks between meals.
+
+  ♦ Notice what foods or drinks make the pain worse and avoid them. These usually include alcoholic drinks, coffee, spices, pepper, carbonated drinks (soda, pop, colas), and fatty or greasy foods.
+
+  ♦ If the heartburn is worse at night when lying flat, try sleeping with the upper body somewhat raised.
 
   ♦ Drink a lot of water. Try to drink 2 big glasses of water both before and after each meal. Also drink a lot of water frequently between meals. If the pain comes often, keep drinking water like this, even in those times when you have no pain.
 
@@ -847,13 +845,21 @@ Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ul
 
   ♦ Aloe vera is a plant found in many countries that heal ulcers. Chop the spongy leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter water every 2 hours.
 
+An ulcer is an open sore in the stomach or gut.
+
+
 CAUTION:
 
-1. Some antacids, such as sodium bicarbonate (baking soda) and Alka-Seltzer may quickly calm acid indigestion, but soon cause more acid. They should be used only for occasional indigestion, never for ulcers. This is also true for antacids with calcium.
+  1. Some antacids, such as sodium bicarbonate (baking soda) and Alka-Seltzer may quickly calm acid indigestion, but soon cause more acid. They should be used only for occasional indigestion, never for ulcers. This is also true for antacids with calcium.
 
-2. Some medicines, such as aspirin and ibuprofen, make ulcers worse. Persons with signs of heartburn or acid indigestion should avoid them, use acetaminophen instead of aspirin. Cortico-steroids also make ulcers worse (see p. 51).
+  2. Some medicines, such as aspirin and ibuprofen, make ulcers worse. Persons with signs of heartburn or acid indigestion should avoid them, use acetaminophen instead of aspirin. Cortico-steroids also make ulcers worse (see p. 51).
 
-It is important to treat an ulcer early. Otherwise it may lead to dangerous bleeding or peritonitis. Ulcers sometimes get better if the person is careful with what he eats and drinks. Anger, tension, and nervousness increase acid in the stomach. Learning to relax and keep calm will help. Treatment with antibiotics is necessary to prevent the ulcer from returning.
+It is important to treat an ulcer early. Otherwise it may lead to dangerous bleeding or peritonitis.
+
+Ulcers sometimes get better if the person is careful with what he eats and drinks.
+
+Anger, tension, and nervousness increase acid in the stomach. Learning to relax and keep calm will help. Treatment with antibiotics is necessary to prevent the ulcer from returning.
+
 Avoid having minor stomach problems get worse by not eating too much, by not drinking much alcohol or coffee, and by not smoking or using tobacco.
 
 
