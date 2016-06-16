@@ -85,12 +85,12 @@ Often the signs of poor nutrition first appear when a person has some other sick
 
 **During and after any sickness, it is very important to eat well.**
 
-# [109](#page-109)
-{:.no_toc}
-
 
 >EATING WELL AND KEEPING CLEAN ARE THE BEST GUARANTEES
 OF GOOD HEALTH.
+
+# [109](#page-109)
+{:.no_toc}
 
 # WHY IT IS IMPORTANT TO EAT RIGHT
 
@@ -228,14 +228,14 @@ Follow the guidelines for preventing malnutrition.
 
 This occurs most often in babies who stopped breastfeeding early or suddenly, and who are not given sufficient high energy foods often enough. Severe malnutrition often starts when a child has diarrhea or another infection. We can usually recognize children who are severely malnourished without taking any measurements. The 2 main examples are:
 
-# dry malnutrition, or marasmus
+## dry malnutrition, or marasmus
 
 This child does not get enough of any kind of food. He is said to have dry malnutrition or marasmus. In other words, he is starved. His body is small, very thin and wasted. He is little more than skin and bones.
 
 This child needs more food, especially energy foods.
 
 
-# THIS CHILD IS JUST SKIN AND BONES.
+## THIS CHILD IS JUST SKIN AND BONES.
 
 This child’s condition is called wet malnutrition because his feet, hands, and face are swollen. This can happen when a child does not eat enough ‘body building’ helper foods, or proteins. More often it happens when he does not get enough energy foods, and his body burns up whatever proteins he eats for energy.
 
@@ -246,7 +246,7 @@ This child needs more food more often, a lot of foods rich in energy, and some f
 Also, try to avoid foods that are old, and may be spoiled or moldy.
 
 
-# OTHER FORMS OF MALNUTRITION
+## other forms of malnutrition
 
 First the child becomes swollen. The other signs come later.
 
@@ -256,7 +256,7 @@ THIS CHILD IS SKIN, BONES, AND WATER.
 # [113](#page-113)
 {:.no_toc}
 
-# WET MALNUTRITION (KWASHIORKOR)
+## wet malnutrition (kwashiorkor)
 
 Other forms of malnutrition may result when certain vitamins and minerals are missing from the foods people eat. Many of these specific types of malnutrition are discussed more fully later in this chapter and in other parts of this book:
 
@@ -277,6 +277,7 @@ For more information about health problems related to nutrition, see Helping Hea
 # [114](#page-114)
 {:.no_toc}
 
+## Examples
 
 This mother and child are from a poor family and are both poorly nourished. The father works hard, but he does not earn enough to feed the family well.
 
@@ -290,7 +291,7 @@ As a result, this 2 year old child is severely malnourished. He is very small an
 # [115](#page-115)
 {:.no_toc}
 
-# WAYS OF EATING BETTER WHEN YOU DO NOT HAVE MUCH MONEY OR LAND
+# ways of eating better when you do not have much money or land
 
 There are many reasons for hunger and poor nutrition. One main reason is poverty.
 
@@ -324,7 +325,7 @@ DO NOT BUY HIM A SOFT DRINK OR SWEETS,  BUY HIM 2 EGGS OR A HANDFUL OF NUTS.
 # [116](#page-116)
 {:.no_toc}
 
-# Better Foods at Low Cost
+## Better Foods at Low Cost
 
 Many of the world’s people eat a lot of bulky, starchy foods, without adding enough helper foods to provide the extra energy, body building, and protection they need. This is partly because many helper foods are expensive, especially those that come from animals, like milk and meat.
 
@@ -338,18 +339,6 @@ However, where family finances and local customs permit, it is wise to eat, when
 
 Try to eat a variety of plant foods. Different plants supply the body with different proteins, vitamins, and minerals. For example, beans and maize together meet the body’s needs much better than either beans or maize alone. And if other vegetables and fruits are added, this is even better.
 
-Here are some suggestions for getting more vitamins, minerals, and proteins at low cost.
-
-1. Breast milk. This is the cheapest, healthiest, and most complete food for a baby. The mother can eat plenty of plant foods and turn them into the perfect baby food, breast milk. Breastfeeding is not only best for the baby, it saves money and prevents diseases!
-
-2. Eggs and chicken. In many places eggs are one of the cheapest and best forms of animal protein. They can be cooked and mixed with foods given to babies who cannot get breast milk. Or they can be given along with breast milk as the baby grows older.
-
-Eggshells that are boiled, finely ground, and mixed with food can provide needed calcium for pregnant women who develop sore, loose teeth or muscle cramps.
-
-Chicken is a good, often fairly cheap form of animal protein, especially if the family raises its own chickens.
-
-3. Liver, heart, kidney, and blood. These are especially high in protein, vitamins, and iron (for anemia) and are often cheaper than other meat. Also fish is often cheaper than other meat, and is just as nutritious.
-
 
 
 
@@ -357,28 +346,39 @@ Chicken is a good, often fairly cheap form of animal protein, especially if the 
 {:.no_toc}
 
 
+## Here are some suggestions for getting more vitamins, minerals, and proteins at low cost.
 
-4. Beans, peas, lentils, and other legumes are a good cheap source of protein. If allowed to sprout before cooking and eating, they are higher in vitamins. Baby food can be made from beans by cooking them well, and then straining them through a sieve, or by peeling off their skins, and mashing them.
+  1. Breast milk. This is the cheapest, healthiest, and most complete food for a baby. The mother can eat plenty of plant foods and turn them into the perfect baby food, breast milk. Breastfeeding is not only best for the baby, it saves money and prevents diseases!
 
-Beans, peas, and other legumes are not only a low-cost form of protein. Growing these crops makes the soil richer so that other crops will grow better afterwards. For this reason, crop rotation and mixed crops are a good idea (see p. w13).
+  2. Eggs and chicken. In many places eggs are one of the cheapest and best forms of animal protein. They can be cooked and mixed with foods given to babies who cannot get breast milk. Or they can be given along with breast milk as the baby grows older.
 
-5. Dark green leafy vegetables have some iron, a lot of vitamin A, and some protein. The leaves of sweet potatoes, beans and peas, pumpkins and squash, and baobab are especially nutritious. They can be dried, powdered, and mixed with babies’ gruel.
+  Eggshells that are boiled, finely ground, and mixed with food can provide needed calcium for pregnant women who develop sore, loose teeth or muscle cramps.
 
-Note: Light green vegetables like cabbage and lettuce have less nutritional value. It is better to grow ones with dark colored leaves.
+  Chicken is a good, often fairly cheap form of animal protein, especially if the family raises its own chickens.
 
-6. Cassava (manioc) leaves contain 7 times as much protein and more vitamins than the root. If eaten together with the root, they add food value, at no additional cost. The young leaves are best.
+  3. Liver, heart, kidney, and blood. These are especially high in protein, vitamins, and iron (for anemia) and are often cheaper than other meat. Also fish is often cheaper than other meat, and is just as nutritious.
 
-7. Lime soaked maize (corn). When soaked in lime (cal) before cooking, as is the custom in much of Latin America, maize is richer in calcium. Soaking in lime also allows more of the vitamins (niacin) and protein to be used by the body.
+  4. Beans, peas, lentils, and other legumes are a good cheap source of protein. If allowed to sprout before cooking and eating, they are higher in vitamins. Baby food can be made from beans by cooking them well, and then straining them through a sieve, or by peeling off their skins, and mashing them.
 
-8. Rice, wheat, and other grains are more nutritious if their outer skins are not removed during milling. Moderately milled rice and whole wheat contain more proteins, vitamins, and minerals than the white, over milled product.
+  Beans, peas, and other legumes are not only a low-cost form of protein. Growing these crops makes the soil richer so that other crops will grow better afterwards. For this reason, crop rotation and mixed crops are a good idea (see p. w13).
 
-NOTE: The protein in wheat, rice, maize, and other grains can be better used by the body when they are eaten with beans or lentils.
+  5. Dark green leafy vegetables have some iron, a lot of vitamin A, and some protein. The leaves of sweet potatoes, beans and peas, pumpkins and squash, and baobab are especially nutritious. They can be dried, powdered, and mixed with babies’ gruel.
 
-9. Cook vegetables, rice, and other foods in little water. And do not overcook. This way fewer vitamins and proteins are lost. Be sure to drink the leftover water, or use it for soups or in other foods.
+  Note: Light green vegetables like cabbage and lettuce have less nutritional value. It is better to grow ones with dark colored leaves.
 
-10. Many wild fruits and berries are rich in vitamin C as well as natural sugars. They provide extra vitamins and energy. (Be careful not to eat berries or fruit that are poisonous.)
+  6. Cassava (manioc) leaves contain 7 times as much protein and more vitamins than the root. If eaten together with the root, they add food value, at no additional cost. The young leaves are best.
 
-11. Cooking in iron pots or putting a piece of old iron or horseshoe in the pan when cooking beans and other foods adds iron to food and helps prevent anemia. More iron will be available if you also add tomatoes.
+  7. Lime soaked maize (corn). When soaked in lime (cal) before cooking, as is the custom in much of Latin America, maize is richer in calcium. Soaking in lime also allows more of the vitamins (niacin) and protein to be used by the body.
+
+  8. Rice, wheat, and other grains are more nutritious if their outer skins are not removed during milling. Moderately milled rice and whole wheat contain more proteins, vitamins, and minerals than the white, over milled product.
+
+  NOTE: The protein in wheat, rice, maize, and other grains can be better used by the body when they are eaten with beans or lentils.
+
+  9. Cook vegetables, rice, and other foods in little water. And do not overcook. This way fewer vitamins and proteins are lost. Be sure to drink the leftover water, or use it for soups or in other foods.
+
+  10. Many wild fruits and berries are rich in vitamin C as well as natural sugars. They provide extra vitamins and energy. (Be careful not to eat berries or fruit that are poisonous.)
+
+  11. Cooking in iron pots or putting a piece of old iron or horseshoe in the pan when cooking beans and other foods adds iron to food and helps prevent anemia. More iron will be available if you also add tomatoes.
 
 
 # [118](#page-118)
@@ -390,11 +390,9 @@ For another source of iron, put some iron nails in a little lemon juice for a fe
 12. In some countries, low-cost baby food preparations
 are available, made from different combinations of soybean, cotton seed, skim milk, or dried fish. Some taste better than others, but most are well balanced foods. When mixed with gruel, cooked cereal, or other baby food, they add to its nutrition content at low cost.
 
-# WHERE TO GET VITAMINS: IN PILLS, INJECTIONS, SYRUPS, OR IN FOODS?
+# WHERE TO GET VITAMINS: PILLS, INJECTIONS, SYRUPS, OR FOODS?
 
 Anyone who eats a good mixture of foods, including vegetables and fruits, gets all the vitamins he needs. It is always better to eat well than to buy vitamin pills, injections, syrups, or tonics.
-
-YES NO
 
 Sometimes nutritious foods are scarce. If a person is already poorly nourished, or has a serious illness like HIV, he should eat as well as he can and perhaps take vitamins besides.
 
@@ -479,7 +477,7 @@ A few diseases require not eating certain other foods. For example, people with 
 
 # THE BEST DIET FOR SMALL CHILDREN
 
-## the first 6 months of life
+## 0 > 6 The first 6 months of life
 
 For the first 6 months give the baby breast milk and nothing else. It is better than any baby food or milks you can buy. Breast milk helps protect the baby against diarrhea and many infections. It is best not to give extra water or teas, even in hot weather.
 
@@ -492,19 +490,18 @@ But only you can evaluate the conditions in your home and community and decide w
 
 Nearly all mothers can produce all the breast milk their babies need:
 
-♦ The best way for a mother to keep making enough breast milk is to breastfeed the baby often, eat well, and drink lots of liquids.
+  ♦ The best way for a mother to keep making enough breast milk is to breastfeed the baby often, eat well, and drink lots of liquids.
 
-♦ Do not give the baby other foods before he is 6 months old, and always breastfeed before giving the other foods.
+  ♦ Do not give the baby other foods before he is 6 months old, and always breastfeed before giving the other foods.
 
-♦ If a mother’s breasts produce little or no milk, she should continue to eat well, drink lots of liquids and let the baby suck her breasts often.
+  ♦ If a mother’s breasts produce little or no milk, she should continue to eat well, drink lots of liquids and let the baby suck her breasts often.
 
 After each breastfeeding, give the baby, by cup (not bottle), some other type of milk,  like boiled cow’s or goat’s milk, canned milk, or powdered milk. (Do not use condensed milk.) Add a little sugar or vegetable oil to any of these milks.
 
 **Note:** Whatever type of milk is used, some cooled, boiled water should be added.
 
-#### Here are two examples of correct formulas:
 
-
+## 0 > 6 Two examples of correct formulas
 
 **NO.1**
 
@@ -535,7 +532,7 @@ If non–fat milk is used, add another spoonful of oil.
 # [121](#page-121)
 {:.no_toc}
 
-## from 6 months to 1 year of age:
+## 6 > 12 From 6 months to 1 year of age
 
 1. Keep giving breast milk, if possible until the baby is 2 or 3 years old.
 
@@ -548,8 +545,6 @@ foods to the main food (see p. 110). Most important is to add foods that give ex
 Remember, a young child’s stomach is small and cannot hold much food at one time. So feed her often, and add high-energy helpers to the main food:
 
 A spoonful of cooking oil added to a child’s food means he has to eat only 3/4 as much of the local main food in order to meet his energy needs. The added oil helps make sure he gets enough energy (calories) by the time his belly is full.
-
-
 
 
 >CAUTION: The time when a child is most likely to become malnourished is from 6 months to 2 years old. This is because breast milk by itself does not provide enough energy for a baby after 6 months of age. Other foods are needed, but often the foods given do not contain enough energy either. If the mother also stops breastfeeding, the child is even more likely to become malnourished.
@@ -574,7 +569,7 @@ For a child of this age to be healthy we should:
 # [122](#page-122)
 {:.no_toc}
 
-### ONE YEAR AND OLDER:
+## 12 > One year and older
 
 After a child is 1 year old, he can eat **the same foods as adults**, but should continue to breastfeed (or drink milk whenever possible).
 
@@ -586,7 +581,7 @@ To make sure that the child gets enough to eat, **serve him in his own dish**, a
 
 However, when food supply is limited or when the main foods have a lot of water or fiber in them, adding a little sugar and vegetable oil to the main food provides extra energy and allows children to make fuller use of the protein in the food they get.
 
-## the best diet for small children
+## 12 >  Best diet for small children
 
 **THE FIRST SIX MONTHS:**
 
@@ -685,7 +680,7 @@ Children whose skin is almost never exposed to the sunlight may become bowlegged
 
 SUNLIGHT IS THE BEST PREVENTION AND TREATMENT OF RICKETS.
 
-# High Blood Pressure (Hypertension)
+## High Blood Pressure (Hypertension)
 
 High blood pressure can cause many problems, such as heart disease, kidney disease, and stroke. Fat people are especially likely to have high blood pressure.
 
@@ -722,7 +717,7 @@ _What to do to prevent or care for high blood pressure:_
 # [126](#page-126)
 {:.no_toc}
 
-# People Who Are Too Heavy
+## People Who Are Too Heavy
 
 To be very fat is not healthy. Very heavy people are
 more likely to get high blood pressure, stroke, gallstones, some kinds of diabetes, arthritis in legs and feet, and other problems. Sometimes being too heavy brings on illness, and sometimes illness may cause you to become too heavy.
@@ -740,7 +735,7 @@ Losing weight may help with the illnesses mentioned above. Losing weight is also
 
   ♦ stop eating processed foods and eat fresh fruits and vegetables instead.
 
-# Constipation
+## Constipation
 
 A person who has hard stools and has not had a bowel movement for 3 or more days is said to be constipated. Constipation is often caused by a poor diet (especially not eating enough fruits, green vegetables, or foods with natural fiber like whole grain bread) or by lack of exercise.
 
@@ -758,7 +753,7 @@ Do not give laxatives to babies or young children. If a baby is severely constip
 # [127](#page-127)
 {:.no_toc}
 
-# Diabetes
+## Diabetes
 
 Persons with diabetes have too much sugar in their blood. This problem can start when a person is young (Type 1 diabetes) or older (Type 2 diabetes). Type 1 diabetes is usually more serious, and young people need a medicine called insulin to control it. But most people with diabetes have Type 2, starting after age 40.
 
@@ -807,7 +802,7 @@ To prevent infection and injury to the skin, clean the teeth after eating, keep 
 # [128](#page-128)
 {:.no_toc}
 
-# Acid Indigestion, Heartburn, and Stomach Ulcers
+## Acid Indigestion, Heartburn, and Stomach Ulcers
 
 Acid indigestion and ‘heartburn’ often come from eating too much heavy or greasy food or from drinking too much alcohol or coffee. These make the stomach produce extra acid, which causes discomfort or a ‘burning’ feeling in the stomach or mid chest.
 
@@ -868,7 +863,8 @@ Avoid having minor stomach problems get worse by not eating too much, by not dri
 # [130](#page-130)
 {:.no_toc}
 
-Goiter (a Swelling or Lump on the Throat)
+## Goiter (a Swelling or Lump on the Throat)
+
 A goiter is a swelling or big lump on the throat that results from abnormal growth of a gland called the thyroid.
 
 Most goiters are caused by a lack of iodine in the diet. Also, a lack of iodine in a pregnant woman’s diet sometimes causes babies to die or to be born mentally slow and/or deaf (hypothyroidism, p. 318). This can happen even though the mother does not have a goiter.
@@ -879,14 +875,17 @@ How to prevent or cure a goiter and prevent hypothyroidism:
 Everyone living in areas where people get goiters should use iodized salt. Use of iodized salt prevents the common kind of goiter and will help many goiters go away. (Old, hard goiters can only be removed by surgery, but this is usually not necessary.)
 
 If it is not possible to get iodized salt, it may be possible to get iodine oil to take by mouth or injection. Or, mix 1 drop of povidone iodine in 1 liter of water and drink a glass of the mixture every week.
+
 Most home cures for goiter do not do any good. However, eating crab and other seafood can do some good because they contain iodine. Mixing a little seaweed with food also adds iodine. But the easiest way is to use iodized salt.
 
-HOW TO KEEP FROM GETTING A GOITER
+**HOW TO KEEP FROM GETTING A GOITER**
 
 NEVER use regular salt.
 
 ALWAYS use iodized salt.
 
 IODIZED SALT costs only a little more than other salt and is much better.
+
 Also, if you live in an area where goiters are common, or you are beginning to develop a goiter, try to avoid eating much cassava or cabbage.
+
 Note: If a person with a goiter trembles a lot, is very nervous, and has eyes that bulge out, this may be a different kind of goiter (toxic goiter). Seek medical advice.

@@ -123,7 +123,7 @@ _Inject these medicines:_ [ceftriaxone](#page-359) OR [spectinomycin](#page-359)
 # [67](#page-67)
 {:.no_toc}
 
-#### WHEN NOT TO INJECT
+# WHEN NOT TO INJECT
 
 NEVER give injections if you can get medical help quickly.
 
@@ -139,7 +139,7 @@ NEVER inject a medicine unless you know and take all the recommended precautions
 
 # MEDICINES NOT TO INJECT
 
-In general, it is better never to inject the following:
+In general, it is better **never to inject** the following:
 
 1. Vitamins. Rarely are injected vitamins any better than vitamins taken by mouth. Injections are more expensive and more dangerous. Use vitamin pills or syrups rather than injections. Better still, eat foods rich in vitamins (see p. 111).
 
@@ -196,9 +196,6 @@ An abscess like this one comes from injecting with a needle that has not been we
 
 Hives, or a rash with itching, can appear a few hours or up to several days after getting an injection. If the same medicine is given to the person again, it may cause a very severe reaction or even death (see p. 70).
 
-# [69](#page-69)
-{:.no_toc}
-
 This child was injected with a needle that was not sterile (boiled and completely free of germs).
 
 The dirty needle caused an infection that produced a large, painful abscess (pocket of pus) and gave the child a fever. Finally, the abscess burst as shown in the picture below.
@@ -208,6 +205,11 @@ This child was injected for a cold. It would have been far better to give him no
 
 
 >**CAUTION: If possible, always give medicine by mouth instead of by injection especially to children.**
+
+
+# [69](#page-69)
+{:.no_toc}
+
 
 To avoid problems like these:
 
@@ -224,7 +226,7 @@ Do not inject infants and small children in the buttock. Instead, inject them in
 # [70](#page-70)
 {:.no_toc}
 
-# DANGEROUS REACTIONS FROM INJECTING CERTAIN MEDICINES
+## DANGEROUS REACTIONS FROM INJECTING CERTAIN MEDICINES
 
 The following groups of medicines sometimes produce a dangerous reaction called ALLERGIC SHOCK a short time after injection:
 
@@ -263,7 +265,7 @@ To prevent a serious reaction from an injection:
 # [71](#page-71)
 {:.no_toc}
 
-# How to Avoid Serious Reactions to a Penicillin Injection
+## How to Avoid Serious Reactions to a Penicillin Injection
 
 1. For mild to moderate infections: give penicillin pills instead of injections
 
@@ -285,8 +287,9 @@ stay with the person for at least 30 minutes.
 # [72](#page-72)
 {:.no_toc}
 
-HOW TO PREPARE A SYRINGE FOR INJECTION
-Before preparing a syringe, wash hands with soap and water.
+## HOW TO PREPARE A SYRINGE FOR INJECTION
+
+**Before preparing a syringe, wash hands with soap and water.**
 
 1. Take the syringe apart and boil it and the needle for 20 minutes.
 
@@ -313,7 +316,7 @@ Before preparing a syringe, wash hands with soap and water.
 # [73](#page-73)
 {:.no_toc}
 
-# WHERE TO GIVE AN INJECTION
+## WHERE TO GIVE AN INJECTION
 
 Before injecting, wash hands with soap and water.
 
@@ -321,12 +324,11 @@ It is preferable to inject in the muscle of the buttocks, always in the upper ou
 
 # HOW TO INJECT
 
+
 1. Clean the skin with soap and water (or alcohol, but to prevent severe pain, be sure the alcohol is dry before injecting).
 
 2. Put the needle straight in, all the way. (If it is done with one quick movement, it hurts less.)
 
-WARNING: Do not inject into an area of skin that is infected or has a rash.
-Do not inject infants and small children in the buttock. Inject them in the upper outer part of the thigh.
 
 3. Before injecting, pull back on the plunger. (If blood enters the syringe, take the needle out and put it in somewhere else).
 
@@ -335,6 +337,10 @@ Do not inject infants and small children in the buttock. Inject them in the uppe
 5. Remove the needle and clean the skin again.
 
 6. After injecting, rinse the syringe and needle at once. Squirt water through the needle and then take the syringe apart and wash it. Boil before using again.
+
+
+>WARNING: Do not inject into an area of skin that is infected or has a rash. Do not inject infants and small children in the buttock. Inject them in the upper outer part of the thigh.
+
 
 # [74](#page-74)
 {:.no_toc}
@@ -355,12 +361,12 @@ For ideas on teaching people about the danger of unnecessary injections, see Hel
 
 Many infectious diseases, such as HIV (see p. 399), hepatitis (see p. 172), and tetanus (see p. 182), can spread from a sick person to a healthy person through the use of syringes, needles, and other instruments that are not sterile (this includes the instruments used for piercing ears, acupuncture, tattoos, or circumcision). Many skin infections and abscesses also start because of this. Any time the skin is cut or pierced, it should be done only with equipment that has been sterilized.
 
-Here are some ways to sterilize equipment:
+## Here are some ways to sterilize equipment:
 
-• Boil for 30 minutes. (If you do not have a clock, add 1 or 2 grains of rice to the water. When the rice is cooked, the equipment will be sterile.)
+  - Boil for 30 minutes. (If you do not have a clock, add 1 or 2 grains of rice to the water. When the rice is cooked, the equipment will be sterile.)
 
-• Or use pressure steaming for 30 minutes in a pressure cooker (or an autoclave).
+  - Or use pressure steaming for 30 minutes in a pressure cooker (or an autoclave).
 
-• Or soak for 20 minutes in a solution of 1 part chlorine bleach to 7 parts water, or in a solution of 70% ethanol alcohol. If possible, prepare these solutions fresh each day, because they lose their strength. (Be sure to sterilize the inside of a syringe by pulling some solution inside and then squirting it out.)
+  - Or soak for 20 minutes in a solution of 1 part chlorine bleach to 7 parts water, or in a solution of 70% ethanol alcohol. If possible, prepare these solutions fresh each day, because they lose their strength. (Be sure to sterilize the inside of a syringe by pulling some solution inside and then squirting it out.)
 
 When you are helping someone who has an infectious disease, wash your hands often with soap and water.

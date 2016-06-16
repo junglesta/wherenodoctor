@@ -66,13 +66,14 @@ Included in this group of sicknesses are: bewitchment or hexing, unreasonable or
 
 Also included are some cases of asthma, hiccups, indigestion, stomach ulcers, migraine headaches, and even warts.
 
+# [3](#page-3)
+{:.no_toc}
+
+
 ## What it often comes down to is showing you care!
 
 For all of these problems, **the manner or ‘touch’ of the healer can be very important.** What it often comes down to is showing you care, helping the sick person believe he will get well, or simply helping him relax.
 
-
-# [3](#page-3)
-{:.no_toc}
 
 Sometimes a person’s belief in a remedy can help with problems that have completely physical causes.
 

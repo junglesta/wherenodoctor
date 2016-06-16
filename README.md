@@ -17,15 +17,15 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 
 # 2do
-- **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/) - Using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search), but it just get chapter titles! NOT ENOUGH! no way to make 'content' work...
+- **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/) - Using at the moment [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search), but it just gets chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [ ] Make it easily translatable.
-- [ ] maybe make (page 44) Patient Report fillable > printable PDF.
+- [ ] maybe make Patient Report (page 44) fillable and printable PDF.
 
 # Done
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
 - [X] squeezed all chapters into one single page.
 - [X] mobile friendly version one pager.
-- [X] inital collection of PDF release.
+- [X] initial collection of PDF release.
 - [X] logo. _thanks to david@[work-it](http://work-it.it)_
 - [X] github repo.
 - [X] https. _[check](https://junglesta.github.io/wherenodoctor/)_

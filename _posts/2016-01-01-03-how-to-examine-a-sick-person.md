@@ -122,7 +122,7 @@ How to read the thermometer (using one marked in degrees centigrade, °C):
 _Note:_ In newborn babies a temperature that is unusually high or unusually low (below 36° C) may mean a serious infection (see p. 275).
 
 ♦ To learn about other fever patterns, see p. 26 to 27.
-  
+
 ♦ To learn what to do for a fever, see p. 75.  
 
 # [32](#page-32)
@@ -167,9 +167,6 @@ children - 80 to 100
 
 babies - 100 to 140
 
-# [33](#page-33)
-{:.no_toc}
-
 The pulse gets much faster with exercise and when a person is nervous, frightened, or has a fever. As a general rule, the pulse increases 20 beats per minute for each degree (°C) rise in fever.
 
 When a person is very ill, take the pulse often and write it down along with the temperature and rate of breathing.
@@ -181,6 +178,10 @@ It is important to notice changes in the pulse rate. For example:
 - A very rapid, very slow, or irregular pulse could mean heart trouble (see p. 325).
 
 - A relatively slow pulse in a person with a high fever may be a sign of typhoid (see p. 188).
+
+
+# [33](#page-33)
+{:.no_toc}
 
 
 ### EYES
@@ -207,7 +208,7 @@ A big difference in the size of the pupils is almost always a medical emergency.
 # [34](#page-34)
 {:.no_toc}
 
-EARS, THROAT, AND NOSE
+# EARS, THROAT, AND NOSE
 
 **Ears**: Always check for signs of pain and infection in the ears-especially in a child with fever or a cold. A baby who cries a lot or pulls at his ear may have an ear infection (p. 309).
 

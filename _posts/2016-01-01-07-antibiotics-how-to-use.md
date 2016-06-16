@@ -66,36 +66,53 @@ Look up chloramphenicol in the GREEN PAGES (p. 356). You will find it must be us
 
 Never use an antibiotic unless you know to what group it belongs, what diseases it fights, and the precautions you must take to use it safely.
 
+Information on the uses, dosage, risks, and precautions for the antibiotics recommended in this book can be found in the GREEN PAGES. Look for the name of medicine in the alphabetical list at the beginning of those pages.
+
 
 # [56](#page-56)
 {:.no_toc}
 
-Information on the uses, dosage, risks, and precautions for the antibiotics recommended in this book can be found in the GREEN PAGES. Look for the name of medicine in the alphabetical list at the beginning of those pages.
-
 # GUIDELINES FOR THE USE OF ALL ANTIBIOTICS
 
 1. If you do not know exactly how to use the antibiotic and what infections it can be used for, do not use it.
+
 2. Use only an antibiotic that is recommended for the infection you wish to treat. (Look for the illness in this book.)
+
 3. Know the risks in using the antibiotic and take all the recommended precautions (see the GREEN PAGES).
+
 4. Use the antibiotic only in the recommended does, no more, no less. The dose depends on the illness and the age or weight of the sick person.
+
 5. Never use injections of antibiotics if taking them by mouth is likely to work as well. Inject only when absolutely necessary.
+
 6. Antibiotics must be given for their full course. Stopping before you have finished all the days of treatment, even if you feel better, can make the infection return in a form that is even harder to cure. (Some illnesses, like tuberculosis and leprosy, need to be treated for many months or years after the person feels better. Follow the instructions for each illness.)
+
 7. If the antibiotic causes a skin rash, itching, difficult breathing, or any serious reactions, the person must stop using it and never use it again (see p. 70).
+
 8. Only use antibiotics when the need is great. When antibiotics are used too much they begin not to work as well.
 
 # GUIDELINES FOR THE USE OF CERTAIN ANTIBIOTICS
 
 1. Before you inject penicillin or ampicillin, always have ready ampules of Adrenalin
 (epinephrine) to control an allergic reaction if one occurs (p. 70).
+
 2. For persons who are allergic to penicillin, use another antibiotic such as erythromycin or cotrimoxazole (see pages 354 and 357).
+
 3. Do not use tetracycline, ampicillin, or another broad spectrum antibiotic for an illness that can probably be controlled with penicillin or another narrow spectrum antibiotic (see p. 58). Broad spectrum antibiotics attack many more kinds of bacteria than narrow spectrum antibiotics.
+
 4. Use chloramphenicol only for certain severe or life-threatening illnesses, such as typhoid, when no other effective medicine is available. It is a dangerous drug. Never use it for mild illness (see p. 313).
+
 5. Do not give tetracycline to pregnant women or to children under 8 years old. It can damage new teeth and bones (see p. 355).
+
+6. Use streptomycin only for tuberculosis, and always together with other anti-tuberculosis medicines (see p. 361).
+
+7. All medicines in the aminoglycoside group (including kanamycin and gentamicin) are quite toxic (poisonous). Too often they are prescribed for mild infections where they may do more harm than good. Use only for certain very serious infections for which these medicines are recommended.
+
+8. Eating yogurt or curdled milk helps to replace necessary bacteria killed by antibiotics like ampicillin and to return the body’s natural balance to normal (see next page).
 
 # [57](#page-57)
 {:.no_toc}
 
-6. Use streptomycin only for tuberculosis, and always together with other anti-tuberculosis medicines (see p. 361).7. All medicines in the aminoglycoside group (including kanamycin and gentamicin) are quite toxic (poisonous). Too often they are prescribed for mild infections where they may do more harm than good. Use only for certain very serious infections for which these medicines are recommended.8. Eating yogurt or curdled milk helps to replace necessary bacteria killed by antibiotics like ampicillin and to return the body’s natural balance to normal (see next page).
+
 # WHAT TO DO IF AN ANTIBIOTIC DOES NOT SEEM TO HELP
 
 For most common infections antibiotics begin to bring improvement in a day or two. If the antibiotic you are using does not seem to help, it is possible that:
