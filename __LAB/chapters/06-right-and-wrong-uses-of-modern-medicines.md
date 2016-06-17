@@ -8,7 +8,7 @@ Some medicines sold in pharmacies or village stores can be very useful. But many
 
 Also, people sometimes use the best medicines in the wrong way, so that they do more harm than good. **To be helpful, medicine must be used correctly.**
 
-Many people, including most doctors and health workers, prescribe far more medicines than are needed—and by so doing cause much needless sickness and death.
+Many people, including most doctors and health workers, prescribe far more medicines than are neededand by so doing cause much needless sickness and death.
 
 >There is some danger in the use of any medicine.
 
@@ -48,7 +48,7 @@ Here is a list of the most common and dangerous errors people make in using mode
 
       Penicillin works only against certain types of infections. Use of penicillin for sprains, bruises, or any pain or fever is a great mistake. As a general rule, injuries that do not break the skin, even if they make large bruises, have no danger of infection; they do not need to be treated with penicillin or any other antibiotic. Neither penicillin nor other antibiotics helps colds (see p. 163).
 
-      Penicillin is dangerous for some people. Before using it, know its risks and the precautions you must take—see pages 70 and 350.
+      Penicillin is dangerous for some people. Before using it, know its risks and the precautions you must takesee pages 70 and 350.
 
   5. **Gentamicin  (Garamycin)** (p. 358)
 
@@ -56,11 +56,11 @@ Here is a list of the most common and dangerous errors people make in using mode
 
   6. **Anti-diarrhea medicines with hydroxyquinolines (Clioquinol, di-iodohydroxyquinoline, halquinol, broxyquinoline: Diodoquin, Enteroquinol, Amicline, Quogyl, and many other brand names)** (p. 369)
 
-      In the past clioquinols were widely used to treat diarrhea. These dangerous medicines are now prohibited in many countries—but in others are still sold. They can cause permanent paralysis, blindness, and even death. For treatment of diarrhea, see Chapter 13.
+      In the past clioquinols were widely used to treat diarrhea. These dangerous medicines are now prohibited in many countriesbut in others are still sold. They can cause permanent paralysis, blindness, and even death. For treatment of diarrhea, see Chapter 13.
 
   7. **Cortisone and cortico-steroids (Prednisolone, dexamethasone, and others)**
 
-      These are powerful anti-inflammatory drugs that are needed for severe attacks of asthma, arthritis, or severe allergic reactions. But in many countries, steroids are prescribed for minor aches and pains because they often give quick results. This is a big mistake. Steroids cause serious or dangerous side effects—especially if used in high doses or for more than a few days. They lower a person’s defenses against infection. They can make tuberculosis much worse, cause bleeding of stomach ulcers, and make bones so weak that they break easily.
+      These are powerful anti-inflammatory drugs that are needed for severe attacks of asthma, arthritis, or severe allergic reactions. But in many countries, steroids are prescribed for minor aches and pains because they often give quick results. This is a big mistake. Steroids cause serious or dangerous side effectsespecially if used in high doses or for more than a few days. They lower a person’s defenses against infection. They can make tuberculosis much worse, cause bleeding of stomach ulcers, and make bones so weak that they break easily.
 
   8. **Anabolic steroids (Nandrolone decanoate, Durabolin, Deca-Durabolin, Orabolin; stanozolol, Cetabon; oxymetholone, Anapolon; ethylestrenol, Organaboral. There are many other brand names.)**
 

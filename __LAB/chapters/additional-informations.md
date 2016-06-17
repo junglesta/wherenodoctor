@@ -11,7 +11,7 @@ _When we revised Where There Is No Doctor in 1992, we added several topics. We c
 
 HIV (Human Immunodeficiency Virus) is a very small germ, called a virus, that you cannot see without a microscope. AIDS (Acquired Immune Deficiency Syndrome) is an illness that develops later, after a person has been infected with HIV for some time. HIV is now found all around the world.
 
-HIV reduces the body’s ability to fight disease. A person with HIV can get sick very easily—from illnesses such as diarrhea, pneumonia, tuberculosis (TB), and certain types of cancer. Most people with AIDS die from diseases their bodies are no longer strong enough to fight.
+HIV reduces the body’s ability to fight disease. A person with HIV can get sick very easilyfrom illnesses such as diarrhea, pneumonia, tuberculosis (TB), and certain types of cancer. Most people with AIDS die from diseases their bodies are no longer strong enough to fight.
 
 HIV spreads when an HIV-infected person’s blood, semen (sperm), breast milk, or fluid from the vagina enters the body of a person without HIV. It can spread through:
 
@@ -71,7 +71,7 @@ You can also stay as healthy as possible by eating well (see Chapter 11); purify
 If possible, have sex with only one partner who has sex only with you.
 
   - Practice safer sex (see p. 290). Using a condom reduces the risk of getting or giving HIV.
-  -Treat sexually transmitted infections early—especially those that cause sores.
+  -Treat sexually transmitted infections earlyespecially those that cause sores.
   - Do not share the same needle or syringe or have an injection unless you are sure the instruments are sterilized first with bleach or by boiling for 20 minutes. Health workers should NEVER re-use a needle or syringe without sterilizing it first (see p. 74). Also make sure equipment for circumcision, ear piercing, acupuncture, and traditional practices such as scarring, is sterilized.
   - If possible, do not accept a transfusion of blood that has not first been tested. Avoid transfusions except when absolutely necessary.
   - Do not share razors.
@@ -138,7 +138,7 @@ The virus stays in the body after all the signs disappear. New blisters can appe
 
 ### Treatment:
 
-There is no medicine that cures herpes, but it can be controlled with acyclovir (see p. 373). Keep the area clean. Do not have sex until all the sores are healed— not even with a condom.
+There is no medicine that cures herpes, but it can be controlled with acyclovir (see p. 373). Keep the area clean. Do not have sex until all the sores are healed not even with a condom.
 
 Always wash hands with soap and water after touching the sores. Be very careful not to touch the eyes. A herpes infection in the eyes can cause blindness.
 
@@ -160,8 +160,8 @@ _CAUTION:_ If a woman has herpes sores when she gives birth, her baby can get it
 
 # CIRCUMCISION AND EXCISION (CUTTING AWAY SKIN FROM THE SEX PARTS)
 
-In many communities, boy children are circumcised—as are girls in some parts
-of the world—as a traditional ‘practice’ or ‘custom’. Circumcision is not necessary for health, although male circumcision may provide some protection against HIV. For boys it is usually not dangerous. But for girls, this practice—sometimes called ‘excision’, ‘infibulation’, or ‘female genital cutting’—is very dangerous and should be strongly discouraged. For both boys and girls, unclean cutting tools risk spreading HIV.
+In many communities, boy children are circumcisedas are girls in some parts
+of the worldas a traditional ‘practice’ or ‘custom’. Circumcision is not necessary for health, although male circumcision may provide some protection against HIV. For boys it is usually not dangerous. But for girls, this practicesometimes called ‘excision’, ‘infibulation’, or ‘female genital cutting’is very dangerous and should be strongly discouraged. For both boys and girls, unclean cutting tools risk spreading HIV.
 
 ## BOYS
 
@@ -179,7 +179,7 @@ In circumcision of girls, or ‘excision’, the soft knob of flesh (clitoris) a
 
 There is also danger of severe bleeding during excision. The child can die in a few minutes. Act quickly. Wash away the clots to find the exact point where the blood is coming from and press on it firmly for 5 minutes. If bleeding continues, keep pressing the bleeding spot while you carry the child to a health worker or doctor for help. Watch for signs of shock (see page 77) and infection.
 
-# SPECIAL CARE FOR SMALL, EARLY, AND UNDERWEIGHT BABIES—‘KANGAROOING’
+# SPECIAL CARE FOR SMALL, EARLY, AND UNDERWEIGHT BABIES‘KANGAROOING’
 
 A baby who is born very small (weighs less than 2 1⁄2 kg. or 5 pounds) will need special care. If possible, take the baby to a health post or hospital. In the hospital, these babies are often kept warm and protected in a special temperature–controlled box called an incubator. However, for a baby who is basically healthy, a mother can often provide similar warmth and protection by ‘kangarooing’ the baby:
 
@@ -190,7 +190,7 @@ A baby who is born very small (weighs less than 2 1⁄2 kg. or 5 pounds) will ne
   - Make sure the baby stays warm at all times. If it is cool, dress the baby with extra clothing, and cover his head.
   - While you bathe or rest, ask the father, or another family member, to ‘kangaroo’ the baby.
   - Take the baby to a health worker regularly. Be sure that he gets all his vaccinations (see p. 147).
-  - Give the baby iron and vitamin supplements—especially vitamin D (see p. 392).
+  - Give the baby iron and vitamin supplementsespecially vitamin D (see p. 392).
 
 #LEISHMANIASIS
 

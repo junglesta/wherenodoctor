@@ -7,7 +7,7 @@ index: true
 
 # BOTH THESE FAMILIES LIVE IN POOR COMMUNITIES:
 
-Some mothers and fathers want a lot of children—especially in countries where poor people are denied a fair share of land, resources, and social benefits. This is because children help with work and provide care for their parents in old age. In such areas, having just a few children may be a privilege only wealthier people can afford.
+Some mothers and fathers want a lot of childrenespecially in countries where poor people are denied a fair share of land, resources, and social benefits. This is because children help with work and provide care for their parents in old age. In such areas, having just a few children may be a privilege only wealthier people can afford.
 
 The situation is different in countries where resources and benefits are fairly distributed. Where employment, housing, and health care are guaranteed and where women have equal opportunities for education and jobs, people usually choose to have smaller families. This is in part because they do not need to depend on their children for economic security.
 

@@ -13,7 +13,7 @@ know exactly how to use them.
 
 # HOME CURES THAT HELP
 
-For many sicknesses, time-tested home remedies work as well as modern medicines— or even better. They are often cheaper. And in some cases they are safer.
+For many sicknesses, time-tested home remedies work as well as modern medicines or even better. They are often cheaper. And in some cases they are safer.
 
 For example, many of the herbal teas people use for home treatment of coughs and colds do more good and cause fewer problems than cough syrups and strong medicines some doctors prescribe.
 
@@ -29,7 +29,7 @@ Sicknesses like pneumonia, tetanus, typhoid, tuberculosis, appendicitis, disease
 It is sometimes hard to be sure which home remedies work well and which do not. More careful studies are needed. For this reason:
 
 
->It is often safer to treat very serious illnesses with modern medicine—following the advice of a health worker if possible
+>It is often safer to treat very serious illnesses with modern medicinefollowing the advice of a health worker if possible
 
 
 #Old Ways and New
@@ -46,7 +46,7 @@ For more ideas for building on local traditions, see Helping Health Workers Lear
 Some home remedies have a direct effect on the body. Others seem to work only because people believe in them. **The healing power of belief can be very strong.**
 
 For example, I once saw a man who suffered from a very bad headache. To cure him, a woman gave him a small piece of yam, or sweet potato. She
-told him it was a strong painkiller. He believed her—and the pain went away quickly.
+told him it was a strong painkiller. He believed herand the pain went away quickly.
 
 It was his faith in her treatment, and not the yam itself, that made him feel better. Many home remedies work in this way. They help largely because people have faith in them. For this reason, they are **especially useful to cure illnesses that are partly in people’s minds, or those caused in part by a person’s beliefs, worry, or fears.**
 

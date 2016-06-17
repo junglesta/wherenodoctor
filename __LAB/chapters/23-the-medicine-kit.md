@@ -8,7 +8,7 @@ index: true
 Every family and every village should have certain medical supplies ready in case of emergency:
 
   - The family should have a HOME MEDICINE KIT (see p. 334) with the necessary medicines for first aid, simple infections, and the most common health problems.
-  - The village should have a more complete medical kit (see VILLAGE MEDICINE KIT, p. 336) with supplies necessary to care for day-to-day problems as well as to meet a serious illness or an emergency. A responsible person should be in charge of it—a health worker, teacher, parent, storekeeper, or anyone who can be trusted by the community. If possible, all members of the village should take part in setting up and paying for the medical kit. Those who can afford more should contribute more. But everyone should understand that the medicine kit is for the benefit of all—those who can pay and those who cannot.
+  - The village should have a more complete medical kit (see VILLAGE MEDICINE KIT, p. 336) with supplies necessary to care for day-to-day problems as well as to meet a serious illness or an emergency. A responsible person should be in charge of ita health worker, teacher, parent, storekeeper, or anyone who can be trusted by the community. If possible, all members of the village should take part in setting up and paying for the medical kit. Those who can afford more should contribute more. But everyone should understand that the medicine kit is for the benefit of allthose who can pay and those who cannot.
 
 On the following pages you will find suggestions for what the medicine kits might contain. You will want to change these lists to best meet the needs and resources
 in your area. Although the list includes mostly modern medicines, important home remedies known to be safe and to work well can also be included.
@@ -19,7 +19,7 @@ The amounts of medicines recommended for the medicine kits are the smallest amou
 
 The amount of medicine you keep in your kit will depend on how many people it is intended to serve and how far you have to go to get more when some are used up. It will also depend on cost and how much the family or village can afford. Some of the medicines for your kit will be expensive, but it is wise to have enough of the important medicines on hand to meet emergencies.
 
-Note: Supplies for birth kits—the things midwives and pregnant mothers need to have ready for a birth—are listed on pages 254 to 255.
+Note: Supplies for birth kitsthe things midwives and pregnant mothers need to have ready for a birthare listed on pages 254 to 255.
 
 # HOW TO CARE FOR YOUR MEDICINE KIT
 
@@ -38,7 +38,7 @@ Most of the medicines recommended in this book can be bought in the pharmacies o
 
 If the pharmacy does not supply a brand of medicine you want, buy another brand, but be sure that it is the same medicine and check the dosage.
 
-When buying medicines, compare prices. Some brands are much more expensive than others even though the medicine is the same. More expensive medicines are usually no better. When possible, buy generic medicines rather than brand-name products, as the generic ones are often much cheaper. Sometimes you can save money by buying larger quantities. For example, a 600,000-Unit vial of penicillin often costs only a little more than a 300,000-Unit vial— so buy the large vial and use it for two doses.
+When buying medicines, compare prices. Some brands are much more expensive than others even though the medicine is the same. More expensive medicines are usually no better. When possible, buy generic medicines rather than brand-name products, as the generic ones are often much cheaper. Sometimes you can save money by buying larger quantities. For example, a 600,000-Unit vial of penicillin often costs only a little more than a 300,000-Unit vial so buy the large vial and use it for two doses.
 
 
 ```

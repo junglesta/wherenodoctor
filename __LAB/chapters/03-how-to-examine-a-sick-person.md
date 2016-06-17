@@ -7,7 +7,7 @@ index: true
 
 To find out the needs of a sick person, first you must ask important questions and then examine him carefully. You should look for signs and symptoms that help you tell how ill the person is and what kind of sickness he may have.
 
-Always examine the person where there is good light, preferably in the sunlight — **never** in a dark room.
+Always examine the person where there is good light, preferably in the sunlight  **never** in a dark room.
 
 There are certain basic things to ask and to look for in anyone who is sick. These include things the sick person feels or reports (symptoms), as well as things you notice on examining him (signs). These signs can be especially important in babies and persons unable to talk. In this book the word ‘signs’ is used for both symptoms and signs.
 
@@ -82,7 +82,7 @@ For example:
 Every family should have a thermometer. Take the temperature of a sick person
 4 times a day and always write it down (see p. 462).
 
-How to read the thermometer (using one marked in degrees centigrade—°C):
+How to read the thermometer (using one marked in degrees centigrade°C):
 
  - Turn the thermometer until you can see the silver line.
 
@@ -119,7 +119,7 @@ _Note:_ In newborn babies a temperature that is unusually high or unusually low 
 
 # BREATHING (RESPIRATION)
 
-Pay special attention to the way the sick person breathes—the depth (deep or shallow), rate (how often breaths are taken), and difficulty. Notice if both sides of the chest move equally when she breathes.
+Pay special attention to the way the sick person breathesthe depth (deep or shallow), rate (how often breaths are taken), and difficulty. Notice if both sides of the chest move equally when she breathes.
 
 If you have a watch or simple timer, count the number of breaths per minute (when the person is quiet).
 

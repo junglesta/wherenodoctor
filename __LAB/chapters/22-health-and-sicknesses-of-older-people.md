@@ -16,7 +16,7 @@ After the age of 40, many people have problems seeing close objects clearly. The
 
 Everyone over age 40 should watch for signs of glaucoma, which can cause blindness if left untreated. Any person with signs of glaucoma (see p. 222) should seek medical help.
 
-Cataracts (see p. 225) and ‘floaters’ before the eyes (tiny moving spots—p. 227) are also common problems of old age.
+Cataracts (see p. 225) and ‘floaters’ before the eyes (tiny moving spotsp. 227) are also common problems of old age.
 
 ## Weakness, Tiredness, and Eating Habits
 
@@ -25,7 +25,7 @@ Old people understandably have less energy and strength than when they were youn
 ## Swelling of the Feet
 
 (see p. 176)  
-This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see p. 325). Whatever the cause, keeping the feet up is the best treatment. Walking helps too—but do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
+This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see p. 325). Whatever the cause, keeping the feet up is the best treatment. Walking helps toobut do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
 
 ## Chronic Sores of the Legs or Feet
 
@@ -75,7 +75,7 @@ Heart disease is more frequent in older people, especially in those who are fat,
 
   - Anxiety and dif culty in breathing after exercise; asthma-like attacks that get worse when the person lies down (cardiac asthma).
   - A rapid, weak, or irregular pulse.
-  - Swelling of the feet— worse in the afternoons.
+  - Swelling of the feet worse in the afternoons.
 
 ### Treatment:
 

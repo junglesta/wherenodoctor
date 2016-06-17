@@ -12,14 +12,14 @@ Taking good care of teeth and gums is important because:
   - Painful cavities (holes in the teeth caused by decay) and sore gums can be prevented by good tooth care.
   - Decayed or rotten teeth caused by lack of cleanliness can lead to serious infections that may affect other parts of the body.
 
-_“This child has a sweet tooth— but soon he’ll have no more” (no more teeth)._
+_“This child has a sweet tooth but soon he’ll have no more” (no more teeth)._
 
 
 ### To keep the teeth and gums healthy:
 
   1. Avoid sweets. Eating a lot of sweets (sugar cane, candy, pastry, tea or coffee with sugar, soft or fizzy drinks like colas) rots the teeth quickly.
   Do not accustom children to sweets or soft drinks if you want them to have good teeth.
-  2. Brush teeth well every day—and always brush immediately after eating anything sweet. Start brushing your children’s teeth as the teeth appear. Later, teach them to brush their teeth themselves, and watch to see that they do it right.
+  2. Brush teeth well every dayand always brush immediately after eating anything sweet. Start brushing your children’s teeth as the teeth appear. Later, teach them to brush their teeth themselves, and watch to see that they do it right.
   Brush the teeth from top to bottom like this,
   not just from side to side.
   Brush the front, back, top, and bottom of all teeth.
@@ -59,7 +59,7 @@ To calm the pain:
 
 If the pain and swelling do not go away or keep coming back, the tooth should probably be pulled.
 
-Treat abscesses right away—before the infection spreads to other parts of the body.
+Treat abscesses right awaybefore the infection spreads to other parts of the body.
 
 _A toothache results when a cavity becomes infected.
 An abscess results when the infection reaches the tip of a root and forms a pocket of pus._

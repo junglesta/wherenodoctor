@@ -35,7 +35,7 @@ A sick person should drink plenty of liquids and eat a lot of nourishing food (s
 
 If the person is very weak, give him as much nourishing food as he can eat, many times a day. If necessary, mash the foods, or make them into soups or juices.
 
-Energy foods are especially important—for example, porridges of rice, wheat, oatmeal, potato, or cassava. Adding a little sugar and vegetable oil will increase the energy. Also encourage the sick person to drink plenty of sweetened drinks, especially if he will not eat much.
+Energy foods are especially importantfor example, porridges of rice, wheat, oatmeal, potato, or cassava. Adding a little sugar and vegetable oil will increase the energy. Also encourage the sick person to drink plenty of sweetened drinks, especially if he will not eat much.
 
 _A few problems do require special diets. These are explained on the following pages:_
 

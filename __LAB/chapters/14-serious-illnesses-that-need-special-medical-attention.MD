@@ -14,7 +14,7 @@ CAUTION: Many of the illnesses covered in other chapters may also be serious and
 
 # TUBERCULOSIS (TB, CONSUMPTION)
 
-Tuberculosis of the lungs is a chronic (long-lasting), contagious (easily spread) disease that anyone can get. But it often strikes persons between 15 and 35 years of age—especially those who are weak, poorly nourished, have HIV, or live with someone who has TB.
+Tuberculosis of the lungs is a chronic (long-lasting), contagious (easily spread) disease that anyone can get. But it often strikes persons between 15 and 35 years of ageespecially those who are weak, poorly nourished, have HIV, or live with someone who has TB.
 
 Because so many people with HIV (p. 399) get very sick with TB, all people with HIV should get a TB test.
 
@@ -85,7 +85,7 @@ Rabies comes from the bite of a rabid or ‘mad’ animal, usually a rabid dog, 
 
 **In the animal:**
 
-  - Acts strangely—sometimes sad, restless, or irritable.
+  - Acts strangelysometimes sad, restless, or irritable.
   - Foaming at the mouth, cannot eat or drink.
   - Sometimes the animal goes wild (mad) and may bite anyone or anything nearby.
   - The animal dies within 5 to 7 days.
@@ -203,7 +203,7 @@ This is a very serious infection of the brain, more common in children. It may b
 
 ### Treatment:
 
-Get medical help fast—every minute counts! If possible take the person to a hospital. Meanwhile:
+Get medical help fastevery minute counts! If possible take the person to a hospital. Meanwhile:
 
   - Inject ampicillin every 6 hours, 500 mg for children or 1 g for adults (see p. 353). Also give ceftriaxone or gentamicin (see p. 358).
   - If there is high fever (more than 40°), lower it with wet cloths and acetaminophen or aspirin (see pages 378 to 379).
@@ -226,7 +226,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 
 **The typical attack has 3 stages:**
 
-  1. It begins with chills—and often headache. The person shivers or shakes for 15 minutes to an hour.
+  1. It begins with chillsand often headache. The person shivers or shakes for 15 minutes to an hour.
 
   2. Chills are followed by fever, often 40° or more. The person is weak,  ushed (red skin), and at times delirious (not in his right mind). The fever lasts several hours or days.
 

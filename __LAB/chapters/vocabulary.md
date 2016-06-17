@@ -351,7 +351,7 @@ digest fatty foods.
 
 **Hex** A magic spell or jinx said to be caused by a witch.
 
-**History (medical history)** What you can learn through asking questions about a person’s sickness—how it began, when it gets better or worse, what seems to help, whether others in the family or village have it, etc.
+**History (medical history)** What you can learn through asking questions about a person’s sicknesshow it began, when it gets better or worse, what seems to help, whether others in the family or village have it, etc.
 
 **HIV (Human Immune-deficiency Virus)** The virus that causes AIDS.
 
@@ -394,7 +394,7 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 
 **Intestines** The guts or tube-like part of the food canal that carries food and finally waste from the stomach to the anus.
 
-**Intramuscular (IM)** injection An injection put into a muscle, usually of the arm or the buttock—different from an intravenous (IV) injection, put directly into a vein.
+**Intramuscular (IM)** injection An injection put into a muscle, usually of the arm or the buttockdifferent from an intravenous (IV) injection, put directly into a vein.
 
 **Intussusception** The slipping of one portion of the gut into one nearby, usually causing a dangerous obstruction or blocking of the gut.
 
@@ -559,7 +559,7 @@ body wall. The bag that holds the guts.
 **Placenta (afterbirth)** The dark and spongy lining inside the womb where the fetus joins the mother’s body. The placenta normally comes out 15 minutes to half an hour after the baby is born.
 
 **Placenta previa** A condition in which the placenta is too low in the womb and blocks the mouth of
-the womb. The risk of dangerous bleeding is high. Women who have bleeding late in pregnancy—a possible sign of placenta previa—should go to a hospital at once.
+the womb. The risk of dangerous bleeding is high. Women who have bleeding late in pregnancya possible sign of placenta previashould go to a hospital at once.
 
 **Plantain** A kind of banana with a lot of starch and fiber. It is often cooked and eaten when green.
 
@@ -753,7 +753,7 @@ head under the skin and sucks blood.
 
 **Urethra** Urinary tube or canal. The tube that runs from the bladder to the hole a person urinates from.
 
-**Urinary tract** The system of organs that form and get rid of urine—such as kidneys, bladder, and urinary tube (urethra).
+**Urinary tract** The system of organs that form and get rid of urinesuch as kidneys, bladder, and urinary tube (urethra).
 
 **Urine** Liquid waste from the body; piss; pee.
 

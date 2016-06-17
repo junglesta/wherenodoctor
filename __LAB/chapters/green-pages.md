@@ -37,7 +37,7 @@ been left for you to **write in** the name and price of the most common or least
 
 ### DECIDING DOSAGE BY HOW MUCH A PERSON WEIGHS
 
-In these pages most instructions for dosage are given according to the age of a person—so that children get smaller doses than adults. However, it is more exact to determine dosage according to a person’s weight. Information for doing this is sometimes included briefly in parentheses ( ), for use of health workers who have scales. If you read.
+In these pages most instructions for dosage are given according to the age of a personso that children get smaller doses than adults. However, it is more exact to determine dosage according to a person’s weight. Information for doing this is sometimes included briefly in parentheses ( ), for use of health workers who have scales. If you read.
 
 **(100 mg/kg/day),**
 

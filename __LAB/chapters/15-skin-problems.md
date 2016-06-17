@@ -4,9 +4,9 @@ title:  "skin problems"
 permalink: /chapter/15/
 index: true
 ---
-Some skin problems are caused by diseases or irritations that affect the skin only—such as ringworm, diaper rash, or warts. Other skin problems are signs of diseases that affect the whole body—such as the rash of measles or the sore, dry patches of pellagra (malnutrition). Certain kinds of sores or skin conditions may be signs of serious diseases—like tuberculosis, syphilis, leprosy, or HIV infection.
+Some skin problems are caused by diseases or irritations that affect the skin onlysuch as ringworm, diaper rash, or warts. Other skin problems are signs of diseases that affect the whole bodysuch as the rash of measles or the sore, dry patches of pellagra (malnutrition). Certain kinds of sores or skin conditions may be signs of serious diseaseslike tuberculosis, syphilis, leprosy, or HIV infection.
 
-This chapter deals only with the more common skin problems in rural areas. However, there are hundreds of diseases of the skin. Some look so much alike that they are hard to tell apart—yet their causes and the specific treatments they require may be quite different.
+This chapter deals only with the more common skin problems in rural areas. However, there are hundreds of diseases of the skin. Some look so much alike that they are hard to tell apartyet their causes and the specific treatments they require may be quite different.
 
 >**If a skin problem is serious or gets worse in spite of treatment, seek medical help**
 
@@ -58,7 +58,7 @@ Although many skin problems need specific treatment, there are a few general mea
   6. Keep the affected part raised.
   7. When the cloth starts to cool, put it back in the hot water and repeat.
 
-# SKIN PROBLEMS—A Guide to Identification
+# SKIN PROBLEMSA Guide to Identification
 
 ```
 there is more coming ¯¯\_(ツ)_/¯¯ this is all for now...

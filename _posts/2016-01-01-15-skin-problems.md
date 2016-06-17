@@ -20,56 +20,102 @@ Many skin problems can be helped by keeping the body clean. Try to wash once a d
 
 Although many skin problems need specific treatment, there are a few general measures that often help:
 
- 1. If the affected area is hot and painful, or oozes pus, treat it with heat. Put hot, moist cloths on it (hot compresses).
+**RULE 1**
+
+**If the affected area is hot and painful, or oozes pus, treat it with heat. Put hot, moist cloths on it (hot compresses).**
 
 
- If the skin shows signs of serious infection such as:
+If the skin shows signs of serious infection such as:
 
   - inflammation (redness or darkening of skin around the affected areas)
+
   - swelling
+
   - pain
+
   - heat (it feels hot)
+
   - pus
 
-  Do the following:
+Do the following:
 
   - Keep the affected part still and elevate it (put it higher than the rest of the body).
+
   - Apply hot, moist cloths.
+
   - If the infection is severe or the person has a fever, give antibiotics (penicillin, a sulfonamide, or erythromycin).
 
   Danger signs include: swollen lymph nodes, a red or dark line above the infected area, or a bad smell. If these do not get better with treatment use an antibiotic and seek medical help quickly.
 
- 2. If the affected area itches, stings, or oozes clear fluid, treat it with cold. Put cool, wet cloths on it (cold compresses).
 
- If the affected skin forms blisters or a crust, oozes, itches, stings, or burns, do the following:
+**RULE 2**
 
- - Apply cloths soaked in cool water with white vinegar (2 tablespoons of vinegar in 1 quart of pure boiled water).
- - When the affected area feels better, no longer oozes, and has formed tender new skin, lightly spread on a mixture of talc and water (1 part talc to 1 part water).
- - When healing has taken place, and the new skin begins to thicken or flake, rub on a little vegetable lard or body oil to soften it.
+**If the affected area itches, stings, or oozes clear fluid, treat it with cold. Put cool, wet cloths on it (cold compresses).**
 
- 3. If the skin areas affected are on parts of the body often exposed to sunlight, protect them from the sun.
+If the affected skin forms blisters or a crust, oozes, itches, stings, or burns, do the following:
 
- 4. If the skin areas most affected are usually covered by clothing, expose them to direct sunlight for 10 to 20 minutes, 2 or 3 times a day.
+  - Apply cloths soaked in cool water with white vinegar (2 tablespoons of vinegar in 1 quart of pure boiled water).
 
- # Instructions for Using Hot Compresses (Hot Soaks)
+  - When the affected area feels better, no longer oozes, and has formed tender new skin, lightly spread on a mixture of talc and water (1 part talc to 1 part water).
 
-  1. Boil water and allow it to cool until you can just hold your hand in it.
-  2. Fold a clean cloth so it is slightly larger than the area you want to treat, wet the cloth in the hot water, and squeeze out the extra water.
-  3. Put the cloth over the affected skin.
-  4. Cover the cloth with a sheet of thin plastic or cellophane.
-  5. Wrap it with a towel to hold in the heat.
-  6. Keep the affected part raised.
-  7. When the cloth starts to cool, put it back in the hot water and repeat.
+  - When healing has taken place, and the new skin begins to thicken or flake, rub on a little vegetable lard or body oil to soften it.
 
-# [194](#page-194)
-{:.no_toc}
+**RULE 3**
 
-# SKIN PROBLEMS, A Guide to Identification
+**If the skin areas affected are on parts of the body often exposed to sunlight, protect them from the sun.**
+
+**RULE 4**
+
+**If the skin areas most affected are usually covered by clothing, expose them to direct sunlight for 10 to 20 minutes, 2 or 3 times a day.**
 
 
 
 # [195](#page-195)
 {:.no_toc}
+
+
+# Instructions for Using Hot Compresses (Hot Soaks)
+
+  1. Boil water and allow it to cool until you can just hold your hand in it.
+
+  2. Fold a clean cloth so it is slightly larger
+  than the area you want to treat, wet the cloth in the hot water, and squeeze out the extra water.
+
+  3. Put the cloth over the affected skin.
+
+  4. Cover the cloth with a sheet of thin plastic or cellophane.
+
+  5. Wrap it with a towel to hold in the heat.
+
+  6. Keep the affected part raised.
+
+  7. When the cloth starts to cool, put it back in the hot water and repeat.
+
+
+
+# [196](#page-196)
+{:.no_toc}
+
+
+# SKIN PROBLEMSA Guide to Identification
+
+## If the skin has small or pimple-like sores...
+
+|AND LOOKS LIKE|CHECK|
+| - | - |
+|Tiny bumps or sores with much itchingfirst between fingers, on the wrists, or the waist|[scabies](#page-199)|
+
+|Pimples or sores with pus or inflammation, often from scratching insect bites. May cause swollen lymph nodes.|[infection from bacteria](#page-201)|
+
+|Irregular, spreading sores with shiny, yellow crusts.|[impetigo (bacterial infection)](#page-202)|
+
+|Pimples on young people’s faces, sometimes chest and back,
+often with small heads of pus.|[acne, pimples, blackheads](#page-211)|
+
+|A sore on the genitals without itching or pain|[syphilis ](#page-227) or [venereal lymphogranuloma](#page-228)|
+
+|A sore on the genitals with pain and pus.|[chancroid](#page-403)|
+_
 
 # [216](#page-216)
 {:.no_toc}

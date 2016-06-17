@@ -21,8 +21,16 @@
 table {
   width: 100%;
   td {padding: .5rem 0;}
+  td:first-child {
+    padding-right: 1rem;
+  }
   td:last-child {
     text-align: right;
-    vertical-align: bottom;
+    vertical-align: top;
+    //padding-left: 1rem;
+  }
+  .chapter_content & {
+    th {text-align: left;}
+    th:last-child {text-align: right;}
   }
 }

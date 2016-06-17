@@ -15,7 +15,7 @@ People of any age can become dehydrated, but dehydration develops more quickly a
 
 >**Any child with watery diarrhea is in danger of dehydration**
 
-It is important that everyone—especially mothers—know the signs of dehydration and how to prevent and treat it.
+It is important that everyoneespecially mothersknow the signs of dehydration and how to prevent and treat it.
 
 
 ## Signs of dehydration:
@@ -31,14 +31,14 @@ It is important that everyone—especially mothers—know the signs of dehydrati
 
 Very severe dehydration may cause rapid, weak pulse (see Shock, p. 77), fast, deep breathing, fever, or seizures (fits, convulsions, p. 178).
 
-When a person has watery diarrhea, or diarrhea and vomiting, do not wait for signs of dehydration. **Act quickly**—read on.
+When a person has watery diarrhea, or diarrhea and vomiting, do not wait for signs of dehydration. **Act quickly**read on.
 
 
 To prevent or treat dehydration: When a person has watery diarrhea, act quickly:
 
   - Give lots of liquids to drink: Rehydration Drink is best. Or give a thin cereal porridge or gruel, teas, soups, or even plain water.
   - Keep giving food. As soon as the sick child (or adult) will accept food, give frequent feedings of foods he likes and accepts.
-  - To babies, keep giving breast milk often—and before other drinks.
+  - To babies, keep giving breast milk oftenand before other drinks.
 
 A special Rehydration Drink helps to prevent or treat dehydration, especially in
 cases of severe watery diarrhea:
@@ -70,7 +70,7 @@ A small child usually needs at least 1 liter a day, or 1 glass for each watery s
 
 **_WARNING:_** If dehydration gets worse or other danger signs appear, go for medical help (see p. 159). It may be necessary to give liquid in a vein (intravenous solution).
 
-**_Note:_** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see p. 381). However, homemade drinks—especially cereal drinks—when correctly prepared are often cheaper, safer, and more effective than ORS packets.
+**_Note:_** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see p. 381). However, homemade drinksespecially cereal drinkswhen correctly prepared are often cheaper, safer, and more effective than ORS packets.
 
 
 # DIARRHEA AND DYSENTERY
@@ -131,7 +131,7 @@ Here are some other important suggestions for preventing diarrhea in babies:
   - When you begin to give the baby new or solid food,
   start by giving her just a little, mashing it well, and mixing it with a little breast milk. The baby has to learn how to digest new foods. If she starts with too much at one time, she may get diarrhea. Do not stop giving breast milk suddenly. Start with other foods while the baby is still breastfeeding.
 
-  - Keep the baby clean—and in a clean place. Try to keep her from putting dirty things in her mouth.
+  - Keep the baby cleanand in a clean place. Try to keep her from putting dirty things in her mouth.
 
   - Do not give babies unnecessary medicines.
 
@@ -142,11 +142,11 @@ For most cases of diarrhea no medicine is needed. If the diarrhea is severe, the
 
 1. PREVENT OR CONTROL DEHYDRATION. A person with diarrhea must drink a lot of liquids. If diarrhea is severe or there are signs of dehydration, give him Rehydration Drink (p. 152). Even if he does not want to drink, gently insist that he do so. Have him take several swallows every few minutes.
 
-2. MEET NUTRITIONAL NEEDS. A person with diarrhea needs food as soon as he will eat. This is especially important in small children or persons who are already poorly nourished. Also, when a person has diarrhea, food passes through the gut very quickly and is not all used. So give the person food many times a day—especially if he only takes a little at a time.
+2. MEET NUTRITIONAL NEEDS. A person with diarrhea needs food as soon as he will eat. This is especially important in small children or persons who are already poorly nourished. Also, when a person has diarrhea, food passes through the gut very quickly and is not all used. So give the person food many times a dayespecially if he only takes a little at a time.
 
   - A baby with diarrhea should go on breastfeeding.
-  - An underweight child should get plenty of energy foods and some body-building foods (proteins) all the time he has diarrhea—and extra when he gets well. If he stops eating because he feels too sick or is vomiting, he should eat again as soon as he can. Giving Rehydration Drink will help the child be able to eat. Although giving food may cause more frequent stools at first, it can save his life.
-  - If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more often—at least 5 or 6 meals each day. Often no other treatment is needed.
+  - An underweight child should get plenty of energy foods and some body-building foods (proteins) all the time he has diarrheaand extra when he gets well. If he stops eating because he feels too sick or is vomiting, he should eat again as soon as he can. Giving Rehydration Drink will help the child be able to eat. Although giving food may cause more frequent stools at first, it can save his life.
+  - If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more oftenat least 5 or 6 meals each day. Often no other treatment is needed.
   - If possible, give zinc supplements to a baby or child with diarrhea (see p. 381).
 
 

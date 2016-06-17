@@ -62,7 +62,7 @@ If a person with fever cannot swallow the tablets, grind them up, mix the powder
 
 # SHOCK
 
-Shock is a life threatening condition that can result from a large burn, losing a lot of blood, severe illnesses, dehydration, or severe allergic reaction. Heavy bleeding inside the body—although not seen—can also cause shock.
+Shock is a life threatening condition that can result from a large burn, losing a lot of blood, severe illnesses, dehydration, or severe allergic reaction. Heavy bleeding inside the bodyalthough not seencan also cause shock.
 
 Signs of SHOCK:
 
@@ -81,7 +81,7 @@ At the first sign of shock, or if there is risk of shock:
   - If the person feels cold, cover him with a blanket.
   - If he is conscious and able to drink, give him sips of water or other drinks. If he looks dehydrated, give a lot of liquid, and Rehydration Drink (p. 152). If he does not respond quickly, give intravenous fluids if you know how.
   - Treat his wounds, if he has any.
-  - If he is in pain, give him aspirin or another pain medicine—but not one with a
+  - If he is in pain, give him aspirin or another pain medicinebut not one with a
   sedative such as codeine.
   - Keep calm, reassure the person, and seek medical help.
   If the person is unconscious:

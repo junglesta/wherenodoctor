@@ -93,7 +93,7 @@ If there are many cases of diarrhea, worms, and other intestinal parasites in yo
 
 3. If children or animals have a bowel movement near the house, clean it up at once. Teach children to use a latrine or at least to go farther from the house.
 
-4. Hang or spread sheets and blankets in the sun often. If there are bedbugs, pour boiling water on the cots and wash the sheets and blankets—all on the same day (see p. 200).
+4. Hang or spread sheets and blankets in the sun often. If there are bedbugs, pour boiling water on the cots and wash the sheets and blanketsall on the same day (see p. 200).
 
 5. De-louse the whole family often (see p. 200). Lice and fleas carry many diseases. Dogs and other animals that carry fleas should not come into the house.
 
@@ -117,7 +117,7 @@ A good, low-cost way to purify water is to put it in a clean, clear bottle or a 
 
 2. Do not let flies and other insects land or crawl on food. These insects carry germs and spread disease. Do not leave food scraps or dirty dishes lying around, as these attract flies and breed germs. Protect food by keeping it covered or in boxes or cabinets with wire screens.
 
-3. Before eating fruit that has fallen to the ground, wash it well. Do not let children pick up and eat food that has been dropped—wash it first.
+3. Before eating fruit that has fallen to the ground, wash it well. Do not let children pick up and eat food that has been droppedwash it first.
 
 4. Only eat meat and fish that is well cooked. Be careful that roasted meat, especially pork and fish, do not have raw parts inside. Raw pork carries dangerous diseases.
 
@@ -314,7 +314,7 @@ These worms are not dangerous. Itching may disturb the child’s sleep.
 
 ♦ Cut his fingernails very short.
 
-♦ Change his clothes and bathe him often—wash the buttocks and nails
+♦ Change his clothes and bathe him oftenwash the buttocks and nails
 especially well.
 
 ♦ Put Vaseline in and around his anus at bedtime to help stop itching.
@@ -406,7 +406,7 @@ The worm eggs, the pig has eaten, form cysts in the meat.
 
 **Effect on health:** Tapeworms in the intestines sometimes cause mild stomach aches, but few other problems.
 
-The greatest danger exists when the cysts (small sacs containing baby worms) get into a person’s brain. This happens when the eggs pass from his stools to his mouth. For this reason, **anyone with tapeworms must follow the guidelines of cleanliness carefully—and get treatment as soon as possible.**
+The greatest danger exists when the cysts (small sacs containing baby worms) get into a person’s brain. This happens when the eggs pass from his stools to his mouth. For this reason, **anyone with tapeworms must follow the guidelines of cleanliness carefullyand get treatment as soon as possible.**
 
 **Treatment:**
 
@@ -444,7 +444,7 @@ In serious cases the person may have:
 
 # Amebas
 
-These are not worms, but tiny animals—or parasites—that can be seen only with a microscope (an instrument that makes things look much bigger).
+These are not worms, but tiny animalsor parasitesthat can be seen only with a microscope (an instrument that makes things look much bigger).
 
 **How they are transmitted:**
 
@@ -464,9 +464,9 @@ Many healthy people have amebas without becoming sick. However, amebas are a com
 
 **Typical amebic dysentery consists of:**
 
-  • diarrhea that comes and goes—sometimes alternating with constipation
+  • diarrhea that comes and goessometimes alternating with constipation
 
-  • cramps in the belly and a need to have frequent bowel movements, even when little or nothing—or just mucus—comes out
+  • cramps in the belly and a need to have frequent bowel movements, even when little or nothingor just mucuscomes out
 
   • many loose (but usually not watery) stools with lots of mucus, sometimes stained with blood
 
@@ -527,7 +527,7 @@ In areas where these diseases are known to occur, any person who has blood in hi
 
 **Signs:**
 
-  • The most common sign is blood in the urine (especially when passing the last drops)—or, for other kinds of flukes, bloody diarrhea.
+  • The most common sign is blood in the urine (especially when passing the last drops)or, for other kinds of flukes, bloody diarrhea.
 
   • Pain may occur in the lower belly and between the legs; it is usually worst at the end of urinating. Low fever, weakness, and itching may occur. In women, there may be sores that look like a sexually transmitted infection.
 
@@ -560,7 +560,7 @@ For information on guinea worm, which is also spread in water, see p. 406 to p. 
 {:.no_toc}
 
 
-# VACCINATIONS (IMMUNIZATIONS)—SIMPLE, SURE PROTECTION
+# VACCINATIONS (IMMUNIZATIONS)SIMPLE, SURE PROTECTION
 
 Vaccines protect against many dangerous diseases. Each country has a schedule of vaccinations, usually given for free. It is better to take your children to the nearest health center to be vaccinated while they are healthy than to take them for treatment when they are sick or dying. The most important vaccines are:
 
@@ -598,7 +598,7 @@ If it becomes clear or has white flecks in it, it is spoiled and will not work. 
 
 # OTHER WAYS TO PREVENT SICKNESS AND INJURY
 
-In this chapter we have talked about ways to prevent intestinal and other infections through **hygiene, sanitation**, and **vaccination**. All through this book you will find suggestions for the prevention of sickness and injury—from building healthy bodies by eating nutritious foods to the wise use of home remedies and modern medicines.
+In this chapter we have talked about ways to prevent intestinal and other infections through **hygiene, sanitation**, and **vaccination**. All through this book you will find suggestions for the prevention of sickness and injuryfrom building healthy bodies by eating nutritious foods to the wise use of home remedies and modern medicines.
 
 The Introduction and Words to the Village Health Worker give ideas for getting people working together to change the conditions that cause poor health.
 
@@ -614,13 +614,13 @@ Some of the habits that people have not only damage their own health but in one 
 
 ### DRINKING
 
-If alcohol has brought much joy, it has also brought much suffering—especially to the families of those who drink. A little alcohol now and then may do no harm. But too often a little leads to a lot. In much of the world, heavy or excessive drinking is one of the underlying causes of major health problems—even for those who do not drink.
+If alcohol has brought much joy, it has also brought much sufferingespecially to the families of those who drink. A little alcohol now and then may do no harm. But too often a little leads to a lot. In much of the world, heavy or excessive drinking is one of the underlying causes of major health problemseven for those who do not drink.
 
-Not only can drunkenness harm the health of those who drink (through diseases such as cirrhosis of the liver, p. 328, and hepatitis, p. 172), but it also hurts the family and community in many ways. Through the loss of judgment when drunk—and of self respect when sober—it leads to much unhappiness, waste, and violence, often affecting those who are loved most.
+Not only can drunkenness harm the health of those who drink (through diseases such as cirrhosis of the liver, p. 328, and hepatitis, p. 172), but it also hurts the family and community in many ways. Through the loss of judgment when drunkand of self respect when soberit leads to much unhappiness, waste, and violence, often affecting those who are loved most.
 
-How many fathers have spent their last money on drink when their children were hungry? How many sicknesses result because a man spends the little bit of extra money he earns on drink rather than on improving his family’s living conditions? How many persons, hating themselves because they have hurt those they love, take another drink—to forget?
+How many fathers have spent their last money on drink when their children were hungry? How many sicknesses result because a man spends the little bit of extra money he earns on drink rather than on improving his family’s living conditions? How many persons, hating themselves because they have hurt those they love, take another drinkto forget?
 
-Once a person realizes that alcohol is harming the health and happiness of those around him, what can he do? First, he must admit that his drinking is a problem. He must be honest with himself and with others. Some individuals are able to simply decide to stop drinking. More often people need help and support—from family, friends, and others who understand how hard it may be to give up this habit.
+Once a person realizes that alcohol is harming the health and happiness of those around him, what can he do? First, he must admit that his drinking is a problem. He must be honest with himself and with others. Some individuals are able to simply decide to stop drinking. More often people need help and supportfrom family, friends, and others who understand how hard it may be to give up this habit.
 
 People who have been heavy drinkers and have stopped are often the best persons to help others do the same. In many areas Alcoholics Anonymous (AA) groups exist where recovering alcoholics help one another to stop drinking (see p. 429).
 

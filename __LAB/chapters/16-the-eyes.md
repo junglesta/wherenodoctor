@@ -53,7 +53,7 @@ If you cannot get the particle out easily, use an antibiotic eye ointment, cover
 Battery acid, lye, gasoline, or a pesticide that gets into the eye can be dangerous. Hold open the eye. Immediately flood the eye with clean, cool water. Keep flooding for
 30 minutes, or until it stops hurting. Do not let the water get into the other eye.
 
-# RED, PAINFUL EYES—DIFFERENT CAUSES
+# RED, PAINFUL EYESDIFFERENT CAUSES
 
 Many different problems cause red, painful eyes. Correct treatment often depends on finding the cause, so be sure to check carefully for signs of each possibility. This chart may help you find the cause:
 
