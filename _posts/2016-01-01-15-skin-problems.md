@@ -109,13 +109,11 @@ If the affected skin forms blisters or a crust, oozes, itches, stings, or burns,
 
 |Irregular, spreading sores with shiny, yellow crusts.|[impetigo (bacterial infection)](#page-202)|
 
-|Pimples on young people’s faces, sometimes chest and back,
-often with small heads of pus.|[acne, pimples, blackheads](#page-211)|
+|Pimples on young people’s faces, sometimes chest and back, often with small heads of pus.|[acne, pimples, blackheads](#page-211)|
 
-|A sore on the genitals without itching or pain|[syphilis ](#page-227) or [venereal lymphogranuloma](#page-228)|
+|A sore on the genitals without itching or pain|[syphilis](#page-227) or maybe [venereal lympho granuloma](#page-228)|
 
 |A sore on the genitals with pain and pus.|[chancroid](#page-403)|
-_
 
 # [216](#page-216)
 {:.no_toc}

@@ -20,17 +20,24 @@
 
 table {
   width: 100%;
-  td {padding: .5rem 0;}
+  td {
+    vertical-align: top;
+    padding: .5rem 0;
+  }
   td:first-child {
     padding-right: 1rem;
   }
   td:last-child {
     text-align: right;
-    vertical-align: top;
-    //padding-left: 1rem;
   }
   .chapter_content & {
     th {text-align: left;}
     th:last-child {text-align: right;}
+  }
+  a {
+    border: 1px solid rgba(0,0,0,.15);
+    padding: .5rem;
+    display: block;
+    min-height: 48px;
   }
 }
