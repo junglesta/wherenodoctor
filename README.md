@@ -11,8 +11,8 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # Status
 - Many chapters to be completed
-- Chapters with full text and page no.s: **[1,2,3,4,5,6,7,8,9,10,11,12,13]**
-- Chapters w/ ok headers and ToC: **[1,2,3,4,5,6,7,8,9,10,11,12,]**
+- Chapters with full text and page no.s: **[1,2,3,4,5,6,7,8,9,10,11,12,13,14,greenpages]**
+- Chapters w/ ok headers and ToC: **[1,2,3,4,5,6,7,8,9,10,11,12,13,14]**
 - Chapters with all links working: **[content]**
 
 
