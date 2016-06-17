@@ -52,7 +52,7 @@ However, it is wise to
 {:.no_toc}
 
 
-# DOSAGE INFORMATION
+DOSAGE INFORMATION
 
 ## how fractions are written
 
@@ -126,8 +126,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 ## ANTIBIOTICS
 
-**Penicillin:**
-
+### Penicillin
 
 |[The Penicillins Very Important Antibiotics](#page-350)|350|
 
@@ -142,7 +141,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[Benzathine penicillin](#page-352)|352|
 
 
-**ampicillin and amoxicillin**
+### ampicillin and amoxicillin
 
 |[Broad-Spectrum Penicillins](#page-352)|352|
 
@@ -162,14 +161,14 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 |[Cotrimoxazole (sulfamethoxazole with trimethoprim)](#page-357)|357|
 
-**Cephalosporins**
+### Cephalosporins
 
 |Cephalosporins Antibiotics|357|
 
 |Ceftriaxone|358|
 
 
-### Other Antibiotics
+## Other Antibiotics
 
 |Ciprofloxacin|358|
 
@@ -177,11 +176,11 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 |Gentamicin|358|
 
-**For Gonorrhea and Chlamydia**
+### For Gonorrhea and Chlamydia
 
 |Medicines for Gonorrhea and Chlamydia|359|
 
-**For Tuberculosis**
+### For Tuberculosis
 
 |Medicines for Tuberculosis|359|
 
@@ -195,7 +194,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 |Streptomycin|361|
 
-**For Leprosy**
+### For Leprosy
 
 |Dapsone (diaminodiphenylsulfone, DDS)|362|
 
@@ -324,7 +323,7 @@ For Herpes and Shingles 373
 
 Acyclovir (Zovirax) 373
 
-## For Worms
+### For Worms
 
 For Worms 373
 
@@ -348,7 +347,7 @@ Praziquantel (Biltricide, Droncit)—for tapeworm .
 
 Quinacrine  369
 
-## For Schistosomiasis
+### For Schistosomiasis
 
 For Schistosomiasis  376
 
@@ -360,7 +359,7 @@ Oxamniquine (Vansil, Mansil).
 
 376
 
-## For River Blindness
+### For River Blindness
 
 For River Blindness (Onchocerciasis) .
 
@@ -374,7 +373,7 @@ Diethylcarbamazine 377
 
 Suramin  377
 
-## For The Eyes
+### For The Eyes
 
 For The Eyes 378
 
@@ -382,7 +381,7 @@ Antibiotic eye ointment—for conjunctivitis and newborn babies’ eyes 378
 
 Tetracycline or Erythromycin—for newborn babies’ eyes 378
 
-## For Pain
+### For Pain
 
 Analgesics 378
 
@@ -398,19 +397,19 @@ Ergotamine with caffeine—for migraine headache 379
 
 Codeine 383
 
-## For Stopping Pain When Closing Wounds
+### For Stopping Pain When Closing Wounds
 
 For Stopping Pain When Closing Wounds: Anesthetics 379
 
 Lidocaine (lignocaine, xylocaine) 379
 
-## For Gut Cramps
+### For Gut Cramps
 
 For Gut Cramps: Antispasmodics  380
 
 Belladonna (with or without phenobarbital) 380
 
-## For Acid Indigestion, Heartburn, and Stomach Ulcers
+### For Acid Indigestion, Heartburn, and Stomach Ulcers
 
 For Acid Indigestion, Heartburn, and Stomach Ulcers  380
 
@@ -428,7 +427,7 @@ Ranitidine (Zantac)  381
 # [343](#page-343)
 {:.no_toc}
 
-## For Severe Diarrhea
+### For Severe Diarrhea
 
 **For Severe Diarrhea and**
 
@@ -438,7 +437,7 @@ Rehydration Mix 381
 
 Zinc 381
 
-## For Hard Stools
+### For Hard Stools
 
 **For Hard Stools (Constipation):**
 
@@ -456,25 +455,25 @@ Mineral oil  382
 
 Glycerin suppositories (Dulcolax)  382
 
-## For Mild Diarrhea
+### For Mild Diarrhea
 
 **For Mild Diarrhea** 383
 
 Bismuth subsalicylate (Pepto-Bismol)  383
 
-## For Stuffy Nose
+### For Stuffy Nose
 
 **For Stuffy Nose**  383
 
 Nose drops with ephedrine or phenylephrine  383
 
-## For cough
+### For cough
 
 **For Cough**  383
 
 Codeine  383
 
-## For Asthma
+### For Asthma
 
 For Asthma  384
 
@@ -489,7 +488,7 @@ Prednisolone or Prednisone  385
 Epinephrine (Adrenaline, Adrenalin) 385
 
 
-## For Allergic Reactions and Vomiting
+### For Allergic Reactions and Vomiting
 
 **For Allergic Reactions and Vomiting:** the Antihistamines 385
 
@@ -511,13 +510,13 @@ Snakebite antitoxin or antivenom  387
 
 Antitetanus immunoglobulin  388
 
-## For Swallowed Poisons
+### For Swallowed Poisons
 
 **For Swallowed Poisons** 388
 
 Powdered or activated charcoal  388
 
-## For Seizures, Fits, Convulsions
+### For Seizures, Fits, Convulsions
 
 **For Seizures (Fits, Convulsions)** 388
 
@@ -534,7 +533,7 @@ Magnesium Sulfate.
 390
 
 
-## For Severe Bleeding After Birth
+### For Severe Bleeding After Birth
 
 For Severe Bleeding After Birth (Postpartum Hemorrhage)  390
 
@@ -546,14 +545,14 @@ Misoprostol (Cytotec) .
 
 391
 
-## For Hemorrhoids
+### For Hemorrhoids
 
 **For Piles (Hemorrhoids)** 391
 
 Suppositories for hemorrhoids  391
 
 
-## For Malnutrition and Anemia
+### For Malnutrition and Anemia
 
 **For Malnutrition and Anemia** 391
 
@@ -573,7 +572,7 @@ Vitamin K (phytomenadione)—for bleeding in the newborn 392
 
 Vitamin B6 (pyridoxine)—for persons taking INH  393
 
-## Family Planning Methods
+### Family Planning Methods
 
 **Family Planning Methods** 393
 
@@ -593,7 +592,7 @@ Injectable contraceptives  396
 
 Contraceptive implants  396
 
-## FOR HIV Antiretroviral Therapy
+### FOR HIV Antiretroviral Therapy
 
 **For HIV Antiretroviral Therapy (ART)**  396
 
@@ -627,7 +626,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 Note:
 
-Medicines not listed in the GREEN PAGES, but mentioned in the book, are listed in the main Index (yellow pages).
+Medicines not listed in the GREEN PAGES, but mentioned in the book, are listed in the [yellow pages](#yellow-pages).
 
 
 3TC (lamivudine) 397
@@ -3357,7 +3356,7 @@ In each dose give:
 {:.no_toc}
 
 
-### FOR VAGINAL INFECTIONS
+## FOR VAGINAL INFECTIONS
 
 Vaginal discharge, itching, and discomfort can be caused by different infections, the most common of which are trichomonas, yeast (Candida), and bacteria.
 
@@ -3445,7 +3444,7 @@ Mix 1 drop of povidone iodine in a liter of water.
 
 Drink a glass of this mixture every week, lifelong.
 
-### FOR SKIN PROBLEMS
+## FOR SKIN PROBLEMS
 
 Washing the hands and bathing frequently with soap and water help prevent many infections,
 both of the skin and of the gut.
@@ -3528,7 +3527,7 @@ Useful for preparing ointments or dressings in the treatment of: scabies (see p.
 
 
 
-### FOR RINGWORM AND OTHER FUNGUS INFECTIONS
+## FOR RINGWORM AND OTHER FUNGUS INFECTIONS
 
 Many fungus infections are very difficult to get rid of.
 
@@ -3651,7 +3650,7 @@ For miconazole, using a 200 mg insert, use for 3 days.
 
 For nystatin, using a 100,000 Unit insert, use for 14 days.
 
-### FOR SCABIES AND LICE: INSECTICIDES
+## FOR SCABIES AND LICE: INSECTICIDES
 
 Benzyl benzoate, cream or lotion
 
@@ -3757,7 +3756,7 @@ To get rid of nits (lice eggs), see p. 200.
 {:.no_toc}
 
 
-### FOR GENITAL WARTS
+## FOR GENITAL WARTS
 
 Podophyllin
 
@@ -3805,7 +3804,7 @@ CAUTION: This acid can cause severe burns.
 
 Protect hands and other healthy skin from the acid, and wash immediately in case of contact.
 
-### FOR HERPES AND SHINGLES
+## FOR HERPES AND SHINGLES
 
 Acyclovir (Zovirax)
 
@@ -3835,7 +3834,7 @@ Then stop to see if the medicine is still needed.
 
 For shingles: take 600 to 800 mg by mouth, 5 times a day for 7 to 10 days.
 
-### FOR WORMS
+## FOR WORMS
 
 Medicines by themselves are not enough to get rid of worm infections for very long.
 
@@ -4017,7 +4016,7 @@ In each dose give:
 - children under 2 years: 62 mg (1⁄4 tablet)
 
 
-### FOR TAPEWORM
+## FOR TAPEWORM
 
 There are several types of tapeworms.
 
@@ -4096,7 +4095,7 @@ Treatment of dwarf tapeworm (H. nana) requires a larger dosage: Take once only.
 {:.no_toc}
 
 
-### FOR SCHISTOSOMIASIS (BLOOD FLUKES, BILHARZIA)
+## FOR SCHISTOSOMIASIS (BLOOD FLUKES, BILHARZIA)
 
 In different parts of the world there are several types of schistosomiasis, which require different treatments.
 
@@ -4186,7 +4185,7 @@ For children, give the following dose twice in one day:
 - children 1 to 3 years: 63 mg (1⁄4 capsule)
 
 
-### FOR RIVER BLINDNESS (ONCHOCERCIASIS)
+## FOR RIVER BLINDNESS (ONCHOCERCIASIS)
 
 The best medicine for treating river blindness is ivermectin.
 
@@ -4293,7 +4292,7 @@ Treat allergic reactions with antihistamines.
 {:.no_toc}
 
 
-### FOR THE EYES
+## FOR THE EYES
 
 Antibiotic eye ointment—for ‘pink eye’ (conjunctivitis)
 
@@ -5591,7 +5590,7 @@ WARNING: Too much magnesium sulfate can slow down or stop breathing.
 Be careful not to give too much! Do not give to women with kidney problems.
 
 
-FOR SEVERE BLEEDING AFTER BIRTH (POSTPARTUM HEMORRHAGE)
+## FOR SEVERE BLEEDING AFTER BIRTH (POSTPARTUM HEMORRHAGE)
 
 For information on the right and wrong use of medicines to control bleeding after birth, see page 266.
 
@@ -5603,7 +5602,6 @@ If there is much bleeding before the afterbirth (placenta) comes out, but after 
 
 But do not use ergonovine or ergometrine before the afterbirth comes out, as this may prevent it from coming out.
 
-
 Pituitrin is similar to oxytocin, but more dangerous, and should never be used except in a case of emergency bleeding when oxytocin, misoprostol, and ergometrine are not available.
 
 
@@ -5612,19 +5610,13 @@ For bleeding in the newborn child, use vitamin K (see p.392).
 Vitamin K is of no use for bleeding of the woman from childbirth, miscarriage, or abortion.
 
 
-Ergometrine maleate, ergonovine (Ergotrate, Methergine)
-
-
-
+**Ergometrine maleate, ergonovine (Ergotrate, Methergine)**
 
 Often comes in:
-injections of 0.2 mg in a 1 ml ampule
 
+- injections of 0.2 mg in a 1 ml ampule
 
-tablets of 0.2 mg
-
-
-
+- tablets of 0.2 mg
 
 Ergonovine can be used to prevent or control heavy bleeding after the placenta has come out.
 
@@ -5649,11 +5641,9 @@ Continue to give the medicine until the bleeding has stopped.
 To prevent heavy bleeding after giving birth, give 0.2 mg of ergometrine after the afterbirth comes out.
 
 
-Oxytocin (Pitocin)
+**Oxytocin (Pitocin)**
 
-
-
- Often comes in: ampules of 10 units in 1 ml
+Often comes in: ampules of 10 units in 1 ml
 
 Oxytocin can be used to prevent or control severe bleeding of the mother after the baby is born and before or after the afterbirth comes out.
 
@@ -5670,17 +5660,13 @@ To prevent heavy bleeding after birth, give 1 ml after the baby is born.
 
 
 
-Misoprostol (Cytotec)
+**Misoprostol (Cytotec)**
 
-
-
- Often comes in: tablets of 100 or 200 mcg
+Often comes in: tablets of 100 or 200 mcg
 
 Misoprostol can be used to prevent or control heavy bleeding after childbirth, and control heavy bleeding from miscarriage or abortion.
 
-It can
-also be used to end a pregnancy, but it is safer when taken with another medicine, mifepristone (see Where Women Have No Doctor for more information).
-
+It can also be used to end a pregnancy, but it is safer when taken with another medicine, mifepristone (see Where Women Have No Doctor for more information).
 
 Dosage to control heavy bleeding:
 
@@ -5690,19 +5676,13 @@ If the woman is feeling nauseous, you can also put the tablets in her rectum to 
 
 
 
-
-
 # [391](#page-391)
 {:.no_toc}
 
 
 ## FOR PILES (HEMORRHOIDS)
 
-Suppositories for hemorrhoids
-
-
-
-
+**Suppositories for hemorrhoids**
 
 These are special bullet-shaped tablets to be put in the rectum.
 
@@ -5725,11 +5705,7 @@ Insert a suppository in the rectum after the daily bowel movement, and another o
 
 ## FOR MALNUTRITION AND ANEMIA
 
-Powdered milk (dried milk)
-
-
-
-
+**Powdered milk (dried milk)**
 
 For babies, mother’s milk is best.
 
@@ -5749,10 +5725,7 @@ In 1 cup of boiled water, put:
 - 3 teaspoons of oil
 
 
-Mixed (or multi) vitamins
-
-
-
+**Mixed (or multi) vitamins**
 
 
 These come in many forms, but tablets are cheapest and work well.
@@ -5777,17 +5750,13 @@ Using standard tablets of mixed vitamins, 1 tablet daily is usually enough.
 
 
 
-Vitamin A (retinol)—for night blindness and xerophthalmia
-
-
+**Vitamin A (retinol)—for night blindness and xerophthalmia**
 
 Often comes as:
-capsules of 200,000 units, 60 mg of retinol
-(also in smaller doses)
 
+- capsules of 200,000 units, 60 mg of retinol (also in smaller doses)
 
-
-injections of 100,000 units
+- injections of 100,000 units
 
 
 
@@ -5828,10 +5797,7 @@ For children less than 1 year old, reduce all doses by one-half.
 {:.no_toc}
 
 
-Iron sulfate (ferrous sulfate)—for anemia
-
-
-
+**Iron sulfate (ferrous sulfate) for anemia**
 
 
 Often comes in: tablets of 200, 325, or 500 mg (also in drops, mixtures, and elixirs for children)
@@ -5887,11 +5853,9 @@ children under 2 years: 1⁄8 to 1⁄4 tablet ground
 up fine and mixed with food.
 
 
-Folic acid—for some kinds of anemia
+**Folic acid—for some kinds of anemia**
 
-
-
- Often comes in: tablets of 400 mcg
+Often comes in: tablets of 400 mcg
 
 Folic acid can be important in the treatment of kinds of anemia in which blood cells have been destroyed in the veins, as is the case with malaria.
 
@@ -5927,18 +5891,13 @@ Many doctors prescribe it when it is not needed, just to be giving their patient
 Do not waste your money on vitamin B12 or let a doctor or health worker give it to you unless a blood analysis has been done, and it has been shown that you have pernicious anemia.
 
 
-Vitamin K (phytomenadione, phytonadione)
-
-
-
+**Vitamin K (phytomenadione, phytonadione)**
 
 Often comes in: ampules of 1 mg in 2.5 ml of milky solution.
 
-If a newborn child begins to bleed from any part of his body (mouth, cord, anus), this may
-be caused by a lack of vitamin K.
+If a newborn child begins to bleed from any part of his body (mouth, cord, anus), this may be caused by a lack of vitamin K.
 
-Inject 1 mg
-(1 ampule) of vitamin K into the outer part of the thigh.
+Inject 1 mg (1 ampule) of vitamin K into the outer part of the thigh.
 
 Do not inject more, even if the bleeding continues.
 
@@ -5947,15 +5906,36 @@ In babies who are born very small (under 2 kg) an injection of vitamin K may be 
 Vitamin K is of no use to control bleeding of the mother after childbirth.
 
 
+**Vitamin B6 (pyridoxine)**
+
+Often comes in: 25 mg tablets
+
+Persons with tuberculosis being treated with isoniazid sometimes develop a lack of vitamin B6.
+
+To prevent this, 25 mg of vitamin B6 (pyridoxine) may be taken daily while taking isoniazid.
+
+Or the vitamin can be given only to persons who develop problems because of its lack.
+
+Signs include pain or tingling in the hands or feet, muscle twitching, nervousness, and being unable to sleep.
+
+
+Dosage of vitamin B6—if problems develop while taking isoniazid:
+
+- adults: take 50 mg (2 tablets), 3 times a day.
+
+- children over 2 months old: give 10 to 25 mg, 3 times a day.
+
+- newborns to 2 months old: give 10 mg once a day.
 
 # [393](#page-393)
 {:.no_toc}
 
-Vitamin B6 (pyridoxine)
+
+## FAMILY PLANNING METHODS
 
 ### COMBINATION BIRTH CONTROL PILLS
 
-Multiphasic combination pills
+**Multiphasic combination pills**
 
 These pills contain a mix of estrogen and progestin that changes throughout the month.
 
@@ -5980,7 +5960,8 @@ Some multiphasic brand names:
 
   - Triphasil
 
-Fixed-dose combination pills
+
+### Fixed-dose combination pills
 
 These contain estrogen (usually 35 mcg) and progestin (usually 0.1 mg).
 
@@ -5993,35 +5974,9 @@ The amounts of each hormone are the same in all 21 hormone pills in each pack.
 
 
 
- Often comes in: 25 mg tablets
-Persons with tuberculosis being treated with isoniazid sometimes develop a lack of vitamin B6.
-
-To prevent this, 25 mg of vitamin B6 (pyridoxine) may be taken daily while taking isoniazid.
-
-Or the vitamin can be given only to persons who develop problems because of its lack.
-
-Signs include pain or tingling in the hands or feet, muscle twitching, nervousness, and being unable to sleep.
-
-
-Dosage of vitamin B6—if problems develop while taking isoniazid:
-
-- adults: take 50 mg (2 tablets), 3 times a day.
-
-
-
-- children over 2 months old: give 10 to 25 mg, 3 times a day.
-
-
-
-- newborns to 2 months old: give 10 mg once a day.
-
-
-## FAMILY PLANNING METHODS
-
 ### ORAL CONTRACEPTIVES (BIRTH CONTROL PILLS)
 
 Information about the use, risks, and precautions for birth control pills can be found on page 289.
-
 
 Most birth control pills contain 1 or 2 hormones similar to hormones that a woman’s body normally makes during her menstrual cycle (see pages 245 and 291).
 
@@ -6154,15 +6109,20 @@ You can stop taking the pill at any time.
 
 You could then get pregnant right away, so if you want to avoid pregnancy, use condoms or another method.
 
-THE MINIPILL
+### THE MINIPILL
+
 Progestin-only pills
+
 These pills contain only progestin and come in 28-pill packs.
 
 All of the pills have the same amount of progestin.
 
 Some brand names:
+
 Femulen Microlut Micronor Micronovum Neogest Microval Ovrette Exluton
+
 How to take the minipill
+
 Take your first pill on the first day of your period.
 
 Then take 1 pill at the same time every day.
@@ -6171,8 +6131,7 @@ When you finish a packet, start your new packet the next day, even if you have n
 
 Do not skip a day.
 
-If you take the minipill even a few hours late, or
-if you forget 1 day’s pill, you can become pregnant.
+If you take the minipill even a few hours late, or if you forget 1 day’s pill, you can become pregnant.
 
 If you miss a pill, take it as soon as you remember.
 
@@ -6194,11 +6153,13 @@ This is not dangerous.
 Other possible effects include weight gain, headaches, and acne (pimples).
 
 Ending the minipill
+
 If you want to get pregnant or change methods, you can stop taking the minipill at any time.
 
 You could get pregnant as soon as you stop, so if you do not want to, start another method immediately.
 
-EMERGENCY FAMILY PLANNING (EMERGENCY CONTRACEPTION, EC)
+### EMERGENCY FAMILY PLANNING (EMERGENCY CONTRACEPTION, EC)
+
 You can use emergency contraceptive pills or some brands of regular birth control pills to prevent pregnancy within 5 days after unprotected sex.
 
 The number of pills you need to take depends on the amount of estrogen or progestin each pill contains.
@@ -6234,33 +6195,56 @@ If you vomit within 1 hour of taking the dose, this means you need to repeat tha
 
 Never mix different kinds of emergency contraceptive or other birth control pills together because that could make them not work at all.
 
-  Emergency pills containing 1.5 mg (1500 mcg) levonorgestrel (Norlevo 1.5, Plan B One-Step, Postinor-1)
-  Take 1 pill, one time only
-  Emergency pills containing 30 mg ulipristal acetate (Ella, Ella One)
-  Take 1 pill, one time only
-  Emergency pills containing 0.75 mg (750 mcg) levonorgestrel (Norlevo 0.75, Optinor, Postinor, Postinor-2, Plan B)
-  Take 2 pills, one time only
-  Emergency pills containing 50 mcg ethinyl estradiol and 250 mcg levonorgestrel (Tetragynon)
- Take 2 pills
-  Take 2 more pills 12 hours later
-  Combined pills containing 50 mcg ethinyl estradiol and 250 mcg levonorgestrel (Neogynon, Nordiol ) or 500 mcg norgestrel (Ovral)
- Take 2 pills
-  Take 2 more pills 12 hours later
-  Combined pills containing 30 mcg ethinyl estradiol and 150 mcg levonorgestrel (Microgynon, Nordette) or 300 mcg norgestrel (Lo-Femenal, Lo/Ovral)
- Take 4 pills
-  Take 4 more pills 12 hours later
-  Combined pills containing 20 mcg ethinyl estradiol and 100 mcg levonorgestrel (Alesse, Lutera)
- Take 5 pills
-   Take 5 more pills 12 hours later
-   Progestin-only pills (minipills) containing 75 mcg levonorgestrel (Ovrette)
-  Take 20 pills one time only
-  Progestin-only pills (minipills) containing 37.5 mcg levonorgestrel (Neogest)
-   Take 40 pills one time only
-  Progestin-only pills (minipills) containing 30 mcg levonorgestrel (Microlut, Microval)
-   Take 50 pills one time only
- Condoms (rubbers, prophylactics, sheaths)
 
+Emergency pills containing 1.5 mg (1500 mcg) levonorgestrel (Norlevo 1.5, Plan B One-Step, Postinor-1)
 
+Take 1 pill, one time only
+
+Emergency pills containing 30 mg ulipristal acetate (Ella, Ella One)
+
+Take 1 pill, one time only
+
+Emergency pills containing 0.75 mg (750 mcg) levonorgestrel (Norlevo 0.75, Optinor, Postinor, Postinor-2, Plan B)
+
+Take 2 pills, one time only
+
+Emergency pills containing 50 mcg ethinyl estradiol and 250 mcg levonorgestrel (Tetragynon)
+
+Take 2 pills
+
+Take 2 more pills 12 hours later
+
+Combined pills containing 50 mcg ethinyl estradiol and 250 mcg levonorgestrel (Neogynon, Nordiol ) or 500 mcg norgestrel (Ovral)
+
+Take 2 pills
+
+Take 2 more pills 12 hours later
+
+Combined pills containing 30 mcg ethinyl estradiol and 150 mcg levonorgestrel (Microgynon, Nordette) or 300 mcg norgestrel (Lo-Femenal, Lo/Ovral)
+
+Take 4 pills
+
+Take 4 more pills 12 hours later
+
+Combined pills containing 20 mcg ethinyl estradiol and 100 mcg levonorgestrel (Alesse, Lutera)
+
+Take 5 pills
+
+Take 5 more pills 12 hours later
+
+Progestin-only pills (minipills) containing 75 mcg levonorgestrel (Ovrette)
+
+Take 20 pills one time only
+
+Progestin-only pills (minipills) containing 37.5 mcg levonorgestrel (Neogest)
+
+Take 40 pills one time only
+
+Progestin-only pills (minipills) containing 30 mcg levonorgestrel (Microlut, Microval)
+
+Take 50 pills one time only
+
+**Condoms (rubbers, prophylactics, sheaths)**
 
 There are many different brands of condoms.
 
@@ -6272,26 +6256,26 @@ Many people use condoms along with another form of birth control.
 
 See p. 287 for use and care of condoms.
 
-Diaphragm
-Name:_________________ price:_________________
+**Diaphragm**
+
 The diaphragm is most effective when used with a spermicide cream or jelly.
 
 Put some inside the diaphragm, and also spread some on the rim before putting it in the vagina (see p.291).
 
-Name of jelly or cream: _________________________ price: ________________________________________
+Name of jelly or cream:
+
 Spermicides (Well-known brands: Emko, Koromex, Delfen, Gynol II, VCF )
-Name:_________________ price:_________________
+
+
 Spermicides come in different forms to put in the vagina just before having sex, or to use with a condom or diaphragm (see page 290).
 
 Do not douche or wash the spermicide out of the vagina for at least 6 hours after sex.
 
 Intrauterine device (IUD)
-Name:_________________ price:_________________
-Fee for putting it in: ____________________________
+
 An IUD must be inserted and removed by a trained health worker.
 
-The most common side
-effect is heavier, longer, and more painful monthly bleeding, but this usually stops after the first 3 months.
+The most common side effect is heavier, longer, and more painful monthly bleeding, but this usually stops after the first 3 months.
 
 If an IUD slips out of place, it will not be effective in preventing pregnancy.
 
@@ -6314,8 +6298,7 @@ Do not pull on the strings.
 
 If she cannot feel the strings, or if she can feel the hard part of the IUD, she needs to use a condom or another method of family planning until she can have the IUD checked by a trained health worker.
 
-For information on IUDs, see
-page 290.
+For information on IUDs, see page 290.
 
 
 Pelvic inflammatory disease is the most serious problem that can result from having an IUD.
@@ -6332,8 +6315,6 @@ See page 243.
 Injectable contraceptives
 
 (Common brands: Depo-Provera (DMPA), Noristerat (NET-EN), Mesigyna, Cyclofem)
-Name:_________________ price:_________________
-
 
 Injectable contraceptives work by preventing the woman’s ovaries from releasing an egg.
 
@@ -6371,7 +6352,7 @@ After she stops, it can take a year or more to become pregnant and for her month
 If she stops having injections and does not want to become pregnant right away, she must use another method of family planning.
 
 
-Contraceptive implants
+**Contraceptive implants**
 
 (Common brands: Jadelle, Implanon, Norplant)
 Implants work by preventing the woman’s ovaries from releasing an egg.
@@ -6383,7 +6364,7 @@ Implants can be used by women who are breastfeeding, but should not be used by w
 Jadelle has 2 tubes and prevents pregnancy for 5 years.
 
 
-Implanon
+**Implanon**
 
 has 1 tube and prevents pregnancy for 3 years.
 
@@ -6402,7 +6383,7 @@ A woman can choose to have the implants removed at any time, but she must find a
 After removal, the woman can get pregnant right away, so she will need to use another family planning method if she does not want to become pregnant.
 
 
-# MEDICINES FOR HIV — ANTIRETROVIRAL THERAPY (ART)
+## MEDICINES FOR HIV — antiretroviral therapy (art)
 
 No medicine can cure HIV yet, but medicines called antiretrovirals can help people with HIV live longer and healthier lives, and taking them helps prevent HIV from spreading.
 
@@ -6417,12 +6398,12 @@ The medicine cotrimoxazole (see p.357) can prevent many infections in people wit
 
 
 
-## HIV CARE AND ART PROGRAMS
+### HIV CARE AND A.R.T. PROGRAMS
 
 As soon as you have a positive HIV test, try to find an HIV care program where health workers can see you regularly, treat your health problems quickly, and help you start ART.
 
 
-## When is ART needed?
+**When is ART needed?**
 
 • People who test positive for HIV need ART, especially if they are becoming less able to fight illnesses well (see p.400).
 
@@ -6459,7 +6440,7 @@ Do not buy ART from someone who is not part of an approved HIV care or ART progr
 Getting drugs from an ART program is more reliable and less costly than buying them from a private source.
 
 
-## How to take ART
+**How to take ART**
 
 ART works as a combination of at least 3 medicines.
 
@@ -6481,14 +6462,9 @@ Twice-a-day medicines should be taken every
 Having too little medicine in your body for some hours can cause drug resistance and the drugs will no longer work for you or for others in your community as drug-resistant HIV spreads.
 
 
-## Side effects of ART
+**Side effects of ART**
 
-ART can have side effects.
-
-Some side effects decrease and go away completely with time.
-
-
-Others appear only after you have taken a medicine for a long time.
+ART can have side effects. Some side effects decrease and go away completely with time. Others appear only after you have taken a medicine for a long time.
 
 Some common side effects are bothersome but are not serious, such as diarrhea, tiredness, headaches, and stomach problems.
 
@@ -6529,7 +6505,7 @@ Other combinations may be available and recommended in your area.
 All must be taken for 28 days.
 
 
-## ART FOR PREGNANT WOMEN WITH HIV
+### ART FOR PREGNANT WOMEN WITH HIV
 
 Women who are pregnant, and any woman
 
@@ -6558,7 +6534,7 @@ Safer sex during pregnancy, safe birth practices, careful feeding of the baby, a
 See Where Women Have No Doctor for more information.
 
 
-## ART medicines to prevent HIV in babies (mother-to-child transmission)
+**ART medicines to prevent HIV in babies (mother-to-child transmission)**
 
 If the mother IS already taking ART, she should continue taking her medicines and also give the medicines listed here “FOR THE BABY”.
 
@@ -6567,7 +6543,7 @@ If the mother IS NOT taking ART, she should start taking the medicines listed he
 Use the medicines recommended in your country.
 
 
-## FOR THE MOTHER
+**ART FOR THE MOTHER**
 
 Start taking an ART combination (p. 397) as soon as possible.
 
@@ -6578,7 +6554,7 @@ If the mother does not want to take ART for her own health, she should take ART 
 If she is not breastfeeding, she could stop ART after birth.
 
 
-## FOR THE BABY
+**ART FOR THE BABY**
 
 The baby should be given medicine for at
 least 6 weeks.
