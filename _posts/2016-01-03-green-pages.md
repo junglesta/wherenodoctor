@@ -111,9 +111,7 @@ For more information on measuring and deciding on dosages, see Chapter 8.
 
 >Local distributors are encouraged to duplicate a sheet with this information, so that it can be copied into the book by the user.
 
-Wherever possible, include local sources for **generic or low‐cost medicines and supplies**.
-
-(See “Buying Supplies for the Medicine Kit,” page 333.
+Wherever possible, include local sources for **generic or low‐cost medicines and supplies**. See [“Buying Supplies for the Medicine Kit“, page 333](#page-333).
 
 
 
@@ -221,12 +219,12 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[Gentian violet (crystal violet)](#page-370)|370|
 |[Antibiotic ointments](#page-370)|370|
 |[Cortico-steroid ointment or lotion](#page-370)|370|
-|[Petroleum jelly (Petrolatum, Vaseline)](#page-370)|370
+|[Petroleum jelly (Petrolatum, Vaseline)](#page-370)|370|
 
 ### For Ringworm and Other Fungus Infections
 
-|For Ringworm and Other Fungus Infections  371
-|[Ointments with undecylenic, benzoic, orv salicylic acid](#page-371)|371|
+|[For Ringworm and Other Fungus Infections](#page-371)|371|
+|[Ointments with undecylenic, benzoic, or salicylic acid](#page-371)|371|
 |[Sulfur and vinegar](#page-371)|371|
 |[Sodium thiosulfate (hypo)](#page-371)|371|
 |[Selenium sulfide (Selsun, Exsel)](#page-371)|371|
@@ -273,7 +271,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 ### For River Blindness
 
-|[For River Blindness (Onchocerciasis)(#page-377)]|377|
+|[For River Blindness (Onchocerciasis)](#page-377)|377|
 |[Ivermectin (Mectizan)](#page-377)|377|
 |[Diethylcarbamazine](#page-377)|377|
 |[Suramin](#page-377)|377|
@@ -309,9 +307,9 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[For Acid Indigestion, Heartburn, and Stomach Ulcers](#page-380)| 380|
 |[Aluminum hydroxide or magnesium hydroxide](#page-380)|380|
 |[Sodium bicarbonate (bicarbonate of soda, baking soda)](#page-380)|380|
-|[Calcium carbonate](#page-381)| 381|
-|[Omeprazole (Prilosec)](#page-381|381|
-|[Ranitidine (Zantac)](#page-381) |381|
+|[Calcium carbonate](#page-381)|381|
+|[Omeprazole (Prilosec)](#page-381)|381|
+|[Ranitidine (Zantac)](#page-381)|381|
 
 
 # [343](#page-343)
@@ -411,7 +409,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 ### Family Planning Methods
 
-|Family Planning Methods|393|
+|[Family Planning Methods](#page-393)|393|
 |[Oral contraceptives (birth control pills)](#page-393)|393|
 |[Emergency contraception](#page-394)|394|
 |[Condoms](#page-395)|395|
@@ -451,7 +449,7 @@ Medicines not listed in the GREEN PAGES, but mentioned in the book, are listed i
 
 3TC (lamivudine) 397
 
-[A]
+# A
 
 Acetaminophen (paracetamol) 379
 
@@ -533,13 +531,13 @@ Azithromycin359
 
 AZT (zidovudine) 397
 
-B
+# B
 
 Bactrim (cotrimoxazole) 357
 
 Banocide (diethylcarbamazine) 377
 
-Beclomethasone384
+Beclomethasone 384
 
 Belladonna 380
 
@@ -549,47 +547,63 @@ Benzoic acid 371
 
 Benzyl benzoate 372
 
-Betadine (povidone iodine) .370 Bicarbonate of soda380 Biltricide (praziquantel)375, 376 Birth control .393
+Betadine (povidone iodine) 370
 
-Bismuth subsalicylate383
+Bicarbonate of soda 380
 
-Bleeding, medicines for 390 Broxyquinoline.369
-C
+Biltricide (praziquantel) 375, 376
+
+Birth control 393
+
+Bismuth subsalicylate 383
+
+Bleeding, medicines for 390
+
+Broxyquinoline 369
+
+# C
+
 Cafergot (ergotamine with caffeine) 379
 
-Calcium carbonate381
+Calcium carbonate 381
 
 Ceftriaxone 358
 
 Cephalosporins 357
 
+Charcoal, powdered or activated 388
 
-
-Charcoal, powdered or activated388
-
-Chlamydia, medicines for359
+Chlamydia, medicines for 359
 
 Chlorambin 369
 
-Chloramphenicol .356 Chloromycetin (chloramphenicol) 356 Chloroquine .366 Chlorpheniramine 386 Chlortetracycline .378
+Chloramphenicol 356
 
-Cilest (birth control pills) .393
+Chloromycetin (chloramphenicol) 356
+
+Chloroquine 366
+
+Chlorpheniramine 386
+
+Chlortetracycline 378
+
+Cilest (birth control pills) 393
 
 Cipro (ciprofloxacin) 358
 
 Ciprofloxacin 358
 
-Clindamycin.358
+Clindamycin 358
 
-Clioquinol.369
+Clioquinol 369
 
-Clofazimine363
+Clofazimine 363
 
 Cloxacillin 350
 
-Coartem (artemether with lumefantrine)364
+Coartem (artemether with lumefantrine) b364
 
-Cobantril (pyrantel)375
+Cobantril (pyrantel) 375
 
 Codeine 383
 
@@ -600,39 +614,49 @@ Condoms .395
 
 Contraceptive foam.395
 
-Contraceptive implants 396 Contraceptive tablets 395
+Contraceptive implants 396
+
+Contraceptive tablets 395
 
 Contraceptives, oral 393
 
-Convulsions (fits), medicines for .388
+Convulsions (fits), medicines for  388
 
-Copper T (IUD)395
+Copper T (IUD) 395
 
-Cortico-steroid.370
+Cortico-steroid 370
 
-Cortisone .391
+Cortisone  391
 
-Cotrimoxazole357
-
-
+Cotrimoxazole 357
 
 Cough medicines 383
 
-Cramps of the gut, medicines for380
+Cramps of the gut, medicines for 380
 
-Crotamiton 372 Crystal violet370
+Crotamiton 372
 
-Cyanocobalamin (vitamin B12) 392 Cyclofem (contraceptive injection)396 Cytotec (misoprostol) 391
-D
+Crystal violet 370
+
+Cyanocobalamin (vitamin B12) 392
+
+Cyclofem (contraceptive injection)
+396
+Cytotec (misoprostol) 391
+
+# D
+
 d4T (stavudine) 397
 
+Dapsone (diaminodiphenylsulfone, DDS) 362
 
-
-Dapsone (diaminodiphenylsulfone, DDS) 362 Dehydration, medicines for .381
+Dehydration, medicines for .381
 
 Delfen (contraceptive foam)395
 
-Depo-Provera (birth control injection) .396 Diane (birth control pills) .393
+Depo-Provera (birth control injection) .396
+
+Diane (birth control pills) .393
 
 Diaphragm395
 
@@ -663,25 +687,26 @@ Doxycycline .355
 Dramamine (dimenhydrinate)386
 
 Droncit (praziquantel)376
-E
-Efavirenz397
 
-EFV (efavirenz)397
+# E
 
-Emko (contraceptive foam) .395
+Efavirenz 397
 
-Entero Quinol369
+EFV (efavirenz) 397
 
-Entero Vioform.369
+Emko (contraceptive foam) 395
 
+Entero Quinol 369
 
+Entero Vioform 369
 
 Ephedrine 383
 
-Epinephrine .385
+Epinephrine 385
 
-Epsom salts.382
-Ergometrine .390
+Epsom salts 382
+
+Ergometrine 390
 
 Ergonovine 390
 
@@ -701,139 +726,153 @@ Exluton (birth control pills)393
 
 Exsel (selenium sulfide) 371
 
-Eyes, medicines for.378
-F
+Eyes, medicines for 378
+
+# F
+
 Family planning methods 393
 
-Fansidar (pyrimethamine with sulfadoxine).364
+Fansidar (pyrimethamine with sulfadoxine) 364
 
 Femoden (birth control pills) 393
 
-Femulen (birth control pills).394
+Femulen (birth control pills) 394
 
-Ferrous sulfate.392 Fits (convulsions), medicines for.388
+Ferrous sulfate 392
 
-Flagyl (metronidazole).368
+[Fits (convulsions), medicines for](#page-388)
 
-Floraquin369
+Flagyl (metronidazole) 368
 
+Floraquin 369
 
+Folic acid 392
 
-Folic acid.392 Fungus infections, medicines for 371
+Fungus infections, medicines for 371
 
-Furamide (diloxanide furoate) .368
-G
+Furamide (diloxanide furoate) 368
+
+# G
+
 Garamycin (gentamicin) 358
 
 Gentamicin 358
 
-Gentian violet370
+Gentian violet 370
 
 Germanin (suramin) 377
 
-Giardia, medicines for .367
+Giardia, medicines for 367
 
-Glycerin suppositories.382 Gonorrhea, medicines for359
+Glycerin suppositories 382
 
-
+Gonorrhea, medicines for 359
 
 Gracial (birth control pills) 393
 
-Griseofulvin371
+Griseofulvin 371
 
-Gynera (birth control pills)393
+Gynera (birth control pills) 393
 
-Gynol II (contraceptive gel).395
-H
+Gynol II (contraceptive gel) 395
+
+# H
+
 Halquinol .369
 
 
 
-Harmonet (birth control pills)393
+Harmonet (birth control pills) 393
 
 Headache, medicines for378
 
 Helmex (pyrantel) 375
 
-Hemorrhage, medicines for.390
+Hemorrhage, medicines for 390
 
-Hemorrhoids, medicines for391
+Hemorrhoids, medicines for 391
 
-Herpes, medicines for.373
+Herpes, medicines for 373
 
 Hetrazan (diethylcarbamazine) 377
 
-Human tetanus immune globulin.388
+Human tetanus immune globulin 388
 
 
 # [346](#page-346)
 {:.no_toc}
 
-Hydroxyquinolines369
-
-
+Hydroxyquinolines 369
 
 Hyoscyamine (atropine) 380
 
-Hyper-tet (tetanus immune globulin)388
-I
-Ibuprofen .379
+Hyper-tet (tetanus immune globulin) 388
 
+# I
 
+[Ibuprofen](#page-379)
 
-Implanon (contraceptive implant)396
+[Implanon (contraceptive implant)](#page-376)
 
-Infections, medicines for .350
+[Infections, medicines for](#page-350)
 
-Injectable contraceptives396
+[Injectable contraceptive](#page-396)
 
-Insecticides for scabies and lice.372 Intrauterine device (IUD).395
+[Insecticides for scabies and lice](#page-372)
 
-Iodochlorhydroxyquin369
+[Intrauterine device (IUD)](#page-395)
 
+[Iodochlorhydroxyquin](#page-369)
 
+[Iodoquinol](#page-369)
 
-Iodoquinol369
+[Iron sulfate](#page-392)
 
+[Isoniazid (INH)](#page-360)
 
+[Ivermectin](#page-377)
 
-Iron sulfate392 Isoniazid (INH).360
+# J
 
-Ivermectin377
-J
 Jadelle (contraceptive implant) 396
-K
+
+# K
+
 Kaopectate 383
 
 Koromex (contraceptive gel) 395
-L
+
+# L
+
 Lamivudine 397
 
 Lamprene (clofazimine)363
 
 Lariam (mefloquine) 365
 
-Laxatives .382 Lempko (contraceptive foam) .395
+Laxatives .382 Lempko (contraceptive foam) 395
 
-Leprosy, medicines for 362 Lice, medicines for372 Lidocaine.379
+Leprosy, medicines for 362
 
+Lice, medicines for 372
 
+Lidocaine 379
 
-Lo-Femenal (birth control pills)393
+Lo-Femenal (birth control pills) 393
 
-Logynon (birth control pills).393
+Logynon (birth control pills) 393
 
-Lo/Ovral (birth control pills) .393
+Lo/Ovral (birth control pills) 393
 
 Luminal (phenobarbital) 389
 
+Lunelle (contraceptive injection) 396
 
+# M
 
-Lunelle (contraceptive injection) .396
-M
 Magnesium hydroxide.382 Magnesium sulfate 382, 390
 
-Malaria, medicines for.363
+Malaria, medicines for  363
 
 Mansil (oxamniquine) 376
 
@@ -841,52 +880,57 @@ Mebendazole373
 
 Mectizan (ivermectin) 377
 
-Mefloquine365
+Mefloquine 365
+
 Mepacrine 369
 
+Methergine (methylergonovine maleate) 390
 
+Methicillin 350
 
-Methergine (methylergonovine maleate).390
-
-Methicillin.350
-
-Metronidazole368
+Metronidazole 368
 
 Miconazole 369
 
 
 
-Microgynon (birth control pills)393
+Microgynon (birth control pills) 393
 
-Microlut (birth control pills)394
+Microlut (birth control pills) 394
 
 Microvlar (birth control pills) 393
 
 
 
-Micronor (birth control pills).394
+Micronor (birth control pills) 394
 
 Micronovum (birth control pills) 394
 
-Microval (birth control pills) .393
+Microval (birth control pills) 393
 
 
 
-Mifepristone.391
+Mifepristone 391
 
-Milk of magnesia .380, 382 Milk, powdered391
+Milk of magnesia  380, 382
 
-Mineral oil 382 Minipill .394
+Milk, powdered 391
+
+Mineral oil 382
+
+Minipill 394
 
 Misoprostol 391
 
-Myambutol (ethambutol)361
-N
-Nafcillin350
+Myambutol (ethambutol) 361
 
-Naphuride (suramin)377
+# N
 
-Neogest (birth control pills) .394
+Nafcillin 350
+
+Naphuride (suramin) 377
+
+Neogest (birth control pills) 394
 
 Neomycin 370
 
@@ -894,45 +938,43 @@ Neosporin (antibiotic ointment) 370
 
 Neo-Synephrine (phenylephrine) 383
 
-
-
 Net-En (injectable contraceptive) 396
 
-Niclosamide.375
+Niclosamide 375
 
-Nivembin369
+Nivembin 369
 
 
 
-Nordette (birth control pills).393
+Nordette (birth control pills) 393
 
 Norinyl (birth control pills) 393
 
-Noristerat (injectable contraceptive)396
+Noristerat (injectable contraceptive) 396
 
-Norplant (contraceptive implant).396
+Norplant (contraceptive implant) 396
 
 Nose, medicines for 383
 
-Nystatin372
+Nystatin 372
 
-O
+# O
 
-Omeprazole.381
+Omeprazole 381
 
-Onchocerciasis, medicines for377
+Onchocerciasis, medicines for 377
 
-Oral contraceptives.393
+Oral contraceptives 393
 
 Oral rehydration salts 381
 
-Ortho-Novum (birth control pills).393
+Ortho-Novum (birth control pills 393
 
-Ovrette (birth control pills)394
+Ovrette (birth control pills) 394
 
 Ovysmen (birth control pills) 393
 
-Oxacillin350
+Oxacillin 350
 
 Oxamniquine 376
 
@@ -944,134 +986,126 @@ Oxytocin 390
 # [347](#page-347)
 {:.no_toc}
 
-P
- Pain, medicines for378
+# P
+
+Pain, medicines for378
 
 Paludrine (proguanil) 367
 
 Paracetamol 379
 
+Penicillins 350
 
-
-Penicillins .350
 Amoxicillin 352
 
-Ampicillin .352
+Ampicillin  352
 
-Benzathine352
+Benzathine 352
 
 Benzylpenicillin (penicillin G) 351
 
-Crystalline352
+Crystalline 352
 
 Phenoxymethyl (penicillin V) 351
 
 Procaine 352
 
-Resistance to penicillin350
+Resistance to penicillin 350
+
 Pepto-Bismol 383
 
 Permethrin 372
 
-Petroleum jelly (petrolatum, Vaseline) .370
+Petroleum jelly (petrolatum, Vaseline) 370
 
-Phenergan (promethazine)386
+Phenergan (promethazine) 386
 
 Phenobarbital 389
 
-
-
 Phenobarbitone 389
 
+Phenoxymethyl penicillin 351
 
-
-Phenoxymethyl penicillin.351
-
-Phenytoin.389
-
-
+Phenytoin 389
 
 Phytomenadione (vitamin K) 392
 
-Phytonadione392
+Phytonadione 392
 
-Pink Bismuth383
+Pink Bismuth 383
 
-Piperazine374
+Piperazine 374
 
-Pitocin (oxytocin).390
+Pitocin (oxytocin) 390
 
-Podophyllin373
+Podophyllin 373
 
-Poisoning, medicines for.388
+Poisoning, medicines for 388
 
 Polymyxin 370
 
 Polysporin (polymyxin) 370
 
-Polyvalent Crotalid Antivenin
-(for snakebites)387
+Polyvalent Crotalid Antivenin (for snakebites) 387
 
-Povidone iodine370
+Povidone iodine 370
 
-Powdered charcoal .388
+Powdered charcoal 388
 
-Praziquantel for schistosomiasis.376
+Praziquantel for schistosomiasis 376
 
 Praziquantel for tapeworm 375
 
-Prednisolone385
+Prednisolone 385
 
 Prednisone 385
 
-Prilosec (omeprazole) .381
+Prilosec (omeprazole) 381
 
 Primaquine 367
 
-Proguanil .367
+Proguanil 367
 
-Promethazine386
+Promethazine 386
 
-Pyrantel375
+Pyrantel 375
 
-Pyrazinamide361
+Pyrazinamide 361
 
-Pyrethrins with piperonyl .372
+Pyrethrins with piperonyl 372
 
 Pyridoxine (vitamin B6) 393
 
-Pyrimethamine with sulfadoxine364
+Pyrimethamine with sulfadoxine 364
 
 
-Q
+# Q
 
-Qlaira (birth control pills) .393
+Qlaira (birth control pills) 393
 
 Quinacrine 369
 
-
-
 Quinine 365
 
-Quogyl .369
+Quogyl 369
 
-R
+# R
 
-Ranitidine.381
+Ranitidine 381
 
-Rehydration Drink381
+Rehydration Drink 381
 
-Retinol391
+Retinol 391
 
-RID (pyrethrins with piperonyl)372
+RID (pyrethrins with piperonyl) 372
 
-Rifampicin for TB.360
+Rifampicin for TB 360
 
-Rifampicin for leprosy362
+Rifampicin for leprosy 362
 
 Ringworm, medicines for.371 River blindness, medicines for377
 
-S
+# S
 
 Salbutamol 384
 
@@ -1136,7 +1170,7 @@ Synphase (birth control pills) 393
 # [348](#page-348)
 {:.no_toc}
 
-T
+# T
 
 TDF (tenofovir) 397
 
@@ -1174,19 +1208,19 @@ Tuberculosis, medicines for 359
 
 Typhoid, medicines for 356
 
-U
+# U
 
 Ulcers, medicines for 380
 
 Undecylenic acid 371
 
-V
+# V
 
 Vaginal infections, medicines for 369
 
 Valium (diazepam) 389
 
-VansiI (oxamniquine)376
+Vansi I (oxamniquine)376
 
 Vaseline (petroleum jelly) 370
 
@@ -1201,7 +1235,7 @@ Vitamins 391, 392
 Vomiting, medicines for 385
 
 
-W
+# W
 
 Warts on the genitals, medicines for 373
 
@@ -1214,17 +1248,17 @@ Whitfield’s Ointment 371
 
 Worms, medicines for 373
 
-X
+# X
 
 Xylocaine (lidocaine) 379
 
 Xerophthalmia, vitamins for 391
 
-Y
+# Y
 
 Yomesan (niclosamide) 375
 
-Z
+# Z
 
 Zentel (albendazole) 374
 
@@ -1243,11 +1277,13 @@ Zovirax (acyclovir) 373
 
 >ONLY USE A MEDICINE WHEN YOU ARE SURE IT IS NEEDED AND WHEN YOU ARE SURE HOW TO USE IT
 
-Note:
+_Note:_
 
 Some medicines can cause bad reactions if taken together.
 
-Before taking two or more medicines at the same time, consult a health worker, if possible, Also, read the information on the package of any medicine before using it.
+Before taking two or more medicines at the same time, consult a health worker, if possible.
+
+Also, read the information on the package of any medicine before using it.
 
 
 
@@ -1259,7 +1295,7 @@ Before taking two or more medicines at the same time, consult a health worker, i
 
 ## ANTIBIOTICS
 
-### the penicillins: very important antibiotics
+### PENICILLINS: very important antibiotics
 
 Penicillin is one of the most useful antibiotics.
 
@@ -1319,7 +1355,7 @@ Use injectable penicillin only for severe or dangerous infections.
 Before injecting penicillin or any medicine that contains it, take the precautions given on page 71.
 
 
-### RESISTANCE TO PENICILLIN
+### resistance to penicillin
 
 Sometimes penicillin does not work against an infection it would normally control.
 
@@ -1344,7 +1380,7 @@ Pneumonia is also sometimes resistant to penicillin—try cotrimoxazole (p. 357)
 {:.no_toc}
 
 
-PENICILLIN BY MOUTH
+**PENICILLIN BY MOUTH**
 
 Penicillin V (phenoxymethyl penicillin)
 
@@ -1405,7 +1441,7 @@ Injectable penicillin comes in many different preparations.
 
 Before you inject any penicillin, be sure to check the amount and the kind.
 
-### CHOOSING THE RIGHT KIND OF PENICILLIN FOR INJECTION:
+### choosing the right kind of penicillin for injection:
 
 Some kinds of penicillin do their job quickly but do not last long.
 
@@ -1514,7 +1550,7 @@ For treatment of syphilis, benzathine benzylpenicillin is best.
 
 For dosage, see page 238.
 
-### AMPICILLIN AND AMOXICILLIN: BROAD-SPECTRUM PENICILLINS
+### AMPICILLIN and AMOXICILLIN: broad-spectrum penicillins
 
 **Ampicillin**
 
@@ -1613,7 +1649,7 @@ For meningitis: double the above dosage AND also give ceftriaxone OR gentamicin.
 {:.no_toc}
 
 
-### ERYTHROMYCIN: AN ALTERNATIVE TO PENICILLIN
+### ERYTHROMYCIN: an alternative to penicillin
 
 Erythromycin
 
@@ -1674,7 +1710,7 @@ For an average-sized newborn of about 3 kg, each dose should be: 0.75 ml (this i
 {:.no_toc}
 
 
-### TETRACYCLINES: BROAD-SPECTRUM ANTIBIOTICS
+### TETRACYCLINES: broad-spectrum antibiotics
 
 Tetracycline (tetracycline HCI, oxytetracycline, etc.)
 (Familiar but expensive brand: Terramycin)
@@ -1719,7 +1755,7 @@ It is also more expensive.
 
 Its use should be limited.
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
   1. Pregnant women should not take tetracycline, as it can damage or stain the baby’s teeth and bones.
 
@@ -1799,7 +1835,7 @@ Over 12 years: give 300 mg, one time only.
 
 
 
-### CHLORAMPHENICOL: AN ANTIBIOTIC FOR CERTAIN SEVERE INFECTIONS
+### CHLORAMPHENICOL: an antibiotic for certain severe infections
 
 Chloramphenicol (Chloromycetin)
 
@@ -1854,7 +1890,7 @@ give 12 mg (1⁄2 ml of the mixture or 1⁄20 part of a capsule) for each kg of 
 
 (This way, a 5 kg baby would get 60 mg, which is 1⁄2 teaspoon of mixture, or 1⁄4 capsule, at each dose.)
 
-### THE SULFAS (OR SULFONAMIDES): INEXPENSIVE MEDICINE FOR COMMON INFECTIONS
+### SULFAS or SULFONAMIDES: inexpensive medicine for common infections
 
 Sulfamethoxazole, sulfisoxazole, sulfadoxine
 
@@ -2019,7 +2055,7 @@ For gonorrhea eye infection in the newborn 7 days or older: Inject 50 mg per kg,
 
 Do not give more than 125 mg.
 
-**OTHER ANTIBIOTICS**
+### other antibiotics
 
 **Ciprofloxacin**
 
@@ -2034,7 +2070,7 @@ Some important uses of ciprofloxacin are to treat chancroid, shigella, typhoid, 
 However, for most infections it is still better to use a less expensive medicine such as penicillin or ampicillin.
 
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
 Pregnant or breastfeeding women should not use ciprofloxacin.
 
@@ -2048,7 +2084,7 @@ For chancroid and shigella, give the above dosage for 3 days. But give for 7 day
 
 For typhoid, give the above dosage for 10 days.
 
-Clindamycin
+**Clindamycin**
 
 Often comes in: capsules of 25, 75, 150, and 300 mg
 
@@ -2059,7 +2095,7 @@ to penicillin, such as bone infections.
 
 It can also be used with quinine to treat malaria in pregnant women (see p.366 for dosage).
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
 If you are taking clindamycin and start to have diarrhea, stop taking it immediately.
 
@@ -4321,7 +4357,7 @@ Another use of lidocaine with epinephrine: For severe nosebleed, soak a little i
 The epinephrine will cause the veins to squeeze shut and help control bleeding.
 
 
-FOR GUT CRAMPS: ANTISPASMODICS
+## FOR GUT CRAMPS: ANTISPASMODICS
 
 Belladonna (with or without phenobarbital)
 
@@ -5753,7 +5789,7 @@ Dosage of vitamin B6—if problems develop while taking isoniazid:
 
 ## FAMILY PLANNING METHODS
 
-### COMBINATION BIRTH CONTROL PILLS
+### combination birth control pills
 
 **Multiphasic combination pills**
 
@@ -5794,7 +5830,7 @@ The amounts of each hormone are the same in all 21 hormone pills in each pack.
 
 
 
-### ORAL CONTRACEPTIVES (BIRTH CONTROL PILLS)
+### oral contraceptives (birth control pills)
 
 Information about the use, risks, and precautions for birth control pills can be found on page 289.
 
@@ -5850,7 +5886,7 @@ Some brand names:
 
 - Microgynon
 
-How to take the combination pill
+**How to take the combination pill**
 
 If you are sure you are not pregnant and you are not breastfeeding a baby under 6 months old, you can start taking the pill any time.
 
@@ -5929,9 +5965,9 @@ You can stop taking the pill at any time.
 
 You could then get pregnant right away, so if you want to avoid pregnancy, use condoms or another method.
 
-### THE MINIPILL
+### the minipill
 
-Progestin-only pills
+Progestin-only pills.
 
 These pills contain only progestin and come in 28-pill packs.
 
@@ -5939,9 +5975,23 @@ All of the pills have the same amount of progestin.
 
 Some brand names:
 
-Femulen Microlut Micronor Micronovum Neogest Microval Ovrette Exluton
+- Femulen
 
-How to take the minipill
+- Microlut
+
+- Micronor
+
+- Micronovum
+
+- Neogest
+
+- Microval
+
+- Ovrette
+
+- Exluton
+
+**How to take the minipill**
 
 Take your first pill on the first day of your period.
 
@@ -5972,13 +6022,13 @@ This is not dangerous.
 
 Other possible effects include weight gain, headaches, and acne (pimples).
 
-Ending the minipill
+**Ending the minipill**
 
 If you want to get pregnant or change methods, you can stop taking the minipill at any time.
 
 You could get pregnant as soon as you stop, so if you do not want to, start another method immediately.
 
-### EMERGENCY FAMILY PLANNING (EMERGENCY CONTRACEPTION, EC)
+### emergency family planning (emergency contraception, ec)
 
 You can use emergency contraceptive pills or some brands of regular birth control pills to prevent pregnancy within 5 days after unprotected sex.
 
@@ -6005,7 +6055,7 @@ Progestin-only pills and special emergency pills have fewer side effects (headac
 {:.no_toc}
 
 
-How to take pills for emergency family planning
+**How to take pills for emergency family planning**
 
 With a pack of 28 pills, use any of the first 21 pills for emergency contraception.
 
@@ -6091,7 +6141,7 @@ Spermicides come in different forms to put in the vagina just before having sex,
 
 Do not douche or wash the spermicide out of the vagina for at least 6 hours after sex.
 
-Intrauterine device (IUD)
+**Intrauterine device (IUD)**
 
 An IUD must be inserted and removed by a trained health worker.
 
@@ -6118,7 +6168,7 @@ Do not pull on the strings.
 
 If she cannot feel the strings, or if she can feel the hard part of the IUD, she needs to use a condom or another method of family planning until she can have the IUD checked by a trained health worker.
 
-For information on IUDs, see page 290.
+For information on IUDs, [see page 290](#page-290).
 
 
 Pelvic inflammatory disease is the most serious problem that can result from having an IUD.
@@ -6132,7 +6182,7 @@ If a woman with an IUD has any signs of infection, she should see a trained heal
 See page 243.
 
 
-Injectable contraceptives
+**Injectable contraceptives**
 
 (Common brands: Depo-Provera (DMPA), Noristerat (NET-EN), Mesigyna, Cyclofem)
 
@@ -6218,7 +6268,7 @@ The medicine cotrimoxazole (see p.357) can prevent many infections in people wit
 
 
 
-### HIV CARE AND A.R.T. PROGRAMS
+### hiv care and a.r.t. programs
 
 As soon as you have a positive HIV test, try to find an HIV care program where health workers can see you regularly, treat your health problems quickly, and help you start ART.
 
@@ -6325,7 +6375,7 @@ Other combinations may be available and recommended in your area.
 All must be taken for 28 days.
 
 
-### ART FOR PREGNANT WOMEN WITH HIV
+### art for pregnant women with hiv
 
 Women who are pregnant, and any woman
 

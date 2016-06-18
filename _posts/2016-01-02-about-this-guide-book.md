@@ -5,13 +5,15 @@ style: grey
 ---
 
 
-## About the offline-enabled web app
+## About this offline-enabled web book app
 
 _The content sources used to build this **offline-enabled web app** are those freely available for download in pdf format._
 
 _We downloaded the September 2015 revision of **Where There Is No Doctor** PDFs and built from there._
 
-## about the book
+_Thanks to [David Terzano](http://work-it.it) for designing the logo._
+
+## about the original printed book
 
 ### where there is no doctor
 
