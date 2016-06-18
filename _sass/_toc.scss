@@ -1,6 +1,6 @@
 //toc
 
-//variable on the fly for left padding / margin of ToC
+//variable for left padding / margin of ToC
 $leftma: 4vw;
 $leftpa: 8px;
 $botpa: 10px;
@@ -50,4 +50,49 @@ $toppa: 10px;
 
 #green-pages a {
   color: $color_green_links;
+}
+
+
+a#markdown-toc-a,
+a#markdown-toc-b,
+a#markdown-toc-c,
+a#markdown-toc-d,
+a#markdown-toc-e,
+a#markdown-toc-f,
+a#markdown-toc-g,
+a#markdown-toc-h,
+a#markdown-toc-i,
+a#markdown-toc-j,
+a#markdown-toc-k,
+a#markdown-toc-l,
+a#markdown-toc-m,
+a#markdown-toc-n,
+a#markdown-toc-o,
+a#markdown-toc-p,
+a#markdown-toc-q,
+a#markdown-toc-r,
+a#markdown-toc-s,
+a#markdown-toc-t,
+a#markdown-toc-u,
+a#markdown-toc-v,
+a#markdown-toc-w,
+a#markdown-toc-x,
+a#markdown-toc-y,
+a#markdown-toc-z {
+  width: 40px;
+  height: 40px;
+  float: left;
+  //background-color: transparentize($color_green, .15);
+  border: 4px solid transparentize($color_green, .15);
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  line-height: 40px;
+  margin: 10px;
+  &:hover {background-color: transparentize($color_green, .15);}
+}
+a#markdown-toc-information-on-medicines {
+  clear: both;
+  display: block;
+  padding-top: 1rem;
 }

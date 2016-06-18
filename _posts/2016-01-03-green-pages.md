@@ -1291,7 +1291,7 @@ Also, read the information on the package of any medicine before using it.
 {:.no_toc}
 
 
-# Information on Medicines
+# INFORMATION ON MEDICINES
 
 ## ANTIBIOTICS
 
@@ -2120,7 +2120,7 @@ In each dose give:
 # [359](#page-359)
 {:.no_toc}
 
-Gentamicin
+]]Gentamicin
 
 Gentamicin is an injectable antibiotic that is used for very serious infections such as septicemia in a newborn and infection after giving birth (see pages 275 and 276 for dosages).
 
