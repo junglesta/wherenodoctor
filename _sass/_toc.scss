@@ -96,3 +96,29 @@ a#markdown-toc-information-on-medicines {
   display: block;
   padding-top: 1rem;
 }
+
+.yellow {
+  [href*=-subjects] {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 4px solid transparentize($color_yellow, .15);
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    margin: 10px;
+    &:hover {background-color: transparentize($color_yellow, .15);}
+  }
+  [href*=z-subjects]{clear: right;}
+  em:first-child {
+    display: block;
+    clear: both;
+    width: 100%;
+  }
+  h5#note {
+    clear: both;
+    display: block;
+    padding-top: 1rem;
+  }
+}

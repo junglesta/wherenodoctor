@@ -16,7 +16,7 @@ Words marked with this symbol(^) are usually not used in this book but are often
 
 Most names of sicknesses are not included in this vocabulary. See the Index (yellow pages) and read about the sickness in the book.
 
-# A
+# A words
 ---
 
 **Abdomen** The part of the body that contains the
@@ -87,7 +87,7 @@ An illness caused by the HIV virus. A person has AIDS when the immune system get
 
 
 
-# B
+# B words
 ---
 
 **Bacteria** Tiny germs that can only be seen with a microscope and that cause many different infectious diseases.
@@ -133,7 +133,7 @@ out buttocks or legs first.
 
 
 
-# C
+# C words
 ---
 
 **Cancer** A tumor or lump that grows and may keep growing until it finally causes death.
@@ -221,7 +221,7 @@ out buttocks or legs first.
 
 
 
-# D
+# D words
 ---
 
 **Dandruff** Oily white or grayish flakes or scales that appear in the hair. Seborrhea of the scalp.
@@ -260,7 +260,7 @@ out buttocks or legs first.
 # [422](#page-422)
 {:.no_toc}
 
-# E
+# E words
 ---
 
 **Eclampsia** Sudden seizures, especially during pregnancy or childbirth, very dangerous for both mother and baby.
@@ -286,7 +286,7 @@ out buttocks or legs first.
 **Expiration date** The month and year marked on a medicine that tells when it will no longer be good. Throw away most medicines after this date.
 
 
-# F
+# F words
 ---
 
 **Farenheit (F)** A measure or scale of heat and cold. A healthy person’s temperature (normal temperature) is 98.6° F. Water freezes at 32° F and boils at 212° F.
@@ -322,7 +322,7 @@ green vegetables. Follicles Small lumps.
 
 **Fright** A great or sudden fear.
 
-# G
+# G words
 ---
 
 **Gallbladder** A small, muscular sac attached to the liver. The gallbladder collects bile, a liquid that helps
@@ -356,7 +356,7 @@ digest fatty foods.
 # [423](#page-423)
 {:.no_toc}
 
-# H
+# H words
 ---
 
 **Hare** lip A split in the upper lip, going from the mouth up to the nose (like a hare, or rabbit). Some babies are born with a hare lip.
@@ -396,7 +396,7 @@ digest fatty foods.
 **Hysteria (1)** In common language, a condition of great nervousness, fear, and emotional distress. (2) In medical terms, signs of sickness caused by fear or the power of belief.
 
 
-# I
+# I words
 ---
 
 **Immunizations (vaccinations)** Medicines that
@@ -426,7 +426,7 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 
 **Iris** The colored or dark part of the eye around the pupil.
 
-# J
+# J words
 ---
 
 **Jaundice** A yellow color of the eyes and skin. It is a sign of disease in the liver, gallbladder, pancreas, or blood.
@@ -435,7 +435,7 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 # [424](#page-424)
 {:.no_toc}
 
-# K
+# K words
 ---
 
 **^Keratomalacia** A dullness and softening of the eye, ending in blindness. It is caused by a lack of vitamin A.
@@ -448,7 +448,7 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 
 **Kwashiorkor (wet malnutrition)** Severe malnutrition. A child with kwashiorkor has swollen feet, hands, and face, and peeling sores.
 
-# L
+# L words
 ---
 **Labor** The sudden tightening or contractions of the womb that mean the baby will soon be born.
 
@@ -516,7 +516,7 @@ can only be seen with the aid of microscope.
 # [425](#page-425)
 {:.no_toc}
 
-# N
+# N words
 ---
 
 **^Narrow-spectrum antibiotic** A medicine that works against a limited number of different kinds of bacteria.
@@ -537,7 +537,7 @@ need to vomit.
 **Nutritious** Nourishing. Nutritious foods are those that have the things the body needs to grow, be healthy, and fight off disease.
 
 
-# O
+# O words
 ---
 
 **Obstruction** A condition of being blocked or clogged. An obstructed gut is a medical emergency.
@@ -637,7 +637,7 @@ the womb. The risk of dangerous bleeding is high. Women who have bleeding late i
 
 **Purge** A very strong laxative that causes diarrhea.
 
-# R
+# R words
 ---
 
 **Rate** The number of times something happens in a
@@ -672,7 +672,7 @@ given amount of time.
 # [427](#page-427)
 {:.no_toc}
 
-# S
+# S words
 ---
 
 **Sanitation** Public cleanliness involving community efforts in disease prevention, promoting hygiene, and keeping public places free of waste.
@@ -740,7 +740,7 @@ up an opening or wound.
 
 **Symptoms** The feelings or conditions a person reports about his sickness. In this book symptoms are included with signs.
 
-# T
+# T words
 ---
 
 **Tablespoon** A measuring spoon that holds 3 teaspoons or 15 ml.
@@ -800,7 +800,7 @@ head under the skin and sucks blood.
 
 **Uterus** Womb.
 
-# V
+# V words
 ---
 
 **Vaccinations** See Immunization.
@@ -824,7 +824,7 @@ head under the skin and sucks blood.
 **Vomiting** Throwing up the contents out of the stomach through the mouth.
 
 
-# W
+# W words
 ---
 
 **Welts** Lumps or ridges raised on the body, usually caused by a blow or an allergy (hives).
@@ -835,7 +835,7 @@ head under the skin and sucks blood.
 
 
 
-# X
+# X words
 ---
 
 **Xerophthalmia** Abnormal dryness of the eye due to lack of vitamin A.

@@ -505,7 +505,7 @@ Antitetanus immunoglobulin388
 
 Antitoxins 387
 
-Antivenoms387
+Antivenoms 387
 
 Antivipmyn (antivenom) 387
 
@@ -670,7 +670,7 @@ Diethylcarbamazine.377
 
 Diiodohydroxyquin 369
 
-Dilantin (phenytoin) .389
+Dilantin (phenytoin) 389
 
 Diloxanide furoate 368
 
@@ -682,11 +682,11 @@ Diphenhydramine 386
 
 Diphenylhydantoin (phenytoin) 389
 
-Doxycycline .355
+Doxycycline 355
 
 Dramamine (dimenhydrinate)386
 
-Droncit (praziquantel)376
+Droncit (praziquantel) 376
 
 # E
 
@@ -710,19 +710,19 @@ Ergometrine 390
 
 Ergonovine 390
 
-Ergotamine with caffeine .379
+Ergotamine with caffeine 379
 
 
 
-Ergotrate (ergotamine tartrate)390
+Ergotrate (ergotamine tartrate) 390
 
-Erythromycin354
+Erythromycin 354
 
 Ethambutol 361
 
 Eurax (crotamiton) 372 Expectorants 383
 
-Exluton (birth control pills)393
+Exluton (birth control pills) 393
 
 Exsel (selenium sulfide) 371
 

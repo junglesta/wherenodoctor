@@ -6,23 +6,26 @@ style: yellow
 bookpage: 391
 pdfpage: 433
 ---
-* TOC
-{:toc}
+
+# INDEX
 
 Things in this book are listed in the order of the alphabet:
 
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-
-Page numbers links let you jump to the subject in this book. Medicines included in the Green Pages are in the Index of Medicines, p. 341.
+_[A](#a-subjects) [B](#b-subjects) [C](#c-subjects) [D](#d-subjects) [E](#e-subjects) [F](#f-subjects) [G](#g-subjects) [H](#h-subjects) [I](#i-subjects) [J](#j-subjects) [K](#k-subjects) [L](#l-subjects) [M](#m-subjects) [N](#n-subjects) [O](#o-subjects) [P](#p-subjects) [Q](#q-subjects) [R](#r-subjects) [S](#s-subjects) [T](#t-subjects) [U](#u-subjects) [V](#v-subjects) [W](#w-subjects) [X](#x-subjects) [Y](#y-subjects) [Z](#z-subjects)_
 
 
-# A
+##### Note:
+
+Each subject in this list links to the section in the book. Page numbers are here if you need to refer to the book.
+
+The [Index of Medicines](#markdown-toc-index-of-medicines-in-the-green-pages) might be useful too.  
+
+
+# A subjects
 
 Abdomen (See Belly)
 
-Abortion, 243, 284, 414–415
-
-  - (Also see Miscarriage)
+Abortion, 243, 284, 414–415 (Also see Miscarriage)
 
 Abscess, 419
 
@@ -40,14 +43,13 @@ Acid Indigestion, 128–129
 
 Acne (pimples), 211, 394, 419
 
-Acquired Immune Deficiency Syndrome (See
-HIV and AIDS)
+Acquired Immune Deficiency Syndrome (See HIV and AIDS)
 
 Acupuncture, 74, 401
 
-Acute abdomen, 15, 93–94, 419
+Acute abdomen, 15, 93–94, 419 (Also see Gut, Swollen belly)
 
-  - (Also see Gut, Swollen belly) Addiction, 416–417
+Addiction, 416–417
 
 Afterbirth (placenta), 262–264, 269, 426
 
@@ -59,8 +61,7 @@ Alcoholic drinks
 
  - and heat stroke, 81
 
- - problems caused by, 119, 148–149, 325, 326,
-400, 416
+ - problems caused by, 119, 148–149, 325, 326, 400, 416
 
 Alcoholics Anonymous, 149, 417, 429
 
@@ -74,10 +75,16 @@ Allergic reaction, 23, 54, 166
 
  - to medicines, 54, 56, 68, 70–71, 350
 
-Allergic rhinitis (hay fever), 165, 427 Allergic shock, 70, 105, 350, 385–386, 410 Aloe vera, 13, 129
+Allergic rhinitis (hay fever), 165, 427
+
+Allergic shock, 70, 105, 350, 385–386, 410
+
+Aloe vera, 13, 129
 
 
-Amebas, 144–145, 336, 367–368, 419 Amputation, 409, 419
+Amebas, 144–145, 336, 367–368, 419
+
+Amputation, 409, 419
 
 Anabolic steroids, 51
 
@@ -131,17 +138,25 @@ Anus, 233, 419
 
  - sores in it, 238, 400, 402, 403
 
-Apoplexy, 37, 78, 288, 327 Appendicitis, 36, 94–95 Appendix, 94
+Apoplexy, 37, 78, 288, 327
+
+Appendicitis, 36, 94–95
+
+Appendix, 94
+
 Arms
 
- - muscles and nerves in, 37
+  - muscles and nerves in, 37
 
   - numbness or pain in, 23, 325
 
 Arteriosclerosis, 326
 
 Arthritis (joint pain), 173, 324
-medicines for, 51, 378–379 Ascaris (roundworm), 140–141, 420
+
+- medicines for, 51, 378–379
+
+Ascaris (roundworm), 140–141, 420
 
  - and asthma, 167
 
@@ -149,7 +164,3065 @@ Asthma, 167, 337, 384–385
 
 Athlete’s foot, 205
 
+# B subjects
 
-```
-more ¯¯\_(ツ)_/¯¯ coming
-```
+Babies
+
+- examining, 34
+
+- feeding, 120–121
+
+- with diarrhea, 159, 358
+
+- with skin problems, 215
+
+(Also see Children, Newborns)
+
+Back pain, 173–174, 248
+
+Bacteria, 19, 55, 420
+
+Bacterial dysentery, 145
+
+Bacterial infection of the blood, 273–275
+
+Bag of waters, 256, 258, 259–260, 420
+
+Bandages, 85, 87, 101–102, 336
+
+Bathing
+
+- and hygiene, 133
+
+- newborns and babies, 7, 215, 263
+
+- postpartum mothers, 8, 276
+
+- sick persons, 7, 39
+
+B.C.G. vaccination, 147, 180, 185
+
+# [434](#page-434)
+{:.no_toc}
+
+Beaded lizard bite, 106
+
+Bedbugs, 200
+
+Bed sores, 13, 214, 420
+
+Beliefs
+
+- harmful, 4, 5, 10–11
+
+- healing power of, 2
+
+Bell’s Palsy, 327
+
+Belly
+
+- actue abdomen, 93–94
+
+- examination of, 35–36
+
+- lumps in, 280
+
+- pain in lower belly, 243
+
+(Also see Gut, Swollen Belly)
+
+Bewitchment, 2, 6, 420
+
+Bilharzia, 146
+
+Biliousness, 329
+
+Birth (See Childbirth)
+
+Birth control (See Family planning)
+
+Birth control pills, 285, 288–289, 393–394
+
+Birth defects, 6, 247, 272, 289, 318–321, 412
+
+Birth kits, 254–255
+
+Birth opening (See Vagina)
+
+Bites
+
+- of wild animals (rabies), 181
+
+- poisonous, 104–106
+
+- that may cause infection, 89
+
+- treatment, 86
+
+Bitot’s spots, 226
+
+Black flies, 227–228
+
+Blackheads, 211, 420
+
+Black magic, 5, 24
+
+Black widow spider bite, 106
+
+Bladder, 233
+
+- infection, 234, 243
+
+- stones, 234, 235
+
+Bleach, 74, 401
+
+Bleeding
+
+- and anemia, 124
+
+- during menopause, 246
+
+- during pregnancy, 249, 281
+
+- gums, 107, 231
+
+- how to control, 13, 82–83
+
+- in an unconscious person, 78
+
+- in the whites of the eyes, 225
+
+- of the newborn, 272, 337, 392
+
+- severe, 82, 243, 246, 264, 281, 404, 410, 414
+
+- stopping after birth, 263–266, 337, 390–391 (Also see Blood)
+
+Blindness, 221–222, 412
+
+- from injuries to the eye, 218
+
+- night blindness, 113, 226–227
+
+- protection for babies, 221, 237, 378
+
+- river blindness, 227–228, 377
+
+Blisters
+
+- from medicines, 356, 359
+
+- from touching certain plants, etc., 204
+
+- with burns, 96
+
+- with chickenpox, 311
+
+- with eczema, 216
+
+Blood (Also see Bleeding)
+
+- and AIDS, 75, 82–84, 399, 401
+
+- clots, 288
+
+- coughing up blood, 168
+
+- flukes, 146
+
+- in stools, 128, 144–146, 157–158, 306, 401
+
+- in the urine, 146, 234
+
+- in vomit (cirrhosis), 328
+
+- in vomit (ulcer), 128
+
+
+Blood pressure, 420
+
+- high, 125, 249, 289, 326–327, 410–411
+
+- how to measure, 410–411
+
+- low, 77, 411
+
+(Also see Shock)
+
+Blood transfusion, 399, 401
+
+Blueness of skin, lips, and nails, 30
+
+Body-building foods, 110
+
+Boil (abscess), 202, 420
+
+Bones
+
+- calcium for, 246
+
+- deformities of, 125, 319
+
+- hit by a bullet, 90
+
+- that have come out of place at a joint, 101 (Also see Broken bones)
+
+Bottle feeding, 120, 154, 296
+
+Bowel movement, 242, 420 (Also see Feces, Stools)
+
+Braces, 315
+
+Brain damage, 319–320
+
+- and seizures, 319
+
+- from high fever, 76
+
+- from tapeworm cysts, 143
+
+Bran, 16, 126, 382
+
+Brand-name medicines, 55, 333, 339, 420
+
+Breakbone fever (See Dengue)
+
+Breast abscess (mastitis), 278, 424
+
+Breast cancer, 279
+
+Breast feeding, w 12, 120–122
+
+- and birth control, 285, 289, 294, 394
+
+- and good nutrition, 114, 116, 304
+
+- and preventing diarrhea, 154, 156
+
+- of newborns, 271, 277, 405
+
+- traditional beliefs about, 2, 7
+
+(Also see Breasts)
+
+Breasts
+
+- care of, 277, 279
+
+- swelling of, 278–279
+
+Breathing (respiration), 426
+
+- difficulties, 23, 57, 168, 181, 274, 325, 410
+
+- hot water vapors 47, 168
+
+- of a sick person, 32
+
+- rate, 32
+
+- stopped, 80
+
+(Also see Lung diseases, Mouth-to-mouth
+breathing)
+
+Breech delivery, 257, 268
+
+Broad-spectrum antibiotics, 56, 58, 352, 355–358
+
+Broken bones, 14, 98–99
+
+Bronchitis, 170
+
+Brucellosis (Malta fever), 27, 188
+
+Bubos, 238, 403, 420
+
+Bullet wound
+
+- in arms or legs, 90
+
+- in the belly, 15, 92–93
+
+- in the head, 91
+
+Burns, 13, 96–97
+
+- and leprosy, 192
+
+- of the eye, 219
+
+# [435](#page-435)
+{:.no_toc}
+
+# C subjects
+
+C
+
+Calcium and rickets, 125
+
+- danger of injecting, 53, 67 for spider bite, 106
+
+- for weak bones, 246
+
+- in eggshells, 116
+
+Callus, 210
+
+Cancer, 25, 412, 420
+
+- and oral contraceptives, 288–289
+
+- and smoking, 119, 149, 168
+
+- of the breast, 279
+
+- of the eyes, 33, 217
+
+- of the skin, 197, 211, 399
+
+- of the womb, 280
+
+Candida (thrush), 232, 242, 400
+
+Canker sores, 232
+
+Carbohydrates (energy foods), 110, 121, 420
+
+Carbonated drinks, 115, 150
+
+Cardon cactus, 13, 232
+
+Cascara, 16
+
+Cassava, 117, 130, 420
+
+- for constipation, 16, 126, 382
+
+Cast, 14, 98, 319, 420
+
+Castor oil, 16
+
+Cataract, 33, 217, 225, 323, 420
+
+Catheter, 239–240, 336, 420
+
+Causes of illness, w6–w7, w10, w27, 17–19
+
+Cavities in teeth, 229–230, 420
+
+Cellulitis, 212
+
+Cereal, 152, 381
+
+Cerebral malaria, 30, 178, 186, 366
+
+Cerebral palsy, 320
+
+Cerebro-vascular accident (CVA), 37, 78, 288, 327
+
+Cervix, 286, 291, 420
+
+Chancre, 237
+
+Chancroid, 236, 238, 403
+
+Chemical burns of the eye, 219
+
+Chest wounds, 91
+
+Chickenpox, 204, 311
+
+Chiggers, 201, 420
+
+CHILD-to-child program, 322
+
+Child Health Chart, w20, w24, 297–304, 420
+
+Childbirth
+
+- bleeding after, 264–265
+
+- correct use of oxytocics, 265–266
+
+- cutting the cord, 262–263
+
+- difficult births, 267–269, 319
+
+- infection, 260, 276
+
+- position of the baby, 257, 261, 267
+
+- position of the mother, 260
+
+- premature, 262
+
+- preparing for, 254–256
+
+- signs of labor, 258
+
+- tearing of the birth opening, 269
+
+Childbirth fever, 27, 276, 283, 420
+
+Children
+
+- and diarrhea, 151–153, 159
+
+- foods for, 112, 113, 120–122, 295
+
+- giving injections to, 73
+
+- growth of, 107, 297–304
+
+- having the number you want, 283–294
+
+- infectious diseases of, 311–315
+
+- malnourished, 112–114, 154, 303, 305–306
+
+- mentally slow, deaf, or deformed, 318
+
+- problems they are born with, 316–321
+
+- severely ill, 214
+
+- vaccinations for, 147, 296 (See also Babies, Newborns)
+
+Chlamydia, 221, 234, 236–237, 355, 359, 378
+
+Choking, 79, 314
+
+Cholera, 158
+
+Cigarettes (See Smoking)
+
+Circulation, poor (See Varicose veins)
+
+Circumcision, 74, 401, 404
+
+Cirrhosis of the liver, 108, 148, 328
+
+Cleanliness, 131–139
+
+- basic guidelines of, 133–139
+
+- in childbirth, 260, 263
+
+- of children, 136, 296
+
+- of equipment, 74, 401
+
+- of mouth and teeth, 229–231
+
+- personal cleanliness, 39, 41, 133–135
+
+- public cleanliness, 137–139
+
+- to prevent infection, 74, 84, 401, 414
+
+- when injecting, 68, 74, 401
+
+Cleft palate, 318–319, 421
+
+Climacteric (menopause), 246
+
+Clitoris, 233
+
+Clubbed feet, 319
+
+Cocaine, 416–417
+
+Coitus interruptus, 285, 294
+
+Cold and hot sicknesses, 119
+
+Cold compresses, 193–194
+
+Colds and the ‘flu’, 45, 57, 163, 308
+
+- diet with, 123
+
+Cold sores or fever blisters, 48, 171, 232, 402
+
+Cold weather, 408–409
+
+Colic (gut cramps), 35, 145, 157, 421
+
+Colostrum, 277, 421
+
+Coma, 78, 421
+
+Combination medicines, 52, 397
+
+Combined methods of birth control, 285, 292
+
+Comfort of a sick person, 39
+
+Complications from abortion, 243, 414–415
+
+Compresses, 193–195, 421
+
+Condom, 239, 285, 287, 395, 401
+
+Congestion, 23
+
+Conjunctivitis, 219–221, 308
+
+Constipation, 16, 126
+
+- as a sign of acute abdomen, 94
+
+- during pregnancy, 248
+
+- treatment and prevention, 126, 382
+
+
+# [436](#page-436)
+{:.no_toc}
+
+Consumption (See Tuberculosis)
+
+Contact dermatitis, 204, 421
+
+Contraception, 283–294, 393–396
+
+Contraceptive foam, 290, 395
+
+Contractures, 314, 421
+
+Convulsions, (See Seizures, Spasms)
+
+Cooperatives, w24
+
+Cornea, 217, 218, 224, 225, 226, 228
+
+Corn silk, 12
+
+Corns, 210, 421
+
+Cortico-steroids, 51, 129, 370
+
+Cortisone, 51
+
+Cough, 168–169
+
+- chronic, 168, 324, 400
+
+- common causes, 168
+
+- cough with blood, 140, 171, 174, 179
+
+- medicines for, 52, 383
+
+- smoker’s, 149
+
+Counting days method, 291–292
+
+Cradle cap, 215
+
+Cramps, 421
+
+- gut, 12, 35, 106, 145, 147, 243, 380
+
+- heat, 81
+
+Cretinism (See Hypothyroidism)
+
+Crop rotation, w13, 115, 117, 427
+
+Cross eyes, 223, 318
+
+Crutches, how to make, 315
+
+Cupping, 22, 421
+
+Cuts, 84–86
+
+CVA (Cerebro-vascular accident), 37, 78, 288, 327
+
+Cyst, 143, 243, 280, 421
+
+# D subjects
+
+
+Dacryocystitis, 223
+
+Dandruff, 215, 421
+
+Dandy fever (See Dengue)
+
+Dangerous illnesses, w28, 42, 179–192
+
+Dangerous use of medicine, 50
+
+Date of expiration, 332
+
+Deafness
+
+- home cure for, 11
+
+- in children, 318
+
+- with ringing and dizziness, 327
+
+Death, accepting, 330
+
+Decongestants, 164, 165, 421
+
+Defects, birth, 7, 289, 316–321, 421
+
+Deformities, 421
+
+- from birth, 289, 316–321
+
+- with leprosy, 191–192
+
+Dehydration, 151–152, 421
+
+- and diarrhea, 46, 155
+
+- causing sunken fontanel, 9, 274
+
+- danger of laxatives with, 15, 382
+
+- medicine not to take, 52–53, 156
+
+- prevention and treatment, 152, 156, 381
+
+Delhi boil (See Leishmaniasis)
+
+Delirium, 24, 421
+
+- and malaria, 186
+
+- and typhoid, 189
+
+Dengue, 187
+
+Dermatitis, contact, 204, 421
+
+Diabetes, 127, 251, 329, 410
+
+Diaper rash, 215, 422
+
+Diaphragm, 285, 291, 395
+
+Diarrhea, 151–160
+
+- and dysentery, 144–145, 153, 306
+
+- babies with, 159, 271
+
+- causes of, w7, 17, 107, 132–33, 135, 153, 399, 400
+
+- causing sunken fontanel, 9
+
+- home cures for, 11
+
+- prevention of, w7, 46–47, 154
+
+- severe, 151, 160
+
+- treatment of, 58, 152, 155–158, 383
+
+- with blood, 144–145, 157–158, 306, 401
+
+- with vomiting, 151, 157
+
+- with worms, 142
+
+Diet, 421
+
+- congestion and, 23
+
+- for fever, 8
+
+- for postpartum mothers, 8, 123, 276
+
+- for sick persons, 40, 123
+
+- for small children, 120–122
+
+- for specific diseases, 40, 124–130, 154–156
+
+- harmful ideas about, 123
+
+- things to avoid, 119
+
+- what to eat to stay healthy, 110–111
+
+- while taking medicines, 123
+
+- with oral contraceptives, 286
+
+(Also see Foods, Nutrition)
+
+Diets for specific diseases, 40, 124–130
+
+- acid indigestion, heartburn, and ulcers,128–129
+
+- anemia, 124
+
+- constipation, 16, 126, 382
+
+- diabetes, 40, 127
+
+- diarrhea, 155–156, 159
+
+- goiter, 130
+
+- high blood pressure, 125
+
+- people who are too heavy, 126
+
+Digestion, 13
+
+Diphtheria, 147, 296, 313–314
+
+Direct pressure, 82
+
+Disability
+
+- how injections cause, 74, 314
+
+- in children, 74, 314, 318–321
+
+Diseases (see sicknesses)
+
+Dislocations, 38, 101, 316, 422
+
+Dizziness, 327, 249
+
+Dolor de ijar, 22
+
+Dosage information, 340
+
+Double vision, 227
+
+Douche, 241, 247, 258, 281, 293, 422
+
+Down syndrome (mongolism), 318, 425
+
+D.P.T. vaccination, 147
+
+Drinking (alcohol), 148–149, 318, 325, 326, 328
+400, 416
+
+Drowning, 79, 422
+
+Drug abuse, 399, 401, 416 –417
+
+Dry eyes, 107, 113, 226, 391
+
+Dry malnutrition (marasmus), 112–113
+
+
+
+
+
+
+# [437](#page-437)
+{:.no_toc}
+
+
+
+Dumdum fever (See Leishmaniasis)
+
+Dysentery, 144–145, 422 (Also see Diarrhea)
+
+# E subjects
+
+Ears
+
+- how to examine a sick person’s, 34
+
+- infections of, 309
+
+- nodes behind, 88
+
+- ringing of, 107, 327
+
+Earwax, 405
+
+Eclampsia, 249, 390, 422
+
+Ectopic pregnancy, 22, 36, 93, 243, 249, 280, 414
+
+Eczema, 216
+
+Emergency
+
+- contraception, 288, 394–395
+
+- problems of the gut, 93–95
+
+- supply of medicines, 332
+
+- use of injections, 66
+
+Emergencies caused by cold, 408–409
+
+Emergencies caused by heat, 81
+
+Empacho, 22
+
+Emphysema, 170
+
+Enema, 15, 76, 92, 422
+
+Energy foods, 110–111
+
+Enterobius (pinworm, threadworm), 141
+
+Epilepsy, 38, 178, 319, 388–390
+
+Epsom salts, 16
+
+Erysipelas, 212
+
+Evaluation, w20, 422
+
+Evil eye, 5, 422
+
+Examining
+
+- a pregnant woman, 250–253
+
+- a sick person, 29–38 breasts, 279
+
+- eyes, 33, 217
+
+- eyesight, 223
+
+- for appendicitis, 36, 95
+
+- for hernia, 94, 317
+
+- for knee reflexes, 183
+
+Excision, 404
+
+Exhaustion, heat, 81
+
+Expectorants, 52, 383, 422
+
+Experimenting, w15
+
+Extra finger or toe, 318–319
+
+Eyes, 217–228
+
+- cross eyes, 223
+
+- danger signs, 33, 217, 227
+
+- dryness of, 107, 113
+
+- examining the eyes, 33
+
+- eye problems of older people, 227, 323
+
+- eye problems with leprosy, 192
+
+- foreign objects in eyes, 48, 218
+
+- of newborns, 221, 270, 378, 391
+
+- red and painful, 219, 225
+
+- spots and “floaters”, 227, 323
+
+- yellow, 30, 172, 274, 328, 329
+
+Eyesight testing, 223
+
+Face
+
+- dull, 318
+
+- lumpy skin on, 191
+
+- paralysis of, 37, 327
+
+Fainting, 78, 79, 81, 325, 327
+
+Falciparum malaria, 158, 186, 363
+
+False labor, 258
+
+Family planning, w16, 246, 283–294, 393–396
+
+- and infertility, 244
+
+Farming, w13, 412–413
+
+Farsightedness, 323, 422
+
+Fatigue, 23, 124, 323, 400
+
+Fats, 111, 121
+
+Feces, 422
+
+- and infections, 84, 96, 131
+
+- in home remedies, 11
+
+- in newborn’s mouth and nose, 268 (Also see Stools)
+
+Feces-to-mouth, disease spread from, 131–133, 140, 188
+
+Feet
+
+- clubbed, 319
+
+- loss of feeling in, 127, 162, 173, 191–192
+
+- swelling of, 113, 124, 144, 176, 248 249, 323
+
+Fertile days, 244, 291
+
+Fetoscope, 252, 255, 422
+
+Fever
+
+- childbirth, 27, 276, 283
+
+- diet with, 8
+
+- high, 15, 75–76, 335
+
+- how to bring down, 75, 76, 335
+
+- in children, 306
+
+- in the newborn, 270, 273
+
+- patterns in different diseases, 26–27, 30, 31
+
+Fever blisters or cold sores, 48, 171, 232
+
+La Fiebre, 26 Filmstrips, w22
+
+Fire wood, 135
+
+First aid, 75–106, 422 Fits (See Seizures)
+
+Flannel-graphs, w22
+
+Fleas, 190
+
+Flies and disease, w23, 135, 227–228, 406
+
+Flu, 45, 57, 163, 308, 422
+
+Flukes, blood, 146, 376, 422
+
+Fluoride, for teeth, 229
+
+Foam, contraceptive, 285, 290, 395
+
+Folic acid, 118, 321, 392, 422
+
+Folk beliefs, 3, 6–8, 123 (Also see Home remedies)
+
+Folk disease, 21–26
+
+Follicles inside the eyelids, 220
+
+Fontanel (soft spot)
+
+- sunken, 6, 9, 151, 274
+
+- swollen, 274
+
+(Also see Dehydration)
+
+Food poisoning, 23, 103, 135, 153, 161
+
+
+
+# [438](#page-438)
+{:.no_toc}
+
+Foods
+
+- at low cost, 116–118
+
+- for a person with diarrhea, 155–156
+
+- for sick persons, 41
+
+- for small children, 120–122
+
+- nutritious, 110–111, 295
+
+- plant, 116
+
+- producing, w11
+
+- spoiled, 103, 135
+
+(Also see Diet, Nutrition)
+
+Fractions, 59–60, 340
+
+Fractures (See Broken bones)
+
+Fright, 24, 422
+
+Frostbite, 409
+
+Frozen skin, 409
+
+Fungus infection, 19, 58
+
+- ringworm, tinea, 205–206, 371–372
+
+- thrush, 232
+
+- vaginal yeast, 242, 369
+
+# G subjects
+
+Gallbladder, 422
+
+- home cure for, 12
+
+- pain in, 36
+
+- problems, 329
+
+Gangrene, 213
+
+Garlic, 12, 241, 242
+
+Gastritis, 128–129
+
+Gelusil, 173
+
+Generic medicines, 333, 339, 423
+
+Genital herpes, 402–403
+
+Genital warts, 373, 402
+
+Genitals, 205, 232, 233–244, 423
+
+- sores on, 237, 402–403
+
+German measles (Rubella), 247, 312, 320
+
+Germs, 19, 423
+
+Giardia, 145, 336, 367–369, 423
+
+- and diarrhea, 153, 158
+
+Gila monster bite, 106
+
+Glaucoma, 33, 222, 323
+
+Gloves, rubber or plastic, 255, 262, 264, 401
+
+Glue sniffing, 416
+
+Goiter, 10, 130, 423
+
+Gonorrhea, 221, 236–237, 359 (Also see Sexually transmitted infections)
+
+Grams, measuring in, 59–60, 423
+
+Groin, lymph nodes in, 88, 238, 423 (Also see Hernia)
+
+Group discussions, w24 w27
+
+Growth, children’s, 107, 297–304
+
+Guaco, 3
+
+Guinea worm, 406–407
+
+Gums, 229–232
+
+- bleeding of, 107, 231
+
+- pale, 124
+
+- swelling caused by medicine, 231
+
+Gut
+
+- cramps, 12, 106, 145, 157, 243, 380
+
+- emergency problems of, 35, 93–94
+
+- infection, 47, 131, 144–145, 153, 189
+
+- obstructed, 22, 94
+
+- out of anus (prolapse), 142
+
+- outside a wound, 92
+
+- wounds in, 92
+
+(Also see Abdomen, Swollen belly)
+
+# H subject
+
+Hair
+
+- changes with malnutrition, 107
+
+- examination for lice, 200
+
+- loss of, 107
+
+Hansen’s disease (See Leprosy)
+
+Hare lip, 318, 423
+
+Hay fever, 34, 165, 427
+
+Head
+
+- fungus infections of, 205
+
+- injury, 37, 78, 91
+
+- swollen lymph nodes on, 88
+
+Headaches, 162, 249, 410
+
+Health, w7, w11
+
+Health worker, w1 w7, w29, 43, 246, 340
+
+Heart attacks, 23, 325
+
+- confusion with heartburn, 128
+
+- trouble, 33, 310, 325, 410
+
+Heartbeat, 32–33, 77
+
+Heartburn, 423
+
+- diet for, 128–129
+
+- during pregnancy, 248
+
+- medicines for, 380–381
+
+- medicines to avoid, 54, 64
+
+Heat
+
+- cramps, 81
+
+- exhaustion, 81
+
+- stroke, 78, 81
+
+Hemorrhage (See Bleeding)
+
+Hemorrhoids (See Piles)
+
+Hepatitis, 26, 172, 416
+
+Herbal teas, 1, 8
+
+Herbs, curative, 12–13, 423
+
+Hereditary problems, 18, 318–319, 321, 423
+
+Hernia, 177, 423
+
+- during pregnancy, 256
+
+- in groin of newborn, 317
+
+- obstructing the gut, 94
+
+Heroin, 416–417
+
+Herpes simplex or labialis (See Cold sores)
+
+Herpes zoster, 204, 373, 400
+
+Hexing, 2
+
+High blood pressure, 125, 249, 325–326, 411
+
+History, taking, 20, 25, 29, 44, 250–253, 423
+
+HIV and AIDS, 20, 75, 153, 171, 236, 245, 286,
+290, 396, 399–401, 416
+
+- and medicines, 396–398
+
+- and pregnancy, 249, 398
+
+- and shingles, 204
+
+- and thrush, 232
+
+- and tuberculosis, 179
+
+- and vaccinations, 147
+
+- caring for someone with, 401
+
+HIV
+
+- test, 400
+
+- preventing, 401
+
+
+
+# [439](#page-439)
+{:.no_toc}
+
+Hives, 68, 166, 203, 423
+
+Home remedies, 1–3
+
+- enemas and purges, 15
+
+- for infertility, 244
+
+- how to tell if they work, 10–11
+
+- questions and answers about, 6–8
+
+- sensible use of, w2, 24
+
+Home visits, w24
+
+Hookworm (Uncinaria), 133, 142, 296, 307
+
+Hordeolum (sty), 224
+
+Hormones, 224, 287, 393, 423
+
+Hot and cold sicknesses, 119
+
+Hot compresses, 193–195, 406
+
+Housing, w10
+
+Human immunodeficiency virus (See HIV and AIDS)
+
+Hydrocele, 317
+
+Hygiene (See Cleanliness)
+
+Hypertension (See High blood pressure)
+
+Hyperventilation, 24, 423
+
+Hyphema, 225
+
+Hypochondria, 329
+
+Hypopyon, 225
+
+Hypothermia, 408
+
+Hypothyroidism, 318, 423
+
+Hysteria, 2, 24, 423
+
+# I subjects
+
+Illnesses (See Sicknesses)
+
+Imferon, 51, 67
+
+Immunizations (vaccinations), 19, 147, 296, 337
+
+Impetigo, 25, 202
+
+Implants (birth control), 285, 289–290, 396
+
+Indigestion
+
+- diet for, 128–129
+
+- during pregnancy, 248
+
+- medicines for, 380–381
+
+- medicines to avoid, 54, 64
+
+Infantile paralysis (See Polio)
+
+Infants (See Babies, Newborns)
+
+Infection, 423
+
+- after giving birth, 276
+
+- and diarrhea, 154, 157
+
+- in newborns, 182–183, 275
+
+- in wounds, 88–89, 96, 213
+
+- medicines for, 55–58, 335–336
+
+- minor, 58
+
+- of the appendix, 94–95
+
+- of the eyes, 217, 219, 220, 221
+
+- of the genitals, 236–239, 241–242
+
+- of the gut, 94–95, 135, 140–146, 243 of the tear sac, 223
+
+- of the urinary tract, 234–235 resisting, 108, 120, 271
+
+- signs of a serious, 88, 194, 272–275
+
+Infectious diseases, 18–19, 135, 423
+
+Infertility, 244
+
+Inflamed tonsils (tonsillitis), 309
+
+Inhalers, for asthma, 167, 384
+
+
+Injections, 65–73
+
+- dangerous reactions from injections, 54, 70–71
+
+- emergencies needing, 66
+
+- faith in, w19, 4, 50
+
+- family planning, 289–290
+
+- medicines not to inject, 51, 56, 67
+
+- of vitamins, 118
+
+- risks and precautions, 68–69
+
+- supplies for, 336
+
+- that can disable children, 74, 314
+
+- to prevent pregnancy, 285, 293, 395
+
+- when to inject, 65, 67
+
+Injury
+
+- moving an injured person, 99–100
+
+- of an unconscious person, 78
+
+- severe, 33
+
+- to the eye, 218
+
+Insecticides, 19, 103, 187, 372, 412–413, 423
+
+Insomnia (loss of sleep), 328, 423
+
+Intestinal worms, 13, 140–145, 423
+
+Intestines (See Gut)
+
+Intrauterine device (IUD), 281, 285, 290, 395–396
+
+Intravenous solution (I.V.), 40, 53, 67, 152
+
+Intussusception, 94, 424
+
+Iodized salt, 130, 318
+
+Iritis, 33, 219, 221
+
+Iron
+
+- cooking pots, 117
+
+- foods rich in, 124
+
+- from nails in lemon juice, 118
+
+- pills, 51, 118, 124, 307, 335, 392, 405
+
+Itching
+
+- caused by fungus, 205, 242
+
+- caused by medicines, 68, 70–71, 166
+
+- caused by plants, 204
+
+- medicines for, 335, 385
+
+- of hands with syphilis, 238
+
+- of the anus (pinworm), 141
+
+- rashes, allergies, 68, 166, 203, 236, 238
+
+- with chickenpox, 311
+
+- with scabies, 199
+
+- with worm infections, 140–142, 228
+
+IUD (See Intrauterine device) J
+
+Jaundice, 30, 172, 274, 318, 321, 328–329, 392, 424
+
+Jock itch, 205
+
+Joints, painful, 101–102, 173, 310, 324
+
+# K subjects
+
+Kala azar (See Leishmaniasis)
+
+Kangarooing, 405, 408
+
+Kidneys, 233–234, 424
+
+Kidney stones, 235, 424
+
+Kilograms, measuring in, 62, 424
+
+Kwashiorkor (wet malnutrition), 30, 113, 424
+
+# [440](#page-440)
+{:.no_toc}
+
+# L subjects
+
+TB of, 212
+
+Labor, 258–262, 264, 424
+
+- false labor, 258
+
+- problems with labor, 267
+
+- signs that show labor is near, 258
+
+- stages of, 259–262
+
+(Also see Childbirth)
+
+Land
+
+- distribution of, w7, w11, 413
+
+- use of, w11, w13–w16, 115
+
+Latido, 23
+
+Latrines, 137–139, 153
+
+Laxatives, 15–16, 382
+
+- misuse of, 126
+
+Lazy eye, 223
+
+Leadership, w5
+
+Learning, w4, w21–w28, 322
+
+Legs
+
+- crossed like scissors, 320
+
+- examination of legs, 37
+
+- pain in, 288, 321
+
+Leishmaniasis, 406
+
+Lepra reaction, 191, 362
+
+Leprosy, 10, 38, 191–192, 206, 337, 362–363
+
+- or lepra, 25
+
+Lice, 134, 190, 200, 372
+
+Limits, knowing, w4
+
+Liquids, 39–40, 151
+
+Liters, measuring in, 61, 424
+
+Liver, 36, 424
+
+- abscesses, 144–145
+
+- diseases, 172, 288, 328
+
+- infection of, 172
+
+Liver extract, 65, 67
+
+Lockjaw (See Tetanus)
+
+Loss of blood (See Blood, Bleeding)
+
+Loss of consciousness (See Unconscious person)
+
+Loss of feeling, 38, 127, 162, 173, 191, 192, 279
+
+Loss of sight, 225, 412
+
+Loss of sleep (insomnia), 328
+
+Loss of weight (See Weight loss)
+
+Low body temperature, 409
+
+Low back pain, 173, 248
+
+Low blood pressure, 411
+
+Lumps
+
+- in the abdomen, 35, 243, 280
+
+- in the breast, 279
+
+- on face and body, 191, 228
+
+- that keep growing, 196, 280
+
+(Also see Lymph nodes)
+
+Lung diseases
+
+- and smoking, 149
+
+- asthma, 167
+
+- bronchitis, 170
+
+- pneumonia. 171
+
+- tuberculosis, 179
+
+Lymph nodes, swollen, 88, 317, 424
+
+- caused by an abscess, 202
+
+- in the groin, 238, 403
+
+- signs of infection, 194
+
+- with AIDS, 400
+
+- with breast cancer, 279
+
+- with brucellosis, 188
+
+- or typhus, 190
+
+- with German measles, 312
+
+- with scabies or lice, 199, 200
+
+Lymphogranuloma venereum, 238, 420
+
+# M subjects
+
+Maalox, 173
+
+Malaria, 186–187
+
+- falciparum, 158, 363
+
+- fever pattern, 26
+
+- medicines for, 337, 363–367
+
+- with seizures, 307
+
+- with sickle cell disease, 321
+
+Malnutrition
+
+- and diarrhea, 153–155
+
+- causes of, 115, 283, 412
+
+- checking for, 109, 112–113, 297–304
+
+- during pregnancy, 248
+
+- in children, 107, 114, 305–306
+
+- kinds of, 112–114
+
+- prevention and treatment of, 108, 109, 112–113, 155–156, 391–393
+
+- problems caused by, 107, 306
+
+- signs of, 30, 37, 108, 112, 113, 208–209, 305
+
+Malta fever (brucellosis), 27, 188
+
+Marasmus (dry malnutrition), 112
+
+[Marijuana](#page-416), 416
+
+Mask of pregnancy, 207
+
+Massaging
+
+- sprains or fractures, 99, 102
+
+- the birth opening, 269
+
+- the womb, 264–265
+
+Mastitis (breast abscess), 278, 424
+
+Measles (Rubeola), 30, 108, 226, 311, 391
+
+- vaccination, 147, 312, 321
+
+Measuring
+
+- blood pressure, 410–411
+
+- in pounds and kilos, 62
+
+- medicine, 59–61, 340
+
+Medical attention
+
+- illnesses that always need, 179–192
+
+- when to seek, 43, 159
+
+Medicinal plants, 12–13
+
+Medicine kit, 331–337
+
+Medicines
+
+- brand name, 55, 333, 339
+
+- care in giving to the newborn, 54, 272
+
+- dangerous misuse of medicine, 50–53
+
+- during or after birth, 266
+
+- during pregnancy, 54, 247, 398
+
+- for small children, 62
+
+- generic, 333, 339
+
+- guidelines for use, w18–w19, 49–73, 339–396
+
+- healing without medicines, 45–48
+
+- how to measure and give, 59–64, 340
+
+- how to write instructions for, 63–64
+
+- limited use of medicines, w18–w19, 49
+
+- medicines not to inject, 56
+
+- reactions to, 68, 70–71, 350
+
+- uses, dosage, and precautions, 339–398
+
+- when not to take them, 54–64
+
+# [441](#page-441)
+{:.no_toc}
+
+
+
+Ménière’s disease, 327
+
+Meningitis, 185, 275, 307
+
+Menopause, 246, 424
+
+Menstrual period, 245–246, 281, 291–292, 393–396
+
+Mental problems, 18, 318
+
+Mental slowness, 114, 306, 318, 320–321, 426
+
+Microscope, 19, 144
+
+Midwives
+
+- danger signs in pregnancy, 249
+
+- information for, 245–282
+
+- prenatal care, 250
+
+- special risk at birth, 256
+
+- things not to do, 260
+
+- things to have ready before birth, 254–255
+
+Migraine, 162, 424
+
+Milk
+
+- and brucellosis, 188
+
+- and diarrhea, 156
+
+- and ulcers, 129 powdered, 391
+
+(Also see Breastfeeding)
+
+Milk of magnesia, 16, 382
+
+Mineral oil, 16, 382
+
+Minerals, 111, 116–118, 425
+
+Minipill, 285, 288, 394
+
+Miscarriage (spontaneous abortion), 246, 249, 266, 281, 414
+
+Models for teaching, w22
+
+Mongolism (See Down syndrome)
+
+Morning sickness, 248, 287
+
+Mosquitos, 186–187
+
+Mothers
+
+- health after childbirth, 276, 280
+
+- health and sicknesses of children, 295–321
+
+- information for, 245–282
+
+- prenatal care, 250–253
+
+(Also see Family planning)
+
+Mouth, 107, 229–232
+
+Mouth-to-mouth breathing, 78–80, 413
+
+- with newborns, 262
+
+Moving an injured person, 99–100
+
+Mucus, how to drain, 169, 425
+
+Mucus method, 285, 292
+
+Mumps, 312
+
+Muscles
+
+- examining, 37–38
+
+- lack of control of, 320
+
+# N subjects
+
+Narrow-spectrum antibiotics, 56, 425
+
+Natural balance, 58
+
+Nausea (See Vomiting)
+
+Navel (umbilicus), 425
+
+- cutting the cord, 262–263
+
+- hernia of navel, 317, 318
+
+- infection of navel, 182, 272
+
+
+Neck broken, 99
+
+- stiff, 38, 182–185, 274
+
+Needs, felt and long-term, w8–w12
+
+Needles, 74, 399, 401
+
+Neonatal conjunctivitis, 221 (Also see Newborns)
+
+Nerves, 425
+
+- muscles and, 37–38
+
+Nevirapine, 249, 400
+
+Newborns
+
+- and tetanus, 182–183
+
+- bacterial infection of the blood, 275
+
+- bathing, 7, 263, 270
+
+- eyes, 221, 237, 270
+
+- feeding, 120, 263, 271
+
+- hernia, 317
+
+- illnesses of, 272–275
+
+- medicines for, 54, 272, 337
+
+- problems with delivery, 268
+
+- small, early, and underweight, 405
+
+- the cord, 262–263, 270
+
+- twins, 269
+
+(Also see Dehydration)
+
+Night blindness, 113, 226–227, 337
+
+Nodes (See Lymph nodes)
+
+Non-infectious diseases, 18
+
+Nose, stuffy or runny, 164–165, 383
+
+Nosebleed, 11, 83
+
+Numbness (See Loss of feeling)
+
+Nutrition, w11, w13–w16, 107–130, 295 (Also see Malnutrition)
+
+# O subjects
+
+Obstructed gut, 22, 94 (Also see Gut)
+
+Older persons, 83, 214, 235, 323–330
+
+Onchocerciasis, 227–228, 377
+
+Opium, 416
+
+Oral contraceptives, 285–289, 393–394
+
+Outhouses, 137–139
+
+Ovarian cyst, 280
+
+Ovaries, 36, 280, 425
+
+Oxytocics, 50, 265–266, 319, 390
+
+Oxyuris (pinworm, threadworm), 141
+
+# P subjects
+
+Pain
+
+- asking about, 29
+
+- back, 173–174, 248
+
+- chest, 179, 325
+
+- in the belly, 12, 35–36, 94–95, 128, 146, 243
+
+- in the eye, 217, 219, 221, 222
+
+- in the joints, 101–102, 173, 310, 324
+
+- in the leg, 288
+
+- in the teeth, 165, 231
+
+- in urination, 146, 235–236, 239, 242–243
+
+- medicines for, 19, 52, 75–76, 162, 335, 378–380
+
+(Also see Cramps, Headaches)
+
+Pannus, 220
+
+
+
+# [442](#page-442)
+{:.no_toc}
+
+
+
+Pap smear, 280
+
+Papaya, 13
+
+Paralysis
+
+- examining for, 37
+
+- from pesticides, 412
+
+- from ticks, 201
+
+- in a spastic child, 320
+
+- in leprosy, 191
+
+- in polio, 314–315
+
+- in stroke, 37, 327
+
+- in TB of backbone, 180
+
+- of face, 37, 327
+
+Parasites, 19, 425
+
+- intestinal, 19, 140–145, 308
+
+- on skin, 19, 199–201
+
+Patient report, 44
+
+Pellagra, 114, 208–209
+
+Pelvic inflammatory disease, 237, 243, 244, 395
+
+Penis, 199, 232, 233, 235–240, 286, 402–403
+
+Peritonitis, 94–95, 129, 189, 425
+
+Pertussis (See Whooping cough)
+
+Pesticides
+
+- burns in eyes, 219
+
+- causing birth defects, 247
+
+- misuse of, 412–413
+
+Pharmacist, words to, 338
+
+Phlebitis, 288
+
+PID (See Pelvic inflammatory disease)
+
+Piles (hemorrhoids), 16, 175, 423
+
+- during pregnancy, 248
+
+- medicine for, 391
+
+- the Pill (for birth control), 285, 288–289, 393–394
+
+Pimples, 211, 419 (Also see Chickenpox)
+
+Pink eye, 219–221, 308
+
+Pinta, 207
+
+Pinworm (threadworm, Enterobius), 12, 141
+
+Placenta (afterbirth), 262–264, 269, 426
+
+Placenta previa, 249, 426
+
+Plantar warts, 210
+
+Plants
+
+- medicinal, 12–13
+
+- that cause itching, 204
+
+Play acting, w23
+
+Pneumonia, 27, 41, 171, 399, 400
+
+Poisoning, 103
+
+- food, 23, 135, 153, 161
+
+- urine, 239–240
+
+Poisonous
+
+- bites, 104–106
+
+- plants, 204
+
+Poliomyelitis (infantile paralysis), 314
+
+- signs of, 37
+
+- vaccination, 147, 296, 314
+
+Population, w10, 115
+
+Posters, w22
+
+Postpartum, 426
+
+- diet, 123
+
+- hemorrhage, 266, 390
+
+Postural drainage, 169
+
+Power of belief or suggestion, 2–5, 24, 426
+
+Pre-eclampsia, 176, 249, 251, 422
+
+Pregnancy, 247–255, 286
+
+- anemia during, 124, 248–249, 391–392
+
+- bleeding during, 249, 264, 281
+
+- check ups during, w24, 250–253, 410
+
+- danger signs in, 249–251
+
+- difficulty becoming pregnant, 244
+
+- ectopic, 22, 36, 93, 243, 249, 280, 414
+
+- German measles during, 247, 312
+
+- growth and position of baby, 251–252, 257
+
+- how to prevent, 283–295
+
+- how to stay healthy during, 247
+
+- how to tell the baby’s birth date, 252
+
+- medicines during, 6, 54, 247, 398
+
+- minor problems of, 174, 248, 251
+
+- nutrition during, 118, 250
+
+- record of prenatal care, 253
+
+- signs of, 247
+
+- supplies to have ready before birth, 254–255 (Also see Family planning)
+
+Pregnancy mask, 207
+
+Prenatal care, 250–253
+
+Presentation of an arm, 268, 426
+
+Pressure points, 82
+
+Pressure sores (See Bed sores)
+
+Preventive medicine, w17, 17, 131–150
+
+- cleanliness, 131–136
+
+- how to avoid many sicknesses, 108, 148–150, 242, 326
+
+- sanitation, 137–139
+
+- sexually transmitted infection, 239, 401–403
+
+- vaccinations (immunizations), 147
+
+- worms and other intestinal parasites, 140–146
+
+Prolapse of the rectum, 142, 426
+
+Prophylactic (condom), 239, 285, 290, 395,
+401–403
+
+Prostate gland, 233, 235–236, 426
+
+Protective foods, 110, 426
+
+Proteins, 110, 111, 112, 113, 116–118, 121
+
+Psoriasis, 216
+
+Pterygium, 224, 426
+
+Pulling out (to prevent pregnancy), 285, 293
+
+Pulse, 32–33, 41, 410–411, 426
+
+Pulsing or throbbing of stomach, 23
+
+Pupils, examining, 217
+
+Purges, 15–16
+
+- misuse of, 92, 126
+
+Pyorrhea, 231
+
+# Q subjects
+
+Questions to ask a sick person, 29, 44
+
+# R subjects
+
+Rabies, 181
+
+Rash on the skin, 216, 236, 400
+
+- diaper rash, 215, 421
+
+- like tiny bruises (typhus), 190
+
+- of allergic reaction, 68, 166, 203–204, 356
+
+- of chickenpox, 311
+
+- of German measles, 312 of measles, 30, 311
+
+- of syphilis, 238
+
+- of typhoid, 189
+
+- preventing, 133
+
+- with itching, 199–200, 203
+
+# [443](#page-443)
+{:.no_toc}
+
+Reactions (See Allergic reactions)
+
+Rebound pain, 35, 95, 426
+
+Rectum
+
+- prolapse of, 142, 426
+
+Reflexes, testing, 183, 426
+
+Rehydration Drink, 152, 311, 381, 400, 426
+
+- and vomiting, 161
+
+- as an enema, 15
+
+- for acute abdomen, 95
+
+- for dehydration, 9, 46, 158, 306
+
+- for newborns, 273
+
+- for very sick persons, 40, 53
+
+Remedies (See Home remedies)
+
+Resistance, 426
+
+- to antibiotics, w19, 57–58, 237, 350
+
+- to infection, 108, 120, 271
+
+Resources, w8, w12, 115, 283, 426
+
+Respiration (See Breathing)
+
+Retardation, mental (See Mental slowness)
+
+Rheumatic fever, 27, 310
+
+Rheumatoid arthritis, 324
+
+Rhinitis, allergic (hay fever), 165, 426
+
+Rhythm method, (See Counting days method)
+
+Ribs, broken, 99
+
+Rickets, 125
+
+Ringing of the ears, deafness, and dizziness, 107, 327, 358, 361, 378
+
+Ringworm, 11, 205–206, 371
+
+River blindness, 227–228, 377
+
+Road to health chart (See Child Health Chart)
+
+Rotating crops, w13, 115, 117, 427
+
+Roundworm (ascaris), 140–141
+
+Rubber (condom), 239, 285, 290, 395, 401–403
+
+Rubella (See German measles)
+
+Rubeola (See Measles)
+
+Rupture (See Hernia)
+
+# S subjects
+
+Salt
+
+- iodized, 130, 247, 318
+
+- purges, 16
+
+- using little, 120, 125, 176, 249, 325, 326
+
+Sanitation, w10, 137–139, 153, 427
+
+Scabies, 34, 199–200, 335, 372
+
+Scales (to weigh babies), 297
+
+Scars
+
+- on the cornea, 224, 226, 228
+
+- on the eyelids, 220 p
+
+- reventing burn scars, 97
+
+Schistosomiasis, 146, 337, 376
+
+Scorpion sting, 11, 70, 106, 337, 387
+
+Scrofula, 212
+
+Scrotum, 233, 427
+
+- small sores on, 199
+
+- swollen, 317
+
+
+Seborrhea, 215
+
+Seizures, 23, 178, 422
+
+- caused by high fever, 76
+
+- from birth defects, 273, 319
+
+- in cerebral malaria, 186, 366
+
+- in children, 307, 319
+
+- in meningitis, 185
+
+- in pregnant women, 249, 390
+
+- medicines for, 336, 388–390 (Also see Spasms)
+
+Senna leaf, 16
+
+Septicemia, 275, 427
+
+Serious illnesses, w28, 42, 179–192
+
+Seven year itch, 199–200, 335, 372
+
+Sexually transmitted infections (STI), 236–239, 285–286, 290, 399–403, 427, 428
+
+Sheath (See Condom)
+
+Shigella, 145, 158, 353, 358
+
+Shingles, 204, 373, 400
+
+Shock, 30, 77, 325, 427
+
+- allergic, 70, 105, 166, 350
+
+- from serious burns, 97
+
+- heartbeat during, 33, 410–411
+
+- in postpartum mother, 265
+
+Shoulder, dislocated, 101
+
+Sickle cell disease, 30, 321, 392
+
+Sicknesses
+
+- causes of, 17–20, 107
+
+- common, 151–178
+
+- dangerous, w28, 42, 179–192
+
+- “home,” 21
+
+- “hot” and “cold,” 119
+
+- infectious, 18–19
+
+- non infectious, 18
+
+- of children, 215, 272–275, 311–314
+
+- of older people, 323–330
+
+- of women, 241
+
+- prevention of, 131–150
+
+- spread of, 131–137, 140, 188–189, 237–239,399
+
+- telling apart, 20–21, 26–27
+
+Side pains, 22
+
+Signs, 20, 29, 427
+
+Sinus trouble (sinusitis), 165, 427
+
+Skin
+
+- cancer of, 211, 399
+
+- chart of different diseases, 196–198
+
+- diseases, 193–216, 406, 421
+
+- dryness of, 107, 208
+
+- how to examine, 34
+
+- in children, 215, 308
+
+- medicines for, 334–335, 370–373
+
+- painless sores, 191, 237, 279
+
+TB of, 179, 212
+
+- ulcers, 212–213
+
+Slipped disc, 173
+
+Slowness (See Defects, Mental problems)
+
+Smallpox, 147
+
+Small sores with pus, 201, 211
+
+Smoking
+
+- during pregnancy, 318, 416
+
+- problems caused by, 119, 129, 149–150, 289, 325, 326, 400, 416
+
+
+
+
+
+# [444](#page-444)
+{:.no_toc}
+
+
+
+Snails, 146
+
+Snakebite, 104–105
+
+- antitoxin, 70, 105, 337, 387
+
+- home cure for, 3
+
+Soaks, 102
+
+Social conditions, 283, 401, 415, 417
+
+Soft drinks, 155, 161, 229
+
+Soft spot (See Fontanel)
+
+Solda con solda, 14
+
+Sores
+
+- bed sores, 41, 214
+
+- chronic, 20, 127, 212, 213, 236, 324, 406
+
+- large, open, 127, 213–214
+
+- mouth, 232
+
+- of the feet, 324
+
+- on penis or genitals, 199, 205, 232, 237, 238, 242, 400, 402–403
+
+- sugar or honey treatment for, 213, 214
+
+- that keep growing, 127, 191, 211, 213, 214
+
+- without feeling, 191, 237, 279
+
+- with pus, 199, 201, 406
+
+(Also see Skin)
+
+Sore throat, 163, 309–310
+
+Spasms, 183, 427
+
+- in spider bite, 106
+
+- in tetanus, 182–184 (Also see Seizures)
+
+Spastic, 38, 319–320
+
+Sperm, 233, 244
+
+Spermicide, 285, 290, 395
+
+Sphygmomanometer, 410
+
+Spider bite, 106
+
+Spleen, large, 158, 186, 392, 427
+
+Sponge method, 294
+
+Spontaneous abortion (See Miscarriage)
+
+Spots before the eyes, 227
+
+Sprains, 102, 427
+
+Spread of disease, 131–137, 140, 190, 237–239,
+399–403
+
+Squint, 223
+
+Starches, 110, 203, 408, 427
+
+Starvation (See Malnutrition)
+
+Sterile, 427
+
+- bandages, 87
+
+- men and women, 236, 244, 412
+
+Sterilization, 427
+
+- of equipment, 74, 401
+
+- of syringes, 69, 72, 74
+
+- to prevent pregnancy, 285, 293
+
+Steroids, 51
+
+Stethoscope, 410
+
+Sting
+
+- bee, 70
+
+- scorpion, 106
+
+Stitches (sutures), 86, 255, 269, 423
+
+- anesthetics for, 379
+
+Stomach ache, 12, 93, 427 (Also see Belly, Cramps)
+
+Stomach ulcers, 128–129, 149, 380–381
+
+Stools
+
+- in acute abdomen (obstruction), 94
+
+- in diarrhea (dysentery), 144–145 like
+
+- rice water, 158
+
+- white or pale, 172
+
+- with blood, 128, 146, 189
+
+- with schistosomiasis, 146, 376
+
+- with typhoid, 189–190
+
+- with ulcer (black, tarry stools), 128 (Also see Constipation, Feces)
+
+Story telling, w23
+
+Strabismus, 223
+
+Strains, 102
+
+Strep throat, 310
+
+Stretcher, 100
+
+Stroke, 37, 78, 288, 327, 410 (Also see Heat stroke)
+
+Sty (hordeolum), 224, 427
+
+Suction bulb, 84, 255, 262, 268
+
+Sugars, 110, 111, 427
+
+Sulfonamides, 55, 356
+
+Sunken fontanel (See Fontanel)
+
+Sunlight
+
+- and acne, 211
+
+- and rickets, 125
+
+- and skin problems, 195
+
+Supplies
+
+- for childbirth, 254–255
+
+- for the medicine kit, 334, 336
+
+Suppressants, 427
+
+- cough, 52, 383
+
+Surgery
+
+- immediate need for, 91–95, 177, 222, 267
+
+- possible need for, 102, 175, 177, 211, 222, 225, 235, 243, 279, 280, 293, 317, 319, 329
+
+Susto, 24
+
+Suture (See Stitches)
+
+Sweets, 115, 119, 122, 229, 408
+
+Swelling breast swelling and lumps, 278–279
+
+- caused by medicine, 68, 70–71, 231
+
+- home cure for, 12
+
+- in old age, 323
+
+- of broken arms or legs, 14
+
+- of hands and face, 108, 239, 249
+
+- of strains and sprains, 102
+
+- of the eyes, 144, 221, 313
+
+- of the feet, 113, 124, 144, 176, 248–249, 321
+
+- of the scrotum or testicles, 312, 317
+
+- with infection, 194
+
+(Also see Lymph nodes, Swollen belly, Varicose veins)
+
+Swollen belly
+
+- different causes of, 20
+
+- in children, 107, 112, 114, 321
+
+- in giardia infection, 145
+
+- in gut obstruction, 94
+
+- in malnutrition, 112, 114
+
+- in pregnancy, 248, 249
+
+(Also see Gut)
+
+
+# [445](#page-445)
+{:.no_toc}
+
+Symptoms, 29
+
+Syphilis, 10, 237–238, 403
+
+Syringe, 72, 74, 336, 339, 401, 405
+
+# T subjects
+
+Taboo, 23, 428
+
+T.A.L.C., 297, 431
+
+Tapeworm, 143, 375
+
+TB (See Tuberculosis)
+
+Teaching, w2, w4–w5, w21–w28, 321
+
+- materials, addresses for, 429–432
+
+Tear sac, infection of, 217, 223
+
+Teaspoons, for measuring, 61
+
+Teeth, 133, 229–232
+
+Temperature, 30–31, 272, 409,
+
+Tepeguaje, 14
+
+Testicles, 233, 286
+
+- swellings of testicles, 312, 317
+
+Tetanus (lockjaw), 182–184
+
+- from a wound, 84, 89, 105-106, 388, 407
+
+- in the newborn, 182–183, 273
+
+- medicine for, 184, 336–337, 388
+
+- vaccination, 147, 184, 296
+
+Thalassemia, 392, 428
+
+Thermometer, 31, 334
+
+Threadworm (pinworm, Enterobius), 141
+
+Throat
+
+- lump on the throat, 10, 130, 423
+
+- object stuck in, 79
+
+- sore throat, 163, 309–310
+
+Throwing up (See Vomiting)
+
+Thrush (Candida), 232, 400
+
+Ticks, 190, 201, 428
+
+Tinea, 205–206
+
+Tinea versicolor, 206
+
+Tobacco, 129, 416–417
+
+Tongue, 232
+
+Tonsillitls (Inflamed tonsils), 309
+
+Toothache, 231
+
+Toothbrush, homemade, 230
+
+Toothpaste, 230
+
+Toxemia of pregnancy (See Pre-eclampsia)
+
+Trachoma, 220
+
+Traditions, w3, w11, 1, 2, 21
+
+Trichinosis, 144
+
+Trichocephalus (whipworm, Trichuris), 142
+
+Trichomonas, 241
+
+Trichuris (whipworm, Trichocephalus), 142
+
+Tropical sore (See Leishmaniasis)
+
+Tubal ligation, 294
+
+Tuberculosis, 108, 179–180, 337
+
+- and AIDS, 396, 400
+
+- and children, 136
+
+- and measles, 311
+
+- medicines for, 359–361
+
+- of the lymph nodes, 212
+
+- of the skin, 212
+
+- of the spine, 173
+
+- signs of, 30, 37
+
+- vaccination, 147
+
+Tumors (See Cancer)
+
+Twins, 251, 256, 269, 289
+
+Twisted joint (sprain), 102
+
+Typhoid fever, 188–190
+
+- fever pattern, 26
+
+- medicines for, 356
+
+- pulse with, 33
+
+- resistance to medicines, 58
+
+Typhus, 26, 190
+
+# U subjects
+
+Ulcer, 428
+
+- on the cornea (eye), 224–225
+
+- skin, 20, 212, 213, 324
+
+- stomach, 13, 36, 53, 128–129, 149, 381
+
+Umbilical cord, 428
+
+- and tetanus, 182
+
+- how to cut, 262–263
+
+- infection of, 270, 272
+
+- wrapped around the baby’s neck, 268
+
+Umbilical hernia, 317, 318, 428
+
+Umbilicus (See Navel)
+
+Unclnaria (hookworm), 133, 142
+
+Unconscious person, 78, 424
+
+- breathing of, 32
+
+- difference in pupil size, 33
+
+- in shock, 77
+
+Under-Fives Program, w20, w24, 297, 428
+
+Undulant fever (brucellosis), 27, 188
+
+Units, measuring in, 60
+
+Uremia, 239–240
+
+Ureters, 233
+
+Urethra, 233, 235, 286, 428
+
+Urination, difficulties with, 234–236, 239–240, 324, 403, 410
+
+Urinary tract, 36, 233–234, 428
+
+Urine
+
+- blood in, 146, 234, 376
+
+- brown, 172
+
+- dark yellow, 151
+
+- less than normal, 151, 236
+
+- too much or often, 127, 234
+
+- pus in, 236
+
+Using this book, inside front cover, w28
+
+Uta (See Leishmaniasis)
+
+# V subjects
+
+Vaccinations, 19, 147, 180, 250, 296, 321, 337, 405
+
+Vagina, 233, 286, 428
+
+- infections of, 241–242, 369
+
+- placenta blocking, 249
+
+- tearing during birth, 269
+
+Vaginal discharge, 241–242, 369
+
+Vapors, breathing hot water vapors, 47, 168
+
+Varicose veins, 175, 213, 288, 410, 428
+
+- and chronic sores, 20, 212, 213, 324
+
+- during pregnancy, 248
+
+Vasectomy, 294
+
+# [446](#page-446)
+{:.no_toc}
+
+Venereal diseases (VD) (See Sexually transmitted infection)
+
+Venereal lymphogranuloma, 238, 420
+
+Ventilated improved pit latrine, 139
+
+Verrucase (warts), 210
+
+Village health committee, w24
+
+Village health worker, w1–w7, w29, 43, 340
+
+Village medicine kit, 336–337
+
+VIP latrine, 139
+
+Virus, 19, 399–401
+
+Vision (See Eyes)
+
+Vital signs, 41
+
+Vitamins, 110, 111, 116–118, 391–393, 405
+
+- injections of, 65, 67, 118
+
+- the best way to get, 52, 118
+
+- vitamin A, 226, 391
+
+- vitamin B, 208
+
+- vitamin C, 248, 335,
+
+- vitamin B6, 360, 393
+
+- vitamin B12, 51, 65, 392
+
+- vitamin K, 265, 272, 337, 392
+
+(Also see Iron, Zinc)
+
+Vitiligo, 207
+
+Vomiting, 161
+
+- during pregnancy, 248, 249
+
+- enemas and laxatives with, 15
+
+- how to cause vomiting, 103, 388
+
+- in the newborn, 273
+
+- medicines for, 161, 335, 385–386
+
+- violent vomiting, 151
+
+- with blood, 128, 328
+
+- with diarrhea, 151, 157
+
+- with urine poisoning (uremia), 239
+
+# W subjects
+
+
+Wandering eyes, 223
+
+Warm compresses, 193–195
+
+Warts, 210, 212, 400, 402
+
+Water, healing with, 45–48
+
+- and cleanliness, 46, 131, 135, 137–139, 144, 146
+
+- and spread of disease, 146, 188
+
+- for fever, 75
+
+- to ease pain of burns, 96
+
+- vapors, 47, 168, 383
+
+
+Weakness, fatigue, 23, 124, 323, 400
+
+Weight and diet, 110–111, 127
+
+- deciding dosage by, 340
+
+- homemade scales, 250
+
+- importance of losing, 125–127, 325–326
+
+- in pounds and kilos, 62
+
+- measuring medicines, 59–61
+
+- weight gain, in children, 297–304
+
+- weight gain in pregnancy, 247, 250
+
+Weight loss
+
+- chronic, 179, 180, 400
+
+- different causes, 20
+
+- how to lose weight, 126
+
+- in the newborn, 273
+
+- sudden (dehydration), 151
+
+(Also see Malnutrition)
+
+Welts (hives), 68, 203, 238
+
+Wet malnutrition (kwashiorkor), 113
+
+Whipworm (Trichuris, Trichocephalus), 142
+
+White spots and patches on the skin, 206–207, 232
+
+Whooping cough (pertussis), 168, 313
+
+- medicines for, 313
+
+- vaccination, 147, 296
+
+Witchcraft, 5, 24
+
+Withdrawal
+
+- from drug addiction, 417
+
+- to prevent pregnancy, 285, 294
+
+Womb, 286, 428
+
+- cancer of, 280
+
+- contractions of, 258, 266
+
+- infection (See Childbirth fever)
+
+- massaging, 264–265
+
+- position of the baby in, 251, 257
+
+Women’s health care, 241
+
+Working together, w5, w24
+
+Worms, 140–146, 227–228, 406–407
+
+- causing obstructed gut, 94
+
+- in children, 308
+
+- medicines for 335, 373–375
+
+- prevention of, 47, 131–134
+
+Wounds
+
+- abdomen, 92
+
+- bullet, 90–93
+
+- chest, 91
+
+- controlling bleeding of, 82
+
+- deep, 89–92
+
+- from a broken bone, 99
+
+- how to close them, 85–86
+
+- infected, 88–89, 213, 401
+
+- knife and bullet, 89–93
+
+- medicines for, 93, 334
+
+- small, 84
+
+- that may cause tetanus, 89, 182
+
+- to the eye, 217–218
+
+# X subjects
+
+
+Xerophthalmia, 113, 226, 306, 337, 391, 428
+
+Xerosis (See Xerophthalmia)
+
+X ray, 102
+
+# Y subjects
+
+Yaws, 198, 202, 238
+
+Yeast infection, 19, 58, 232, 242, 369–370, 372
+
+Yesca, 11
+
+Yogurt, 57, 155, 232, 22-412
+
+Z Zinc, 155, 159, 393
