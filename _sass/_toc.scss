@@ -23,6 +23,9 @@ $toppa: 10px;
   padding-left: $leftma/2;
   padding-right: $leftma/2;
   border: 4px solid transparentize($brand_color, .9);
+  #green-pages & {
+    border: 4px solid  transparentize($color_green, .15);
+  }
 }
 
 #markdown-toc ul {
@@ -31,9 +34,20 @@ $toppa: 10px;
     margin-left: -$leftma;
     padding-left: $leftma/2;
     border-left: 4px solid transparentize($brand_color, .85);
+    #green-pages & {
+      border-left: 4px solid  transparentize($color_green, .15);
+    }
   }
   ul li {
-    margin-left: -.75rem;
+    //margin-left: -.75rem;
     border-left: 4px solid transparentize($brand_color, .8);
+    #green-pages & {
+      border-left: 4px solid  transparentize($color_green, .15);
+    }
   }
+}
+
+
+#green-pages a {
+  color: $color_green_links;
 }

@@ -15,9 +15,9 @@ The medicines in this section are grouped according to their uses.
 For example, all the medicines used to treat infections caused by worms are listed under the heading FOR WORMS.
 
 
-If you want information on a medicine, look for the name of that medicine in the LIST OF MEDICINES beginning on page 341.
+If you want information on a medicine, look for the name of that medicine in the LIST OF MEDICINES beginning on [page 341](#page-341).
 
-Or look for the medicine in the INDEX OF MEDICINES beginning on page 345.
+Or look for the medicine in the [INDEX OF MEDICINES](#page-345) beginning on page 345.
 
 When you find the name you are looking for, turn to the page number shown.
 
@@ -129,171 +129,125 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 ### Penicillin
 
 |[The Penicillins Very Important Antibiotics](#page-350)|350|
-
 |[PENICILLIN BY MOUTH: Penicilin V (phenoxylmethyl penicillin)](#page-351)|351|
-
 |[INJECTABLE PENICILLIN](#page-351)|351|
-
 |[Crystalline penicillin, benzylpenicillin, penicillin G, aqueous penicillin, soluble penicillin, sodium penicillin, potassium penicillin](#page-352)|352|
-
 |[Procaine penicillin, procaine benzylpenicillin, procaine penicillin](#page-352)|352|
-
 |[Benzathine penicillin](#page-352)|352|
 
 
 ### ampicillin and amoxicillin
 
 |[Broad-Spectrum Penicillins](#page-352)|352|
-
 |[Erthyromycin: An Alternative to Penicillin](#page-354)|354|
-
 |[Tetracyclines: Broad-Spectrum Antibiotics](#page-355)|355|
-
 |[Tetracyline, tetracycline HCI, oxytetracycline, etc](#page-355)|355|
-
 |[Doxycycline](#page-355)|355|
-
 |[Chloramphenicol: An Antibiotic for Certain Severe Infections](#page-356)|356|
-
 |[The Sulfas or Sulfonamides: Inexpensive Medicine for Common Infections](#page-356)|356|
-
 |[Sulfisoxazole, sulfamethoxazole, ulfadoxine](#page-356)|356|
-
 |[Cotrimoxazole (sulfamethoxazole with trimethoprim)](#page-357)|357|
 
 ### Cephalosporins
 
-|Cephalosporins Antibiotics|357|
-
-|Ceftriaxone|358|
+|[Cephalosporins Antibiotics](#page-357)|357|
+|[Ceftriaxone](#page-358)|358|
 
 
 ## Other Antibiotics
 
-|Ciprofloxacin|358|
-
-|Clindamycin|358|
-
-|Gentamicin|358|
+|[Ciprofloxacin](#page-358)|358|
+|[Clindamycin](#page-358)|358|
+|[Gentamicin](#page-358)|358|
 
 ### For Gonorrhea and Chlamydia
 
-|Medicines for Gonorrhea and Chlamydia|359|
+|[Medicines for Gonorrhea and Chlamydia](#page-359)|359|
 
 ### For Tuberculosis
 
-|Medicines for Tuberculosis|359|
-
-|Isoniazid (INH)|360|
-
-|Rifampicin|360|
-
-|Pyrazinamide|361|
-
-|Ethambutol|361|
-
-|Streptomycin|361|
+|[Medicines for Tuberculosis](#page-359)|359|
+|[Isoniazid (INH)](#page-360)|360|
+|[Rifampicin](#page-360)|360|
+|[Ethambutol](#page-361)|361|
+|[Streptomycin](#page-361)|361|
 
 ### For Leprosy
 
-|Dapsone (diaminodiphenylsulfone, DDS)|362|
-
-|Rifampicin|362|
-
-|Clofazimine (Lamprene)|363|
+|[Dapsone (diaminodiphenylsulfone, DDS)](#page-362)|362|
+|[Rifampicin](#page-362)|362|
+|[Clofazimine (Lamprene)](#page-363)|363|
 
 ## OTHER MEDICINES
 
 ### For Malaria
 
-|Medicines For Malaria|363|
-
-|Artesunate|364|
-
-|Artemether with lumefantrine (Coartem)|364|
-
-|Pyrimethamine with sulfadoxine (Fansidar)|364|
-
-|Mefloquine|365|
-
-|Amodiaquine|365|
-
-|Quinine|365|
-
-|Chloroquine|366|
-
-|Primaquine|367|
-
-|Proguanil|367|
+|[Medicines For Malaria](#page-363)|363|
+|[Artesunate](#page-364)|364|
+|[Artemether with lumefantrine (Coartem)](#page-364)|364|
+|[Pyrimethamine with sulfadoxine (Fansidar)](#page-364)|364|
+|[Mefloquine](#page-365)|365|
+|[Amodiaquine](#page-365)|365|
+|[Quinine](#page-365)|365|
+|[Chloroquine](#page-366)|366|
+|[Primaquine](#page-367)|367|
+|[Proguanil](#page-367)|367|
 
 ### For Amebas and Giardia
 
-|Medicines For Amebas and Giardia|367|
-
-|Metronidazole|368|
-
-|Diloxanide furoate|368|
-
-|Quinacrine|369|
+|[Medicines For Amebas and Giardia](#page-367)|367|
+|[Metronidazole](#page-368)|368|
+|[Diloxanide furoate](#page-368)|368|
+|[Quinacrine](#page-369)|369|
 
 ### For Vaginal Infections
 
-Vaginal Infections 369
-
-White vinegar 369
-
+|[Vaginal Infections](#page-369)|369|
+|[White vinegar](#page-369)|369|
+|[etronidazole](#page-369)|369|
+|[Nystatin or miconazole](#page-369)|369|
+|[Gentian violet|(crystal violet)](#page-369)|369|
+|[Povidone iodine](#page-370)|370|
 
 # [341](#page-341)
 {:.no_toc}
 
 
-**M**
-
-etronidazole 369
-
-Nystatin or miconazole  369
-
-Gentian violet (crystal violet) 369
-
-Povidone iodine 370
-
 ### For Skin Problems
 
-For Skin Problems  370
+|[For Skin Problems](#page-370)|370|
 
-Soap  370 Sulfur  370
+|[Soap](#page-370)|370 |
 
-Gentian violet (crystal violet)  370
+|[Sulfur](#page-370)|370|
 
-Antibiotic ointments  370
+|[Gentian violet (crystal violet)](#page-370)|370|
 
-Cortico-steroid ointment or lotion  370
+|[Antibiotic ointments](#page-370)|370|
 
-Petroleum jelly (Petrolatum, Vaseline)  370
+|[Cortico-steroid ointment or lotion](#page-370)|370|
+
+|[Petroleum jelly (Petrolatum, Vaseline)](#page-370)|370
 
 ### For Ringworm and Other Fungus Infections
 
-For Ringworm and Other Fungus Infections  371
+|For Ringworm and Other Fungus Infections  371
 
-Ointments with undecylenic, benzoic, orv salicylic acid.
+|[Ointments with undecylenic, benzoic, orv salicylic acid](#page-371)|371|
 
-371
+|[Sulfur and vinegar](#page-371)|371|
 
-Sulfur and vinegar  371
+|[Sodium thiosulfate (hypo)](#page-371)|371|
 
-Sodium thiosulfate (hypo) 371
+|[Selenium sulfide (Selsun, Exsel)](#page-371)|371|
 
-Selenium sulfide (Selsun, Exsel)  371
+|[Tolnaftate (Tinactin)](#page-371)|371|
 
-Tolnaftate (Tinactin)  371
+|[Griseofulvin](#page-371)|371|
 
-Griseofulvin.
+|[Gentian violet—for yeast infections (thrush)](#page-371)| 371|
 
-371
-
-Gentian violet—for yeast infections (thrush)  371
-
-Nystatin or miconazole  372
+|[Nystatin or miconazole]|372|
 
 ### For Scabies and Lice
 
