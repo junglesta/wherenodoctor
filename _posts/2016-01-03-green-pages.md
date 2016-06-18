@@ -259,7 +259,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[Mebendazole (Vermox) for many kinds of worms and trichinosis](#page-373)|373-374|
 |[Albendazole (Zentel) for many kinds of worms](#page-374)|374|
 |[Piperazine for roundworm and pinworm (threadworm)](#page-374)| 374|
-|[Thiabendazole for many kinds of worms ](#page-374)|374-375|
+|[Thiabendazole for many kinds of worms](#page-374)|374-375|
 |[Pyrantel for pinworm, hookworm, roundworm, and trichinosis](#page-375)|375|
 |[Niclosamide (Yomesan) for tapeworm](#page-375)|375|
 |[Praziquantel (Biltricide, Droncit) for tapeworm](#page-375)|375|
@@ -267,51 +267,51 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 ### For Schistosomiasis
 
-|For Schistosomiasis|376|
-|Praziquantel (Biltricide, Droncit) |376|
-|Oxamniquine (Vansil, Mansil)|376|
+|[For Schistosomiasis](#page-376)|376|
+|[Praziquantel (Biltricide, Droncit)](#page-376)|376|
+|[Oxamniquine (Vansil, Mansil)](#page-376)|376|
 
 ### For River Blindness
 
-|For River Blindness (Onchocerciasis)|377|
-|Ivermectin (Mectizan)|377|
-|Diethylcarbamazine|377|
-|Suramin|377|
+|[For River Blindness (Onchocerciasis)(#page-377)]|377|
+|[Ivermectin (Mectizan)](#page-377)|377|
+|[Diethylcarbamazine](#page-377)|377|
+|[Suramin](#page-377)|377|
 
 ### For The Eyes
 
-|For The Eyes|378|
-|Antibiotic eye ointment—for conjunctivitis and newborn babies’ eyes|378|
-|Tetracycline or Erythromycin—for newborn babies’ eyes|378|
+|[For The Eyes](#page-378)|378|
+|[Antibiotic eye ointment—for conjunctivitis and newborn babies’ eyes](#page-378)|378|
+|[Tetracycline or Erythromycin—for newborn babies’ eyes](#page-378)|378|
 
 ### For Pain
 
-|Analgesics |378|
-|Aspirin | 378|
-|Child’s aspirin |379|
-|Acetaminophen (paracetamol)| 379|
-|Ibuprofen |379|
-|Ergotamine with caffeine—for migraine headache| 379|
-|Codeine |383|
+|[Analgesics](#page-378) |378|
+|[Aspirin](#page-378) | 378|
+|[Child’s aspirin](#page-379) |379|
+|[Acetaminophen (paracetamol)](#page-379)| 379|
+|[Ibuprofen ](#page-379)|379|
+|[Ergotamine with caffeine—for migraine headache](#page-379)| 379|
+|[Codeine](#page-383) |383|
 
 ### For Stopping Pain When Closing Wounds
 
-|For Stopping Pain When Closing Wounds: Anesthetics|379|
-|Lidocaine (lignocaine, xylocaine) |379|
+|[For Stopping Pain When Closing Wounds: Anesthetics](#page-380)|379|
+|[Lidocaine (lignocaine, xylocaine)](#page-380)|379|
 
 ### For Gut Cramps
 
-|For Gut Cramps: Antispasmodics|380|
-|Belladonna (with or without phenobarbital)|380|
+|[For Gut Cramps: Antispasmodics](#page-380)|380|
+|[Belladonna (with or without phenobarbital)](#page-380)|380|
 
 ### For Acid Indigestion, Heartburn, and Stomach Ulcers
 
-|For Acid Indigestion, Heartburn, and Stomach Ulcers| 380|
-|Aluminum hydroxide or magnesium hydroxide|380|
-|Sodium bicarbonate (bicarbonate of soda, baking soda)|380|
-|Calcium carbonate| 381|
-|Omeprazole (Prilosec)|381|
-|Ranitidine (Zantac)|381|
+|[For Acid Indigestion, Heartburn, and Stomach Ulcers](#page-380)| 380|
+|[Aluminum hydroxide or magnesium hydroxide](#page-380)|380|
+|[Sodium bicarbonate (bicarbonate of soda, baking soda)](#page-380)|380|
+|[Calcium carbonate](#page-381)| 381|
+|[Omeprazole (Prilosec)](#page-381|381|
+|[Ranitidine (Zantac)](#page-381) |381|
 
 
 # [343](#page-343)
@@ -321,116 +321,116 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 
 **For Severe Diarrhea and**
 
-|Dehydration | 381|
-|Rehydration Mix |381|
-|Zinc |381
+|[Dehydration](#page-381)  | 381|
+|[Rehydration Mix](#page-381) |381|
+|[Zinc](#page-381) |381
 
 ### For Hard Stools
 
 **For Hard Stools (Constipation):**
 
-|Laxatives|382|
-|Milk of magnesia (magnesium hydroxide) |382|
-|Epsom salts (magnesium sulfate)| 382|
-|Mineral oil|382|
-|Glycerin suppositories (Dulcolax)|382|
+|[Laxatives](#page-382)|382|
+|[Milk of magnesia (magnesium hydroxide) ](#page-382)|382|
+|[Epsom salts (magnesium sulfate)](#page-382)| 382|
+|[Mineral oil](#page-382)|382|
+|[Glycerin suppositories (Dulcolax)](#page-382)|382|
 
 ### For Mild Diarrhea
 
-|Bismuth subsalicylate (Pepto-Bismol)|383|
+|[Bismuth subsalicylate (Pepto-Bismol)](#page-383)|383|
 
 ### For Stuffy Nose
 
-|For Stuffy Nose|383|
-|Nose drops with ephedrine or phenylephrine |383|
+|[For Stuffy Nose](#page-383)|383|
+|[Nose drops with ephedrine or phenylephrine ](#page-383)|383|
 
 ### For cough
 
-|For Cough|383|
-|Codeine|383|
+|[For Cough](#page-383)|383|
+|[Codeine](#page-383)|383|
 
 ### For Asthma
 
-|For Asthma|384|
-|Salbutamol (Albuterol)|384|
-|Beclomethasone|384|
-|Prednisolone or Prednisone|385|
-|Epinephrine (Adrenaline, Adrenalin)| 385|
+|[For Asthma](#page-384)|384|
+|[Salbutamol (Albuterol)](#page-384)|384|
+|[Beclomethasone](#page-384)|384|
+|[Prednisolone or Prednisone](#page-385)|385|
+|[Epinephrine (Adrenaline, Adrenalin)](#page-385)| 385|
 
 
 ### For Allergic Reactions and Vomiting
 
-|For Allergic Reactions and Vomiting: the Antihistamines| 385|
-|Promethazine (Phenergan)|386|
-|Diphenhydramine (Benadryl)|386|
-|Chlorpheniramine|386|
-|Dimenhydrinate (Dramamine)|386|
-|Antitoxins|387|
-|Scorpion antitoxin or antivenom|387|
-|Snakebite antitoxin or antivenom|387|
-|Antitetanus immunoglobulin| 388|
+|[For Allergic Reactions and Vomiting: the Antihistamines](#page-385)| 385|
+|[Promethazine (Phenergan)](#page-386)|386|
+|[Diphenhydramine (Benadryl)](#page-386)|386|
+|[Chlorpheniramine](#page-386)|386|
+|[Dimenhydrinate (Dramamine)](#page-386)|386|
+|[Antitoxins](#page-387)|387|
+|[Scorpion antitoxin or antivenom](#page-387)|387|
+|[Snakebite antitoxin or antivenom](#page-387)|387|
+|[Antitetanus immunoglobulin](#page-388)| 388|
 
 ### For Swallowed Poisons
 
-|For Swallowed Poisons|388|
-|Powdered or activated charcoal|388|
+|[For Swallowed Poisons](#page-388)|388|
+|[Powdered or activated charcoal](#page-388)|388|
 
 ### For Seizures, Fits, Convulsions
 
-|For Seizures (Fits, Convulsions)|388|
-|Phenobarbital (phenobarbitone)|389|
-|Phenytoin (diphenylhydantoin, Dilantin)|389|
-|Diazepam (Valium)|389|
-|Magnesium Sulfate|390|
+|[For Seizures (Fits, Convulsions)](#page-389)|388|
+|[Phenobarbital (phenobarbitone)](#page-389)|389|
+|[Phenytoin (diphenylhydantoin, Dilantin)](#page-389)|389|
+|[Diazepam (Valium)](#page-389)|389|
+|[Magnesium Sulfate](#page-390)|390|
 
 
 ### For Severe Bleeding After Birth
 
-|For Severe Bleeding After Birth (Postpartum Hemorrhage)|390|
-|Ergometrine maleate, ergonovine (Ergotrate, Methergine)|390|
-|Oxytocin (Pitocin)|390|
-|Misoprostol (Cytotec)|391|
+|[For Severe Bleeding After Birth (Postpartum Hemorrhage)](#page-390)|390|
+|[Ergometrine maleate, ergonovine (Ergotrate, Methergine)](#page-390)|390|
+|[Oxytocin (Pitocin)](#page-390)|390|
+|[Misoprostol (Cytotec)](#page-391)|391|
 
 ### For Hemorrhoids
 
-|For Piles (Hemorrhoids)|391|
-|Suppositories for hemorrhoids|391|
+|[For Piles (Hemorrhoids](#page-391)|391|
+|[Suppositories for hemorrhoids](#page-391)|391|
 
 
 ### For Malnutrition and Anemia
 
-|For Malnutrition and Anemia|391|
-|Powdered milk (dried milk)|391|
-|Mixed (or multi) vitamins|391|
-|Vitamin A—for night blindness and xerophthalmia|391|
-|Iron sulfate (ferrous sulfate) for anemia|392|
-|Folic acid—for anemia|392|
-|Vitamin B12 (cyanocobalamin)—for pernicious anemia only|392|
-|Vitamin K (phytomenadione)—for bleeding in the newborn|392|
-|Vitamin B6 (pyridoxine)—for persons taking INH |393|
+|[For Malnutrition and Anemia](#page-391)|391|
+|[Powdered milk (dried milk)](#page-391)|391|
+|[Mixed (or multi) vitamins](#page-391)|391|
+|[Vitamin A—for night blindness and xerophthalmia](#page-391)|391|
+|[Iron sulfate (ferrous sulfate) for anemia](#page-392)|392|
+|[Folic acid—for anemia](#page-392)|392|
+|[Vitamin B12 (cyanocobalamin)—for pernicious anemia only](#page-392)|392|
+|[Vitamin K (phytomenadione)—for bleeding in the newborn](#page-392)|392|
+|[Vitamin B6 (pyridoxine)—for persons taking INH ](#page-393)|393|
 
 ### Family Planning Methods
 
 |Family Planning Methods|393|
-|Oral contraceptives (birth control pills) |393|
-|Emergency contraception|394|
-|Condoms |395|
-|Diaphragm |395|
-|Spermicides| 395|
-|Intrauterine device (IUD)|395-396|
-|Injectable contraceptives |396|
-|Contraceptive implants|396|
+|[Oral contraceptives (birth control pills)](#page-393)|393|
+|[Emergency contraception](#page-394)|394|
+|[Condoms](#page-395)|395|
+|[Diaphragm](#page-395)|395|
+|[Spermicides](#page-395)|395|
+|[Intrauterine device (IUD)](#page-395)|395-396|
+|[Injectable contraceptives](#page-396)|396|
+|[Contraceptive implants](#page-396)|396|
 
 ### FOR HIV Antiretroviral Therapy
 
-|For HIV Antiretroviral Therapy (ART)|396|
-|HIV care and ART programs|397|
-|When is ART needed?|397|
-|How to take ART|397|
-|Side effects of ART|397|
-|Preventing HIV right after a person has been exposed to it|398|
-|ART for pregnant women |398|
-|Preventing HIV in babies| 398|
+|[For HIV Antiretroviral Therapy (ART)](#page-396)|396|
+|[HIV care and ART programs](#page-397)|397|
+|[When is ART needed?](#page-397)|397|
+|[How to take ART](#page-397)|397|
+|[Side effects of ART](#page-397)|397|
+|[Preventing HIV right after a person has been exposed to it](#page-398)|398|
+|[ART for pregnant women](#page-398)|398|
+|[Preventing HIV in babies](#page-398)| 398|
 
 
 
