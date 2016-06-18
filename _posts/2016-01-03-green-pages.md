@@ -206,7 +206,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[White vinegar](#page-369)|369|
 |[etronidazole](#page-369)|369|
 |[Nystatin or miconazole](#page-369)|369|
-|[Gentian violet|(crystal violet)](#page-369)|369|
+|[Gentian violet (crystal violet)](#page-369)|369|
 |[Povidone iodine](#page-370)|370|
 
 # [341](#page-341)
@@ -216,166 +216,102 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 ### For Skin Problems
 
 |[For Skin Problems](#page-370)|370|
-
 |[Soap](#page-370)|370 |
-
 |[Sulfur](#page-370)|370|
-
 |[Gentian violet (crystal violet)](#page-370)|370|
-
 |[Antibiotic ointments](#page-370)|370|
-
 |[Cortico-steroid ointment or lotion](#page-370)|370|
-
 |[Petroleum jelly (Petrolatum, Vaseline)](#page-370)|370
 
 ### For Ringworm and Other Fungus Infections
 
 |For Ringworm and Other Fungus Infections  371
-
 |[Ointments with undecylenic, benzoic, orv salicylic acid](#page-371)|371|
-
 |[Sulfur and vinegar](#page-371)|371|
-
 |[Sodium thiosulfate (hypo)](#page-371)|371|
-
 |[Selenium sulfide (Selsun, Exsel)](#page-371)|371|
-
 |[Tolnaftate (Tinactin)](#page-371)|371|
-
 |[Griseofulvin](#page-371)|371|
-
 |[Gentian violet—for yeast infections (thrush)](#page-371)| 371|
-
-|[Nystatin or miconazole]|372|
+|[Nystatin or miconazole](#page-372)|372|
 
 ### For Scabies and Lice
 
-For Scabies and Lice 372
-
-Benzyl benzoate, cream or lotion 372
-
-Permethrin (Acticin, Elimite, Nix)  372
-
-Crotamiton (Eurax) 372
-
-Ivermectin 377
-
-Sulfur in Vaseline or lard 372
-
-Pyrethrins with piperonyl (RID) 372
+|[For Scabies and Lice](#page-372)|372|
+|[Benzyl benzoate, cream or lotion](#page-372)|372|
+|[Permethrin (Acticin, Elimite, Nix)](#page-372)|372|
+|[Crotamiton (Eurax)](#page-372)|372|
+|[Ivermectin](#page-377)|377|
+|[Sulfur in Vaseline or lard](#page-372)|372|
+|[Pyrethrins with piperonyl (RID)](#page-372)|372|
 
 ### For Genital Warts
 
-For Genital Warts  373
-
-Podophyllin 373
-
-Trichloroacetic acid  373
-
-For Herpes and Shingles 373
-
-Acyclovir (Zovirax) 373
+|[For Genital Warts](#page-373)|373|
+|[Podophyllin](#page-373)|373|
+|[Trichloroacetic acid](#page-373)|373|
+|[For Herpes and Shingles](#page-373)|373|
+|[Acyclovir (Zovirax)](#page-373)|373|
 
 ### For Worms
 
-For Worms 373
-
-Mebendazole (Vermox) for many kinds of worms and trichinosis  373-374
-
-Albendazole (Zentel) for many kinds of worms 374
-
-Piperazine—for roundworm and pinworm (threadworm)  374
-
-Thiabendazole—for many kinds of worms  374-375
-
-Pyrantel—for pinworm, hookworm, roundworm, and trichinosis  375
-
-Niclosamide (Yomesan)—for tapeworm.
-
-375
-
-Praziquantel (Biltricide, Droncit)—for tapeworm .
-
-375
-
-Quinacrine  369
+|[For Worms](#page-373)|373|
+|[Mebendazole (Vermox) for many kinds of worms and trichinosis](#page-373)|373-374|
+|[Albendazole (Zentel) for many kinds of worms](#page-374)|374|
+|[Piperazine for roundworm and pinworm (threadworm)](#page-374)| 374|
+|[Thiabendazole for many kinds of worms ](#page-374)|374-375|
+|[Pyrantel for pinworm, hookworm, roundworm, and trichinosis](#page-375)|375|
+|[Niclosamide (Yomesan) for tapeworm](#page-375)|375|
+|[Praziquantel (Biltricide, Droncit) for tapeworm](#page-375)|375|
+|[Quinacrine](#page-369)|369|
 
 ### For Schistosomiasis
 
-For Schistosomiasis  376
-
-Praziquantel (Biltricide, Droncit) .
-
-376
-
-Oxamniquine (Vansil, Mansil).
-
-376
+|For Schistosomiasis|376|
+|Praziquantel (Biltricide, Droncit) |376|
+|Oxamniquine (Vansil, Mansil)|376|
 
 ### For River Blindness
 
-For River Blindness (Onchocerciasis) .
-
-377
-
-Ivermectin (Mectizan) .
-
-377
-
-Diethylcarbamazine 377
-
-Suramin  377
+|For River Blindness (Onchocerciasis)|377|
+|Ivermectin (Mectizan)|377|
+|Diethylcarbamazine|377|
+|Suramin|377|
 
 ### For The Eyes
 
-For The Eyes 378
-
-Antibiotic eye ointment—for conjunctivitis and newborn babies’ eyes 378
-
-Tetracycline or Erythromycin—for newborn babies’ eyes 378
+|For The Eyes|378|
+|Antibiotic eye ointment—for conjunctivitis and newborn babies’ eyes|378|
+|Tetracycline or Erythromycin—for newborn babies’ eyes|378|
 
 ### For Pain
 
-Analgesics 378
-
-Aspirin  378
-
-Child’s aspirin 379
-
-Acetaminophen (paracetamol) 379
-
-Ibuprofen 379
-
-Ergotamine with caffeine—for migraine headache 379
-
-Codeine 383
+|Analgesics |378|
+|Aspirin | 378|
+|Child’s aspirin |379|
+|Acetaminophen (paracetamol)| 379|
+|Ibuprofen |379|
+|Ergotamine with caffeine—for migraine headache| 379|
+|Codeine |383|
 
 ### For Stopping Pain When Closing Wounds
 
-For Stopping Pain When Closing Wounds: Anesthetics 379
-
-Lidocaine (lignocaine, xylocaine) 379
+|For Stopping Pain When Closing Wounds: Anesthetics|379|
+|Lidocaine (lignocaine, xylocaine) |379|
 
 ### For Gut Cramps
 
-For Gut Cramps: Antispasmodics  380
-
-Belladonna (with or without phenobarbital) 380
+|For Gut Cramps: Antispasmodics|380|
+|Belladonna (with or without phenobarbital)|380|
 
 ### For Acid Indigestion, Heartburn, and Stomach Ulcers
 
-For Acid Indigestion, Heartburn, and Stomach Ulcers  380
-
-Aluminum hydroxide or magnesium hydroxide 380
-
-Sodium bicarbonate (bicarbonate of soda, baking soda)  380
-
-Calcium carbonate  381
-
-Omeprazole (Prilosec) 381
-
-Ranitidine (Zantac)  381
+|For Acid Indigestion, Heartburn, and Stomach Ulcers| 380|
+|Aluminum hydroxide or magnesium hydroxide|380|
+|Sodium bicarbonate (bicarbonate of soda, baking soda)|380|
+|Calcium carbonate| 381|
+|Omeprazole (Prilosec)|381|
+|Ranitidine (Zantac)|381|
 
 
 # [343](#page-343)
@@ -385,186 +321,116 @@ Ranitidine (Zantac)  381
 
 **For Severe Diarrhea and**
 
-Dehydration  381
-
-Rehydration Mix 381
-
-Zinc 381
+|Dehydration | 381|
+|Rehydration Mix |381|
+|Zinc |381
 
 ### For Hard Stools
 
 **For Hard Stools (Constipation):**
 
-Laxatives.
-
-382
-
-Milk of magnesia (magnesium hydroxide) .
-
-382
-
-Epsom salts (magnesium sulfate)  382
-
-Mineral oil  382
-
-Glycerin suppositories (Dulcolax)  382
+|Laxatives|382|
+|Milk of magnesia (magnesium hydroxide) |382|
+|Epsom salts (magnesium sulfate)| 382|
+|Mineral oil|382|
+|Glycerin suppositories (Dulcolax)|382|
 
 ### For Mild Diarrhea
 
-**For Mild Diarrhea** 383
-
-Bismuth subsalicylate (Pepto-Bismol)  383
+|Bismuth subsalicylate (Pepto-Bismol)|383|
 
 ### For Stuffy Nose
 
-**For Stuffy Nose**  383
-
-Nose drops with ephedrine or phenylephrine  383
+|For Stuffy Nose|383|
+|Nose drops with ephedrine or phenylephrine |383|
 
 ### For cough
 
-**For Cough**  383
-
-Codeine  383
+|For Cough|383|
+|Codeine|383|
 
 ### For Asthma
 
-For Asthma  384
-
-Salbutamol (Albuterol)384
-
-Beclomethasone.
-
-384
-
-Prednisolone or Prednisone  385
-
-Epinephrine (Adrenaline, Adrenalin) 385
+|For Asthma|384|
+|Salbutamol (Albuterol)|384|
+|Beclomethasone|384|
+|Prednisolone or Prednisone|385|
+|Epinephrine (Adrenaline, Adrenalin)| 385|
 
 
 ### For Allergic Reactions and Vomiting
 
-**For Allergic Reactions and Vomiting:** the Antihistamines 385
-
-Promethazine (Phenergan).
-
-386
-
-Diphenhydramine (Benadryl) 386
-
-Chlorpheniramine  386
-
-Dimenhydrinate (Dramamine) 386
-
-Antitoxins 387
-
-Scorpion antitoxin or antivenom 387
-
-Snakebite antitoxin or antivenom  387
-
-Antitetanus immunoglobulin  388
+|For Allergic Reactions and Vomiting: the Antihistamines| 385|
+|Promethazine (Phenergan)|386|
+|Diphenhydramine (Benadryl)|386|
+|Chlorpheniramine|386|
+|Dimenhydrinate (Dramamine)|386|
+|Antitoxins|387|
+|Scorpion antitoxin or antivenom|387|
+|Snakebite antitoxin or antivenom|387|
+|Antitetanus immunoglobulin| 388|
 
 ### For Swallowed Poisons
 
-**For Swallowed Poisons** 388
-
-Powdered or activated charcoal  388
+|For Swallowed Poisons|388|
+|Powdered or activated charcoal|388|
 
 ### For Seizures, Fits, Convulsions
 
-**For Seizures (Fits, Convulsions)** 388
-
-Phenobarbital (phenobarbitone)  389
-
-Phenytoin (diphenylhydantoin, Dilantin).389
-
-Diazepam (Valium) .
-
-389
-
-Magnesium Sulfate.
-
-390
+|For Seizures (Fits, Convulsions)|388|
+|Phenobarbital (phenobarbitone)|389|
+|Phenytoin (diphenylhydantoin, Dilantin)|389|
+|Diazepam (Valium)|389|
+|Magnesium Sulfate|390|
 
 
 ### For Severe Bleeding After Birth
 
-For Severe Bleeding After Birth (Postpartum Hemorrhage)  390
-
-Ergometrine maleate, ergonovine (Ergotrate, Methergine)  390
-
-Oxytocin (Pitocin)  390
-
-Misoprostol (Cytotec) .
-
-391
+|For Severe Bleeding After Birth (Postpartum Hemorrhage)|390|
+|Ergometrine maleate, ergonovine (Ergotrate, Methergine)|390|
+|Oxytocin (Pitocin)|390|
+|Misoprostol (Cytotec)|391|
 
 ### For Hemorrhoids
 
-**For Piles (Hemorrhoids)** 391
-
-Suppositories for hemorrhoids  391
+|For Piles (Hemorrhoids)|391|
+|Suppositories for hemorrhoids|391|
 
 
 ### For Malnutrition and Anemia
 
-**For Malnutrition and Anemia** 391
-
-Powdered milk (dried milk) 391
-
-Mixed (or multi) vitamins 391
-
-Vitamin A—for night blindness and xerophthalmia 391
-
-Iron sulfate (ferrous sulfate) for anemia  392
-
-Folic acid—for anemia  392
-
-Vitamin B12 (cyanocobalamin)—for pernicious anemia only  392
-
-Vitamin K (phytomenadione)—for bleeding in the newborn 392
-
-Vitamin B6 (pyridoxine)—for persons taking INH  393
+|For Malnutrition and Anemia|391|
+|Powdered milk (dried milk)|391|
+|Mixed (or multi) vitamins|391|
+|Vitamin A—for night blindness and xerophthalmia|391|
+|Iron sulfate (ferrous sulfate) for anemia|392|
+|Folic acid—for anemia|392|
+|Vitamin B12 (cyanocobalamin)—for pernicious anemia only|392|
+|Vitamin K (phytomenadione)—for bleeding in the newborn|392|
+|Vitamin B6 (pyridoxine)—for persons taking INH |393|
 
 ### Family Planning Methods
 
-**Family Planning Methods** 393
-
-Oral contraceptives (birth control pills) 393
-
-Emergency contraception  394
-
-Condoms  395
-
-Diaphragm 395
-
-Spermicides  395
-
-Intrauterine device (IUD).395-396
-
-Injectable contraceptives  396
-
-Contraceptive implants  396
+|Family Planning Methods|393|
+|Oral contraceptives (birth control pills) |393|
+|Emergency contraception|394|
+|Condoms |395|
+|Diaphragm |395|
+|Spermicides| 395|
+|Intrauterine device (IUD)|395-396|
+|Injectable contraceptives |396|
+|Contraceptive implants|396|
 
 ### FOR HIV Antiretroviral Therapy
 
-**For HIV Antiretroviral Therapy (ART)**  396
-
-HIV care and ART programs 397
-
-When is ART needed? 397
-
-How to take ART.397
-
-Side effects of ART 397
-
-Preventing HIV right after a person has been exposed to it.
-
-398
-
-ART for pregnant women 398
-
-Preventing HIV in babies 398
+|For HIV Antiretroviral Therapy (ART)|396|
+|HIV care and ART programs|397|
+|When is ART needed?|397|
+|How to take ART|397|
+|Side effects of ART|397|
+|Preventing HIV right after a person has been exposed to it|398|
+|ART for pregnant women |398|
+|Preventing HIV in babies| 398|
 
 
 
