@@ -23,6 +23,7 @@
   background-color: transparentize(lighten($brand_color, 40%), .5);
 
   h1 {
+    text-transform: uppercase;
     position: relative;
     z-index: 1;
   }
