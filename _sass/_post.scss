@@ -35,9 +35,10 @@ table {
     th:last-child {text-align: right;}
   }
   a {
-    border: 1px solid rgba(0,0,0,.15);
+    border: 1px solid transparentize($brand_color, .5);
     padding: .5rem;
     display: block;
     min-height: 48px;
+    border-radius: 6px;
   }
 }
