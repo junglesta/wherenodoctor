@@ -17,7 +17,7 @@ ul, ol, dl, figure,
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base_font_weight;
     text-transform: capitalize;
-    margin-top: $spacing_unit;
+    margin-top: $spacing_unit/ 2;
 }
 
 
@@ -124,14 +124,7 @@ template {
   display: none;
 }
 
-a {
-  background-color: transparent;
-}
 
-a:active,
-a:hover {
-  outline: 0;
-}
 
 abbr[title] {
   border-bottom: 1px dotted;
@@ -292,91 +285,87 @@ iframe,
 img,
 svg,
 video {
-    vertical-align: middle;
+  vertical-align: middle;
 }
-
 
 
 img {
-    max-width: 100%;
-    vertical-align: middle;
+  max-width: 100%;
+  vertical-align: middle;
 }
 
 figure > img {
-    display: block;
+  display: block;
 }
 
 figcaption {
-    font-size: $small_font-size;
+  font-size: $small_font-size;
 }
 
 ul, ol {
-    margin-left: $spacing_unit;
+  margin-left: $spacing_unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
 }
-
-
-
 
 
 
 a {
-    color: $brand_color;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: $brand_color;
+  text-decoration: none;
+  background-color: transparent;
+  border-bottom: 5px solid rgba(0,0,0,0);
+  //compensate for the border
+  margin-top: 5px;
+
+  &:hover,
+  &:active {
+    outline: 0;
+    color: $text_color;
     text-decoration: none;
+    border-bottom: 5px solid rgba(0,0,0,.15);
+  }
 
-    &:visited {
-        color: darken($brand_color, 15%);
-    }
-
-    &:hover {
-        color: $text_color;
-        text-decoration: underline;
-    }
+  &:visited {
+    color: darken($brand_color, 15%);
+  }
 }
 
-
-
-//Blockquotes
 
 blockquote {
-    color: $color_grey;
-    border-left: 4px solid $color_grey--light;
-    padding-left: $spacing_unit / 2;
-    font-size: $base_font_size*1.4;
-    font-weight: $base_font_weight;
-    letter-spacing: -1px;
-    font-style: italic;
+  color: $color_grey;
+  border-left: 4px solid $color_grey--light;
+  padding-left: $spacing_unit / 2;
+  font-size: $base_font_size*1.4;
+  font-weight: $base_font_weight;
+  letter-spacing: -1px;
+  font-style: italic;
 
-    > :last-child {
-        margin-bottom: 0;
-    }
+  > :last-child {
+    margin-bottom: 0;
+  }
 }
 
 
-
-//Icons
+.hide {display: none;}
 
 .icon {
 
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 
-        path {
-            fill: $color_grey;
-        }
+    path {
+      fill: $color_grey;
     }
-}
-
-
-.hide {
-  display: none;
+  }
 }

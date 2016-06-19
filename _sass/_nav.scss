@@ -1,6 +1,7 @@
 
 .nav {
   margin-bottom: $spacing_unit*3;
+
   small {
     display: none;
     @include media( "screen", ">bp1Width") {
@@ -27,10 +28,9 @@
   }
   small {
     padding-right: .5rem;
+    margin-right: 1rem;
   }
-  a.active {
-    color: black;
-  }
+  a.active { color: black; }
 }
 
 
@@ -51,7 +51,7 @@
 }
 
 
-.nav_link {
+nav .nav_link {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -60,30 +60,61 @@
   -webkit-align-items: baseline;
   -ms-flex-align: baseline;
   align-items: baseline;
+  text-decoration: none;
+  min-width: 100%;
 }
 
-.variant {
 
+.variant {
   a {
-    margin-top: $spacing_unit/2;
+    margin-top: $spacing_unit/4;
+    margin-bottom: $spacing_unit/4;
+    border-bottom: 0 none;
+    &:hover {
+      border-bottom: 0 none;
+    }
   }
   &.yellow a {
     border-left: 4px solid $color_yellow;
+    &:hover {
+      border-right: 4px solid $color_yellow;
+      color: $color_yellow;
+    }
   }
   &.green a {
     border-left: 4px solid $color_green;
+    &:hover {
+      border-right: 4px solid $color_green;
+      color: $color_green;
+    }
   }
   &.red a {
     border-left: 4px solid $color_red;
+    &:hover {
+      border-right: 4px solid $color_red;
+      color: $color_red;
+    }
   }
   &.brown a {
     border-left: 4px solid $color_brown;
+    &:hover {
+      border-right: 4px solid $color_brown;
+      color: $color_brown;
+    }
   }
   &.blue a {
     border-left: 4px solid lighten($brand_color, 40%);
+    &:hover {
+      border-right: 4px solid  lighten($brand_color, 40%);
+      color: lighten($brand_color, 40%);
+    }
   }
   &.grey a {
     border-left: 4px solid $color_grey--light;
+    &:hover {
+      border-right: 4px solid $color_grey--light;
+      color: $color_grey--light;
+    }
   }
   h3 {
     padding-left: 1rem;
