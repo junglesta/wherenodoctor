@@ -7,6 +7,8 @@
   width: 100%;
   position: relative;
   z-index: 10;
+  border-bottom: 0 none;
+  &:hover {border-bottom: 0 none;}
 }
 
 .site_logo_svg--cover {

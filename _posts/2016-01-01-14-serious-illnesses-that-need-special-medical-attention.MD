@@ -543,7 +543,7 @@ rats. The fleas may jump off onto you. Drown and burn the rats and their fleas. 
 
 # LEPROSY (HANSEN’S DISEASE)
 
-This mildly infectious disease develops slowly, often over many years. It can only spread from persons who have untreated leprosy, to persons who have low resistance to the disease. In areas where leprosy is common, children should be checked every 6 to 12 monthsespecially children living with persons who have leprosy.
+This mildly infectious disease develops slowly, often over many years. It can only spread from persons who have untreated leprosy, to persons who have low resistance to the disease. In areas where leprosy is common, children should be checked every 6 to 12 months especially children living with persons who have leprosy.
 Signs: Leprosy can cause a variety of skin problems, loss of feeling, and paralysis of the hands and feet.
 
 The first sign of leprosy is often a slowly growing patch on the skin that does not itch or hurt. At first, feeling inside the patch may be normal. Keep watching it. If feeling in the patch becomes reduced or absent (see p. 38) it is probably leprosy.
@@ -607,12 +607,12 @@ Do not go barefoot, especially not where there are sharp stones or thorns. Wear 
 
 When working or cooking meals, wear gloves. Never pick up an object that might be hot without first protecting your hand with a thick glove or folded cloth. If possible, avoid work that involves handling sharp or hot objects. Do not smoke.
 
-2. At the end of each day (or more often if you work hard or walk far) examine your hands and feet very carefullyor have someone else examine them. Look for cuts, bruises, or thorns. Also look for spots or areas on the hands and feet that are red, hot, swollen or show the beginnings of blisters. If you find any of these, rest the hands or feet until the skin is completely normal again. This will help callous and strengthen the skin. Sores can be prevented.
+2. At the end of each day (or more often if you work hard or walk far) examine your hands and feet very carefull yor have someone else examine them. Look for cuts, bruises, or thorns. Also look for spots or areas on the hands and feet that are red, hot, swollen or show the beginnings of blisters. If you find any of these, rest the hands or feet until the skin is completely normal again. This will help callous and strengthen the skin. Sores can be prevented.
 
 3. If you have an open sore, keep the part with the sore very clean and at rest until it has completely healed. Take great care not to injure the area again.
 
 4. Protect your eyes. Much eye damage comes from not blinking enough, because of weakness or loss of feeling. Blink your eyes often to keep them wet and clean. If you cannot blink well, close your eyes tightly often during the day, especially when dust blows. Wear sun glasses with side shades, and maybe a sun hat. Keep eyes clean and flies away.
 
-If you do these things and begin treatment early, most deformitieswith leprosy can be prevented. For more information about Hansen’s disease, see
+If you do these things and begin treatment early, most deformitie swith leprosy can be prevented.
 
-Disabled Village Children, Chapter 26.
+For more information about Hansen’s disease, see Disabled Village Children, Chapter 26.
