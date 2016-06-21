@@ -148,9 +148,7 @@ Many of the health problems of middle and old age, including high blood pressure
 
   6. **Learn how to relax** and deal positively with things that worry or upset you.
 
-High blood pressure (p. 125) and hardening of the arteries (arteriosclerosis),
-which are the main causes of heart disease and stroke, can usually be prevented—
-or reduced—by doing the things recommended above.
+High blood pressure (p. 125) and hardening of the arteries (arteriosclerosis), which are the main causes of heart disease and stroke, can usually be prevented, or reduced, by doing the things recommended above.
 
 The lowering of high blood pressure is important in the prevention of heart disease and stroke. Persons who have high blood pressure should have it checked from time to time and take measures to lower it.
 
@@ -172,14 +170,15 @@ If she lives, she may have trouble speaking, seeing, or thinking, or one side of
 
 **Treatment:**
 
-Put the person in bed with her head a little higher than her feet. If she is unconscious, roll her head back and to one side so her saliva (or vomit) runs out
-of her mouth, rather than into her lungs. While she is unconscious, give no food, drink, or medicines by mouth (see the Unconscious Person, p. 78). If possible, seek medical help.
+Put the person in bed with her head a little higher than her feet. If she is unconscious, roll her head back and to one side so her saliva (or vomit) runs out of her mouth, rather than into her lungs. While she is unconscious, give no food, drink, or medicines by mouth (see the Unconscious Person, p. 78). If possible, seek medical help.
 
 After the stroke, if the person remains partly paralyzed, help her to walk with a cane and to use her good hand to care for herself. She should avoid heavy exercise and anger.
 
 **Prevention:** See the page before this one.
 
-**Note:** If a younger or middle aged person suddenly develops paralysis on one side of his face, with no other signs of stroke, this is probably a temporary paralysis of the face nerve (Bell’s Palsy). It will usually go away by itself in a few weeks or months. The cause is usually not known. No treatment is needed but hot soaks may help. If one eye does not close all the way, bandage it shut at night to prevent damage from dryness.
+**Note:**
+
+If a younger or middle aged person suddenly develops paralysis on one side of his face, with no other signs of stroke, this is probably a temporary paralysis of the face nerve (Bell’s Palsy). It will usually go away by itself in a few weeks or months. The cause is usually not known. No treatment is needed but hot soaks may help. If one eye does not close all the way, bandage it shut at night to prevent damage from dryness.
 
 ## Deafness
 
@@ -187,7 +186,7 @@ Deafness that comes on gradually without pain or other symptoms occurs most ofte
 
 # DEAFNESS WITH RINGING OF THE EARS AND DIZZINESS
 
-If an older person loses hearing in one or both ears—occasionally with severe dizziness—and hears a loud ‘ringing’ or buzzing, he probably has Ménière’s disease. He may also feel nauseous, or vomit, and may sweat a lot.
+If an older person loses hearing in one or both ears, occasionally with severe dizziness, and hears a loud ‘ringing’ or buzzing, he probably has Ménière’s disease. He may also feel nauseous, or vomit, and may sweat a lot.
 
 He should take an antihistamine, such as dimenhydrinate (Dramamine, p. 386) and go to bed until the signs go away. He should have no salt in his food. If he does not get better soon, or if the problem returns, he should seek medical advice.
 
@@ -197,7 +196,9 @@ He should take an antihistamine, such as dimenhydrinate (Dramamine, p. 386) and 
 
 
 ## Loss of Sleep (Insomnia)
+
 It is normal for older people to need less sleep than younger people. And they wake up more often at night. During long winter nights, older people may spend hours without being able to sleep.
+
 Certain medicines may help bring sleep, but it is better not to use them if they are not absolutely necessary.
 
 **Here are some suggestions for sleeping:**
@@ -210,7 +211,7 @@ Certain medicines may help bring sleep, but it is better not to use them if they
 
   ♦ Take a warm bath before going to bed.
 
-  ♦ In bed, try to relax each part of your body—then your whole body and mind. Remember good times.
+  ♦ In bed, try to relax each part of your body, then your whole body and mind. Remember good times.
 
   ♦ If you still cannot sleep, try taking an antihistamine like promethazine (Phenergan, p. 385) or dimenhydrinate (Dramamine, p. 386) half an hour before going to bed. These are less habit-forming than stronger drugs.
 
@@ -277,8 +278,11 @@ Women (and men) who are overweight should try to lose weight (see p. 126). Avoid
 
 In many countries and in different languages, bad-tempered persons are said to be ‘bilious’. Some people believe that fits of anger come when a person has too much bile.
 
-In truth, most-bad tempered persons have nothing wrong with their gallbladders or bile. However, persons who do suffer from gallbladder disease often live in
-fear of a return of this severe pain and perhaps for this reason are sometimes short-tempered or continually worried about their health. (In fact, the term ‘hypochondria’, which means to worry continually about one’s own health, comes from ‘hypo’, meaning under, and ‘chondrium’, meaning rib—referring to the position of the gallbladder!)
+In truth, most-bad tempered persons have nothing wrong with their gallbladders or bile.
+
+However, persons who do suffer from gallbladder disease often live in fear of a return of this severe pain and perhaps for this reason are sometimes short-tempered or continually worried about their health.
+
+(In fact, the term ‘hypochondria’, which means to worry continually about one’s own health, comes from ‘hypo’, meaning under, and ‘chondrium’, meaning rib, referring to the position of the gallbladder!)
 
 
 
@@ -295,12 +299,12 @@ We often make the mistake of trying to keep a dying person alive as long as poss
 
 Sometimes this adds to the suffering and strain for both the person and his family. There are many occasions when the kindest thing to do is not to hunt for ‘better medicine’ or a ‘better doctor’ but to be close to and supporting of the person who is dying. Let him know that you are glad for all the time, the joy and the sorrow you have shared, and that you, too, are able to accept his death. In the last hours, love and acceptance will do far more good than medicines.
 
-Old or chronically ill persons would often prefer to be at home, in familiar surroundings with those they love, than to be in a hospital. At times this may mean that the person will die earlier. But this is not necessarily bad. We must be sensitive to the person’s feelings and needs, and to our own. Sometimes a person who is dying suffers more knowing that the cost of keeping him barely alive causes his family to go into debt or children to go hungry. He may ask simply to be allowed to die—and there are times when this may be the wise decision.
+Old or chronically ill persons would often prefer to be at home, in familiar surroundings with those they love, than to be in a hospital. At times this may mean that the person will die earlier. But this is not necessarily bad. We must be sensitive to the person’s feelings and needs, and to our own. Sometimes a person who is dying suffers more knowing that the cost of keeping him barely alive causes his family to go into debt or children to go hungry. He may ask simply to be allowed to die, and there are times when this may be the wise decision.
 
 Yet some people fear death. Even if they are suffering, the known world may be hard to leave behind. Every culture has a system of beliefs about death and ideas about life after death. These ideas, beliefs, and traditions may offer some comfort in facing death.
 
 Death may come upon a person suddenly and unexpectedly or may be long-awaited. How to help someone we love accept and prepare for his approaching death is not an easy matter. Often the most we can do is offer support, kindness, and understanding.
 
-The death of a younger person or child is never easy. Both kindness and honesty are important. A child—or anyone—who is dying often knows it, partly by what her own body tells her and partly by the fear or despair she sees in those who love her. Whether young or old, if a person who is dying asks for the truth, tell her, but tell her gently, and leave some room for hope. Weep if you must, but let her know that even as you love her, and because you love her, you have the strength to let her leave you. This will give her the strength and courage to accept leaving you. To let her know these things you need not say them. You need to feel and show them.
+The death of a younger person or child is never easy. Both kindness and honesty are important. A child, or anyone, who is dying often knows it, partly by what her own body tells her and partly by the fear or despair she sees in those who love her. Whether young or old, if a person who is dying asks for the truth, tell her, but tell her gently, and leave some room for hope. Weep if you must, but let her know that even as you love her, and because you love her, you have the strength to let her leave you. This will give her the strength and courage to accept leaving you. To let her know these things you need not say them. You need to feel and show them.
 
 We must all die. Perhaps the most important job of the healer is to help people accept death when it can or should no longer be avoided, and to help ease the suffering of those who still live.

@@ -298,7 +298,7 @@ No. The chances are the same as for women who have not taken the pill.
 
 ## emergency contraception
 
-If you had sex without birth control or your condom broke, you can still prevent pregnancy with birth control pills. This is called emergency contraception and it works during the first 5 days after you had sex—the sooner you take it, the better it will work. See pages 394 and 395.
+If you had sex without birth control or your condom broke, you can still prevent pregnancy with birth control pills. This is called emergency contraception and it works during the first 5 days after you had sex, the sooner you take it, the better it will work. See pages 394 and 395.
 
 
 

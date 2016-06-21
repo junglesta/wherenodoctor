@@ -107,7 +107,7 @@ may be necessary to take the medicine for 10 days. If the infection moves into t
 
   • The first sign is often sharp or severe pain in the lower back, the side, or the lower belly, or in the base of the penis in men.
 
-  • Sometimes the urinary tube is blocked so the person has difficulty passing urine—or cannot pass any. Or drops of blood may come out when the person begins to urinate.
+  • Sometimes the urinary tube is blocked so the person has difficulty passing urine, or cannot pass any. Or drops of blood may come out when the person begins to urinate.
 
   • There may be a urinary infection at the same time.
 
@@ -141,7 +141,7 @@ If this does not work, a catheter may be needed (p. 239).
 ♦ If he has a fever, use an antibiotic such as ampicillin (p. 352) or tetracycline (p. 355).
 
 ♦ Get medical help. Serious or chronic cases may require surgery.
-Note: Both prostate trouble and gonorrhea (or chlamydia) can also make it hard to pass urine. In older men it is more likely to be an enlarged prostate. However, a younger man—especially one who has recently had sex with a person with gonorrhea or chlamydia—probably has gonorrhea or chlamydia.
+Note: Both prostate trouble and gonorrhea (or chlamydia) can also make it hard to pass urine. In older men it is more likely to be an enlarged prostate. However, a younger man, especially one who has recently had sex with a person with gonorrhea or chlamydia, probably has gonorrhea or chlamydia.
 
 # INFECTIONS SPREAD BY SEX (SEXUALLY TRANSMITTED INFECTIONS)
 
@@ -217,7 +217,7 @@ Syphilis is a common and dangerous infection that is spread from person to perso
 # [238](#page-238)
 {:.no_toc}
 
-All of these signs usually go away by themselves, making the person think he is well— but the disease continues. **Without adequate treatment, syphilis can invade any part of the body, causing heart disease, paralysis, insanity, and many other problems.**
+All of these signs usually go away by themselves, making the person think he is well,  but the disease continues. **Without adequate treatment, syphilis can invade any part of the body, causing heart disease, paralysis, insanity, and many other problems.**
 
 **Note:** Yaws shares many of the same signs as syphilis (see p. 202).
 
@@ -227,7 +227,7 @@ _Treatment for syphilis:_ **(For complete cure, the full treatment is essential.
 
 ♦ **If signs have been present less than 2 years**, inject 2.4 million units of benzathine penicillin all at once, half the dose in each buttock (see p. 352). If allergic to penicillin, take tetracycline or erythromycin by mouth, 500 mg, 4 times a day for 15 days.
 
-♦ **If signs have been present more than 2 years**, inject 2.4 million units of benzathine penicillin—half in each buttock—once a week for 3 weeks, for a total of 7.2 million units. If allergic to penicillin, take either tetracycline or erythromycin, 500 mg, 4 times each day for 30 days.
+♦ **If signs have been present more than 2 years**, inject 2.4 million units of benzathine penicillin, half in each buttock, once a week for 3 weeks, for a total of 7.2 million units. If allergic to penicillin, take either tetracycline or erythromycin, 500 mg, 4 times each day for 30 days.
 
 ♦ If there is any chance that someone has syphilis, she should immediately see a health worker. Special blood tests may be needed. If tests cannot be made, the person should be treated for syphilis in any case.
 
@@ -305,7 +305,7 @@ or if he or she begins to show signs of poisoning from urine, then and only then
 
 2. Wash well under foreskin or between vaginal lips and surrounding areas.
 
-3. Wash hands—if possible with surgical soap (like Betadine). After washing, touch only things that are sterile or very clean.
+3. Wash hands, if possible with surgical soap (like Betadine). After washing, touch only things that are sterile or very clean.
 
 4. Put very clean cloths under and around the area.
 
@@ -433,7 +433,7 @@ Sometimes a man and woman try to have children but the woman does not become pre
 
   2. **Weaknesses or a nutritional lack**. In some women severe anemia, poor nutrition, or lack of iodine may lower the chance of becoming pregnant. Or it may cause the unformed baby (embryo) to die, perhaps before the mother even knows she is pregnant (see Miscarriage, p. 281). A woman who is not able to become pregnant, or has had only miscarriages, should get enough nutritious food, use iodized salt, and if she is severely anemic, take iron pills (p. 247). These may increase her chance of becoming pregnant and having a healthy baby.
 
-  3. **Chronic infection**, especially pelvic inflammatory disease (see p. 243) due to gonorrhea or chlamydia, is a common cause of infertility in women. Treatment may help—if the disease has not gone too far. Prevention and early treatment of gonorrhea and chlamydia mean fewer sterile women.
+  3. **Chronic infection**, especially pelvic inflammatory disease (see p. 243) due to gonorrhea or chlamydia, is a common cause of infertility in women. Treatment may help, if the disease has not gone too far. Prevention and early treatment of gonorrhea and chlamydia mean fewer sterile women.
 
   4. **Men** are sometimes unable to make women pregnant because they have fewer sperm than is normal. It may help for the man to wait, without having sex, for several days before the woman enters her ‘fertile days’ each month, midway between her last menstrual period and the next (see Counting Days Method and Mucus Method, p. 291 and 292). This way he will give her his full amount of sperm when they have sex on days when she is able to become pregnant.
 

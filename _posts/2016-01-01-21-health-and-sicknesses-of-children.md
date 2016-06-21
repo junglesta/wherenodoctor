@@ -63,7 +63,7 @@ Children are more likely to be healthy if their village, their homes, and they t
 
 # Vaccinations
 
-Vaccinations protect children against many of the most dangerous diseases of childhood— whooping cough, diphtheria, tetanus, polio, measles, tuberculosis, hepatitis, and rotavirus.
+Vaccinations protect children against many of the most dangerous diseases of childhood,  whooping cough, diphtheria, tetanus, polio, measles, tuberculosis, hepatitis, and rotavirus.
 
 Children should be given the different vaccinations at different ages, as shown on page 147. Polio vaccines should be first given if possible at birth, but no later than 2 months of age, because the risk of developing infantile paralysis (polio) is highest in babies under 1 year old.
 
@@ -76,7 +76,7 @@ Tetanus of the newborn can be prevented by vaccinating mothers against tetanus d
 {:.no_toc}
 
 
-# CHILDREN’S GROWTH—AND THE ‘ROAD TO HEALTH’
+# CHILDREN’S GROWTH, AND THE ‘ROAD TO HEALTH’
 
 A healthy child grows steadily. If he eats enough nutritious food, and has no serious illness, a child gains weight each month.
 
@@ -158,7 +158,7 @@ This chart shows the baby was born in March.
 
 **SECOND**
 
-Weigh the child.
+Weight the child.
 
 Let us suppose that a child was born in April. It is now August, and the child weighs 6 kilograms.
 
@@ -171,19 +171,24 @@ Kilograms are written on the side of the card. Look for the number of kilograms 
 Then look for the present month at the bottom of the cart (in this case, August of the baby’s first year).
 
 
-GOOD Child growing well
+GOOD - Child growing well
 
-DANGER Not gaining weight find out why
+DANGER - Not gaining weight find out why
 
-VERY DANGEROUS Losing weight. May be ill, needs extra care.
+VERY DANGEROUS - Losing weight. Maybe ill, needs extra care.
 
 
 WRITE ON THE CHART
 
-Any illness e.g. diarrhea measles
+- Any illness e.g. diarrhea measles
 
-Admission to hospital Solids introduced Breastfeeding stopped Birth of next child
-like this—
+- Admission to hospital
+
+- Solids introduced
+
+- Breastfeeding stopped
+
+- Birth of next child
 
 
 WATCH THE DIRECTION OF THE LINE SHOWING THE CHILD’S GROWTH
@@ -224,8 +229,7 @@ The 2 long curved lines on the chart mark the ‘Road to Health’ that a child�
 The line of dots marks the child’s weight from month to month, and from year to year.
 In most normal, healthy children, the line of dots falls between the 2 long curved lines. That is why the space between these lines is called the Road to Health.
 
-If the line of dots rises steadily, month after month, in the same direction as the long curved lines, this is also a sign
-that the child is healthy.
+If the line of dots rises steadily, month after month, in the same direction as the long curved lines, this is also a sign that the child is healthy.
 
 **A healthy child** who gets enough nourishing food usually begins to sit, walk, and speak at about the times shown here.
 
@@ -234,6 +238,7 @@ that the child is healthy.
 
 
 **A malnourished, sickly child** may have a chart like the one below. Notice that the line of dots (his weight) is below the Road to Health. The line of dots is also irregular and does not rise much. This shows the child is in danger.
+
 Typical chart of
 
 THE UNDERWEIGHT OR MALNOURISHED CHILD
@@ -244,8 +249,7 @@ A child with a chart like the one above is seriously underweight. Perhaps he is 
 
 IMPORTANT: Watch the direction of the line of dots.
 
-The direction of the line of dots tells more about the child’s health than
-whether the dots are inside or below the two curved lines. For example:
+The direction of the line of dots tells more about the child’s health than whether the dots are inside or below the two curved lines. For example:
 
 **DANGER!** This child is not gaining weight.
 
@@ -364,7 +368,9 @@ Malnutrition may cause many different problems in children, including:
 
   • failure to develop normal intelligence
 
-  • ‘dry eyes’ (xerophthalmia) • blindness (p. 226)
+  • ‘dry eyes’ (xerophthalmia)
+
+  • blindness (p. 226)
 
 Severe forms of general malnutrition are ‘dry malnutrition’ or marasmus, and ‘wet malnutrition’ or kwashiorkor. Their causes and prevention are discussed on p. 112 and 113.
 
@@ -428,7 +434,7 @@ This dangerous disease may come as a complication of measles, mumps, or another 
   ♦ Eat iron-rich foods like meat and eggs. Beans,
   lentils, groundnuts (peanuts), and dark green vegetables also have some iron.
 
-  ♦ Treat the cause of anemia—and do not go barefoot if hookworm is common.
+  ♦ Treat the cause of anemia, and do not go barefoot if hookworm is common.
 
   ♦ If you suspect hookworm, a health worker may be able to look at the child’s
   stools under a microscope. If hookworm eggs are found, treat for hookworm
@@ -516,7 +522,7 @@ Ear infections are common in small children. The infection often begins after a 
 
   ♦ Teach children to wipe but not to blow their noses when they have a cold.
 
-  ♦ Do not bottle feed babies—or if you do, do not let baby feed lying on his back,
+  ♦ Do not bottle feed babies, or if you do, do not let baby feed lying on his back,
   as the milk can go up his nose and lead to an ear infection.
 
   ♦ When children’s noses are plugged up, use salt drops and suck the mucus out of the nose as described on p. 164.
@@ -549,7 +555,7 @@ The tonsils (two lymph nodes seen as lumps on each side at the back of the throa
 
 For the sore throat that often comes with the common cold or flu, antibiotics should usually not be used and will do no good. Treat with gargles and acetaminophen.
 
-However, one kind of sore throat—called **strep throat**, should be treated with penicillin. It is most common in children and young adults. It usually begins suddenly with severe sore throat and high fever, often without signs of a cold or cough. The back of the mouth and tonsils become very red, and the lymph nodes under the jaw or in the neck may become swollen and tender.
+However, one kind of sore throat, called **strep throat**, should be treated with penicillin. It is most common in children and young adults. It usually begins suddenly with severe sore throat and high fever, often without signs of a cold or cough. The back of the mouth and tonsils become very red, and the lymph nodes under the jaw or in the neck may become swollen and tender.
 
 Give penicillin (p. 350) for 10 days. If penicillin is given early and continued for 10 days, there is less danger of getting rheumatic fever. A child with strep throat should eat and sleep far apart from others, to prevent their getting it also.
 
@@ -581,7 +587,7 @@ This is a disease of children and young adults. It usually begins 1 to 3 weeks a
 **Prevention:**
 
   ♦ To prevent rheumatic fever, treat ‘strep throat’
-  early with penicillin—for 10 days.
+  early with penicillin, for 10 days.
 
   ♦ To prevent return of rheumatic fever, and added
   heart damage, a child who has once had rheumatic fever should take penicillin for 10 days at the first sign of a sore throat. If he already shows signs of heart damage, he should take penicillin on a regular basis or have monthly injections of benzathine penicillin (p. 351) perhaps for the rest of his life. Follow the advice of an experienced health worker or doctor.
@@ -606,11 +612,11 @@ The infection usually goes away in a week. Bathe the child daily with soap and w
 
 ## Measles
 
-This severe virus infection is **especially dangerous in children** who are **poorly nourished** or have **tuberculosis**. Ten days after being near a person with measles, it begins with signs of a cold—fever, runny nose, red sore eyes, and cough.
+This severe virus infection is **especially dangerous in children** who are **poorly nourished** or have **tuberculosis**. Ten days after being near a person with measles, it begins with signs of a cold, fever, runny nose, red sore eyes, and cough.
 
 The child becomes increasingly ill. The mouth may become very sore and he may develop diarrhea.
 
-After 2 or 3 days a few tiny white spots like salt grains appear in the mouth. A day or 2 later the rash appears—first behind the ears and on the neck, then on the face and body, and last on the arms and legs.
+After 2 or 3 days a few tiny white spots like salt grains appear in the mouth. A day or 2 later the rash appears, first behind the ears and on the neck, then on the face and body, and last on the arms and legs.
 
 After the rash appears, the child usually begins to get better. The rash lasts about 5 days. Sometimes there are scattered black spots caused by bleeding into the skin (‘black measles’). This means the attack is very severe. Get medical help.
 
@@ -647,7 +653,7 @@ German measles are not as severe as regular measles. They last 3 or 4 days. The 
 
 The child should stay in bed and take acetaminophen or ibuprofen if necessary.
 
-Women who get German measles in the first 3 months of pregnancy may give birth to a child with a disability. For this reason, **pregnant women** who have not yet had German measles—or are not sure **should keep far away** from children who have this kind of measles. Girls or women who are not pregnant can try to catch German measles before they get pregnant. A vaccine exists for German measles, but is not often available.
+Women who get German measles in the first 3 months of pregnancy may give birth to a child with a disability. For this reason, **pregnant women** who have not yet had German measles, or are not sure **should keep far away** from children who have this kind of measles. Girls or women who are not pregnant can try to catch German measles before they get pregnant. A vaccine exists for German measles, but is not often available.
 
 ## Mumps
 
@@ -773,7 +779,7 @@ Wrap top with something soft, as cotton balls and secure them with tape.
 
 ## Dislocated Hip
 
-Some children are born with a dislocated hip—the leg has slipped out of its joint in the hip bone. Early care can prevent lasting harm and a limp. So babies should be checked for possible hip dislocation at about 10 days after birth.
+Some children are born with a dislocated hip, the leg has slipped out of its joint in the hip bone. Early care can prevent lasting harm and a limp. So babies should be checked for possible hip dislocation at about 10 days after birth.
 
 
 1. Compare the 2 legs. If one hip is dislocated, that side may show:
@@ -852,14 +858,14 @@ However, certain things greatly increase the chance of birth defects. **A baby i
 
 If you suspect your baby may have hypothyroidism, take him to a health worker or doctor at once. The sooner he gets special medicine (thyroid) the more normal he will be.
 
-3. **Smoking or drinking of alcoholic** drinks during pregnancy causes babies to be born small or to have other problems (see p. 149). Do not drink or smoke—especially during pregnancy.
+3. **Smoking or drinking of alcoholic** drinks during pregnancy causes babies to be born small or to have other problems (see p. 149). Do not drink or smoke, especially during pregnancy.
 
 
 4. **After age 35**, there is more chance that a mother will have a child with defects. Down syndrome, which looks somewhat like hypothyroidism, is more likely to occur in babies of older mothers..
 
 **It is wise to plan your family so as to have no more children after age 35** (see Chapter 20).
 
-5. **Many medicines** can harm the baby developing inside a pregnant mother. Use as little medicine as possible during pregnancy—and only those known to be safe.
+5. **Many medicines** can harm the baby developing inside a pregnant mother. Use as little medicine as possible during pregnancy, and only those known to be safe.
 
 6. **Living near factories** or industrial farms can expose you to toxic chemicals that can cause birth defects. See A Community Guide to Environmental Health.
 
@@ -888,7 +894,7 @@ If your child is born with a birth defect, take him to a health center. Often so
 
 8. **Difficulties before and during birth** sometimes result in brain damage that causes a child to be spastic or have seizures (fits). The chance of damage is greater if at birth the baby is slow to breathe, or if the midwife injected the mother with medicine to speed up the birth or to ‘give force’ to the mother (p. 266) before the baby was born.
 
-**Be careful in your choice of a midwife—and do not let your midwife use medicines to speed up the birth.**
+**Be careful in your choice of a midwife, and do not let your midwife use medicines to speed up the birth.**
 
 For more information on children with birth defects, see Disabled Village Children, Chapter 12.
 
@@ -907,7 +913,7 @@ The brain damage that causes cerebral palsy often results from brain damage at b
 
 There are no medicines that cure the brain damage that makes a child spastic. But the child needs special care. To help prevent tightening of muscles in the legs or in a foot, straighten and bend them **very slowly** several times a day.
 
-Help the child learn to roll over, sit, stand—and if possible to walk (as on p. 314). Encourage him to use both his mind and body as much as he can (see p. 322). Even if he has trouble with speaking he may have a good mind and be able to learn many skills if given a chance. **Help him to help himself.**
+Help the child learn to roll over, sit, stand, and if possible to walk (as on p. 314). Encourage him to use both his mind and body as much as he can (see p. 322). Even if he has trouble with speaking he may have a good mind and be able to learn many skills if given a chance. **Help him to help himself.**
 
 For more information on cerebral palsy, see Disabled Village Children, Chapter 9.
 
@@ -922,13 +928,13 @@ For more information on cerebral palsy, see Disabled Village Children, Chapter 9
 
 4. Do not smoke or drink during pregnancy (see p. 149).
 
-5. While pregnant, avoid medicines whenever possible—use only those known to be safe.
+5. While pregnant, avoid medicines whenever possible, use only those known to be safe.
 
 6. Do not work in factories which use a lot of chemicals and do not use strong chemical cleaners at home.
 
 7. While pregnant, keep away from persons with German measles.
 
-8. Be careful in the selection of a midwife—and do not let the midwife use medicines to speed up the birth or ‘give strength’ to the mother (see p. 266).
+8. Be careful in the selection of a midwife, and do not let the midwife use medicines to speed up the birth or ‘give strength’ to the mother (see p. 266).
 
 9. Do not have more children if you have more than one child with the same birth defect (see Family Planning, p. 283).
 
@@ -988,13 +994,13 @@ As a child grows, she learns partly from what she is taught. Knowledge and skill
 
 But a child does much of her learning at home or in the forest or fields. She learns by watching, listening, and trying for herself what she sees others do. She learns not so much from what people tell her, as from how she sees them act.
 
-**Some of the most important things a child can learn—such as kindness, responsibility, and sharing—can be taught only by setting a good example.**
+**Some of the most important things a child can learn, such as kindness, responsibility, and sharing, can be taught only by setting a good example.**
 
 A child learns through adventure. She needs to learn how to do things for herself, even though she makes mistakes. When she is very young, protect a child from danger. But as she grows, help her learn to care for herself. Give her some responsibility. Respect her judgment, even if it differs from your own.
 
 When a child is young, she thinks mostly of filling only her own needs. Later, she discovers the deeper pleasure of helping and doing things for others. Welcome the help of children and let them know how much it means.
 
-Children who are not afraid ask many questions. If parents, teachers, and others take the time to answer their questions clearly and honestly—and to say they do not know when they do not—a child will keep asking questions, and as she grows may look for ways to make her surroundings or her village a better place to live.
+Children who are not afraid ask many questions. If parents, teachers, and others take the time to answer their questions clearly and honestly, and to say they do not know when they do not, a child will keep asking questions, and as she grows may look for ways to make her surroundings or her village a better place to live.
 
 Some of the best ideas for helping children learn and become involved in community health care have been developed through the Child to Child program. This is described in Helping Health Workers Learn, Chapter 24.
 

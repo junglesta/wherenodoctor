@@ -24,7 +24,7 @@ _“This child has a sweet tooth,  but soon he’ll have no more” (no more tee
 
 **Do not accustom children to sweets or soft drinks if you want them to have good teeth.**
 
-_“This child has a sweet tooth— but soon he’ll have no more” (no more teeth)._
+_“This child has a sweet tooth,  but soon he’ll have no more” (no more teeth)._
 
 **2.Brush teeth well every day**, and always brush immediately after eating anything sweet. Start brushing your children’s teeth as the teeth appear. Later, teach them to brush their teeth themselves, and watch to see that they do it right:
 
@@ -146,7 +146,7 @@ If possible, see a dental worker right away, if you go soon enough, he can often
 
 If the pain and swelling do not go away or keep coming back, the tooth should probably be pulled.
 
-Treat abscesses right away—before the infection spreads to other parts of the body.
+Treat abscesses right away, before the infection spreads to other parts of the body.
 
 A toothache results when a cavity becomes infected.
 

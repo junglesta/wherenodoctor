@@ -51,7 +51,7 @@ When menopause begins, a woman may think she is pregnant.
 
 And when she bleeds again after 3 or 4 months, she may think she is having a miscarriage. If a woman of 40 or 50 starts bleeding again after some months without, explain to her that it may be menopause.
 
-During menopause, it is normal to feel many discomforts—anxiety, distress, ‘hot flashes’ (suddenly feeling uncomfortably hot), pains that travel all over the body, sadness, etc. After menopause is over, most women feel better again.
+During menopause, it is normal to feel many discomforts, anxiety, distress, ‘hot flashes’ (suddenly feeling uncomfortably hot), pains that travel all over the body, sadness, etc. After menopause is over, most women feel better again.
 
 Women who have severe bleeding or a lot of pain in the belly during menopause, or who begin to bleed again after the bleeding has stopped for months or years, should seek medical help. An examination is needed to make sure they do not have cancer or another serious problem (see p. 280).
 
@@ -104,7 +104,7 @@ the mother at 9 months.
 
 ♦ Try to rest more, but also get some exercise.
 
-♦ Avoid poisons and chemicals. They can harm the developing baby. Do not work near pesticides, herbicides, or factory chemicals—and do not store food in their containers. Try not to breathe fumes or powders from chemicals.
+♦ Avoid poisons and chemicals. They can harm the developing baby. Do not work near pesticides, herbicides, or factory chemicals, and do not store food in their containers. Try not to breathe fumes or powders from chemicals.
 
 
 # [248](#page-248)
@@ -160,7 +160,7 @@ If you cannot check for high blood pressure or protein in the urine, watch for t
 
 • Pain high in the belly
 
-If her blood pressure keeps going up (to 160/110 or higher) or if she shows any of these signs — get medical help fast! If she is already having seizures, see p. 178.
+If her blood pressure keeps going up (to 160/110 or higher) or if she shows any of these signs ,  get medical help fast! If she is already having seizures, see p. 178.
 
 ## HIV and Pregnancy
 
@@ -174,7 +174,7 @@ If the mother has HIV, HIV can spread to her baby while it is still in her womb 
 
 Many health centers and midwives encourage pregnant women to come for regular prenatal (before birth) check ups and to talk about their health needs. If you are pregnant and have the chance to go for these check–ups, you will learn many things to help you prevent problems and have a healthier baby.
 
-If you are a midwife, you can provide an important service to mothers-to-be (and babies-to-be) by inviting them to come for prenatal check-ups—or by going to see them. It is a good idea to see them once a month for the first 6 months of pregnancy, twice a month during months 7 and 8, and once a week during the last month.
+If you are a midwife, you can provide an important service to mothers-to-be (and babies-to-be) by inviting them to come for prenatal check-ups, or by going to see them. It is a good idea to see them once a month for the first 6 months of pregnancy, twice a month during months 7 and 8, and once a week during the last month.
 
 Here are some important things prenatal care should cover:
 
@@ -369,7 +369,7 @@ A new razor blade. (Do not unwrap until you are ready to cut the umbilical cord.
 
 (If you do not have a new razor blade, have clean, rust-free scissors ready. Boil them just before cutting the cord.)
 
-Two bowls—1 for washing hands, 1 for catching and examining the afterbirth.
+Two bowls, 1 for washing hands, 1 for catching and examining the afterbirth.
 
 Two ribbons or strips of clean cloth for tying the cord.
 Both patches and ribbons should be wrapped and sealed in paper packets and then baked in an oven or ironed.
@@ -403,7 +403,7 @@ Several injections of oxytocin or ergonovine, or tablets of misoprostol (see pag
 
 HIV medicines for mother and baby if mother or father has HIV (see p. 398).
 
-Fetoscope—or fetal stethoscope—for listening to the baby’s heartbeat through the mother’s belly.
+Fetoscope, or fetal stethoscope, for listening to the baby’s heartbeat through the mother’s belly.
 
 Blunt-tipped scissors for cutting the cord before the baby is all the way born (extreme emergency only).
 
@@ -429,7 +429,7 @@ Difficulties in childbirth do occur, and sometimes the life of the mother or chi
 
 CAUTION: If you have a fever, cough, sore throat, or sores or infections on your skin at the time of the birth, it would be better for someone else to deliver the baby.
 
-Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife Attend the Birth—if Possible in a Hospital:
+Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife Attend the Birth, if Possible in a Hospital:
 
 • If regular labor pains begin more than 3 weeks before the baby is expected.
 
@@ -520,7 +520,7 @@ If the baby is sideways, the mother should have her baby in a hospital. She and 
 
 • A short time before the labor begins, some thick mucus (jelly) may come out. Or some mucus may come out for 2 or 3 days before labor begins. Sometimes it is tinted with blood. This is normal.
 
-• The contractions (sudden tightening of the womb) or labor pains may start up to several days before childbirth at first a long time usually passes between contractions—several minutes or even hours. When the contractions become stronger, regular, and more frequent, labor is beginning.
+• The contractions (sudden tightening of the womb) or labor pains may start up to several days before childbirth at first a long time usually passes between contractions, several minutes or even hours. When the contractions become stronger, regular, and more frequent, labor is beginning.
 
 • Some women have a few practice contractions weeks before labor. This is normal. On rare occasions, a woman may have false labor. This happens when the contractions are coming strong and close together, but then stop for hours or days before childbirth actually begins. Sometimes walking, a warm bath, or resting will help calm the contractions if they are false, or bring on childbirth if they are real. Even if it is false labor, the contractions help to prepare the womb for labor.
 
@@ -530,7 +530,7 @@ Labor pains are caused by contractions or tightening of the womb. Between contra
 
 During contractions, the womb tightens and lifts up like this:
 
-The contractions push the baby down farther. This causes the cervix or ‘door of the womb’ to open—a little more each time.
+The contractions push the baby down farther. This causes the cervix or ‘door of the womb’ to open, a little more each time.
 
 
 
@@ -598,7 +598,7 @@ In a normal birth, the midwife NEVER needs to put her hand or finger inside the 
 
 When the head comes out, the midwife may support it, but must never pull on it.
 
-If possible, wear gloves to attend the birth—to protect the health of the mother, baby, and midwife.
+If possible, wear gloves to attend the birth, to protect the health of the mother, baby, and midwife.
 
 
 
@@ -660,7 +660,7 @@ Always cut the cord close to the body of the newborn baby. Leave only about 2 ce
 
 Keep the cord stump clean and dry. Always wash your hands before touching the cord stump.
 
-If the stump or belly button becomes dirty or caked with dried blood, clean with soap and cool boiled water and a very clean cloth. Do not put anything else on the cord—dirt and dung are especially dangerous. They can cause tetanus and kill the baby, see pages 182 to 184.
+If the stump or belly button becomes dirty or caked with dried blood, clean with soap and cool boiled water and a very clean cloth. Do not put anything else on the cord, dirt and dung are especially dangerous. They can cause tetanus and kill the baby, see pages 182 to 184.
 
 If the baby is wearing diapers, keep the diaper folded below the cord.
 
@@ -725,7 +725,7 @@ WARNING: Sometimes a woman may be bleeding severely inside without much blood co
 
 ♦ To help prevent or control heavy bleeding, let the baby suck the mother’s breast. If the baby will not suck, have someone else suck or gently pull and massage the mother’s nipples. This will cause her to produce a hormone that helps control bleeding.
 
-♦ The mother should drink a lot of liquid (water, fruit juices, tea, soup, or Rehydration Drink—p. 152). If she grows faint or has a fast, weak pulse or shows other signs of shock, put her legs up and her head down (see p. 77).
+♦ The mother should drink a lot of liquid (water, fruit juices, tea, soup, or Rehydration Drink, p. 152). If she grows faint or has a fast, weak pulse or shows other signs of shock, put her legs up and her head down (see p. 77).
 
 If heavy bleeding continues, or if the mother is losing a great deal of blood through a slow trickle, do the following:
 
@@ -823,7 +823,7 @@ Have the mother push hard. But never pull on the body of the baby.
 {:.no_toc}
 
 
-6. TWINS. Giving birth to twins is often more difficult and dangerous—both for the mother and babies—than giving birth to a single baby.
+6. TWINS. Giving birth to twins is often more difficult and dangerous, both for the mother and babies, than giving birth to a single baby.
 
 Because with twins labor often begins early, the mother should be within easy reach of a hospital after the seventh month of pregnancy.
 
@@ -835,7 +835,7 @@ Signs that a woman is likely to have twins:
 
 • If you can feel 3 or more large objects (heads and buttocks) in a womb that seems extra large, twins are likely.
 
-• Sometimes you can hear 2 different heartbeats (other than the mother’s)—but this is difficult.
+• Sometimes you can hear 2 different heartbeats (other than the mother’s), but this is difficult.
 During the last months, if the woman rests a lot and is careful to avoid hard work, twins are less likely to be born too early.
 
 Twins are often born small and need special care. However, there is no truth in beliefs that twins have strange or magic powers.
@@ -869,7 +869,7 @@ The Eyes
 
 To protect a newborn baby’s eyes from dangerous conjunctivitis, put a line of 1% tetracycline or erythromycin 0.5% to 1% ointment in each eye within the first 2 hours (p. 221 and 378). This is especially important if either parent has ever had signs of gonorrhea or chlamydia (p. 236).
 
-Keeping the Baby Warm—but Not Too Warm
+Keeping the Baby Warm, but Not Too Warm
 
 Protect the baby from cold, but also from too much heat. Dress him as warmly as you feel like dressing yourself.
 
@@ -879,7 +879,7 @@ Cleanliness
 
 It is important to follow the Guidelines of Cleanliness as discussed in Chapter 12. Take special care with the following:
 
-♦ Change the baby’s diapers (nappy) or bedding each time he wets or dirties them. If the skin gets red, change the diaper more often—or better, leave it off!
+♦ Change the baby’s diapers (nappy) or bedding each time he wets or dirties them. If the skin gets red, change the diaper more often, or better, leave it off!
 (See p. 215.)
 
 ♦ After the cord drops off, bathe the baby daily with mild soap and warm water.
@@ -912,7 +912,7 @@ Breast milk is by far the best food for a baby. Babies who nurse on breast milk 
 
 • Breast milk has things in it (antibodies) that help protect the baby against certain illnesses, such as diarrhea, measles, and polio.
 
-The mother should give her breast to the baby as soon as he is born. For the first few days the mother’s breasts usually produce very little milk. This is normal. She should continue to nurse her baby often—at least every two hours. The baby’s sucking will help her produce more milk. If the baby seems healthy, gains weight, and wets her diaper (nappy) regularly, the mother is producing enough milk.
+The mother should give her breast to the baby as soon as he is born. For the first few days the mother’s breasts usually produce very little milk. This is normal. She should continue to nurse her baby often, at least every two hours. The baby’s sucking will help her produce more milk. If the baby seems healthy, gains weight, and wets her diaper (nappy) regularly, the mother is producing enough milk.
 
 It is best for the baby if the mother gives him only breast milk for the first 6 months. After that, she should continue to breastfeed her baby, but should begin to give him other nourishing foods also (see p. 122). Mothers with HIV should
 stop breastfeeding when the baby is 12 months old if they can give enough other nutritious foods.
@@ -928,7 +928,7 @@ She should...
 ♦ get plenty of sleep and avoid getting very tired or upset,
 
 
-♦ nurse her baby more often—at least every 2 hours.
+♦ nurse her baby more often, at least every 2 hours.
 Feeding
 
 BOTTLE-FED BABIES ARE MORE LIKELY TO GET SICK AND DIE.
@@ -962,7 +962,7 @@ These may result from something that went wrong with the development of the baby
 
 • If his face and body are white, blue, or yellow after he has begun breathing.
 
-• If his arms and legs are floppy—he does not move them by himself or when you
+• If his arms and legs are floppy, he does not move them by himself or when you
 pinch them.
 
 • If he grunts or has difficulty breathing after the first 15 minutes.
@@ -997,7 +997,7 @@ ill. If the baby also has diarrhea, he probably has a gut infection (p. 157). Ba
 
 If the vomit is yellow or green, there may be a gut obstruction (p. 94), especially if the belly is very swollen or the baby has not been having bowel movements. Take the baby to a health center at once.
 
-6. The baby stops sucking well. If more than 4 hours pass and the baby still will not nurse, this is a danger sign—especially if the baby seems very sleepy or ill, or if he cries or moves differently from normal. Many illnesses can cause these signs, but the most common and dangerous causes in the first 2 weeks of life are a bacterial infection of the blood (see next 2 pages) and tetanus (p. 182).
+6. The baby stops sucking well. If more than 4 hours pass and the baby still will not nurse, this is a danger sign, especially if the baby seems very sleepy or ill, or if he cries or moves differently from normal. Many illnesses can cause these signs, but the most common and dangerous causes in the first 2 weeks of life are a bacterial infection of the blood (see next 2 pages) and tetanus (p. 182).
 
 ## burp your baby after feeding.
 
@@ -1122,7 +1122,7 @@ Childbirth fever can be very dangerous. If the mother does not start to feel bet
 {:.no_toc}
 
 
-## breastfeeding—and care of the breasts
+## breastfeeding, and care of the breasts
 
 Taking good care of the breasts is important for the health of both the mother and her baby. The baby should begin to breastfeed soon after it is born. A baby may want to breastfeed right away or just lick the breast and be held. Encourage the baby to suck because it will help the milk to start flowing. This will also help the mother’s womb to contract and the afterbirth to come out sooner. The mother’s first milk is a thick yellow liquid (called colostrum). The first milk has everything a new baby needs to prevent infection and is rich in protein.
 
@@ -1224,7 +1224,7 @@ Signs of breast cancer:
 • The woman may notice a slow-growing lump during self-examination of the breasts
 (see below).
 
-• Or the breast may have an abnormal dent or dimple—or many tiny pits like the skin of an orange.
+• Or the breast may have an abnormal dent or dimple, or many tiny pits like the skin of an orange.
 
 • Often there are swollen lymph nodes in the armpit, which may or may not be painful.
 
@@ -1278,19 +1278,19 @@ At the first suspicion of cancer, seek medical help.
 
 # ECTOPIC (TUBAL) PREGNANCY
 
-- womb or uterus— where a baby is normally made
+- womb or uterus,  where a baby is normally made
 
 - tube to ovary
 
-- ovary—where the eggs are made
+- ovary, where the eggs are made
 
 - vagina
 
-- vulva— or lips of vagina
+- vulva,  or lips of vagina
 
 Sometimes a baby begins to form outside the womb, in one of the tubes that comes from the ovaries.
 
-There may be abnormal menstrual bleeding together with signs of pregnancy—also severe cramps low in the belly and a painful lump outside the womb.
+There may be abnormal menstrual bleeding together with signs of pregnancy, also severe cramps low in the belly and a painful lump outside the womb.
 
 A baby that begins to form in the tube cannot live. Ectopic pregnancy requires surgery in a hospital. If you suspect this problem, get medical help soon, as dangerous bleeding could start any time.
 
