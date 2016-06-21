@@ -45,7 +45,7 @@ Protect wells and springs from dirt and animals by putting fences or walls aroun
 
 Use cement or rock to provide good drainage around the well or spring, so that rain or spilled water runs away from it.
 
-# Prevention
+## Prevention
 
 Where water may be contaminated, an  important part of the prevention of diarrhea is to boil or filter the water used for drinking or for preparing foods.
 
@@ -53,7 +53,7 @@ This is especially important for babies. Babies’ bottles and eating utensils s
 
 If regular boiling of bottles is not possible, it is safer to use a cup and water spoon. Washing hands with soap and water after a bowel movement (shitting) and before eating or handling foods is also important.
 
-# Treatment
+## Treatment
 
 A common cause of death in children with diarrhea is severe dehydration, or loss of too much water from the body ([see page 151](#page-151)).
 

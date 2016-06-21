@@ -25,17 +25,32 @@ table {
     padding: .5rem 0;
   }
   td:first-child {
-    padding-right: 1rem;
+    padding-right: .5rem;
   }
   td:last-child {
+    padding-left: .5rem;
     text-align: right;
   }
   .chapter_content & {
-    th {text-align: left;}
-    th:last-child {text-align: right;}
+    th {
+      text-align: left;
+    }
+    th:first-child {
+      padding-right: .5rem;
+    }
+    th:last-child {
+      padding-left: .5rem;
+      text-align: right;
+    }
   }
   a {
-    display: block;
+    //display: block;
     min-height: 48px;
+  }
+}
+
+table.grid {
+  tr {
+    border-bottom: 1px solid rgba(0,0,0,.25);
   }
 }
