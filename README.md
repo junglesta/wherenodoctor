@@ -10,14 +10,16 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 
 # Status
-- Many chapters to be completed
-- Chapters with full text and page no.s: **[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,greenpages,yellowpages]**
-- Chapters w/ ok headers and ToC: **[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,greenpages]**
-- Chapters with all links working: **[content]**
+- **Many chapters to be completed**
+- **Chapters with full text and page no.s:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, greenpages, yellowpages
+- **Chapters w/ ok headers and ToC:** [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, greenpages
+- **Chapters with all links working:** content,
 
 
 # 2do
-- **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/) - Using at the moment [jekyll, search](https://github.com/christian, fei/Simple, Jekyll, Search), but it just gets chapter titles! NOT ENOUGH! no way to make 'content' work...
+
+- **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
+- Using at the moment [jekyll, search](https://github.com/christian, fei/Simple, Jekyll, Search), but it just gets chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [ ] Make it easily translatable.
 - [ ] maybe make Patient Report (page 44) fillable and printable PDF.
 
