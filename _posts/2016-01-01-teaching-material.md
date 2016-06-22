@@ -20,7 +20,30 @@ e-mail: hesperian@hesperian.org
 
 website: www.hesperian.org
 
-Community health guides in English and Spanish: Where There Is No Doctor, Where Women Have No Doctor, Health Actions for Women, A Community Guide to Environmental Health, Workers’ Guide to Health and Safety, A Book for Midwives, Helping Children Who Are Blind, Helping Children Who Are Deaf, Helping Health Workers Learn, Where There Is No Dentist, A Health Handbook for Women with Disabilities, and Disabled Village Children.
+**Community health guides in English and Spanish:**
+
+- Where There Is No Doctor,
+
+- Where Women Have No Doctor,
+
+- Health Actions for Women,
+
+- A Community Guide to Environmental Health,
+
+- Workers’ Guide to Health and Safety,
+
+- A Book for Midwives,
+
+- Helping Children Who Are Blind,
+
+- Helping Children Who Are Deaf,
+
+- Helping Health Workers Learn,
+
+-  Where There Is No Dentist,
+
+- A Health Handbook for Women with Disabilities, and
+- Disabled Village Children.
 
 
 ### African Medical and Research Foundation
