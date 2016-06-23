@@ -52,6 +52,7 @@
 
 
 nav .nav_link {
+  // main menu in home
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -62,6 +63,15 @@ nav .nav_link {
   align-items: baseline;
   text-decoration: none;
   min-width: 100%;
+  border-bottom: 0 none;
+  &:hover {
+    border-bottom: 0 none;
+    &:before {
+      content: "-";
+      //background:svg_hand;
+      color: white;
+    }
+  }
 }
 
 
@@ -76,45 +86,21 @@ nav .nav_link {
   }
   &.yellow a {
     border-left: 4px solid $color_yellow;
-    &:hover {
-      border-right: 4px solid $color_yellow;
-      color: $color_yellow;
-    }
   }
   &.green a {
     border-left: 4px solid $color_green;
-    &:hover {
-      border-right: 4px solid $color_green;
-      color: $color_green;
-    }
   }
   &.red a {
     border-left: 4px solid $color_red;
-    &:hover {
-      border-right: 4px solid $color_red;
-      color: $color_red;
-    }
   }
   &.brown a {
     border-left: 4px solid $color_brown;
-    &:hover {
-      border-right: 4px solid $color_brown;
-      color: $color_brown;
-    }
   }
   &.blue a {
     border-left: 4px solid lighten($brand_color, 40%);
-    &:hover {
-      border-right: 4px solid  lighten($brand_color, 40%);
-      color: lighten($brand_color, 40%);
-    }
   }
   &.grey a {
     border-left: 4px solid $color_grey--light;
-    &:hover {
-      border-right: 4px solid $color_grey--light;
-      color: $color_grey--light;
-    }
   }
   h3 {
     padding-left: 1rem;
