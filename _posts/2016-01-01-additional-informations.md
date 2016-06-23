@@ -7,7 +7,7 @@ bookpage: 399
 * TOC
 {:toc}
 
-_When we revised Where There Is No Doctor in 1992, we added several topics. We continue to update these with each new edition. Some of these topics were specifically requested and others are problems that affect more and more people, such as HIV and AIDS, complications from unsafe abortions, pesticide poisoning, and drug addiction. We added the section on blood pressure because the book is used by many health workers who have equipment for measuring it._
+_When we revised _Where There Is No Doctor_  in 1992, we added several topics. We continue to update these with each new edition. Some of these topics were specifically requested and others are problems that affect more and more people, such as HIV and AIDS, complications from unsafe abortions, pesticide poisoning, and drug addiction. We added the section on blood pressure because the book is used by many health workers who have equipment for measuring it._
 
 # HIV AND AIDS
 

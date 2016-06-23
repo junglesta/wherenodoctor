@@ -22,7 +22,7 @@ website: www.hesperian.org
 
 **Community health guides in English and Spanish:**
 
-- Where There Is No Doctor,
+- _Where There Is No Doctor_ ,
 
 - Where Women Have No Doctor,
 

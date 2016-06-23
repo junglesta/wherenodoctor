@@ -282,7 +282,7 @@ Many roundworms in the intestines may cause discomfort, indigestion, and weaknes
 
 **Prevention**
 
-Where There Is No Doctor 2015 141 Use latrines, wash hands before eating or handling food, protect food from flies, and follow the guidelines of cleanliness described in the first part of this chapter.
+_Where There Is No Doctor_  2015 141 Use latrines, wash hands before eating or handling food, protect food from flies, and follow the guidelines of cleanliness described in the first part of this chapter.
 
 **Treatment:**
 

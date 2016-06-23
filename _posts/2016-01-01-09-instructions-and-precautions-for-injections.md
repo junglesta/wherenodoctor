@@ -41,84 +41,98 @@ In case of the following sicknesses, get medical help as fast as you can. If the
 
 For details of the doses, consult the pages listed below. Before injecting, know the possible side effects and take the needed precautions ([see the Green Pages](#green-pages)).
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Severe pneumonia](#page-161), [Gangrene](#page-213)
 
 _Inject these medicines:_ [benzylpenicillin](#page-352)
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_  [Infections after childbirth](#page-276)
 
 _Inject these medicines:_[ ampicillin](#page-352) and [gentamicin](#page-358) taken with [metronidazole by mouth](#page-368).
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Tetanus](#page-182)
 
 _Inject these medicines:_ [penicillin](#page-351) and [antitetanus immunoglobulin](#page-388) with [metronidazole by mouth](#page-368).
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Appendicitis or Peritonitis](#page-93)
 
 _Inject these medicines:_ [ampicillin](#page-352) OR [ciprofloxacin](#page-356), OR [ceftriaxone](#page-358), with [metronidazole by mouth](#page-368).
 
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Poisonous snakebite](#page-105), [Scorpion sting (in children,](#page-106)
 
 _Inject these medicines:_ [antitoxins and antivenon](#page-387)
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Meningitis](#page-185) when you do not suspect tuberculosis
 
 _Inject these medicines:_ [ampicillin](#page-352) and [ceftriaxone](#page-358) OR [gentamicin](#page-358)
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Meningitis](#page-185) when you suspect tuberculosis
 
 _Inject these medicines:_ [ampicillin](#page-352) together with [streptomycin](#page-353) and, if possible, other [TB medicines](#page-359).
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Vomiting](#page-161) when it cannot be controlled
 
 _Inject these medicines:_ antihistamines, for example, [promethazine](#page-385)
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Severe allergic reaction and allergic shock](#page-70)
 
 _Inject these medicines:_  epinephrine [Adrenalin](#page-385) (p. 70) and, if possible, diphenhydramine ([Benadryl](#page-386))
 
----
+•
+{:.center.spacer}
 
 The following chronic illnesses may require injections, but they are rarely emergencies. It is best to consult a health worker for treatment.
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Tuberculosis](#page-179)
 
 _Inject these medicines:_ [streptomycin](#page-361) together with other TB [medicines taken by mouth](#page-359)
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Syphilis](#page-237)
 
 _Inject these medicines:_ [benzathine penicillin](#page-238)) and [benzathine penicillin](#page-352)
 
----
+•
+{:.center.spacer}
 
 _Sicknesses:_ [Gonorrhea](#page-236)
 
 _Inject these medicines:_ [ceftriaxone](#page-359) OR [spectinomycin](#page-359) with other [medicines taken by mouth](#page-359)
 
----
+•
+{:.center.spacer}
 
 # [67](#page-67)
 {:.no_toc}

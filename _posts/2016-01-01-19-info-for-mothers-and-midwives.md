@@ -203,7 +203,7 @@ Is she gaining weight normally? If possible, weigh her each visit. Normally she 
 
 Or make a simple scale: bricks or other objects of known weight
 
-Where There Is No Doctor 2015 251 Ask the mother if she has any of the common problems of pregnancy.
+_Where There Is No Doctor_  2015 251 Ask the mother if she has any of the common problems of pregnancy.
 
 
 

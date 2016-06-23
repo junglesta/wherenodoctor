@@ -9,13 +9,13 @@ style: grey
 
 _The content sources used to build this **offline-enabled web app** are those freely available for download in pdf format._
 
-_We downloaded the September 2015 revision of **Where There Is No Doctor** PDFs and built from there._
+_We downloaded the September 2015 revision of **_Where There Is No Doctor_ ** PDFs and built from there._
 
 _Thanks to [David Terzano](http://work-it.it) for designing the logo._
 
 ## about the original printed book
 
-### where there is no doctor
+### _Where There Is No Doctor_ 
 
 #### A Village Health Care Book
 
@@ -26,9 +26,9 @@ Original title: Donde No Hay Doctor
 ISBN 978-0-942364-15-6
 
 
-**Where There Is No Doctor** is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
+**_Where There Is No Doctor_ ** is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
 
-In the Journal of the American Medical Association, a 2010 review said, it is still not known if the book effectively improves health. However, in most of the world, where physicians are not available and diseases are rampant, the status quo is unacceptable. Until better solutions are created, Where There is No Doctor is probably a useful stop-gap measure.
+In the Journal of the American Medical Association, a 2010 review said, it is still not known if the book effectively improves health. However, in most of the world, where physicians are not available and diseases are rampant, the status quo is unacceptable. Until better solutions are created, _Where There Is No Doctor_  is probably a useful stop-gap measure.
 
 [Read more on wikipedia](https://en.wikipedia.org/wiki/Where_There_Is_No_Doctor)
 
@@ -61,7 +61,7 @@ Please send Hesperian a copy of any materials in which text or illustrations fro
 
 ### Original Printed Edition thanks
 
-This 2015 revision of **Where There Is No Doctor** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
+This 2015 revision of **_Where There Is No Doctor_ ** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
 
 **David Werner** is the author of the original Spanish and English versions of the book. His vision, caring, and commitment are present on every page.
 
