@@ -75,42 +75,42 @@ Allergic reaction - [23](#page-23) - [54](#page-54) - [166](#page-166)
 
  - medicines for - [337](#page-337) - [385](#page-385) – [386](#page-386)
 
- - to medicines - [54](#page-54) - [56](#page-56) - [68](#page-68) - [70](#page-70) -[71](#page-71) -  350
+ - to medicines - [54](#page-54) - [56](#page-56) - [68](#page-68) - [70](#page-70) -[71](#page-71) [350](#page-350)
 
 Allergic rhinitis (hay fever) - [165](#page-165) - [427](#page-427)
 
 Allergic shock - [70](#page-70) - [105](#page-105) - [350](#page-350) - [385](#page-385) –[386](#page-386) - [410](#page-410)
 
-Aloe vera - [13](#page-13) -  129
+Aloe vera - [13](#page-13) [129](#page-129)
 
 
-Amebas - [144](#page-144) – [145](#page-145) - [336](#page-336) - [367](#page-367) -[368](#page-368) -  419
+Amebas - [144](#page-144) – [145](#page-145) - [336](#page-336) - [367](#page-367) -[368](#page-368) [419](#page-419)
 
 Amputation - [409](#page-409) - [419](#page-419)
 
-Anabolic steroids - 51
+Anabolic steroids [51](#page-51)
 
 Analgesics (painkillers) - [378](#page-378) – 380
 
 Anemia - [124](#page-124) - [419](#page-419)
 
-  - causes of - [113](#page-113) -  124
+  - causes of - [113](#page-113) [124](#page-124)
 
   - during pregnancy - [248](#page-248) – [249](#page-249)
 
-  - in children - [307](#page-307) -  321
+  - in children - [307](#page-307) [321](#page-321)
 
   - treatment - [335](#page-335) - [391](#page-391) - [393](#page-393)
 
 Anesthetics - [378](#page-378) – 380
 
-Angel’s Trumpet - 12
+Angel’s Trumpet [12](#page-12)
 
-Angina pectoris - 325
+Angina pectoris [325](#page-325)
 
 Antacids - [52](#page-52) - [64](#page-64) - [129](#page-129) - [248](#page-248) - [324](#page-324) - [380](#page-380) - [381](#page-381)
 
-Antibiotics - [52](#page-52) - [55](#page-55) -[58](#page-58) - [156](#page-156) - [350](#page-350) - 363
+Antibiotics - [52](#page-52) - [55](#page-55) -[58](#page-58) - [156](#page-156) - [350](#page-350) [363](#page-363)
 
 Anti-diarrhea medicines - [156](#page-156)
 
@@ -118,11 +118,11 @@ Antihistamine - [70](#page-70) - [165](#page-165) - [204](#page-204) - [385](#pa
 
 Antiretroviral medicines - [396](#page-396) - [398](#page-398)
 
-Antispasmodic - [235](#page-235) - [329](#page-329) -  380
+Antispasmodic - [235](#page-235) - [329](#page-329) [380](#page-380)
 
 Antitoxins - [387](#page-387) – [388](#page-388) - [419](#page-419)
 
- - and allergic shock - [70](#page-70) -  105
+ - and allergic shock - [70](#page-70) [105](#page-105)
 
  - for tetanus - [388](#page-388)
 
@@ -140,21 +140,21 @@ Anus - [233](#page-233) - [419](#page-419)
 
  - sores in it - [238](#page-238) - [400](#page-400) - [402](#page-402) - [403](#page-403)
 
-Apoplexy - [37](#page-37) - [78](#page-78) - [288](#page-288) - 327
+Apoplexy - [37](#page-37) - [78](#page-78) - [288](#page-288) [327](#page-327)
 
-Appendicitis - [36](#page-36) - [94](#page-94) - 95
+Appendicitis - [36](#page-36) - [94](#page-94) [95](#page-95)
 
-Appendix - 94
+Appendix [94](#page-94)
 
 Arms
 
-  - muscles and nerves in - 37
+  - muscles and nerves in [37](#page-37)
 
-  - numbness or pain in - [23](#page-23) -  325
+  - numbness or pain in - [23](#page-23) [325](#page-325)
 
-Arteriosclerosis - 326
+Arteriosclerosis [326](#page-326)
 
-Arthritis (joint pain) - [173](#page-173) - 324
+Arthritis (joint pain) - [173](#page-173) [324](#page-324)
 
 - medicines for - [51](#page-51) - [378](#page-378) – [379](#page-379)
 
@@ -170,11 +170,11 @@ Athlete’s foot - [205](#page-205)
 
 Babies
 
-- examining - 34
+- examining [34](#page-34)
 
-- feeding - [120](#page-120) - 121
+- feeding - [120](#page-120) [121](#page-121)
 
-- with diarrhea - [159](#page-159) - 358
+- with diarrhea - [159](#page-159) [358](#page-358)
 
 - with skin problems - [215](#page-215)
 
@@ -188,26 +188,26 @@ Bacterial dysentery - [145](#page-145)
 
 Bacterial infection of the blood - [273](#page-273) – [275](#page-275)
 
-Bag of waters - [256](#page-256) - [258](#page-258) - [259](#page-259) – [260](#page-260) - 420
+Bag of waters - [256](#page-256) - [258](#page-258) - [259](#page-259) – [260](#page-260) [420](#page-420)
 
-Bandages - [85](#page-85) - [87](#page-87) - [101](#page-101) - [102](#page-102) - 336
+Bandages - [85](#page-85) - [87](#page-87) - [101](#page-101) - [102](#page-102) [336](#page-336)
 
 Bathing
 
-- and hygiene - 133
+- and hygiene [133](#page-133)
 
 - newborns and babies - [7](#page-7) - [215](#page-215) - [263](#page-263)
 
 - postpartum mothers - [8](#page-8) - [276](#page-276)
 
-- sick persons - [7](#page-7) -  39
+- sick persons - [7](#page-7) [39](#page-39)
 
 B.C.G. vaccination - [147](#page-147) - [180](#page-180) - [185](#page-185)
 
 # [434](#page-434)
 {:.no_toc}
 
-Beaded lizard bite - 106
+Beaded lizard bite [106](#page-106)
 
 Bedbugs - [200](#page-200)
 
@@ -215,17 +215,17 @@ Bed sores - [13](#page-13) - [214](#page-214) - [420](#page-420)
 
 Beliefs
 
-- harmful - [4](#page-4) - [5](#page-5) - [10](#page-10) - 11
+- harmful - [4](#page-4) - [5](#page-5) - [10](#page-10) [11](#page-11)
 
-- healing power of - 2
+- healing power of [2](#page-2)
 
-Bell’s Palsy - 327
+Bell’s Palsy [327](#page-327)
 
 Belly
 
-- actue abdomen - [93](#page-93) - 94
+- actue abdomen - [93](#page-93) [94](#page-94)
 
-- examination of - [35](#page-35) - 36
+- examination of - [35](#page-35) [36](#page-36)
 
 - lumps in - [280](#page-280)
 
@@ -237,7 +237,7 @@ Bewitchment - [2](#page-2) - [6](#page-6) - [420](#page-420)
 
 Bilharzia - [146](#page-146)
 
-Biliousness - 329
+Biliousness [329](#page-329)
 
 Birth (See Childbirth)
 
@@ -255,11 +255,11 @@ Bites
 
 - of wild animals (rabies) - [181](#page-181)
 
-- poisonous - [104](#page-104) - 106
+- poisonous - [104](#page-104) [106](#page-106)
 
-- that may cause infection - 89
+- that may cause infection [89](#page-89)
 
-- treatment - 86
+- treatment [86](#page-86)
 
 Bitot’s spots - [226](#page-226)
 
@@ -267,9 +267,9 @@ Black flies - [227](#page-227) – [228](#page-228)
 
 Blackheads - [211](#page-211) - [420](#page-420)
 
-Black magic - [5](#page-5) -  24
+Black magic - [5](#page-5) [24](#page-24)
 
-Black widow spider bite - 106
+Black widow spider bite [106](#page-106)
 
 Bladder - [233](#page-233)
 
@@ -281,7 +281,7 @@ Bleach - [74](#page-74) - [401](#page-401)
 
 Bleeding
 
-- and anemia - 124
+- and anemia [124](#page-124)
 
 - during menopause - [246](#page-246)
 
@@ -289,9 +289,9 @@ Bleeding
 
 - gums - [107](#page-107) - [231](#page-231)
 
-- how to control - [13](#page-13) - [82](#page-82) - 83
+- how to control - [13](#page-13) - [82](#page-82) [83](#page-83)
 
-- in an unconscious person - 78
+- in an unconscious person [78](#page-78)
 
 - in the whites of the eyes - [225](#page-225)
 
@@ -314,13 +314,13 @@ Blindness - [221](#page-221) – [222](#page-222) - [412](#page-412)
 
 Blisters
 
-- from medicines - [356](#page-356) -  359
+- from medicines - [356](#page-356) [359](#page-359)
 
 - from touching certain plants - etc. - [204](#page-204)
 
-- with burns - 96
+- with burns [96](#page-96)
 
-- with chickenpox - 311
+- with chickenpox [311](#page-311)
 
 - with eczema - [216](#page-216)
 
@@ -334,13 +334,13 @@ Blood (Also see Bleeding)
 
 - flukes - [146](#page-146)
 
-- in stools - [128](#page-128) - [144](#page-144) – [146](#page-146) - [157](#page-157) – [158](#page-158) - [306](#page-306) -  401
+- in stools - [128](#page-128) - [144](#page-144) – [146](#page-146) - [157](#page-157) – [158](#page-158) - [306](#page-306) [401](#page-401)
 
 - in the urine - [146](#page-146) - [234](#page-234)
 
-- in vomit (cirrhosis) - 328
+- in vomit (cirrhosis) [328](#page-328)
 
-- in vomit (ulcer) - 128
+- in vomit (ulcer) [128](#page-128)
 
 
 Blood pressure - [420](#page-420)
@@ -355,9 +355,9 @@ Blood pressure - [420](#page-420)
 
 Blood transfusion - [399](#page-399) - [401](#page-401)
 
-Blueness of skin - lips - and nails - 30
+Blueness of skin - lips - and nails [30](#page-30)
 
-Body-building foods - 110
+Body-building foods [110](#page-110)
 
 Boil (abscess) - [202](#page-202) - [420](#page-420)
 
@@ -365,11 +365,11 @@ Bones
 
 - calcium for - [246](#page-246)
 
-- deformities of - [125](#page-125) -  319
+- deformities of - [125](#page-125) [319](#page-319)
 
-- hit by a bullet - 90
+- hit by a bullet [90](#page-90)
 
-- that have come out of place at a joint - 101
+- that have come out of place at a joint [101](#page-101)
 (Also see Broken bones)
 
 Bottle feeding - [120](#page-120) - [154](#page-154) - [296](#page-296)
@@ -377,15 +377,15 @@ Bottle feeding - [120](#page-120) - [154](#page-154) - [296](#page-296)
 Bowel movement - [242](#page-242) - [420](#page-420)
 (Also see Feces - Stools)
 
-Braces - 315
+Braces [315](#page-315)
 
-Brain damage - [319](#page-319) - 320
+Brain damage - [319](#page-319) [320](#page-320)
 
-- and seizures - 319
+- and seizures [319](#page-319)
 
-- from high fever - 76
+- from high fever [76](#page-76)
 
-- from tapeworm cysts - 143
+- from tapeworm cysts [143](#page-143)
 
 Bran - [16](#page-16) - [126](#page-126) - [382](#page-382)
 
@@ -397,17 +397,17 @@ Breast abscess (mastitis) - [278](#page-278) - [424](#page-424)
 
 Breast cancer - [279](#page-279)
 
-Breast feeding - w[12](#page-12) - [120](#page-120) - 122
+Breast feeding - w[12](#page-12) - [120](#page-120) [122](#page-122)
 
 - and birth control - [285](#page-285) - [289](#page-289) - [294](#page-294) - [394](#page-394)
 
-- and good nutrition - [114](#page-114) - [116](#page-116) -  304
+- and good nutrition - [114](#page-114) - [116](#page-116) [304](#page-304)
 
 - and preventing diarrhea - [154](#page-154) - [156](#page-156)
 
 - of newborns - [271](#page-271) - [277](#page-277) - [405](#page-405)
 
-- traditional beliefs about - [2](#page-2) -  7
+- traditional beliefs about - [2](#page-2) [7](#page-7)
 
 (Also see Breasts)
 
@@ -423,20 +423,20 @@ Breathing (respiration) - [426](#page-426)
 
 - hot water vapors[47](#page-47) - [168](#page-168)
 
-- of a sick person - 32
+- of a sick person [32](#page-32)
 
-- rate - 32
+- rate [32](#page-32)
 
-- stopped - 80
+- stopped [80](#page-80)
 
 (Also see Lung diseases - Mouth-to-mouth
 breathing)
 
 Breech delivery - [257](#page-257) - [268](#page-268)
 
-Broad-spectrum antibiotics - [56](#page-56) - [58](#page-58) - [352](#page-352) - [355](#page-355) - 358
+Broad-spectrum antibiotics - [56](#page-56) - [58](#page-58) - [352](#page-352) - [355](#page-355) [358](#page-358)
 
-Broken bones - [14](#page-14) - [98](#page-98) - 99
+Broken bones - [14](#page-14) - [98](#page-98) [99](#page-99)
 
 Bronchitis - [170](#page-170)
 
@@ -446,13 +446,13 @@ Bubos - [238](#page-238) - [403](#page-403) - [420](#page-420)
 
 Bullet wound
 
-- in arms or legs - 90
+- in arms or legs [90](#page-90)
 
-- in the belly - [15](#page-15) - [92](#page-92) - 93
+- in the belly - [15](#page-15) - [92](#page-92) [93](#page-93)
 
-- in the head - 91
+- in the head [91](#page-91)
 
-Burns - [13](#page-13) - [96](#page-96) - 97
+Burns - [13](#page-13) - [96](#page-96) [97](#page-97)
 
 - and leprosy - [192](#page-192)
 
@@ -464,15 +464,15 @@ Burns - [13](#page-13) - [96](#page-96) - 97
 # C subjects
 
 
-Calcium and rickets - 125
+Calcium and rickets [125](#page-125)
 
-- danger of injecting - [53](#page-53) -  67
+- danger of injecting - [53](#page-53) [67](#page-67)
 
-- for spider bite - 106
+- for spider bite [106](#page-106)
 
 - for weak bones - [246](#page-246)
 
-- in eggshells - 116
+- in eggshells [116](#page-116)
 
 Callus - [210](#page-210)
 
@@ -500,7 +500,7 @@ Carbonated drinks - [115](#page-115) - [150](#page-150)
 
 Cardon cactus - [13](#page-13) - [232](#page-232)
 
-Cascara - 16
+Cascara [16](#page-16)
 
 Cassava - [117](#page-117) - [130](#page-130) - [420](#page-420)
 
@@ -508,25 +508,25 @@ Cassava - [117](#page-117) - [130](#page-130) - [420](#page-420)
 
 Cast - [14](#page-14) - [98](#page-98) - [319](#page-319) - [420](#page-420)
 
-Castor oil - 16
+Castor oil [16](#page-16)
 
 Cataract - [33](#page-33) - [217](#page-217) - [225](#page-225) - [323](#page-323) - [420](#page-420)
 
 Catheter - [239](#page-239) – [240](#page-240) - [336](#page-336) - [420](#page-420)
 
-Causes of illness - w6 – w7 - w10 - w27 - [17](#page-17) - 19
+Causes of illness -[w6](#page-w6)–[w7](#page-w7)-[w10](#page-w10)-[w27](#page-w27)- [17](#page-17) [19](#page-19)
 
 Cavities in teeth - [229](#page-229) – [230](#page-230) - [420](#page-420)
 
-Cellulitis - 212
+Cellulitis [212](#page-212)
 
 Cereal - [152](#page-152) - [381](#page-381)
 
-Cerebral malaria - [30](#page-30) - [178](#page-178) - [186](#page-186) - 366
+Cerebral malaria - [30](#page-30) - [178](#page-178) - [186](#page-186) [366](#page-366)
 
-Cerebral palsy - 320
+Cerebral palsy [320](#page-320)
 
-Cerebro-vascular accident (CVA) - [37](#page-37) - [78](#page-78) - [288](#page-288) - 327
+Cerebro-vascular accident (CVA) - [37](#page-37) - [78](#page-78) - [288](#page-288) [327](#page-327)
 
 Cervix - [286](#page-286) - [291](#page-291) - [420](#page-420)
 
@@ -536,15 +536,15 @@ Chancroid - [236](#page-236) - [238](#page-238) - [403](#page-403)
 
 Chemical burns of the eye - [219](#page-219)
 
-Chest wounds - 91
+Chest wounds [91](#page-91)
 
-Chickenpox - [204](#page-204) - 311
+Chickenpox - [204](#page-204) [311](#page-311)
 
 Chiggers - [201](#page-201) - [420](#page-420)
 
-CHILD-to-child program - 322
+CHILD-to-child program [322](#page-322)
 
-Child Health Chart - w20 - w24 - [297](#page-297) –[304](#page-304) - [420](#page-420)
+Child Health Chart -[w20](#page-w20)-[w24](#page-w24)- [297](#page-297) –[304](#page-304) - [420](#page-420)
 
 Childbirth
 
@@ -554,7 +554,7 @@ Childbirth
 
 - cutting the cord - [262](#page-262) - [263](#page-263)
 
-- difficult births - [267](#page-267) –[269](#page-269) -  319
+- difficult births - [267](#page-267) –[269](#page-269) [319](#page-319)
 
 - infection - [260](#page-260) - [276](#page-276)
 
@@ -568,7 +568,7 @@ Childbirth
 
 - signs of labor - [258](#page-258)
 
-- tearing of the birth opening - 269
+- tearing of the birth opening [269](#page-269)
 
 Childbirth fever - [27](#page-27) - [276](#page-276) - [283](#page-283) - [420](#page-420)
 
@@ -578,28 +578,28 @@ Children
 
 - foods for - [112](#page-112) - [113](#page-113) - [120](#page-120) -[122](#page-122) - [295](#page-295)
 
-- giving injections to - 73
+- giving injections to [73](#page-73)
 
 - growth of - [107](#page-107) - [297](#page-297) – 304
 
 - having the number you want - [283](#page-283) – [294](#page-294)
 
-- infectious diseases of - [311](#page-311) - 315
+- infectious diseases of - [311](#page-311) [315](#page-315)
 
-- malnourished - [112](#page-112) -[114](#page-114) - [154](#page-154) - [303](#page-303) - [305](#page-305) - 306
+- malnourished - [112](#page-112) -[114](#page-114) - [154](#page-154) - [303](#page-303) - [305](#page-305) [306](#page-306)
 
-- mentally slow - deaf - or deformed - 318
+- mentally slow - deaf - or deformed [318](#page-318)
 
-- problems they are born with - [316](#page-316) - 321
+- problems they are born with - [316](#page-316) [321](#page-321)
 
-- severely ill - 214
+- severely ill [214](#page-214)
 
 - vaccinations for - [147](#page-147) - [296](#page-296)  
 (See also Babies - Newborns)
 
 Chlamydia - [221](#page-221) - [234](#page-234) - [236](#page-236) – [237](#page-237) - [355](#page-355) - [359](#page-359) - [378](#page-378)
 
-Choking - [79](#page-79) -  314
+Choking - [79](#page-79) [314](#page-314)
 
 Cholera - [158](#page-158)
 
@@ -609,11 +609,11 @@ Circulation - poor (See Varicose veins)
 
 Circumcision - [74](#page-74) - [401](#page-401) - [404](#page-404)
 
-Cirrhosis of the liver - [108](#page-108) - [148](#page-148) - 328
+Cirrhosis of the liver - [108](#page-108) - [148](#page-148) [328](#page-328)
 
-Cleanliness - [131](#page-131) - 139
+Cleanliness - [131](#page-131) [139](#page-139)
 
-- basic guidelines of - [133](#page-133) - 139
+- basic guidelines of - [133](#page-133) [139](#page-139)
 
 - in childbirth - [260](#page-260) - [263](#page-263)
 
@@ -623,9 +623,9 @@ Cleanliness - [131](#page-131) - 139
 
 - of mouth and teeth - [229](#page-229) – [231](#page-231)
 
-- personal cleanliness - [39](#page-39) - [41](#page-41) - [133](#page-133) - 135
+- personal cleanliness - [39](#page-39) - [41](#page-41) - [133](#page-133) [135](#page-135)
 
-- public cleanliness - [137](#page-137) - 139
+- public cleanliness - [137](#page-137) [139](#page-139)
 
 - to prevent infection - [74](#page-74) - [84](#page-84) - [401](#page-401) - [414](#page-414)
 
@@ -637,19 +637,19 @@ Climacteric (menopause) - [246](#page-246)
 
 Clitoris - [233](#page-233)
 
-Clubbed feet - 319
+Clubbed feet [319](#page-319)
 
 Cocaine - [416](#page-416) – [417](#page-417)
 
 Coitus interruptus - [285](#page-285) - [294](#page-294)
 
-Cold and hot sicknesses - 119
+Cold and hot sicknesses [119](#page-119)
 
 Cold compresses - [193](#page-193) – [194](#page-194)
 
-Colds and the ‘flu’ - [45](#page-45) - [57](#page-57) - [163](#page-163) - 308
+Colds and the ‘flu’ - [45](#page-45) - [57](#page-57) - [163](#page-163) [308](#page-308)
 
-- diet with - 123
+- diet with [123](#page-123)
 
 Cold sores or fever blisters - [48](#page-48) - [171](#page-171) - [232](#page-232) - [402](#page-402)
 
@@ -665,7 +665,7 @@ Combination medicines - [52](#page-52) - [397](#page-397)
 
 Combined methods of birth control - [285](#page-285) - [292](#page-292)
 
-Comfort of a sick person - 39
+Comfort of a sick person [39](#page-39)
 
 Complications from abortion - [243](#page-243) - [414](#page-414) – [415](#page-415)
 
@@ -673,13 +673,13 @@ Compresses - [193](#page-193) – [195](#page-195) - [421](#page-421)
 
 Condom - [239](#page-239) - [285](#page-285) - [287](#page-287) - [395](#page-395) - [401](#page-401)
 
-Congestion - 23
+Congestion [23](#page-23)
 
-Conjunctivitis - [219](#page-219) – [221](#page-221) - 308
+Conjunctivitis - [219](#page-219) – [221](#page-221) [308](#page-308)
 
-Constipation - [16](#page-16) -  126
+Constipation - [16](#page-16) [126](#page-126)
 
-- as a sign of acute abdomen - 94
+- as a sign of acute abdomen [94](#page-94)
 
 - during pregnancy - [248](#page-248)
 
@@ -705,13 +705,13 @@ Cooperatives - w24
 
 Cornea - [217](#page-217) - [218](#page-218) - [224](#page-224) - [225](#page-225) - [226](#page-226) - [228](#page-228)
 
-Corn silk - 12
+Corn silk [12](#page-12)
 
 Corns - [210](#page-210) - [421](#page-421)
 
 Cortico-steroids - [51](#page-51) - [129](#page-129) - [370](#page-370)
 
-Cortisone - 51
+Cortisone [51](#page-51)
 
 Cough - [168](#page-168) – [169](#page-169)
 
@@ -731,23 +731,23 @@ Cradle cap - [215](#page-215)
 
 Cramps - [421](#page-421)
 
-- gut - [12](#page-12) - [35](#page-35) - [106](#page-106) - [145](#page-145) - [147](#page-147) - [243](#page-243) - 380
+- gut - [12](#page-12) - [35](#page-35) - [106](#page-106) - [145](#page-145) - [147](#page-147) - [243](#page-243) [380](#page-380)
 
-- heat - 81
+- heat [81](#page-81)
 
 Cretinism (See Hypothyroidism)
 
-Crop rotation - w13 - [115](#page-115) - [117](#page-117) - [427](#page-427)
+Crop rotation -[w13](#page-w13)- [115](#page-115) - [117](#page-117) - [427](#page-427)
 
-Cross eyes - [223](#page-223) - 318
+Cross eyes - [223](#page-223) [318](#page-318)
 
-Crutches - how to make - 315
+Crutches - how to make [315](#page-315)
 
 Cupping - [22](#page-22) - [421](#page-421)
 
-Cuts - [84](#page-84) - 86
+Cuts - [84](#page-84) [86](#page-86)
 
-CVA (Cerebro-vascular accident) - [37](#page-37) - [78](#page-78) - [288](#page-288) - 327
+CVA (Cerebro-vascular accident) - [37](#page-37) - [78](#page-78) - [288](#page-288) [327](#page-327)
 
 Cyst - [143](#page-143) - [243](#page-243) - [280](#page-280) - [421](#page-421)
 
@@ -760,21 +760,21 @@ Dandruff - [215](#page-215) - [421](#page-421)
 
 Dandy fever (See Dengue)
 
-Dangerous illnesses - w28 - [42](#page-42) - [179](#page-179) – [192](#page-192)
+Dangerous illnesses -[w28](#page-w28)- [42](#page-42) - [179](#page-179) – [192](#page-192)
 
-Dangerous use of medicine - 50
+Dangerous use of medicine [50](#page-50)
 
-Date of expiration - 332
+Date of expiration [332](#page-332)
 
 Deafness
 
-- home cure for - 11
+- home cure for [11](#page-11)
 
-- in children - 318
+- in children [318](#page-318)
 
-- with ringing and dizziness - 327
+- with ringing and dizziness [327](#page-327)
 
-Death - accepting - 330
+Death - accepting [330](#page-330)
 
 Decongestants - [164](#page-164) - [165](#page-165) - [421](#page-421)
 
@@ -782,7 +782,7 @@ Defects - birth - [7](#page-7) - [289](#page-289) - [316](#page-316) -[321](#pag
 
 Deformities - [421](#page-421)
 
-- from birth - [289](#page-289) - [316](#page-316) - 321
+- from birth - [289](#page-289) - [316](#page-316) [321](#page-321)
 
 - with leprosy - [191](#page-191) – [192](#page-192)
 
@@ -818,17 +818,17 @@ Diaphragm - [285](#page-285) - [291](#page-291) - [395](#page-395)
 
 Diarrhea - [151](#page-151) – [160](#page-160)
 
-- and dysentery - [144](#page-144) – [145](#page-145) - [153](#page-153) - 306
+- and dysentery - [144](#page-144) – [145](#page-145) - [153](#page-153) [306](#page-306)
 
 - babies with - [159](#page-159) - [271](#page-271)
 
-- causes of - w7 - [17](#page-17) - [107](#page-107) - [132](#page-132) -[33](#page-33) - [135](#page-135) - [153](#page-153) - [399](#page-399) - [400](#page-400)
+- causes of -[w7](#page-w7)- [17](#page-17) - [107](#page-107) - [132](#page-132) -[33](#page-33) - [135](#page-135) - [153](#page-153) - [399](#page-399) - [400](#page-400)
 
-- causing sunken fontanel - 9
+- causing sunken fontanel [9](#page-9)
 
-- home cures for - 11
+- home cures for [11](#page-11)
 
-- prevention of - w7 - [46](#page-46) -[47](#page-47) - [154](#page-154)
+- prevention of -[w7](#page-w7)- [46](#page-46) -[47](#page-47) - [154](#page-154)
 
 - severe - [151](#page-151) - [160](#page-160)
 
@@ -838,63 +838,63 @@ Diarrhea - [151](#page-151) – [160](#page-160)
 
 - with vomiting - [151](#page-151) - [157](#page-157)
 
-- with worms - 142
+- with worms [142](#page-142)
 
 Diet - [421](#page-421)
 
-- congestion and - 23
+- congestion and [23](#page-23)
 
-- for fever - 8
+- for fever [8](#page-8)
 
 - for postpartum mothers - [8](#page-8) - [123](#page-123) - [276](#page-276)
 
-- for sick persons - [40](#page-40) -  123
+- for sick persons - [40](#page-40) [123](#page-123)
 
-- for small children - [120](#page-120) - 122
+- for small children - [120](#page-120) [122](#page-122)
 
 - for specific diseases - [40](#page-40) - [124](#page-124) -[130](#page-130) - [154](#page-154) – [156](#page-156)
 
-- harmful ideas about - 123
+- harmful ideas about [123](#page-123)
 
-- things to avoid - 119
+- things to avoid [119](#page-119)
 
-- what to eat to stay healthy - [110](#page-110) - 111
+- what to eat to stay healthy - [110](#page-110) [111](#page-111)
 
-- while taking medicines - 123
+- while taking medicines [123](#page-123)
 
 - with oral contraceptives - [286](#page-286)
 
 (Also see Foods - Nutrition)
 
-Diets for specific diseases - [40](#page-40) - [124](#page-124) - 130
+Diets for specific diseases - [40](#page-40) - [124](#page-124) [130](#page-130)
 
 - acid indigestion - heartburn - and ulcers,128 – 129
 
-- anemia - 124
+- anemia [124](#page-124)
 
 - constipation - [16](#page-16) - [126](#page-126) - [382](#page-382)
 
-- diabetes - [40](#page-40) -  127
+- diabetes - [40](#page-40) [127](#page-127)
 
 - diarrhea - [155](#page-155) – [156](#page-156) - [159](#page-159)
 
-- goiter - 130
+- goiter [130](#page-130)
 
-- high blood pressure - 125
+- high blood pressure [125](#page-125)
 
-- people who are too heavy - 126
+- people who are too heavy [126](#page-126)
 
-Digestion - 13
+Digestion [13](#page-13)
 
-Diphtheria - [147](#page-147) - [296](#page-296) - [313](#page-313) - 314
+Diphtheria - [147](#page-147) - [296](#page-296) - [313](#page-313) [314](#page-314)
 
-Direct pressure - 82
+Direct pressure [82](#page-82)
 
 Disability
 
-- how injections cause - [74](#page-74) -  314
+- how injections cause - [74](#page-74) [314](#page-314)
 
-- in children - [74](#page-74) - [314](#page-314) - [318](#page-318) - 321
+- in children - [74](#page-74) - [314](#page-314) - [318](#page-318) [321](#page-321)
 
 Diseases (see sicknesses)
 
@@ -902,9 +902,9 @@ Dislocations - [38](#page-38) - [101](#page-101) - [316](#page-316) - [422](#pag
 
 Dizziness - [327](#page-327) - [249](#page-249)
 
-Dolor de ijar - 22
+Dolor de ijar [22](#page-22)
 
-Dosage information - 340
+Dosage information [340](#page-340)
 
 Double vision - [227](#page-227)
 
@@ -914,7 +914,7 @@ Down syndrome (mongolism) - [318](#page-318) - [425](#page-425)
 
 D.P.T. vaccination - [147](#page-147)
 
-Drinking (alcohol) - [148](#page-148) – [149](#page-149) - [318](#page-318) - [325](#page-325) - [326](#page-326) -  328
+Drinking (alcohol) - [148](#page-148) – [149](#page-149) - [318](#page-318) - [325](#page-325) - [326](#page-326) [328](#page-328)
 [400](#page-400) - [416](#page-416)
 
 Drowning - [79](#page-79) - [422](#page-422)
@@ -923,7 +923,7 @@ Drug abuse - [399](#page-399) - [401](#page-401) - [416](#page-416)  – [417](#
 
 Dry eyes - [107](#page-107) - [113](#page-113) - [226](#page-226) - [391](#page-391)
 
-Dry malnutrition (marasmus) - [112](#page-112) - 113
+Dry malnutrition (marasmus) - [112](#page-112) [113](#page-113)
 
 
 
@@ -944,13 +944,13 @@ Dysentery - [144](#page-144) – [145](#page-145) - [422](#page-422)
 
 Ears
 
-- how to examine a sick person’s - 34
+- how to examine a sick person’s [34](#page-34)
 
-- infections of - 309
+- infections of [309](#page-309)
 
-- nodes behind - 88
+- nodes behind [88](#page-88)
 
-- ringing of - [107](#page-107) -  327
+- ringing of - [107](#page-107) [327](#page-327)
 
 Earwax - [405](#page-405)
 
@@ -964,33 +964,33 @@ Emergency
 
 - contraception - [288](#page-288) - [394](#page-394) – [395](#page-395)
 
-- problems of the gut - [93](#page-93) - 95
+- problems of the gut - [93](#page-93) [95](#page-95)
 
-- supply of medicines - 332
+- supply of medicines [332](#page-332)
 
-- use of injections - 66
+- use of injections [66](#page-66)
 
 Emergencies caused by cold - [408](#page-408) – [409](#page-409)
 
-Emergencies caused by heat - 81
+Emergencies caused by heat [81](#page-81)
 
-Empacho - 22
+Empacho [22](#page-22)
 
 Emphysema - [170](#page-170)
 
 Enema - [15](#page-15) - [76](#page-76) - [92](#page-92) - [422](#page-422)
 
-Energy foods - [110](#page-110) - 111
+Energy foods - [110](#page-110) [111](#page-111)
 
-Enterobius (pinworm - threadworm) - 141
+Enterobius (pinworm - threadworm) [141](#page-141)
 
 Epilepsy - [38](#page-38) - [178](#page-178) - [319](#page-319) - [388](#page-388) – [390](#page-390)
 
-Epsom salts - 16
+Epsom salts [16](#page-16)
 
-Erysipelas - 212
+Erysipelas [212](#page-212)
 
-Evaluation - w20 - [422](#page-422)
+Evaluation -[w20](#page-w20)- [422](#page-422)
 
 Evil eye - [5](#page-5) - [422](#page-422)
 
@@ -1004,21 +1004,21 @@ Examining
 
 - eyesight - [223](#page-223)
 
-- for appendicitis - [36](#page-36) -  95
+- for appendicitis - [36](#page-36) [95](#page-95)
 
-- for hernia - [94](#page-94) -  317
+- for hernia - [94](#page-94) [317](#page-317)
 
 - for knee reflexes - [183](#page-183)
 
 Excision - [404](#page-404)
 
-Exhaustion - heat - 81
+Exhaustion - heat [81](#page-81)
 
 Expectorants - [52](#page-52) - [383](#page-383) - [422](#page-422)
 
 Experimenting - w15
 
-Extra finger or toe - [318](#page-318) - 319
+Extra finger or toe - [318](#page-318) [319](#page-319)
 
 Eyes - [217](#page-217) – [228](#page-228)
 
@@ -1026,11 +1026,11 @@ Eyes - [217](#page-217) – [228](#page-228)
 
 - danger signs - [33](#page-33) - [217](#page-217) - [227](#page-227)
 
-- dryness of - [107](#page-107) -  113
+- dryness of - [107](#page-107) [113](#page-113)
 
-- examining the eyes - 33
+- examining the eyes [33](#page-33)
 
-- eye problems of older people - [227](#page-227) - 323
+- eye problems of older people - [227](#page-227) [323](#page-323)
 
 - eye problems with leprosy - [192](#page-192)
 
@@ -1040,9 +1040,9 @@ Eyes - [217](#page-217) – [228](#page-228)
 
 - red and painful - [219](#page-219) - [225](#page-225)
 
-- spots and “floaters” - [227](#page-227) - 323
+- spots and “floaters” - [227](#page-227) [323](#page-323)
 
-- yellow - [30](#page-30) - [172](#page-172) - [274](#page-274) - [328](#page-328) -  329
+- yellow - [30](#page-30) - [172](#page-172) - [274](#page-274) - [328](#page-328) [329](#page-329)
 
 Eyesight testing - [223](#page-223)
 
@@ -1050,35 +1050,35 @@ Eyesight testing - [223](#page-223)
 
 Face
 
-- dull - 318
+- dull [318](#page-318)
 
 - lumpy skin on - [191](#page-191)
 
-- paralysis of - [37](#page-37) - 327
+- paralysis of - [37](#page-37) [327](#page-327)
 
-Fainting - [78](#page-78) - [79](#page-79) - [81](#page-81) - [325](#page-325) -  327
+Fainting - [78](#page-78) - [79](#page-79) - [81](#page-81) - [325](#page-325) [327](#page-327)
 
-Falciparum malaria - [158](#page-158) - [186](#page-186) - 363
+Falciparum malaria - [158](#page-158) - [186](#page-186) [363](#page-363)
 
 False labor - [258](#page-258)
 
-Family planning - w16 - [246](#page-246) - [283](#page-283) – [294](#page-294) - [393](#page-393) – [396](#page-396)
+Family planning -[w16](#page-w16)- [246](#page-246) - [283](#page-283) – [294](#page-294) - [393](#page-393) – [396](#page-396)
 
 - and infertility - [244](#page-244)
 
-Farming - w13 - [412](#page-412) – [413](#page-413)
+Farming -[w13](#page-w13)- [412](#page-412) – [413](#page-413)
 
 Farsightedness - [323](#page-323) - [422](#page-422)
 
 Fatigue - [23](#page-23) - [124](#page-124) - [323](#page-323) - [400](#page-400)
 
-Fats - [111](#page-111) -  121
+Fats - [111](#page-111) [121](#page-121)
 
 Feces - [422](#page-422)
 
-- and infections - [84](#page-84) - [96](#page-96) -  131
+- and infections - [84](#page-84) - [96](#page-96) [131](#page-131)
 
-- in home remedies - 11
+- in home remedies [11](#page-11)
 
 - in newborn’s mouth and nose - [268](#page-268)
 (Also see Stools)
@@ -1087,11 +1087,11 @@ Feces-to-mouth - disease spread from - [131](#page-131) -[133](#page-133) - [140
 
 Feet
 
-- clubbed - 319
+- clubbed [319](#page-319)
 
 - loss of feeling in - [127](#page-127) - [162](#page-162) - [173](#page-173) - [191](#page-191) – [192](#page-192)
 
-- swelling of - [113](#page-113) - [124](#page-124) - [144](#page-144) - [176](#page-176) - [248](#page-248) [249](#page-249) - 323
+- swelling of - [113](#page-113) - [124](#page-124) - [144](#page-144) - [176](#page-176) - [248](#page-248) [249](#page-249) [323](#page-323)
 
 Fertile days - [244](#page-244) - [291](#page-291)
 
@@ -1101,23 +1101,23 @@ Fever
 
 - childbirth - [27](#page-27) - [276](#page-276) - [283](#page-283)
 
-- diet with - 8
+- diet with [8](#page-8)
 
-- high - [15](#page-15) - [75](#page-75) -[76](#page-76) -  335
+- high - [15](#page-15) - [75](#page-75) -[76](#page-76) [335](#page-335)
 
-- how to bring down - [75](#page-75) - [76](#page-76) -  335
+- how to bring down - [75](#page-75) - [76](#page-76) [335](#page-335)
 
-- in children - 306
+- in children [306](#page-306)
 
 - in the newborn - [270](#page-270) - [273](#page-273)
 
-- patterns in different diseases - [26](#page-26) -[27](#page-27) - [30](#page-30) -  31
+- patterns in different diseases - [26](#page-26) -[27](#page-27) - [30](#page-30) [31](#page-31)
 
 Fever blisters or cold sores - [48](#page-48) - [171](#page-171) - [232](#page-232)
 
 La Fiebre - [26](#page-26)Filmstrips - w22
 
-Fire wood - 135
+Fire wood [135](#page-135)
 
 First aid - [75](#page-75) -[106](#page-106) - [422](#page-422)
 
@@ -1127,7 +1127,7 @@ Flannel-graphs - w22
 
 Fleas - [190](#page-190)
 
-Flies and disease - w23 - [135](#page-135) - [227](#page-227) – [228](#page-228) - [406](#page-406)
+Flies and disease -[w23](#page-w23)- [135](#page-135) - [227](#page-227) – [228](#page-228) - [406](#page-406)
 
 Flu - [45](#page-45) - [57](#page-57) - [163](#page-163) - [308](#page-308) - [422](#page-422)
 
@@ -1139,10 +1139,10 @@ Foam - contraceptive - [285](#page-285) - [290](#page-290) - [395](#page-395)
 
 Folic acid - [118](#page-118) - [321](#page-321) - [392](#page-392) - [422](#page-422)
 
-Folk beliefs - [3](#page-3) - [6](#page-6) -[8](#page-8) -  123
+Folk beliefs - [3](#page-3) - [6](#page-6) -[8](#page-8) [123](#page-123)
 (Also see Home remedies)
 
-Folk disease - [21](#page-21) - 26
+Folk disease - [21](#page-21) [26](#page-26)
 
 Follicles inside the eyelids - [220](#page-220)
 
@@ -1163,25 +1163,25 @@ Food poisoning - [23](#page-23) - [103](#page-103) - [135](#page-135) - [153](#p
 
 Foods
 
-- at low cost - [116](#page-116) - 118
+- at low cost - [116](#page-116) [118](#page-118)
 
 - for a person with diarrhea - [155](#page-155) – [156](#page-156)
 
-- for sick persons - 41
+- for sick persons [41](#page-41)
 
-- for small children - [120](#page-120) - 122
+- for small children - [120](#page-120) [122](#page-122)
 
 - nutritious - [110](#page-110) -[111](#page-111) - [295](#page-295)
 
-- plant - 116
+- plant [116](#page-116)
 
 - producing - w11
 
-- spoiled - [103](#page-103) -  135
+- spoiled - [103](#page-103) [135](#page-135)
 
 (Also see Diet - Nutrition)
 
-Fractions - [59](#page-59) -[60](#page-60) -  340
+Fractions - [59](#page-59) -[60](#page-60) [340](#page-340)
 
 Fractures (See Broken bones)
 
@@ -1191,29 +1191,29 @@ Frostbite - [409](#page-409)
 
 Frozen skin - [409](#page-409)
 
-Fungus infection - [19](#page-19) -  58
+Fungus infection - [19](#page-19) [58](#page-58)
 
 - ringworm - tinea - [205](#page-205) – [206](#page-206) - [371](#page-371)
 
 - thrush - [232](#page-232)
 
-- vaginal yeast - [242](#page-242) - 369
+- vaginal yeast - [242](#page-242) [369](#page-369)
 
 # G subjects
 
 Gallbladder - [422](#page-422)
 
-- home cure for - 12
+- home cure for [12](#page-12)
 
-- pain in - 36
+- pain in [36](#page-36)
 
-- problems - 329
+- problems [329](#page-329)
 
-Gangrene - 213
+Gangrene [213](#page-213)
 
 Garlic - [12](#page-12) - [241](#page-241) - [242](#page-242)
 
-Gastritis - [128](#page-128) - 129
+Gastritis - [128](#page-128) [129](#page-129)
 
 Gelusil - [173](#page-173)
 
@@ -1227,7 +1227,7 @@ Genitals - [205](#page-205) - [232](#page-232) - [233](#page-233) – [244](#pag
 
 - sores on - [237](#page-237) - [402](#page-402) – [403](#page-403)
 
-German measles (Rubella) - [247](#page-247) - [312](#page-312) -  320
+German measles (Rubella) - [247](#page-247) - [312](#page-312) [320](#page-320)
 
 Germs - [19](#page-19) - [423](#page-423)
 
@@ -1235,9 +1235,9 @@ Giardia - [145](#page-145) - [336](#page-336) - [367](#page-367) -[369](#page-36
 
 - and diarrhea - [153](#page-153) - [158](#page-158)
 
-Gila monster bite - 106
+Gila monster bite [106](#page-106)
 
-Glaucoma - [33](#page-33) - [222](#page-222) - 323
+Glaucoma - [33](#page-33) - [222](#page-222) [323](#page-323)
 
 Gloves - rubber or plastic - [255](#page-255) - [262](#page-262) - [264](#page-264) - [401](#page-401)
 
@@ -1245,7 +1245,7 @@ Glue sniffing - [416](#page-416)
 
 Goiter - [10](#page-10) - [130](#page-130) - [423](#page-423)
 
-Gonorrhea - [221](#page-221) - [236](#page-236) – [237](#page-237) - 359
+Gonorrhea - [221](#page-221) - [236](#page-236) – [237](#page-237) [359](#page-359)
 (Also see Sexually transmitted infections)
 
 Grams - measuring in - [59](#page-59) -[60](#page-60) - [423](#page-423)
@@ -1253,11 +1253,11 @@ Grams - measuring in - [59](#page-59) -[60](#page-60) - [423](#page-423)
 Groin - lymph nodes in - [88](#page-88) - [238](#page-238) - [423](#page-423)
 (Also see Hernia)
 
-Group discussions - w24 w27
+Group discussions -[w24](#page-w24)w27
 
 Growth - children’s - [107](#page-107) - [297](#page-297) – 304
 
-Guaco - 3
+Guaco [3](#page-3)
 
 Guinea worm - [406](#page-406) – [407](#page-407)
 
@@ -1265,25 +1265,25 @@ Gums - [229](#page-229) – [232](#page-232)
 
 - bleeding of - [107](#page-107) - [231](#page-231)
 
-- pale - 124
+- pale [124](#page-124)
 
 - swelling caused by medicine - [231](#page-231)
 
 Gut
 
-- cramps - [12](#page-12) - [106](#page-106) - [145](#page-145) - [157](#page-157) - [243](#page-243) - 380
+- cramps - [12](#page-12) - [106](#page-106) - [145](#page-145) - [157](#page-157) - [243](#page-243) [380](#page-380)
 
-- emergency problems of - [35](#page-35) - [93](#page-93) - 94
+- emergency problems of - [35](#page-35) - [93](#page-93) [94](#page-94)
 
 - infection - [47](#page-47) - [131](#page-131) - [144](#page-144) – [145](#page-145) - [153](#page-153) - [189](#page-189)
 
-- obstructed - [22](#page-22) -  94
+- obstructed - [22](#page-22) [94](#page-94)
 
-- out of anus (prolapse) - 142
+- out of anus (prolapse) [142](#page-142)
 
-- outside a wound - 92
+- outside a wound [92](#page-92)
 
-- wounds in - 92
+- wounds in [92](#page-92)
 
 (Also see Abdomen - Swollen belly)
 
@@ -1291,11 +1291,11 @@ Gut
 
 Hair
 
-- changes with malnutrition - 107
+- changes with malnutrition [107](#page-107)
 
 - examination for lice - [200](#page-200)
 
-- loss of - 107
+- loss of [107](#page-107)
 
 Hansen’s disease (See Leprosy)
 
@@ -1307,41 +1307,41 @@ Head
 
 - fungus infections of - [205](#page-205)
 
-- injury - [37](#page-37) - [78](#page-78) -  91
+- injury - [37](#page-37) - [78](#page-78) [91](#page-91)
 
-- swollen lymph nodes on - 88
+- swollen lymph nodes on [88](#page-88)
 
 Headaches - [162](#page-162) - [249](#page-249) - [410](#page-410)
 
-Health - w7 - w11
+Health -[w7](#page-w7)- w11
 
-Health worker - w1 w7 - w29 - [43](#page-43) - [246](#page-246) - 340
+Health worker -[w1](#page-w1)w7 -[w29](#page-w29)- [43](#page-43) - [246](#page-246) [340](#page-340)
 
-Heart attacks - [23](#page-23) -  325
+Heart attacks - [23](#page-23) [325](#page-325)
 
-- confusion with heartburn - 128
+- confusion with heartburn [128](#page-128)
 
 - trouble - [33](#page-33) - [310](#page-310) - [325](#page-325) - [410](#page-410)
 
-Heartbeat - [32](#page-32) -[33](#page-33) -  77
+Heartbeat - [32](#page-32) -[33](#page-33) [77](#page-77)
 
 Heartburn - [423](#page-423)
 
-- diet for - [128](#page-128) - 129
+- diet for - [128](#page-128) [129](#page-129)
 
 - during pregnancy - [248](#page-248)
 
 - medicines for - [380](#page-380) - [381](#page-381)
 
-- medicines to avoid - [54](#page-54) -  64
+- medicines to avoid - [54](#page-54) [64](#page-64)
 
 Heat
 
-- cramps - 81
+- cramps [81](#page-81)
 
-- exhaustion - 81
+- exhaustion [81](#page-81)
 
-- stroke - [78](#page-78) -  81
+- stroke - [78](#page-78) [81](#page-81)
 
 Hemorrhage (See Bleeding)
 
@@ -1349,7 +1349,7 @@ Hemorrhoids (See Piles)
 
 Hepatitis - [26](#page-26) - [172](#page-172) - [416](#page-416)
 
-Herbal teas - [1](#page-1) -  8
+Herbal teas - [1](#page-1) [8](#page-8)
 
 Herbs - curative - [12](#page-12) -[13](#page-13) - [423](#page-423)
 
@@ -1359,9 +1359,9 @@ Hernia - [177](#page-177) - [423](#page-423)
 
 - during pregnancy - [256](#page-256)
 
-- in groin of newborn - 317
+- in groin of newborn [317](#page-317)
 
-- obstructing the gut - 94
+- obstructing the gut [94](#page-94)
 
 Heroin - [416](#page-416) – [417](#page-417)
 
@@ -1369,7 +1369,7 @@ Herpes simplex or labialis (See Cold sores)
 
 Herpes zoster - [204](#page-204) - [373](#page-373) - [400](#page-400)
 
-Hexing - 2
+Hexing [2](#page-2)
 
 High blood pressure - [125](#page-125) - [249](#page-249) - [325](#page-325) -[326](#page-326) - [411](#page-411)
 
@@ -1405,27 +1405,27 @@ HIV
 
 Hives - [68](#page-68) - [166](#page-166) - [203](#page-203) - [423](#page-423)
 
-Home remedies - [1](#page-1) - 3
+Home remedies - [1](#page-1) [3](#page-3)
 
-- enemas and purges - 15
+- enemas and purges [15](#page-15)
 
 - for infertility - [244](#page-244)
 
-- how to tell if they work - [10](#page-10) - 11
+- how to tell if they work - [10](#page-10) [11](#page-11)
 
-- questions and answers about - [6](#page-6) - 8
+- questions and answers about - [6](#page-6) [8](#page-8)
 
-- sensible use of - w2 - 24
+- sensible use of -[w2](#page-w2)[24](#page-24)
 
 Home visits - w24
 
-Hookworm (Uncinaria) - [133](#page-133) - [142](#page-142) - [296](#page-296) - 307
+Hookworm (Uncinaria) - [133](#page-133) - [142](#page-142) - [296](#page-296) [307](#page-307)
 
 Hordeolum (sty) - [224](#page-224)
 
 Hormones - [224](#page-224) - [287](#page-287) - [393](#page-393) - [423](#page-423)
 
-Hot and cold sicknesses - 119
+Hot and cold sicknesses [119](#page-119)
 
 Hot compresses - [193](#page-193) – [195](#page-195) - [406](#page-406)
 
@@ -1433,7 +1433,7 @@ Housing - w10
 
 Human immunodeficiency virus (See HIV and AIDS)
 
-Hydrocele - 317
+Hydrocele [317](#page-317)
 
 Hygiene (See Cleanliness)
 
@@ -1443,7 +1443,7 @@ Hyperventilation - [24](#page-24) - [423](#page-423)
 
 Hyphema - [225](#page-225)
 
-Hypochondria - 329
+Hypochondria [329](#page-329)
 
 Hypopyon - [225](#page-225)
 
@@ -1457,23 +1457,23 @@ Hysteria - [2](#page-2) - [24](#page-24) - [423](#page-423)
 
 Illnesses (See Sicknesses)
 
-Imferon - [51](#page-51) -  67
+Imferon - [51](#page-51) [67](#page-67)
 
-Immunizations (vaccinations) - [19](#page-19) - [147](#page-147) - [296](#page-296) - 337
+Immunizations (vaccinations) - [19](#page-19) - [147](#page-147) - [296](#page-296) [337](#page-337)
 
-Impetigo - [25](#page-25) -  202
+Impetigo - [25](#page-25) [202](#page-202)
 
 Implants (birth control) - [285](#page-285) - [289](#page-289) – [290](#page-290) - [396](#page-396)
 
 Indigestion
 
-- diet for - [128](#page-128) - 129
+- diet for - [128](#page-128) [129](#page-129)
 
 - during pregnancy - [248](#page-248)
 
 - medicines for - [380](#page-380) - [381](#page-381)
 
-- medicines to avoid - [54](#page-54) -  64
+- medicines to avoid - [54](#page-54) [64](#page-64)
 
 Infantile paralysis (See Polio)
 
@@ -1487,13 +1487,13 @@ Infection - [423](#page-423)
 
 - in newborns - [182](#page-182) – [183](#page-183) - [275](#page-275)
 
-- in wounds - [88](#page-88) -[89](#page-89) - [96](#page-96) -  213
+- in wounds - [88](#page-88) -[89](#page-89) - [96](#page-96) [213](#page-213)
 
-- medicines for - [55](#page-55) -[58](#page-58) - [335](#page-335) - 336
+- medicines for - [55](#page-55) -[58](#page-58) - [335](#page-335) [336](#page-336)
 
-- minor - 58
+- minor [58](#page-58)
 
-- of the appendix - [94](#page-94) - 95
+- of the appendix - [94](#page-94) [95](#page-95)
 
 - of the eyes - [217](#page-217) - [219](#page-219) - [220](#page-220) - [221](#page-221)
 
@@ -1509,42 +1509,42 @@ Infectious diseases - [18](#page-18) -[19](#page-19) - [135](#page-135) - [423](
 
 Infertility - [244](#page-244)
 
-Inflamed tonsils (tonsillitis) - 309
+Inflamed tonsils (tonsillitis) [309](#page-309)
 
 Inhalers - for asthma - [167](#page-167) - [384](#page-384)
 
 
-Injections - [65](#page-65) - 73
+Injections - [65](#page-65) [73](#page-73)
 
-- dangerous reactions from injections - [54](#page-54) - [70](#page-70) - 71
+- dangerous reactions from injections - [54](#page-54) - [70](#page-70) [71](#page-71)
 
-- emergencies needing - 66
+- emergencies needing [66](#page-66)
 
-- faith in - w19 - [4](#page-4) -  50
+- faith in -[w19](#page-w19)- [4](#page-4) [50](#page-50)
 
 - family planning - [289](#page-289) – [290](#page-290)
 
-- medicines not to inject - [51](#page-51) - [56](#page-56) -  67
+- medicines not to inject - [51](#page-51) - [56](#page-56) [67](#page-67)
 
-- of vitamins - 118
+- of vitamins [118](#page-118)
 
-- risks and precautions - [68](#page-68) - 69
+- risks and precautions - [68](#page-68) [69](#page-69)
 
-- supplies for - 336
+- supplies for [336](#page-336)
 
-- that can disable children - [74](#page-74) -  314
+- that can disable children - [74](#page-74) [314](#page-314)
 
 - to prevent pregnancy - [285](#page-285) - [293](#page-293) - [395](#page-395)
 
-- when to inject - [65](#page-65) -  67
+- when to inject - [65](#page-65) [67](#page-67)
 
 Injury
 
-- moving an injured person - [99](#page-99) - 100
+- moving an injured person - [99](#page-99) [100](#page-100)
 
-- of an unconscious person - 78
+- of an unconscious person [78](#page-78)
 
-- severe - 33
+- severe [33](#page-33)
 
 - to the eye - [218](#page-218)
 
@@ -1562,17 +1562,17 @@ Intravenous solution (I.V.) - [40](#page-40) - [53](#page-53) - [67](#page-67) -
 
 Intussusception - [94](#page-94) - [424](#page-424)
 
-Iodized salt - [130](#page-130) -  318
+Iodized salt - [130](#page-130) [318](#page-318)
 
 Iritis - [33](#page-33) - [219](#page-219) - [221](#page-221)
 
 Iron
 
-- cooking pots - 117
+- cooking pots [117](#page-117)
 
-- foods rich in - 124
+- foods rich in [124](#page-124)
 
-- from nails in lemon juice - 118
+- from nails in lemon juice [118](#page-118)
 
 - pills - [51](#page-51) - [118](#page-118) - [124](#page-124) - [307](#page-307) - [335](#page-335) - [392](#page-392) - [405](#page-405)
 
@@ -1588,11 +1588,11 @@ Itching
 
 - of hands with syphilis - [238](#page-238)
 
-- of the anus (pinworm) - 141
+- of the anus (pinworm) [141](#page-141)
 
 - rashes - allergies - [68](#page-68) - [166](#page-166) - [203](#page-203) - [236](#page-236) - [238](#page-238)
 
-- with chickenpox - 311
+- with chickenpox [311](#page-311)
 
 - with scabies - [199](#page-199)
 
@@ -1606,7 +1606,7 @@ Jaundice - [30](#page-30) - [172](#page-172) - [274](#page-274) - [318](#page-31
 
 Jock itch - [205](#page-205)
 
-Joints - painful - [101](#page-101) - [102](#page-102) - [173](#page-173) - [310](#page-310) -  324
+Joints - painful - [101](#page-101) - [102](#page-102) - [173](#page-173) - [310](#page-310) [324](#page-324)
 
 # K subjects
 
@@ -1627,7 +1627,7 @@ Kwashiorkor (wet malnutrition) - [30](#page-30) - [113](#page-113) - [424](#page
 
 # L subjects
 
-TB of - 212
+TB of [212](#page-212)
 
 Labor - [258](#page-258) – [262](#page-262) - [264](#page-264) - [424](#page-424)
 
@@ -1643,39 +1643,39 @@ Labor - [258](#page-258) – [262](#page-262) - [264](#page-264) - [424](#page-4
 
 Land
 
-- distribution of - w7 - w11 - [413](#page-413)
+- distribution of -[w7](#page-w7)-[w11](#page-w11)- [413](#page-413)
 
-- use of - w11 - w13 – w16 - 115
+- use of -[w11](#page-w11)-[w13](#page-w13)–[w16](#page-w16)[115](#page-115)
 
-Latido - 23
+Latido [23](#page-23)
 
 Latrines - [137](#page-137) -[139](#page-139) - [153](#page-153)
 
 Laxatives - [15](#page-15) -[16](#page-16) - [382](#page-382)
 
-- misuse of - 126
+- misuse of [126](#page-126)
 
 Lazy eye - [223](#page-223)
 
 Leadership - w5
 
-Learning - w4 - w21 – w28 - 322
+Learning -[w4](#page-w4)-[w21](#page-w21)–[w28](#page-w28)[322](#page-322)
 
 Legs
 
-- crossed like scissors - 320
+- crossed like scissors [320](#page-320)
 
 - examination of legs - [37](#page-37)
 
-- pain in - [288](#page-288) - 321
+- pain in - [288](#page-288) [321](#page-321)
 
 Leishmaniasis - [406](#page-406)
 
-Lepra reaction - [191](#page-191) - 362
+Lepra reaction - [191](#page-191) [362](#page-362)
 
-Leprosy - [10](#page-10) - [38](#page-38) - [191](#page-191) – [192](#page-192) - [206](#page-206) - [337](#page-337) - [362](#page-362) - 363
+Leprosy - [10](#page-10) - [38](#page-38) - [191](#page-191) – [192](#page-192) - [206](#page-206) - [337](#page-337) - [362](#page-362) [363](#page-363)
 
-- or lepra - 25
+- or lepra [25](#page-25)
 
 Lice - [134](#page-134) - [190](#page-190) - [200](#page-200) - [372](#page-372)
 
@@ -1689,11 +1689,11 @@ Liver - [36](#page-36) - [424](#page-424)
 
 - abscesses - [144](#page-144) – [145](#page-145)
 
-- diseases - [172](#page-172) - [288](#page-288) - 328
+- diseases - [172](#page-172) - [288](#page-288) [328](#page-328)
 
 - infection of - [172](#page-172)
 
-Liver extract - [65](#page-65) -  67
+Liver extract - [65](#page-65) [67](#page-67)
 
 Lockjaw (See Tetanus)
 
@@ -1705,7 +1705,7 @@ Loss of feeling - [38](#page-38) - [127](#page-127) - [162](#page-162) - [173](#
 
 Loss of sight - [225](#page-225) - [412](#page-412)
 
-Loss of sleep (insomnia) - 328
+Loss of sleep (insomnia) [328](#page-328)
 
 Loss of weight (See Weight loss)
 
@@ -1741,7 +1741,7 @@ Lung diseases
 
 Lymph nodes - swollen - [88](#page-88) - [317](#page-317) - [424](#page-424)
 
-- caused by an abscess - 202
+- caused by an abscess [202](#page-202)
 
 - in the groin - [238](#page-238) - [403](#page-403)
 
@@ -1755,7 +1755,7 @@ Lymph nodes - swollen - [88](#page-88) - [317](#page-317) - [424](#page-424)
 
 - or typhus - [190](#page-190)
 
-- with German measles - 312
+- with German measles [312](#page-312)
 
 - with scabies or lice - [199](#page-199) - [200](#page-200)
 
@@ -1767,15 +1767,15 @@ Maalox - [173](#page-173)
 
 Malaria - [186](#page-186) – [187](#page-187)
 
-- falciparum - [158](#page-158) - 363
+- falciparum - [158](#page-158) [363](#page-363)
 
-- fever pattern - 26
+- fever pattern [26](#page-26)
 
-- medicines for - [337](#page-337) - [363](#page-363) - 367
+- medicines for - [337](#page-337) - [363](#page-363) [367](#page-367)
 
-- with seizures - 307
+- with seizures [307](#page-307)
 
-- with sickle cell disease - 321
+- with sickle cell disease [321](#page-321)
 
 Malnutrition
 
@@ -1787,19 +1787,19 @@ Malnutrition
 
 - during pregnancy - [248](#page-248)
 
-- in children - [107](#page-107) - [114](#page-114) - [305](#page-305) - 306
+- in children - [107](#page-107) - [114](#page-114) - [305](#page-305) [306](#page-306)
 
-- kinds of - [112](#page-112) - 114
+- kinds of - [112](#page-112) [114](#page-114)
 
 - prevention and treatment of - [108](#page-108) - [109](#page-109) - [112](#page-112) -[113](#page-113) - [155](#page-155) – [156](#page-156) - [391](#page-391) – [393](#page-393)
 
-- problems caused by - [107](#page-107) -  306
+- problems caused by - [107](#page-107) [306](#page-306)
 
-- signs of - [30](#page-30) - [37](#page-37) - [108](#page-108) - [112](#page-112) - [113](#page-113) - [208](#page-208) – [209](#page-209) - 305
+- signs of - [30](#page-30) - [37](#page-37) - [108](#page-108) - [112](#page-112) - [113](#page-113) - [208](#page-208) – [209](#page-209) [305](#page-305)
 
 Malta fever (brucellosis) - [27](#page-27) - [188](#page-188)
 
-Marasmus (dry malnutrition) - 112
+Marasmus (dry malnutrition) [112](#page-112)
 
 Marijuana - [416](#page-416)
 
@@ -1817,15 +1817,15 @@ Mastitis (breast abscess) - [278](#page-278) - [424](#page-424)
 
 Measles (Rubeola) - [30](#page-30) - [108](#page-108) - [226](#page-226) - [311](#page-311) - [391](#page-391)
 
-- vaccination - [147](#page-147) - [312](#page-312) -  321
+- vaccination - [147](#page-147) - [312](#page-312) [321](#page-321)
 
 Measuring
 
 - blood pressure - [410](#page-410) – [411](#page-411)
 
-- in pounds and kilos - 62
+- in pounds and kilos [62](#page-62)
 
-- medicine - [59](#page-59) -[61](#page-61) -  340
+- medicine - [59](#page-59) -[61](#page-61) [340](#page-340)
 
 Medical attention
 
@@ -1833,58 +1833,58 @@ Medical attention
 
 - when to seek - [43](#page-43) - [159](#page-159)
 
-Medicinal plants - [12](#page-12) - 13
+Medicinal plants - [12](#page-12) [13](#page-13)
 
-Medicine kit - [331](#page-331) - 337
+Medicine kit - [331](#page-331) [337](#page-337)
 
 Medicines
 
-- brand name - [55](#page-55) - [333](#page-333) -  339
+- brand name - [55](#page-55) - [333](#page-333) [339](#page-339)
 
 - care in giving to the newborn - [54](#page-54) - [272](#page-272)
 
-- dangerous misuse of medicine - [50](#page-50) - 53
+- dangerous misuse of medicine - [50](#page-50) [53](#page-53)
 
 - during or after birth - [266](#page-266)
 
 - during pregnancy - [54](#page-54) - [247](#page-247) - [398](#page-398)
 
-- for small children - 62
+- for small children [62](#page-62)
 
-- generic - [333](#page-333) -  339
+- generic - [333](#page-333) [339](#page-339)
 
-- guidelines for use - w18 – w19 - [49](#page-49) -[73](#page-73) - [339](#page-339) - [396](#page-396)
+- guidelines for use -[w18](#page-w18)–[w19](#page-w19)- [49](#page-49) -[73](#page-73) - [339](#page-339) - [396](#page-396)
 
-- healing without medicines - [45](#page-45) - 48
+- healing without medicines - [45](#page-45) [48](#page-48)
 
-- how to measure and give - [59](#page-59) -[64](#page-64) -  340
+- how to measure and give - [59](#page-59) -[64](#page-64) [340](#page-340)
 
-- how to write instructions for - [63](#page-63) - 64
+- how to write instructions for - [63](#page-63) [64](#page-64)
 
-- limited use of medicines - w18 – w19 - 49
+- limited use of medicines -[w18](#page-w18)–[w19](#page-w19)[49](#page-49)
 
-- medicines not to inject - 56
+- medicines not to inject [56](#page-56)
 
-- reactions to - [68](#page-68) - [70](#page-70) -[71](#page-71) -  350
+- reactions to - [68](#page-68) - [70](#page-70) -[71](#page-71) [350](#page-350)
 
 - uses - dosage - and precautions - [339](#page-339) - [398](#page-398)
 
-- when not to take them - [54](#page-54) - 64
+- when not to take them - [54](#page-54) [64](#page-64)
 
 # [441](#page-441)
 {:.no_toc}
 
 
 
-Ménière’s disease - 327
+Ménière’s disease [327](#page-327)
 
-Meningitis - [185](#page-185) - [275](#page-275) - 307
+Meningitis - [185](#page-185) - [275](#page-275) [307](#page-307)
 
 Menopause - [246](#page-246) - [424](#page-424)
 
 Menstrual period - [245](#page-245) – [246](#page-246) - [281](#page-281) - [291](#page-291) – [292](#page-292) - [393](#page-393) – [396](#page-396)
 
-Mental problems - [18](#page-18) -  318
+Mental problems - [18](#page-18) [318](#page-318)
 
 Mental slowness - [114](#page-114) - [306](#page-306) - [318](#page-318) - [320](#page-320) -[321](#page-321) - [426](#page-426)
 
@@ -1952,25 +1952,25 @@ Mouth-to-mouth breathing - [78](#page-78) -[80](#page-80) - [413](#page-413)
 
 - with newborns - [262](#page-262)
 
-Moving an injured person - [99](#page-99) - 100
+Moving an injured person - [99](#page-99) [100](#page-100)
 
 Mucus - how to drain - [169](#page-169) - [425](#page-425)
 
 Mucus method - [285](#page-285) - [292](#page-292)
 
-Mumps - 312
+Mumps [312](#page-312)
 
 Muscles
 
 - examining - [37](#page-37) – 38
 
-- lack of control of - 320
+- lack of control of [320](#page-320)
 
 # N subjects
 
 Narrow-spectrum antibiotics - [56](#page-56) - [425](#page-425)
 
-Natural balance - 58
+Natural balance [58](#page-58)
 
 Nausea (See Vomiting)
 
@@ -1978,16 +1978,16 @@ Navel (umbilicus) - [425](#page-425)
 
 - cutting the cord - [262](#page-262) – [263](#page-263)
 
-- hernia of navel - [317](#page-317) -  318
+- hernia of navel - [317](#page-317) [318](#page-318)
 
 - infection of navel - [182](#page-182) - [272](#page-272)
 
 
-Neck broken - 99
+Neck broken [99](#page-99)
 
 - stiff - [38](#page-38) - [182](#page-182) – [185](#page-185) - [274](#page-274)
 
-Needs - felt and long-term - w8 – w12
+Needs - felt and long-term -[w8](#page-w8)– w12
 
 Needles - [74](#page-74) - [399](#page-399) - [401](#page-401)
 
@@ -2012,11 +2012,11 @@ Newborns
 
 - feeding - [120](#page-120) - [263](#page-263) - [271](#page-271)
 
-- hernia - 317
+- hernia [317](#page-317)
 
 - illnesses of - [272](#page-272) – [275](#page-275)
 
-- medicines for - [54](#page-54) - [272](#page-272) - 337
+- medicines for - [54](#page-54) - [272](#page-272) [337](#page-337)
 
 - problems with delivery - [268](#page-268)
 
@@ -2028,27 +2028,27 @@ Newborns
 
 (Also see Dehydration)
 
-Night blindness - [113](#page-113) - [226](#page-226) – [227](#page-227) - 337
+Night blindness - [113](#page-113) - [226](#page-226) – [227](#page-227) [337](#page-337)
 
 Nodes (See Lymph nodes)
 
-Non-infectious diseases - 18
+Non-infectious diseases [18](#page-18)
 
 Nose - stuffy or runny - [164](#page-164) – [165](#page-165) - [383](#page-383)
 
-Nosebleed - [11](#page-11) -  83
+Nosebleed - [11](#page-11) [83](#page-83)
 
 Numbness (See Loss of feeling)
 
-Nutrition - w11 - w13 – w16 - [107](#page-107) -[130](#page-130) - [295](#page-295)
+Nutrition -[w11](#page-w11)-[w13](#page-w13)–[w16](#page-w16)- [107](#page-107) -[130](#page-130) - [295](#page-295)
 (Also see Malnutrition)
 
 # O subjects
 
-Obstructed gut - [22](#page-22) -  94
+Obstructed gut - [22](#page-22) [94](#page-94)
 (Also see Gut)
 
-Older persons - [83](#page-83) - [214](#page-214) - [235](#page-235) - [323](#page-323) - 330
+Older persons - [83](#page-83) - [214](#page-214) - [235](#page-235) - [323](#page-323) [330](#page-330)
 
 Onchocerciasis - [227](#page-227) – [228](#page-228) - [377](#page-377)
 
@@ -2056,7 +2056,7 @@ Opium - [416](#page-416)
 
 Oral contraceptives - [285](#page-285) – [289](#page-289) - [393](#page-393) – [394](#page-394)
 
-Outhouses - [137](#page-137) - 139
+Outhouses - [137](#page-137) [139](#page-139)
 
 Ovarian cyst - [280](#page-280)
 
@@ -2064,23 +2064,23 @@ Ovaries - [36](#page-36) - [280](#page-280) - [425](#page-425)
 
 Oxytocics - [50](#page-50) - [265](#page-265) – [266](#page-266) - [319](#page-319) - [390](#page-390)
 
-Oxyuris (pinworm - threadworm) - 141
+Oxyuris (pinworm - threadworm) [141](#page-141)
 
 # P subjects
 
 Pain
 
-- asking about - 29
+- asking about [29](#page-29)
 
 - back - [173](#page-173) – [174](#page-174) - [248](#page-248)
 
-- chest - [179](#page-179) - 325
+- chest - [179](#page-179) [325](#page-325)
 
 - in the belly - [12](#page-12) - [35](#page-35) -[36](#page-36) - [94](#page-94) -[95](#page-95) - [128](#page-128) - [146](#page-146) - [243](#page-243)
 
 - in the eye - [217](#page-217) - [219](#page-219) - [221](#page-221) - [222](#page-222)
 
-- in the joints - [101](#page-101) - [102](#page-102) - [173](#page-173) - [310](#page-310) -  324
+- in the joints - [101](#page-101) - [102](#page-102) - [173](#page-173) - [310](#page-310) [324](#page-324)
 
 - in the leg - [288](#page-288)
 
@@ -2103,7 +2103,7 @@ Pannus - [220](#page-220)
 
 Pap smear - [280](#page-280)
 
-Papaya - 13
+Papaya [13](#page-13)
 
 Paralysis
 
@@ -2113,25 +2113,25 @@ Paralysis
 
 - from ticks - [201](#page-201)
 
-- in a spastic child - 320
+- in a spastic child [320](#page-320)
 
 - in leprosy - [191](#page-191)
 
-- in polio - [314](#page-314) - 315
+- in polio - [314](#page-314) [315](#page-315)
 
-- in stroke - [37](#page-37) -  327
+- in stroke - [37](#page-37) [327](#page-327)
 
 - in TB of backbone - [180](#page-180)
 
-- of face - [37](#page-37) - 327
+- of face - [37](#page-37) [327](#page-327)
 
 Parasites - [19](#page-19) - [425](#page-425)
 
-- intestinal - [19](#page-19) - [140](#page-140) - [145](#page-145) - 308
+- intestinal - [19](#page-19) - [140](#page-140) - [145](#page-145) [308](#page-308)
 
 - on skin - [19](#page-19) - [199](#page-199) – [201](#page-201)
 
-Patient report - 44
+Patient report [44](#page-44)
 
 Pellagra - [114](#page-114) - [208](#page-208) – [209](#page-209)
 
@@ -2151,7 +2151,7 @@ Pesticides
 
 - misuse of - [412](#page-412) – [413](#page-413)
 
-Pharmacist - words to - 338
+Pharmacist - words to [338](#page-338)
 
 Phlebitis - [288](#page-288)
 
@@ -2168,11 +2168,11 @@ Piles (hemorrhoids) - [16](#page-16) - [175](#page-175) - [423](#page-423)
 Pimples - [211](#page-211) - [419](#page-419)
 (Also see Chickenpox)
 
-Pink eye - [219](#page-219) – [221](#page-221) - 308
+Pink eye - [219](#page-219) – [221](#page-221) [308](#page-308)
 
 Pinta - [207](#page-207)
 
-Pinworm (threadworm - Enterobius) - [12](#page-12) -  141
+Pinworm (threadworm - Enterobius) - [12](#page-12) [141](#page-141)
 
 Placenta (afterbirth) - [262](#page-262) – [264](#page-264) - [269](#page-269) - [426](#page-426)
 
@@ -2182,7 +2182,7 @@ Plantar warts - [210](#page-210)
 
 Plants
 
-- medicinal - [12](#page-12) - 13
+- medicinal - [12](#page-12) [13](#page-13)
 
 - that cause itching - [204](#page-204)
 
@@ -2190,7 +2190,7 @@ Play acting - w23
 
 Pneumonia - [27](#page-27) - [41](#page-41) - [171](#page-171) - [399](#page-399) - [400](#page-400)
 
-Poisoning - 103
+Poisoning [103](#page-103)
 
 - food - [23](#page-23) - [135](#page-135) - [153](#page-153) - [161](#page-161)
 
@@ -2198,23 +2198,23 @@ Poisoning - 103
 
 Poisonous
 
-- bites - [104](#page-104) - 106
+- bites - [104](#page-104) [106](#page-106)
 
 - plants - [204](#page-204)
 
-Poliomyelitis (infantile paralysis) - 314
+Poliomyelitis (infantile paralysis) [314](#page-314)
 
 - signs of - [37](#page-37)
 
-- vaccination - [147](#page-147) - [296](#page-296) - 314
+- vaccination - [147](#page-147) - [296](#page-296) [314](#page-314)
 
-Population - w10 - 115
+Population -[w10](#page-w10)[115](#page-115)
 
 Posters - w22
 
 Postpartum - [426](#page-426)
 
-- diet - 123
+- diet [123](#page-123)
 
 - hemorrhage - [266](#page-266) - [390](#page-390)
 
@@ -2230,7 +2230,7 @@ Pregnancy - [247](#page-247) – [255](#page-255) - [286](#page-286)
 
 - bleeding during - [249](#page-249) - [264](#page-264) - [281](#page-281)
 
-- check ups during - w24 - [250](#page-250) – [253](#page-253) - [410](#page-410)
+- check ups during -[w24](#page-w24)- [250](#page-250) – [253](#page-253) - [410](#page-410)
 
 - danger signs in - [249](#page-249) – 251
 
@@ -2238,7 +2238,7 @@ Pregnancy - [247](#page-247) – [255](#page-255) - [286](#page-286)
 
 - ectopic - [22](#page-22) - [36](#page-36) - [93](#page-93) - [243](#page-243) - [249](#page-249) - [280](#page-280) - [414](#page-414)
 
-- German measles during - [247](#page-247) - 312
+- German measles during - [247](#page-247) [312](#page-312)
 
 - growth and position of baby - [251](#page-251) – [252](#page-252) - [257](#page-257)
 
@@ -2267,17 +2267,17 @@ Prenatal care - [250](#page-250) – [253](#page-253)
 
 Presentation of an arm - [268](#page-268) - [426](#page-426)
 
-Pressure points - 82
+Pressure points [82](#page-82)
 
 Pressure sores (See Bed sores)
 
-Preventive medicine - w17 - [17](#page-17) - [131](#page-131) - [150](#page-150)
+Preventive medicine -[w17](#page-w17)- [17](#page-17) - [131](#page-131) - [150](#page-150)
 
-- cleanliness - [131](#page-131) - 136
+- cleanliness - [131](#page-131) [136](#page-136)
 
-- how to avoid many sicknesses - [108](#page-108) - [148](#page-148) – [150](#page-150) - [242](#page-242) - 326
+- how to avoid many sicknesses - [108](#page-108) - [148](#page-148) – [150](#page-150) - [242](#page-242) [326](#page-326)
 
-- sanitation - [137](#page-137) - 139
+- sanitation - [137](#page-137) [139](#page-139)
 
 - sexually transmitted infection - [239](#page-239) - [401](#page-401) – [403](#page-403)
 
@@ -2294,7 +2294,7 @@ Prostate gland - [233](#page-233) - [235](#page-235) – [236](#page-236) - [426
 
 Protective foods - [110](#page-110) - [426](#page-426)
 
-Proteins - [110](#page-110) - [111](#page-111) - [112](#page-112) - [113](#page-113) - [116](#page-116) -[118](#page-118) -  121
+Proteins - [110](#page-110) - [111](#page-111) - [112](#page-112) - [113](#page-113) - [116](#page-116) -[118](#page-118) [121](#page-121)
 
 Psoriasis - [216](#page-216)
 
@@ -2304,19 +2304,19 @@ Pulling out (to prevent pregnancy) - [285](#page-285) - [293](#page-293)
 
 Pulse - [32](#page-32) -[33](#page-33) - [41](#page-41) - [410](#page-410) – [411](#page-411) - [426](#page-426)
 
-Pulsing or throbbing of stomach - 23
+Pulsing or throbbing of stomach [23](#page-23)
 
 Pupils - examining - [217](#page-217)
 
-Purges - [15](#page-15) - 16
+Purges - [15](#page-15) [16](#page-16)
 
-- misuse of - [92](#page-92) -  126
+- misuse of - [92](#page-92) [126](#page-126)
 
 Pyorrhea - [231](#page-231)
 
 # Q subjects
 
-Questions to ask a sick person - [29](#page-29) -  44
+Questions to ask a sick person - [29](#page-29) [44](#page-44)
 
 # R subjects
 
@@ -2328,17 +2328,17 @@ Rash on the skin - [216](#page-216) - [236](#page-236) - [400](#page-400)
 
 - like tiny bruises (typhus) - [190](#page-190)
 
-- of allergic reaction - [68](#page-68) - [166](#page-166) - [203](#page-203) – [204](#page-204) - 356
+- of allergic reaction - [68](#page-68) - [166](#page-166) - [203](#page-203) – [204](#page-204) [356](#page-356)
 
-- of chickenpox - 311
+- of chickenpox [311](#page-311)
 
-- of German measles - [312](#page-312)of measles - [30](#page-30) -  311
+- of German measles - [312](#page-312)of measles - [30](#page-30) [311](#page-311)
 
 - of syphilis - [238](#page-238)
 
 - of typhoid - [189](#page-189)
 
-- preventing - 133
+- preventing [133](#page-133)
 
 - with itching - [199](#page-199) – [200](#page-200) - [203](#page-203)
 
@@ -2359,41 +2359,41 @@ Rehydration Drink - [152](#page-152) - [311](#page-311) - [381](#page-381) - [40
 
 - and vomiting - [161](#page-161)
 
-- as an enema - 15
+- as an enema [15](#page-15)
 
-- for acute abdomen - 95
+- for acute abdomen [95](#page-95)
 
-- for dehydration - [9](#page-9) - [46](#page-46) - [158](#page-158) - 306
+- for dehydration - [9](#page-9) - [46](#page-46) - [158](#page-158) [306](#page-306)
 
 - for newborns - [273](#page-273)
 
-- for very sick persons - [40](#page-40) -  53
+- for very sick persons - [40](#page-40) [53](#page-53)
 
 Remedies (See Home remedies)
 
 Resistance - [426](#page-426)
 
-- to antibiotics - w19 - [57](#page-57) -[58](#page-58) - [237](#page-237) - 350
+- to antibiotics -[w19](#page-w19)- [57](#page-57) -[58](#page-58) - [237](#page-237) [350](#page-350)
 
 - to infection - [108](#page-108) - [120](#page-120) - [271](#page-271)
 
-Resources - w8 - w12 - [115](#page-115) - [283](#page-283) - [426](#page-426)
+Resources -[w8](#page-w8)-[w12](#page-w12)- [115](#page-115) - [283](#page-283) - [426](#page-426)
 
 Respiration (See Breathing)
 
 Retardation - mental (See Mental slowness)
 
-Rheumatic fever - [27](#page-27) -  310
+Rheumatic fever - [27](#page-27) [310](#page-310)
 
-Rheumatoid arthritis - 324
+Rheumatoid arthritis [324](#page-324)
 
 Rhinitis - allergic (hay fever) - [165](#page-165) - [426](#page-426)
 
 Rhythm method - (See Counting days method)
 
-Ribs - broken - 99
+Ribs - broken [99](#page-99)
 
-Rickets - 125
+Rickets [125](#page-125)
 
 Ringing of the ears - deafness - and dizziness - [107](#page-107) - [327](#page-327) - [358](#page-358) - [361](#page-361) - [378](#page-378)
 
@@ -2403,9 +2403,9 @@ River blindness - [227](#page-227) – [228](#page-228) - [378](#page-378)
 
 Road to health chart (See Child Health Chart)
 
-Rotating crops - w13 - [115](#page-115) - [117](#page-117) - [427](#page-427)
+Rotating crops -[w13](#page-w13)- [115](#page-115) - [117](#page-117) - [427](#page-427)
 
-Roundworm (ascaris) - [140](#page-140) - 141
+Roundworm (ascaris) - [140](#page-140) [141](#page-141)
 
 Rubber (condom) - [239](#page-239) - [285](#page-285) - [290](#page-290) - [395](#page-395) - [401](#page-401) – [403](#page-403)
 
@@ -2419,13 +2419,13 @@ Rupture (See Hernia)
 
 Salt
 
-- iodized - [130](#page-130) - [247](#page-247) - 318
+- iodized - [130](#page-130) - [247](#page-247) [318](#page-318)
 
-- purges - 16
+- purges [16](#page-16)
 
-- using little - [120](#page-120) - [125](#page-125) - [176](#page-176) - [249](#page-249) - [325](#page-325) -  326
+- using little - [120](#page-120) - [125](#page-125) - [176](#page-176) - [249](#page-249) - [325](#page-325) [326](#page-326)
 
-Sanitation - w10 - [137](#page-137) -[139](#page-139) - [153](#page-153) - [427](#page-427)
+Sanitation -[w10](#page-w10)- [137](#page-137) -[139](#page-139) - [153](#page-153) - [427](#page-427)
 
 Scabies - [34](#page-34) - [199](#page-199) – [200](#page-200) - [335](#page-335) - [372](#page-372)
 
@@ -2437,32 +2437,32 @@ Scars
 
 - on the eyelids - [220](#page-220)
 
-- reventing burn scars - 97
+- reventing burn scars [97](#page-97)
 
 Schistosomiasis - [146](#page-146)  - [337](#page-337) - [376](#page-376)
 
 Scorpion sting - [11](#page-11) - [70](#page-70) - [106](#page-106) - [337](#page-337) - [387](#page-387)
 
-Scrofula - 212
+Scrofula [212](#page-212)
 
 Scrotum - [233](#page-233) - [427](#page-427)
 
 - small sores on - [199](#page-199)
 
-- swollen - 317
+- swollen [317](#page-317)
 
 
 Seborrhea - [215](#page-215)
 
 Seizures - [23](#page-23) - [178](#page-178) - [422](#page-422)
 
-- caused by high fever - 76
+- caused by high fever [76](#page-76)
 
-- from birth defects - [273](#page-273) - 319
+- from birth defects - [273](#page-273) [319](#page-319)
 
-- in cerebral malaria - [186](#page-186) - 366
+- in cerebral malaria - [186](#page-186) [366](#page-366)
 
-- in children - [307](#page-307) -  319
+- in children - [307](#page-307) [319](#page-319)
 
 - in meningitis - [185](#page-185)
 
@@ -2471,11 +2471,11 @@ Seizures - [23](#page-23) - [178](#page-178) - [422](#page-422)
 - medicines for - [336](#page-336) - [388](#page-388) – [390](#page-390)
 (Also see Spasms)
 
-Senna leaf - 16
+Senna leaf [16](#page-16)
 
 Septicemia - [275](#page-275) - [427](#page-427)
 
-Serious illnesses - w28 - [42](#page-42) - [179](#page-179) – [192](#page-192)
+Serious illnesses -[w28](#page-w28)- [42](#page-42) - [179](#page-179) – [192](#page-192)
 
 Seven year itch - [199](#page-199) – [200](#page-200) - [335](#page-335) - [372](#page-372)
 
@@ -2483,43 +2483,43 @@ Sexually transmitted infections (STI) - [236](#page-236) –[239](#page-239) - [
 
 Sheath (See Condom)
 
-Shigella - [145](#page-145) - [158](#page-158) - [353](#page-353) -  358
+Shigella - [145](#page-145) - [158](#page-158) - [353](#page-353) [358](#page-358)
 
 Shingles - [204](#page-204) - [373](#page-373) - [400](#page-400)
 
 Shock - [30](#page-30) - [77](#page-77) - [325](#page-325) - [427](#page-427)
 
-- allergic - [70](#page-70) - [105](#page-105) - [166](#page-166) - 350
+- allergic - [70](#page-70) - [105](#page-105) - [166](#page-166) [350](#page-350)
 
-- from serious burns - 97
+- from serious burns [97](#page-97)
 
 - heartbeat during - [33](#page-33) - [410](#page-410) – [411](#page-411)
 
 - in postpartum mother - [265](#page-265)
 
-Shoulder - dislocated - 101
+Shoulder - dislocated [101](#page-101)
 
 Sickle cell disease - [30](#page-30) - [321](#page-321) - [392](#page-392)
 
 Sicknesses
 
-- causes of - [17](#page-17) -[20](#page-20) -  107
+- causes of - [17](#page-17) -[20](#page-20) [107](#page-107)
 
 - common - [151](#page-151) – [178](#page-178)
 
-- dangerous - w28 - [42](#page-42) - [179](#page-179) – [192](#page-192)
+- dangerous -[w28](#page-w28)- [42](#page-42) - [179](#page-179) – [192](#page-192)
 
 - “home,” 21
 
 - “hot” and “cold,” 119
 
-- infectious - [18](#page-18) - 19
+- infectious - [18](#page-18) [19](#page-19)
 
-- non infectious - 18
+- non infectious [18](#page-18)
 
-- of children - [215](#page-215) - [272](#page-272) – [275](#page-275) - [311](#page-311) - 314
+- of children - [215](#page-215) - [272](#page-272) – [275](#page-275) - [311](#page-311) [314](#page-314)
 
-- of older people - [323](#page-323) - 330
+- of older people - [323](#page-323) [330](#page-330)
 
 - of women - [241](#page-241)
 
@@ -2527,9 +2527,9 @@ Sicknesses
 
 - spread of - [131](#page-131) -[137](#page-137) - [140](#page-140) - [188](#page-188) – [189](#page-189) - [237](#page-237) – 239,[399](#page-399)
 
-- telling apart - [20](#page-20) -[21](#page-21) - [26](#page-26) - 27
+- telling apart - [20](#page-20) -[21](#page-21) - [26](#page-26) [27](#page-27)
 
-Side pains - 22
+Side pains [22](#page-22)
 
 Signs - [20](#page-20) - [29](#page-29) - [427](#page-427)
 
@@ -2537,7 +2537,7 @@ Sinus trouble (sinusitis) - [165](#page-165) - [427](#page-427)
 
 Skin
 
-- cancer of - [211](#page-211) - 399
+- cancer of - [211](#page-211) [399](#page-399)
 
 - chart of different diseases - [196](#page-196) – [198](#page-198)
 
@@ -2545,17 +2545,17 @@ Skin
 
 - dryness of - [107](#page-107) - [208](#page-208)
 
-- how to examine - 34
+- how to examine [34](#page-34)
 
-- in children - [215](#page-215) - 308
+- in children - [215](#page-215) [308](#page-308)
 
 - medicines for - [334](#page-334) -[335](#page-335) - [370](#page-370) – [373](#page-373)
 
 - painless sores - [191](#page-191) - [237](#page-237) - [279](#page-279)
 
-TB of - [179](#page-179) - 212
+TB of - [179](#page-179) [212](#page-212)
 
-- ulcers - [212](#page-212) - 213
+- ulcers - [212](#page-212) [213](#page-213)
 
 Slipped disc - [173](#page-173)
 
@@ -2582,11 +2582,11 @@ Smoking
 
 Snails - [146](#page-146)
 
-Snakebite - [104](#page-104) - 105
+Snakebite - [104](#page-104) [105](#page-105)
 
 - antitoxin - [70](#page-70) - [105](#page-105) - [337](#page-337) - [387](#page-387)
 
-- home cure for - 3
+- home cure for [3](#page-3)
 
 Soaks - [102](#page-102)
 
@@ -2596,25 +2596,25 @@ Soft drinks - [155](#page-155) - [161](#page-161) - [229](#page-229)
 
 Soft spot (See Fontanel)
 
-Solda con solda - 14
+Solda con solda [14](#page-14)
 
 Sores
 
-- bed sores - [41](#page-41) -  214
+- bed sores - [41](#page-41) [214](#page-214)
 
 - chronic - [20](#page-20) - [127](#page-127) - [212](#page-212) - [213](#page-213) - [236](#page-236) - [324](#page-324) - [406](#page-406)
 
-- large - open - [127](#page-127) - [213](#page-213) - 214
+- large - open - [127](#page-127) - [213](#page-213) [214](#page-214)
 
 - mouth - [232](#page-232)
 
-- of the feet - 324
+- of the feet [324](#page-324)
 
 - on penis or genitals - [199](#page-199) - [205](#page-205) - [232](#page-232) - [237](#page-237) - [238](#page-238) - [242](#page-242) - [400](#page-400) - [402](#page-402) – [403](#page-403)
 
-- sugar or honey treatment for - [213](#page-213) -  214
+- sugar or honey treatment for - [213](#page-213) [214](#page-214)
 
-- that keep growing - [127](#page-127) - [191](#page-191) - [211](#page-211) - [213](#page-213) -  214
+- that keep growing - [127](#page-127) - [191](#page-191) - [211](#page-211) - [213](#page-213) [214](#page-214)
 
 - without feeling - [191](#page-191) - [237](#page-237) - [279](#page-279)
 
@@ -2622,16 +2622,16 @@ Sores
 
 (Also see Skin)
 
-Sore throat - [163](#page-163) - [309](#page-309) - 310
+Sore throat - [163](#page-163) - [309](#page-309) [310](#page-310)
 
 Spasms - [183](#page-183) - [427](#page-427)
 
-- in spider bite - 106
+- in spider bite [106](#page-106)
 
 - in tetanus - [182](#page-182) – [184](#page-184)
 (Also see Seizures)
 
-Spastic - [38](#page-38) - [319](#page-319) - 320
+Spastic - [38](#page-38) - [319](#page-319) [320](#page-320)
 
 Sperm - [233](#page-233) - [244](#page-244)
 
@@ -2639,7 +2639,7 @@ Spermicide - [285](#page-285) - [290](#page-290) - [395](#page-395)
 
 Sphygmomanometer - [410](#page-410)
 
-Spider bite - 106
+Spider bite [106](#page-106)
 
 Spleen - large - [158](#page-158) - [186](#page-186) - [392](#page-392) - [427](#page-427)
 
@@ -2662,7 +2662,7 @@ Starvation (See Malnutrition)
 
 Sterile - [427](#page-427)
 
-- bandages - 87
+- bandages [87](#page-87)
 
 - men and women - [236](#page-236) - [244](#page-244) - [412](#page-412)
 
@@ -2670,19 +2670,19 @@ Sterilization - [427](#page-427)
 
 - of equipment - [74](#page-74) - [401](#page-401)
 
-- of syringes - [69](#page-69) - [72](#page-72) -  74
+- of syringes - [69](#page-69) - [72](#page-72) [74](#page-74)
 
 - to prevent pregnancy - [285](#page-285) - [293](#page-293)
 
-Steroids - 51
+Steroids [51](#page-51)
 
 Stethoscope - [410](#page-410)
 
 Sting
 
-- bee - 70
+- bee [70](#page-70)
 
-- scorpion - 106
+- scorpion [106](#page-106)
 
 Stitches (sutures) - [86](#page-86) - [255](#page-255) - [269](#page-269) - [423](#page-423)
 
@@ -2695,7 +2695,7 @@ Stomach ulcers - [128](#page-128) -[129](#page-129) - [149](#page-149) - [380](#
 
 Stools
 
-- in acute abdomen (obstruction) - 94
+- in acute abdomen (obstruction) [94](#page-94)
 
 - in diarrhea (dysentery) - [144](#page-144) – [145](#page-145) like
 
@@ -2709,7 +2709,7 @@ Stools
 
 - with typhoid - [189](#page-189) – [190](#page-190)
 
-- with ulcer (black - tarry stools) - 128
+- with ulcer (black - tarry stools) [128](#page-128)
 (Also see Constipation - Feces)
 
 Story telling - w23
@@ -2718,9 +2718,9 @@ Strabismus - [223](#page-223)
 
 Strains - [102](#page-102)
 
-Strep throat - 310
+Strep throat [310](#page-310)
 
-Stretcher - 100
+Stretcher [100](#page-100)
 
 Stroke - [37](#page-37) - [78](#page-78) - [288](#page-288) - [327](#page-327) - [410](#page-410)
 (Also see Heat stroke)
@@ -2731,7 +2731,7 @@ Suction bulb - [84](#page-84) - [255](#page-255) - [262](#page-262) - [268](#pag
 
 Sugars - [110](#page-110) - [111](#page-111) - [427](#page-427)
 
-Sulfonamides - [55](#page-55) -  356
+Sulfonamides - [55](#page-55) [356](#page-356)
 
 Sunken fontanel (See Fontanel)
 
@@ -2739,7 +2739,7 @@ Sunlight
 
 - and acne - [211](#page-211)
 
-- and rickets - 125
+- and rickets [125](#page-125)
 
 - and skin problems - [195](#page-195)
 
@@ -2747,7 +2747,7 @@ Supplies
 
 - for childbirth - [254](#page-254) – [255](#page-255)
 
-- for the medicine kit - [334](#page-334) -  336
+- for the medicine kit - [334](#page-334) [336](#page-336)
 
 Suppressants - [427](#page-427)
 
@@ -2757,9 +2757,9 @@ Surgery
 
 - immediate need for - [91](#page-91) -[95](#page-95) - [177](#page-177) - [222](#page-222) - [267](#page-267)
 
-- possible need for - [102](#page-102) - [175](#page-175) - [177](#page-177) - [211](#page-211) - [222](#page-222) - [225](#page-225) - [235](#page-235) - [243](#page-243) - [279](#page-279) - [280](#page-280) - [293](#page-293) - [317](#page-317) - [319](#page-319) -  329
+- possible need for - [102](#page-102) - [175](#page-175) - [177](#page-177) - [211](#page-211) - [222](#page-222) - [225](#page-225) - [235](#page-235) - [243](#page-243) - [279](#page-279) - [280](#page-280) - [293](#page-293) - [317](#page-317) - [319](#page-319) [329](#page-329)
 
-Susto - 24
+Susto [24](#page-24)
 
 Suture (See Stitches)
 
@@ -2769,21 +2769,21 @@ Swelling breast swelling and lumps - [278](#page-278) – [279](#page-279)
 
 - caused by medicine - [68](#page-68) - [70](#page-70) -[71](#page-71) - [231](#page-231)
 
-- home cure for - 12
+- home cure for [12](#page-12)
 
-- in old age - 323
+- in old age [323](#page-323)
 
-- of broken arms or legs - 14
+- of broken arms or legs [14](#page-14)
 
 - of hands and face - [108](#page-108) - [239](#page-239) - [249](#page-249)
 
 - of strains and sprains - [102](#page-102)
 
-- of the eyes - [144](#page-144) - [221](#page-221) - 313
+- of the eyes - [144](#page-144) - [221](#page-221) [313](#page-313)
 
-- of the feet - [113](#page-113) - [124](#page-124) - [144](#page-144) - [176](#page-176) - [248](#page-248) – [249](#page-249) - 321
+- of the feet - [113](#page-113) - [124](#page-124) - [144](#page-144) - [176](#page-176) - [248](#page-248) – [249](#page-249) [321](#page-321)
 
-- of the scrotum or testicles - [312](#page-312) -  317
+- of the scrotum or testicles - [312](#page-312) [317](#page-317)
 
 - with infection - [194](#page-194)
 
@@ -2791,15 +2791,15 @@ Swelling breast swelling and lumps - [278](#page-278) – [279](#page-279)
 
 Swollen belly
 
-- different causes of - 20
+- different causes of [20](#page-20)
 
-- in children - [107](#page-107) - [112](#page-112) - [114](#page-114) -  321
+- in children - [107](#page-107) - [112](#page-112) - [114](#page-114) [321](#page-321)
 
 - in giardia infection - [145](#page-145)
 
-- in gut obstruction - 94
+- in gut obstruction [94](#page-94)
 
-- in malnutrition - [112](#page-112) -  114
+- in malnutrition - [112](#page-112) [114](#page-114)
 
 - in pregnancy - [248](#page-248) - [249](#page-249)
 
@@ -2809,7 +2809,7 @@ Swollen belly
 # [445](#page-445)
 {:.no_toc}
 
-Symptoms - 29
+Symptoms [29](#page-29)
 
 Syphilis - [10](#page-10) - [237](#page-237) – [238](#page-238) - [403](#page-403)
 
@@ -2825,27 +2825,27 @@ Tapeworm - [143](#page-143) - [375](#page-375)
 
 TB (See Tuberculosis)
 
-Teaching - w2 - w4 – w5 - w21 – w28 - 321
+Teaching -[w2](#page-w2)-[w4](#page-w4)–[w5](#page-w5)-[w21](#page-w21)–[w28](#page-w28)[321](#page-321)
 
 - materials - addresses for - [429](#page-429) – [432](#page-432)
 
 Tear sac - infection of - [217](#page-217) - [223](#page-223)
 
-Teaspoons - for measuring - 61
+Teaspoons - for measuring [61](#page-61)
 
 Teeth - [133](#page-133) - [229](#page-229) – [232](#page-232)
 
 Temperature - [30](#page-30) -[31](#page-31) - [272](#page-272) - [409](#page-409),
 
-Tepeguaje - 14
+Tepeguaje [14](#page-14)
 
 Testicles - [233](#page-233) - [286](#page-286)
 
-- swellings of testicles - [312](#page-312) -  317
+- swellings of testicles - [312](#page-312) [317](#page-317)
 
 Tetanus (lockjaw) - [182](#page-182) – [184](#page-184)
 
-- from a wound - [84](#page-84) - [89](#page-89) -  105-106 - [388](#page-388) - [407](#page-407)
+- from a wound - [84](#page-84) - [89](#page-89) [105](#page-105)-106 - [388](#page-388) - [407](#page-407)
 
 - in the newborn - [182](#page-182) – [183](#page-183) - [273](#page-273)
 
@@ -2855,17 +2855,17 @@ Tetanus (lockjaw) - [182](#page-182) – [184](#page-184)
 
 Thalassemia - [392](#page-392) - [428](#page-428)
 
-Thermometer - [31](#page-31) -  334
+Thermometer - [31](#page-31) [334](#page-334)
 
-Threadworm (pinworm - Enterobius) - 141
+Threadworm (pinworm - Enterobius) [141](#page-141)
 
 Throat
 
 - lump on the throat - [10](#page-10) - [130](#page-130) - [423](#page-423)
 
-- object stuck in - 79
+- object stuck in [79](#page-79)
 
-- sore throat - [163](#page-163) - [309](#page-309) - 310
+- sore throat - [163](#page-163) - [309](#page-309) [310](#page-310)
 
 Throwing up (See Vomiting)
 
@@ -2881,7 +2881,7 @@ Tobacco - [129](#page-129) - [416](#page-416) – [417](#page-417)
 
 Tongue - [232](#page-232)
 
-Tonsillitls (Inflamed tonsils) - 309
+Tonsillitls (Inflamed tonsils) [309](#page-309)
 
 Toothache - [231](#page-231)
 
@@ -2891,35 +2891,35 @@ Toothpaste - [230](#page-230)
 
 Toxemia of pregnancy (See Pre-eclampsia)
 
-Trachoma - 220
+Trachoma [220](#page-220)
 
-Traditions - w3 - w11 - [1](#page-1) - [2](#page-2) -  21
+Traditions -[w3](#page-w3)-[w11](#page-w11)- [1](#page-1) - [2](#page-2) [21](#page-21)
 
 Trichinosis - [144](#page-144)
 
-Trichocephalus (whipworm - Trichuris) - 142
+Trichocephalus (whipworm - Trichuris) [142](#page-142)
 
 Trichomonas - [241](#page-241)
 
-Trichuris (whipworm - Trichocephalus) - 142
+Trichuris (whipworm - Trichocephalus) [142](#page-142)
 
 Tropical sore (See Leishmaniasis)
 
 Tubal ligation - [294](#page-294)
 
-Tuberculosis - [108](#page-108) - [179](#page-179) – [180](#page-180) - 337
+Tuberculosis - [108](#page-108) - [179](#page-179) – [180](#page-180) [337](#page-337)
 
 - and AIDS - [396](#page-396) - [400](#page-400)
 
-- and children - 136
+- and children [136](#page-136)
 
-- and measles - 311
+- and measles [311](#page-311)
 
-- medicines for - [359](#page-359) - 361
+- medicines for - [359](#page-359) [361](#page-361)
 
-- of the lymph nodes - 212
+- of the lymph nodes [212](#page-212)
 
-- of the skin - 212
+- of the skin [212](#page-212)
 
 - of the spine - [173](#page-173)
 
@@ -2935,13 +2935,13 @@ Twisted joint (sprain) - [102](#page-102)
 
 Typhoid fever - [188](#page-188) – [190](#page-190)
 
-- fever pattern - 26
+- fever pattern [26](#page-26)
 
-- medicines for - 356
+- medicines for [356](#page-356)
 
-- pulse with - 33
+- pulse with [33](#page-33)
 
-- resistance to medicines - 58
+- resistance to medicines [58](#page-58)
 
 Typhus - [26](#page-26) - [190](#page-190)
 
@@ -2951,7 +2951,7 @@ Ulcer - [428](#page-428)
 
 - on the cornea (eye) - [224](#page-224) – [225](#page-225)
 
-- skin - [20](#page-20) - [212](#page-212) - [213](#page-213) -  324
+- skin - [20](#page-20) - [212](#page-212) - [213](#page-213) [324](#page-324)
 
 - stomach - [13](#page-13) - [36](#page-36) - [53](#page-53) - [128](#page-128) -[129](#page-129) - [149](#page-149) - [381](#page-381)
 
@@ -2969,21 +2969,21 @@ Umbilical hernia - [317](#page-317) - [318](#page-318) - [428](#page-428)
 
 Umbilicus (See Navel)
 
-Unclnaria (hookworm) - [133](#page-133) -  142
+Unclnaria (hookworm) - [133](#page-133) [142](#page-142)
 
 Unconscious person - [78](#page-78) - [424](#page-424)
 
-- breathing of - 32
+- breathing of [32](#page-32)
 
-- difference in pupil size - 33
+- difference in pupil size [33](#page-33)
 
-- in shock - 77
+- in shock [77](#page-77)
 
-Under-Fives Program - w20 - w24 - [297](#page-297) - [428](#page-428)
+Under-Fives Program -[w20](#page-w20)-[w24](#page-w24)- [297](#page-297) - [428](#page-428)
 
 Undulant fever (brucellosis) - [27](#page-27) - [188](#page-188)
 
-Units - measuring in - 60
+Units - measuring in [60](#page-60)
 
 Uremia - [239](#page-239) - [240](#page-240)
 
@@ -3019,19 +3019,19 @@ Vaccinations - [19](#page-19) - [147](#page-147) - [180](#page-180) - [250](#pag
 
 Vagina - [233](#page-233) - [286](#page-286) - [428](#page-428)
 
-- infections of - [241](#page-241) – [242](#page-242) - 369
+- infections of - [241](#page-241) – [242](#page-242) [369](#page-369)
 
 - placenta blocking - [249](#page-249)
 
 - tearing during birth - [269](#page-269)
 
-Vaginal discharge - [241](#page-241) – [242](#page-242) - 369
+Vaginal discharge - [241](#page-241) – [242](#page-242) [369](#page-369)
 
 Vapors - breathing hot water vapors - [47](#page-47) - [168](#page-168)
 
 Varicose veins - [175](#page-175) - [213](#page-213) - [288](#page-288) - [410](#page-410) - [428](#page-428)
 
-- and chronic sores - [20](#page-20) - [212](#page-212) - [213](#page-213) -  324
+- and chronic sores - [20](#page-20) - [212](#page-212) - [213](#page-213) [324](#page-324)
 
 - during pregnancy - [248](#page-248)
 
@@ -3044,35 +3044,35 @@ Venereal diseases (VD) (See Sexually transmitted infection)
 
 Venereal lymphogranuloma - [238](#page-238) - [420](#page-420)
 
-Ventilated improved pit latrine - 139
+Ventilated improved pit latrine [139](#page-139)
 
 Verrucase (warts) - [210](#page-210)
 
 Village health committee - w24
 
-Village health worker - w1 – w7 - w29 - [43](#page-43) -  340
+Village health worker -[w1](#page-w1)–[w7](#page-w7)-[w29](#page-w29)- [43](#page-43) [340](#page-340)
 
-Village medicine kit - [336](#page-336) - 337
+Village medicine kit - [336](#page-336) [337](#page-337)
 
-VIP latrine - 139
+VIP latrine [139](#page-139)
 
 Virus - [19](#page-19) - [399](#page-399) – [401](#page-401)
 
 Vision (See Eyes)
 
-Vital signs - 41
+Vital signs [41](#page-41)
 
 Vitamins - [110](#page-110) - [111](#page-111) - [116](#page-116) -[118](#page-118) - [391](#page-391) – [393](#page-393) - [405](#page-405)
 
-- injections of - [65](#page-65) - [67](#page-67) -  118
+- injections of - [65](#page-65) - [67](#page-67) [118](#page-118)
 
-- the best way to get - [52](#page-52) -  118
+- the best way to get - [52](#page-52) [118](#page-118)
 
 - vitamin A - [226](#page-226) - [391](#page-391)
 
 - vitamin B - [208](#page-208)
 
-- vitamin C - [248](#page-248) - 335,
+- vitamin C - [248](#page-248) [335](#page-335),
 
 - vitamin B6 - [360](#page-360) - [393](#page-393)
 
@@ -3088,7 +3088,7 @@ Vomiting - [161](#page-161)
 
 - during pregnancy - [248](#page-248) - [249](#page-249)
 
-- enemas and laxatives with - 15
+- enemas and laxatives with [15](#page-15)
 
 - how to cause vomiting - [103](#page-103) - [388](#page-388)
 
@@ -3098,11 +3098,11 @@ Vomiting - [161](#page-161)
 
 - violent vomiting - [151](#page-151)
 
-- with blood - [128](#page-128) -  328
+- with blood - [128](#page-128) [328](#page-328)
 
 - with diarrhea - [151](#page-151) - [157](#page-157)
 
-- with urine poisoning (uremia) - 239
+- with urine poisoning (uremia) [239](#page-239)
 
 # W subjects
 
@@ -3113,32 +3113,32 @@ Warm compresses - [193](#page-193) – [195](#page-195)
 
 Warts - [210](#page-210) - [212](#page-212) - [400](#page-400) - [402](#page-402)
 
-Water - healing with - [45](#page-45) - 48
+Water - healing with - [45](#page-45) [48](#page-48)
 
 - and cleanliness - [46](#page-46) - [131](#page-131) - [135](#page-135) - [137](#page-137) -[139](#page-139) - [144](#page-144) - [146](#page-146)
 
 - and spread of disease - [146](#page-146) - [188](#page-188)
 
-- for fever - 75
+- for fever [75](#page-75)
 
-- to ease pain of burns - 96
+- to ease pain of burns [96](#page-96)
 
 - vapors - [47](#page-47) - [168](#page-168) - [383](#page-383)
 
 
 Weakness - fatigue - [23](#page-23) - [124](#page-124) - [323](#page-323) - [400](#page-400)
 
-Weight and diet - [110](#page-110) -[111](#page-111) -  127
+Weight and diet - [110](#page-110) -[111](#page-111) [127](#page-127)
 
-- deciding dosage by - 340
+- deciding dosage by [340](#page-340)
 
 - homemade scales - [250](#page-250)
 
-- importance of losing - [125](#page-125) -[127](#page-127) - [325](#page-325) - 326
+- importance of losing - [125](#page-125) -[127](#page-127) - [325](#page-325) [326](#page-326)
 
-- in pounds and kilos - 62
+- in pounds and kilos [62](#page-62)
 
-- measuring medicines - [59](#page-59) - 61
+- measuring medicines - [59](#page-59) [61](#page-61)
 
 - weight gain - in children - [297](#page-297) – 304
 
@@ -3148,9 +3148,9 @@ Weight loss
 
 - chronic - [179](#page-179) - [180](#page-180) - [400](#page-400)
 
-- different causes - 20
+- different causes [20](#page-20)
 
-- how to lose weight - 126
+- how to lose weight [126](#page-126)
 
 - in the newborn - [273](#page-273)
 
@@ -3160,19 +3160,19 @@ Weight loss
 
 Welts (hives) - [68](#page-68) - [203](#page-203) - [238](#page-238)
 
-Wet malnutrition (kwashiorkor) - 113
+Wet malnutrition (kwashiorkor) [113](#page-113)
 
-Whipworm (Trichuris - Trichocephalus) - 142
+Whipworm (Trichuris - Trichocephalus) [142](#page-142)
 
 White spots and patches on the skin - [206](#page-206) – [207](#page-207) - [232](#page-232)
 
-Whooping cough (pertussis) - [168](#page-168) - 313
+Whooping cough (pertussis) - [168](#page-168) [313](#page-313)
 
-- medicines for - 313
+- medicines for [313](#page-313)
 
 - vaccination - [147](#page-147) - [296](#page-296)
 
-Witchcraft - [5](#page-5) -  24
+Witchcraft - [5](#page-5) [24](#page-24)
 
 Withdrawal
 
@@ -3194,41 +3194,41 @@ Womb - [286](#page-286) - [428](#page-428)
 
 Women’s health care - [241](#page-241)
 
-Working together - w5 - w24
+Working together -[w5](#page-w5)- w24
 
 Worms - [140](#page-140) - [146](#page-146) - [227](#page-227) – [228](#page-228) - [406](#page-406) – [407](#page-407)
 
-- causing obstructed gut - 94
+- causing obstructed gut [94](#page-94)
 
-- in children - 308
+- in children [308](#page-308)
 
 - medicines for[335](#page-335) - [373](#page-373) – [375](#page-375)
 
-- prevention of - [47](#page-47) - [131](#page-131) - 134
+- prevention of - [47](#page-47) - [131](#page-131) [134](#page-134)
 
 Wounds
 
-- abdomen - 92
+- abdomen [92](#page-92)
 
-- bullet - [90](#page-90) - 93
+- bullet - [90](#page-90) [93](#page-93)
 
-- chest - 91
+- chest [91](#page-91)
 
-- controlling bleeding of - 82
+- controlling bleeding of [82](#page-82)
 
-- deep - [89](#page-89) - 92
+- deep - [89](#page-89) [92](#page-92)
 
-- from a broken bone - 99
+- from a broken bone [99](#page-99)
 
-- how to close them - [85](#page-85) - 86
+- how to close them - [85](#page-85) [86](#page-86)
 
 - infected - [88](#page-88) -[89](#page-89) - [213](#page-213) - [401](#page-401)
 
-- knife and bullet - [89](#page-89) - 93
+- knife and bullet - [89](#page-89) [93](#page-93)
 
-- medicines for - [93](#page-93) -  334
+- medicines for - [93](#page-93) [334](#page-334)
 
-- small - 84
+- small [84](#page-84)
 
 - that may cause tetanus - [89](#page-89) - [182](#page-182)
 
