@@ -47,7 +47,7 @@ Not many years ago everyone thought that mother’s milk was the best food for a
 
 >Respect your people’s traditions and build on them.
 
-For more ideas for building on local traditions, see Helping Health Workers Learn, Chapter 7.
+For more ideas for building on local traditions, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapter 7.
 
 
 # BELIEFS THAT CAN MAKE PEOPLE WELL

@@ -538,7 +538,7 @@ If a person regularly has **low blood pressure**, there is no need to worry. In 
 
 **A sudden drop in blood pressure** is a danger sign, especially if it falls below 60/40. Health workers should watch for any sudden drop in the blood pressure of persons who are losing blood or at risk of shock (see p. 77).
 
-For more information about blood pressure measurement, see Helping Health Workers Learn, Chapter 19.
+For more information about blood pressure measurement, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapter 19.
 
 
 # [412](#page-412)

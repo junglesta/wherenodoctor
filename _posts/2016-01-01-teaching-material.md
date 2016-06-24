@@ -6,11 +6,11 @@ style: blue
 bookpage: 389
 ---
 
-## Addresses for Teaching Materials
+# Addresses for Teaching Materials
 
 ### Hesperian Health Guides
 
-1919 Addison Street, Suite 304 Berkeley, California 94704 USA
+1919 Addison Street, Suite 304 Berkeley, California 94704, USA
 
 tel: 1 510 845 1447
 
@@ -24,35 +24,35 @@ website: www.hesperian.org
 
 - _Where There Is No Doctor_ ,
 
-- Where Women Have No Doctor,
+- _Where Women Have No Doctor_,
 
-- Health Actions for Women,
+- _Health Actions for Women_,
 
-- A Community Guide to Environmental Health,
+- _A Community Guide to Environmental Health_,
 
-- Workers’ Guide to Health and Safety,
+- _Workers’ Guide to Health and Safety_,
 
-- A Book for Midwives,
+- _A Book for Midwives_,
 
-- Helping Children Who Are Blind,
+- _Helping Children Who Are Blind_,
 
-- Helping Children Who Are Deaf,
+- _Helping Children Who Are Deaf_,
 
-- Helping Health Workers Learn,
+- _Helping Health Workers Learn_,
 
--  Where There Is No Dentist,
+-  _Where There Is No Dentist_,
 
-- A Health Handbook for Women with Disabilities, and
-- Disabled Village Children.
+- _A Health Handbook for Women with Disabilities_, and
+
+- _Disabled Village Children_.
 
 
-### African Medical and Research Foundation
 
-AMREF Headquarters
+<br>
 
-Langata Road, P.O Box 27691-00506 Nairobi
+###   African Medical and Research Foundation
 
-Kenya
+**AMREF Headquarters**, Langata Road, P.O Box 27691-00506,  Nairobi, Kenya
 
 tel: 254 20 6993000
 
@@ -64,13 +64,11 @@ website: www.amref.org
 
 Wide range of low-cost, practical manuals and books on primary health care.
 
+<br>
+
 ### Alcoholics Anonymous
 
-AA World Services Incorporated
-
-P.O. Box 459, Grand Central Station New York, NY 10163
-
-USA
+**AA World Services Incorporated** P.O. Box 459, Grand Central Station New York, NY 10163, USA
 
 tel: 1 212 870 3400
 
@@ -80,11 +78,11 @@ website: www.aa.org
 
 Information about alcoholism and materials on how to start community support groups for persons with drug or alcohol problems. Contact them for information about groups in your area.
 
+<br>
+
 ### Arab Resource Collective
 
-Arab Resource Collective P.O. Box 13-5916
-
-Beirut, Lebanon
+P.O. Box 13-5916, Beirut, Lebanon
 
 tel: 00 961 1 742 075
 
@@ -96,11 +94,11 @@ website: www.mawared.org
 
 Books, teaching aids and other educational resources in Arabic and English, for the use of community workers in health, education and development projects, and to facilitate communication and networking among workers and organizations in the Arab world.
 
-### Child to Child
+<br>
 
-Institute of Education
+### Child to Child Institute of Education
 
-20 Bedford Way London WC1H 0AL United Kingdom
+20 Bedford Way, London WC1H 0AL, United Kingdom
 
 tel: 44 20 7612 6649
 
@@ -111,9 +109,11 @@ website: www.childtochild.org
 Materials for teachers and health workers to involve children in health promotion activities.
 
 
+<br>
+
 ### Christian Medical Association of India
 
-A-3 Local Shopping Centre Janakpuri, New Delhi 110 058 India
+A-3 Local Shopping Centre Janakpuri, New Delhi 110 058, India
 
 tel: 91 11 25599991/2/3
 
@@ -125,13 +125,11 @@ website: www.cmai.org
 
 Health and community development resources, including Footsteps, a magazine published in English, French, Hindi, Portugues and Spanish. Available free to grassroots development workers.
 
+<br>
+
 ### DEMOTECH – Designs for Self-Reliance
 
-Biesenwal 3
-
-6211 AD Maastricht
-
-The Netherlands
+Biesenwal 3, 6211 AD Maastricht, The Netherlands
 
 tel: 31 6174 77177
 
@@ -141,13 +139,13 @@ website: www.demotech.org
 
 Educational material for sanitation and water systems, innovative education methods.
 
-### ENDA – Environmental Development Action in the Third World
+<br>
 
-B.P. 3370
+### ENDA
 
-Dakar
+**Environmental Development Action in the Third World**
 
-Senegal
+B.P. 3370, Dakar, Senegal
 
 tel: 221 33 869 99 48/49, 221 33 889 34 09
 
@@ -159,11 +157,11 @@ website: www.endatiersmonde.org
 
 Mostly French language information and materials for grassroots development, including health and appropriate technology.
 
+<br>
+
 ### Helen Keller International
 
-352 Park Avenue South,12th Floor New York, NY 10010
-
-USA
+352 Park Avenue South,12th Floor, New York, NY 10010 USA
 
 tel from US (toll free): 1 877 535 5374
 
@@ -177,8 +175,9 @@ website: www.hki.org
 
 Material on blindness from lack of vitamin A. Information on blindness prevention and visual chart.
 
+<br>
 
-International Development Research Centre (IDRC)
+### International Development Research Centre (IDRC)
 
 P.O. Box 8500 Ottawa, Ontario Canada K1G 3H9
 
@@ -191,6 +190,8 @@ e-mail: info@idrc.ca
 website: www.idrc.ca
 
 Magazines, brochures, videos, and other materials on health, agriculture, and development. Materials in English, Spanish, French, and Arabic, some at no cost. Contact them for links to regional offices around the world.
+
+<br>
 
 ### International Planned Parenthood Federation (IPPF)
 
@@ -206,13 +207,11 @@ website: www.ippf.org
 
 Information on all aspects of family planning. Contact them for links to affiliated Family Planning Associations in over 180 countries.
 
-Johns Hopkins Center for Communication Programs
+<br>
 
-Bloomberg School of Public Health
+### Johns Hopkins Center for Communication Programs
 
-111 Market Place, Suite 310 Baltimore, Maryland 21202
-
-USA
+Bloomberg School of Public Health, 111 Market Place, Suite 310 Baltimore, Maryland 21202, USA
 
 tel: 1 410 659 6300
 
@@ -223,11 +222,11 @@ website: www.ccp.jhu.edu
 Wide variety of health information and health education materials.
 
 
+<br>
+
 ### Nutrition Center of the Philippines
 
-2332 Chino Roces Avenue Extension Fort Bonifacio
-
-Taguig City, Metro Manila, 1630 Philippines
+2332 Chino Roces Avenue Extension Fort Bonifacio, Taguig City, Metro Manila, 1630 Philippines
 
 tel: 632 816 4165
 
@@ -237,11 +236,11 @@ website: www.ncp.org.ph
 
 Health and nutrition materials including books, posters, manuals, flipcharts, pamphlets, and calendars.
 
+<br>
+
 ### Practical Action
 
-The Schumacher Centre for Technology & Development Bourton-on-Dunsmore Rugby CV23 9QZ
-
-United Kingdom
+The Schumacher Centre for Technology & Development, Bourton-on-Dunsmore Rugby CV23 9QZ, United Kingdom
 
 tel: 44 1926 634400
 
@@ -253,11 +252,11 @@ website: www.practicalaction.org
 
 Technical information for grassroots development. Print materials and multimedia. Contact them for links to resource centers in other countries.
 
+<br>
+
 ### Teaching Aids at Low Cost (TALC)
 
-Units 25/26, Thrales End Business Centre Thrales End Lane
-
-Harpenden, Hertfordshire AL5 3NS United Kingdom
+Units 25/26, Thrales End Business Centre Thrales End Lane, Harpenden, Hertfordshire AL5 3NS, United Kingdom
 
 tel: 44-1582-380883
 
@@ -267,15 +266,11 @@ website: www.talcuk.org
 
 Low-cost books, slides and accessories in English, French, Spanish and Portuguese on health care and development for use in poor communities.
 
-### Voluntary Health Association of India
+<br>
 
-(VHAI)
+### VHAI
 
-B-40, Qutab Institutional Area South of I.I.T. Delhi
-
-New Delhi 110016
-
-India
+**Voluntary Health Association of India**, B-40, Qutab Institutional Area South of I.I.T. Delhi, New Delhi 110016, India
 
 tel: 91 11 4700 4300
 
@@ -287,13 +282,13 @@ website: www.vhai.org
 
 Health education materials in English and local Indian languages.
 
-### World Neighbors International Headquarters
 
-PO Box 270058
 
-Oklahoma City, OK 7317-0058
+<br>
 
-USA
+###  World Neighbors International Headquarters
+
+PO Box 270058, Oklahoma City, OK 7317-0058, USA
 
 tel: 1 800 242 6387 or 1 405 752 9700
 

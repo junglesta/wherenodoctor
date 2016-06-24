@@ -369,7 +369,7 @@ Some injected medicines can cause dangerous allergic reactions, poisoning, deafn
 
 For more information on how injections disable children, see Disabled Village Children, Chapter 3.
 
-For ideas on teaching people about the danger of unnecessary injections, see Helping Health Workers Learn, Chapters 18, 19, and 27.
+For ideas on teaching people about the danger of unnecessary injections, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapters 18, 19, and 27.
 
 # HOW TO CLEAN (STERILIZE) EQUIPMENT
 

@@ -170,4 +170,4 @@ Minor skin infections can usually be successfully treated with mild soap and wat
 
 > Do not use antibiotics for infections the body can fight successfully by itself. Save them for when they are most needed.
 
-For more information on learning to use antibiotics sensibly, see Helping Health Workers Learn, [Chapter 19](#page-245).
+For more information on learning to use antibiotics sensibly, see [_[_Helping Health Workers Learn_](#addresses-for-teaching-materials)_](#addresses-for-teaching-materials), Chapter 19.

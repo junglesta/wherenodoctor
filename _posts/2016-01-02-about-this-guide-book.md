@@ -7,26 +7,20 @@ style: grey
 
 ## About this offline-enabled web book app
 
-_The content sources used to build this **offline-enabled web app** are those freely available for download in pdf format._
+The _content sources_ used to build this **offline-enabled web app** are those freely available for download in pdf format. We downloaded the _September 2015 revision_ of _Where There Is No Doctor PDFs_ and built from there.
 
-_We downloaded the September 2015 revision of **_Where There Is No Doctor_ ** PDFs and built from there._
-
-_Thanks to [David Terzano](http://work-it.it) for designing the logo._
+Special thanks to [David Terzano](http://work-it.it) for designing this app logo.
 
 ## about the original printed book
 
-### _Where There Is No Doctor_ 
+**_Where There Is No Doctor_** A Village Health Care Book
 
-#### A Village Health Care Book
-
-First published in 1977 by [David Werner](https://en.wikipedia.org/wiki/David_Werner), Carol Thuman, Jane Maxwell.
-
-Original title: Donde No Hay Doctor
-
+First published in 1977 by [David Werner](https://en.wikipedia.org/wiki/David_Werner), Carol Thuman, Jane Maxwell.  
+Original title: _Donde No Hay Doctor_  
 ISBN 978-0-942364-15-6
 
 
-**_Where There Is No Doctor_ ** is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
+**_Where There Is No Doctor_** is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
 
 In the Journal of the American Medical Association, a 2010 review said, it is still not known if the book effectively improves health. However, in most of the world, where physicians are not available and diseases are rampant, the status quo is unacceptable. Until better solutions are created, _Where There Is No Doctor_  is probably a useful stop-gap measure.
 
@@ -39,13 +33,10 @@ Originally published by:
 
 1919 Addison St., #304 Berkeley, California 94704 USA
 
-www.hesperian.org
+www.hesperian.org  
+Copyright © 1977, 1992, 2013, 2015 by Hesperian.
 
-Copyright © 1977, 1992, 2013, 2015 by Hesperian
-
-First English edition: October 1977, Revised English edition: May 1992, Fourteenth printing: September 2015
-
-The original English version of this book was produced in 1977 as a revised translation of the Spanish edition, **Donde no hay doctor**.
+First English edition: October 1977, Revised English edition: May 1992, Fourteenth printing: September 2015. The original English version of this book was produced in 1977 as a revised translation of the Spanish edition, _Donde no hay doctor_.
 
 ### Open Copyright License
 
@@ -61,7 +52,7 @@ Please send Hesperian a copy of any materials in which text or illustrations fro
 
 ### Original Printed Edition thanks
 
-This 2015 revision of **_Where There Is No Doctor_ ** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
+This 2015 revision of **_Where There Is No Doctor_** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
 
 **David Werner** is the author of the original Spanish and English versions of the book. His vision, caring, and commitment are present on every page.
 
@@ -86,10 +77,11 @@ For help updating this book, we thank Manisha Aryal, Elizabeth Babu, Kristen Cas
 Artwork for this book was created by David Werner, Kyle Craven, Susan Klein, Regina Doyle, Sandy Frank, Kathleen Tandy, Fiona Thomson, Lihua Wang, and Mary Ann Zapalac.
 
 We also thank the following persons and groups for permission to use their artwork: Dale Crosby, Carl Werner, Macmillan Publishers (for some of Felicity Shepherd’s drawings in the African edition of this book), the “New Internationalist” (for the picture of the VIP latrine), James Ogwang (for the drawings on page 417), and McGraw-Hill (for drawings appearing on pages 85 and 104 taken from Emergency Medical Guide by John Henderson, illustrated by Neil Hardy).
+
 The fine work of those who helped create the original version is still reflected on nearly every page.
 
 Our thanks to Val Price, Al Hotti, Kathleen Tandy, Max Capestany, Rudolf Bock, Kent Benedict, Alfonzo Darricades, Carlos Felipe Soto Miller, Paul Quintana, David Morley, Bill Bower, Allison Orozco, Susan Klein, Greg Troll, Carol Westburg, Lynn Gordon, Myra Polinger, Trude Bock, Roger Buch, Lynne Coen, George Kent, Jack May, Oliver Bock, Bill Gonda, Ray Bleicher, and Jesús Manjárrez.
 
 We are grateful for financial support from the Carnegie Corporation, Flora Family Foundation, Ford Foundation, Grousebeck Family Foundation, Moriah Fund, Gladys and Merrill Muttart Foundation, Myra Polinger, the Public Welfare Foundation, Misereor, the W.K. Kellogg Foundation, the Sunflower Foundation, the Edna McConnell Clark Foundation, and West Foundation.
 
-Finally, our warm thanks to the village health workers of Project Piaxtla in rural Mexico ,  especially Martín Reyes, Miguel Angel Manjárrez, Miguel Angel Alvarez, and Roberto Fajardo, whose experience and commitment provided the foundation for this book.
+Finally, our warm thanks to the village health workers of Project Piaxtla in rural Mexico,  especially Martín Reyes, Miguel Angel Manjárrez, Miguel Angel Alvarez, and Roberto Fajardo, whose experience and commitment provided the foundation for this book.

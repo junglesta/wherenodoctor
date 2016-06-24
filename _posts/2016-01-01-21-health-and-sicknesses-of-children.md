@@ -1002,7 +1002,7 @@ When a child is young, she thinks mostly of filling only her own needs. Later, s
 
 Children who are not afraid ask many questions. If parents, teachers, and others take the time to answer their questions clearly and honestly, and to say they do not know when they do not, a child will keep asking questions, and as she grows may look for ways to make her surroundings or her village a better place to live.
 
-Some of the best ideas for helping children learn and become involved in community health care have been developed through the Child to Child program. This is described in Helping Health Workers Learn, Chapter 24.
+Some of the best ideas for helping children learn and become involved in community health care have been developed through the Child to Child program. This is described in [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapter 24.
 
 Or write to:
 

@@ -81,7 +81,7 @@ Let us hope that through a more generous sharing of knowledge, and through learn
 
 In this revised edition of _Where There Is No Doctor_ , we have added new information and updated old information, based on the latest scientific knowledge. Health care specialists from many parts of the world have generously given advice and suggestions.
 
-When it would fit without having to change page numbers, we have added new information to the main part of the book. (This way, the numbering stays the same, so that page references in our other books, such as _Helping Health Workers Learn_, will still be correct.)
+When it would fit without having to change page numbers, we have added new information to the main part of the book. (This way, the numbering stays the same, so that page references in our other books, such as _[_Helping Health Workers Learn_](#addresses-for-teaching-materials)_, will still be correct.)
 
 The **[Additional Information](#page-399)** section at the end of the book (page 399) has information about health problems of growing or special concern: HIV and AIDS, sores on the genitals, leishmaniasis, complications from abortion, guinea worm, and others.
 

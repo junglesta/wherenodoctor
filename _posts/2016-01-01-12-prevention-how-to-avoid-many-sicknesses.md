@@ -584,7 +584,7 @@ Vaccines for measles, polio, and tuberculosis must be kept frozen or very cold (
 
 Vaccine that has been prepared but not used should be thrown away. DPT is still good and useable if it remains cloudy 1 hour after preparing it.
 
-If it becomes clear or has white flecks in it, it is spoiled and will not work. For ways to keep vaccines cold, see Helping Health Workers Learn, Chapter 16.
+If it becomes clear or has white flecks in it, it is spoiled and will not work. For ways to keep vaccines cold, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapter 16.
 
 
 >**Vaccinate your children on time.**
@@ -626,7 +626,7 @@ People who have been heavy drinkers and have stopped are often the best persons 
 
 Drinking is not so much a problem of individuals as of a whole community. A community that recognizes this can do much to encourage those who are willing to make changes. If you are concerned about the misuse of alcohol in your community, help organize a meeting to discuss these problems and decide what actions to take.
 
-For more about harm from alcohol, and community action, see Helping Health Workers Learn, Chapters 5 and 27.
+For more about harm from alcohol, and community action, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapters 5 and 27.
 
 >Many problems can be resolved when people work together and give each other help an
 

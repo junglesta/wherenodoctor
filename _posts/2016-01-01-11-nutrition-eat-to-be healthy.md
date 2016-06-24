@@ -270,7 +270,7 @@ Other forms of malnutrition may result when certain vitamins and minerals are mi
 
   • Goiter from lack of iodine (see p. 130).
 
-For more information about health problems related to nutrition, see Helping Health Workers Learn, Chapter 25, and Disabled Village Children, Chapters 13 and 30.
+For more information about health problems related to nutrition, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapter 25, and Disabled Village Children, Chapters 13 and 30.
 
 
 
@@ -312,7 +312,7 @@ By the time they are 10 or 12 years old, children of poor families often produce
 In short, lack of social and economic security creates the need for parents
 to have many children. Therefore, the answer to gaining a balance between people and land does not lie in telling poor people to have small families.
 
-It lies in redistributing the land more fairly, paying fair wages, and taking other steps to overcome poverty. Only then can people afford small families and hope to achieve a lasting balance between people and land. (For a discussion of health, food, and social problems, see Helping Health Workers Learn.)
+It lies in redistributing the land more fairly, paying fair wages, and taking other steps to overcome poverty. Only then can people afford small families and hope to achieve a lasting balance between people and land. (For a discussion of health, food, and social problems, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials).)
 
 When money is limited, it is important to use it wisely. This means cooperation and looking ahead. Too often the father of a poor family will spend the little bit of money he has on alcohol and tobacco rather than on buying nutritious food, a hen to lay eggs, or something to improve the family’s health. Men who drink together would do well to get together sometime when they are sober, to discuss these problems and look for a healthy solution.
 

@@ -854,7 +854,7 @@ To help learning be fun in these classes you can act out situations. For example
 
 Use the book to try to find out what his problem is and what can be done about it. The group should remember to involve the ‘sick’ person in learning more about his own sickness—and should end up by discussing with him ways of preventing the sickness in the future. All this can be acted out in class.
 
-Exciting and effective ways to teach about health care are in the book Helping Health Workers Learn, also available from Hesperian.
+Exciting and effective ways to teach about health care are in the book [_Helping Health Workers Learn_](#addresses-for-teaching-materials), also available from Hesperian.
 
 As a health worker, one of the best ways you can help people use this book correctly is this: When persons come to you for treatment, have them look up their own or their child’s problem in the book and find out how to treat it.
 
