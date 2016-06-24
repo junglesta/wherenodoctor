@@ -35,6 +35,10 @@ html {
 
 body {
   font-size: $base_font_size;
+  @include media( "screen", ">bp1Width") {
+      font-size: $base_font_size_big;
+  }
+
   margin: 0;
 
   font-weight: $base_font_weight;

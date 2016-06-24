@@ -5,6 +5,7 @@
 // variables
 $base_rem_size: 16px;
 $base_font_size:  1rem;
+$base_font_size_big: 18px;
 $base_font_weight: 300;
 $base_line_height: 1.5;
 // derivates
@@ -43,12 +44,12 @@ $mediaMaxWidth: 960px;
 
 // Import partials from `_sass`
 @import
+ "cmq",
  "base",
  "toc",
  "search",
  "helpers",
  "svgs",
- "cmq",
  "code",
  "headings",
  "wrapper",
