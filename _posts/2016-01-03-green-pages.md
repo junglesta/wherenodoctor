@@ -3629,7 +3629,7 @@ For miconazole, using a 200 mg insert, use for 3 days.
 
 For nystatin, using a 100,000 Unit insert, use for 14 days.
 
-## FOR SCABIES AND LICE: INSECTICIDES
+## FOR SCABIES AND LICE: Insecticides
 
 Benzyl benzoate, cream or lotion
 
@@ -4093,7 +4093,7 @@ Treatment of dwarf tapeworm (H. nana) requires a larger dosage: Take once only.
 {:.no_toc}
 
 
-## FOR SCHISTOSOMIASIS (BLOOD FLUKES, BILHARZIA)
+## FOR SCHISTOSOMIASIS (Blood Flukes, Bilharzia)
 
 In different parts of the world there are several types of schistosomiasis, which require different treatments.
 
@@ -4186,7 +4186,7 @@ Give for one day only:
 - children 1 to 3 years: 63 mg (1⁄4 capsule)
 
 
-## FOR RIVER BLINDNESS (ONCHOCERCIASIS)
+## FOR RIVER BLINDNESS (onchocerciasis)
 
 The best medicine for treating river blindness is ivermectin.
 
@@ -4321,7 +4321,7 @@ Silver nitrate (or other “silver” eye medicines) stops gonorrhea blindness, 
 WARNING: Do not use silver nitrate drops that may have become too concentrated because of evaporation—they can burn babies’ eyes.
 
 
-## FOR PAIN: ANALGESICS
+## FOR PAIN: analgesics
 
 Note: There are many different kinds of pain medicine, many of which are dangerous (especially those containing dipyrone).
 
@@ -4467,7 +4467,7 @@ Do not take when pregnant.
 
 Codeine—for severe pain—see [page 383](#page-383).
 
-## FOR STOPPING PAIN WHEN CLOSING WOUNDS: ANESTHETICS
+## FOR STOPPING PAIN WHEN CLOSING WOUNDS: anesthetics
 
 **Lidocaine (Lignocaine, Xylocaine)**
 
@@ -4510,7 +4510,7 @@ Another use of lidocaine with epinephrine: For severe nosebleed, soak a little i
 The epinephrine will cause the veins to squeeze shut and help control bleeding.
 
 
-## FOR GUT CRAMPS: ANTISPASMODICS
+## FOR GUT CRAMPS: antispasmodics
 
 **Belladonna (with or without phenobarbital)**
 
@@ -4647,7 +4647,7 @@ _Dosage of_ ranitidine for treatment of ulcers:
 150 mg twice a day, or 300 mg at dinnertime,
 for 1 week.
 
-## FOR SEVERE DIARRHEA AND DEHYDRATION: REHYDRATION DRINKS, ‘ORS’, AND ZINC
+## FOR SEVERE DIARRHEA AND DEHYDRATION: rehydration drinks, ‘ors’, and zinc
 
 Instructions for making Rehydration Drink with cereal or ordinary sugar are on [page 152](#page-152).
 
@@ -4707,7 +4707,7 @@ children over 6 months: 20 mg babies under 6 months:10 mg
 # [382](#page-382)
 {:.no_toc}
 
-## FOR HARD STOOLS (CONSTIPATION): LAXATIVES
+## FOR HARD STOOLS (constipation): laxatives
 
 A discussion of the use and misuse of different laxatives and purges is found on [page 15](#page-15).
 
@@ -4807,7 +4807,7 @@ The longer you let the suppository stay inside the rectum, the better it will wo
 {:.no_toc}
 
 
-## FOR MILD DIARRHEA: ANTI-DIARRHEA MEDICINE
+## FOR MILD DIARRHEA: anti-diarrhea medicine
 
 Bismuth Subsalicylate (Pepto-Bismol, Pink Bismuth, Kaopectate)
 
@@ -5102,7 +5102,7 @@ If the pulse goes up by more than 30 beats per minute after the first injection,
 
 In using epinephrine, be careful never to give more than the recommended amount.
 
-## FOR ALLERGIC REACTIONS AND VOMITING: THE ANTIHISTAMINES
+## FOR ALLERGIC REACTIONS AND VOMITING: Antihistamines
 
 Antihistamines are medicines that affect the body in several ways:
 
@@ -5299,7 +5299,7 @@ In each dose give:
 # [387](#page-387)
 {:.no_toc}
 
-# ANTITOXINS
+**ANTITOXINS**
 
 WARNING:
 
@@ -5313,11 +5313,11 @@ In persons who are allergic, or who have been given any kind of antitoxin made o
 
 When treating for snake, insect, or other bites, also give antitetanus immunoglobulin if possible.
 
-Scorpion antitoxin or antivenom
+**Scorpion antitoxin or antivenom**
 
 
+_Often comes_ lyophilized (in powdered form) for injection
 
-Often comes lyophilized (in powdered form) for injection
 Different antivenoms are produced for scorpion sting in different parts of the world.
 
 In Mexico, Laboratories BIOCLON produces Alacramyn.
@@ -5340,7 +5340,7 @@ Most scorpions are not dangerous to adults.
 
 Because the antivenom itself has some danger in its use, it is usually better not to give it to adults.
 
-Snakebite antivenom or antitoxin
+**Snakebite antivenom or antitoxin**
 
 
 _Often comes in:_  bottles or kits for injection
@@ -5358,6 +5358,7 @@ Others need to be kept cold.
 The following are distributors of antivenom products in different parts of the world.
 
 In many countries, antivenoms are available through the government:
+
 North America: Crofab (Crotalidae Polyvalent Immune Fab-Ovine) for rattlesnakes, copperheads, cottonmouths, and water moccasins.
 
 Order from BTG Customer Service, tel: 1-877-852-8542
@@ -5367,8 +5368,10 @@ Antivipmyn and Antivipmyn TRI (Faboterapia polivalente antiviperino) for rattles
 
 From Instituto Bioclon, Mexico, D.F.,
 tel: (52) 5665-4111, www.bioclon.com.mx
+
 Antivenoms are also available from Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica, San Jose, Costa Rica, tel: (506) 2229-0344, www.icp.ucr.ac.cr, and Instituto Butantan, Sao Paulo, Brazil,
 tel: (55) 11-3726-7222, fax: (55) 11-3726-1505, email: instituto@butantan.gov.br, www.butantan.gov.br
+
 South Africa: Boomslang antivenom, Echis antivenom, polyvalent antivenoms for puff adder, Gaboon adder, rinkhals, green mamba, Jameson’s mamba, black mamba, cape cobra, forest cobra, snouted cobra and Mozambique spitting cobra.
 
 Also scorpion and spider antivenoms.
@@ -5441,7 +5444,7 @@ Begin treatment at once and get medical help fast.
 
 GREEN PAGES
 
-# FOR SWALLOWED POISONS
+## FOR SWALLOWED POISONS
 
 **Activated Charcoal**
 
@@ -5473,7 +5476,7 @@ To eliminate poison from the body after effects of the poison have begun:
 
 For example, if the baby weighs 6 kg, give 6 g of activated charcoal for the first dose, and 3 g every 2 to 4 hours afterwards.
 
-# FOR SEIZURES (FITS, CONVULSIONS)
+## FOR SEIZURES (FITS, CONVULSIONS)
 
 Phenobarbital and phenytoin are common medicines used to prevent seizures of epilepsy.
 
@@ -5691,7 +5694,7 @@ WARNING: Too much magnesium sulfate can slow down or stop breathing.
 Be careful not to give too much! Do not give to women with kidney problems.
 
 
-## FOR SEVERE BLEEDING AFTER BIRTH (POSTPARTUM HEMORRHAGE)
+## FOR SEVERE BLEEDING AFTER BIRTH (postpartum hemorrhage)
 
 For information on the right and wrong use of medicines to control bleeding after birth, see [page 266](#page-266).
 
