@@ -447,366 +447,366 @@ Note:
 Medicines not listed in the GREEN PAGES, but mentioned in the book, are listed in the [yellow pages](#yellow-pages).
 
 
-3TC (lamivudine) 397
+3TC (lamivudine) [page 397](#page-397)
 
 # A
 
-Acetaminophen (paracetamol) 379
+Acetaminophen (paracetamol) [page 379](#page-379)
 
-Acetylsalicylic acid (aspirin) 378
+Acetylsalicylic acid (aspirin) [page 378](#page-378)
 
-Activated charcoal 388
+Activated charcoal [page 388](#page-388)
 
-Acyclovir 373
+Acyclovir [page 373](#page-373)
 
-Adrenalin (epinephrine) 385
+Adrenalin (epinephrine) [page 385](#page-385)
 
-Adrenaline 385
+Adrenaline [page 385](#page-385)
 
-Alacramyn (antivenom) 387
+Alacramyn (antivenom) [page 387](#page-387)
 
-Albendazole 374
+Albendazole [page 374](#page-374)
 
-Albuterol 384
+Albuterol [page 384](#page-384)
 
-Alesse (birth control pills) 393
+Alesse (birth control pills) [page 393](#page-393)
 
-Alka Seltzer (sodium bicarbonate) 380
+Alka Seltzer (sodium bicarbonate) [page 380](#page-380)
 
-Allergic reactions, medicines for 385
+Allergic reactions, medicines for [page 385](#page-385)
 
-Aluminum hydroxide380 Amebas, medicines for 367
+Aluminum hydroxide380 Amebas, medicines for [page 367](#page-367)
 
-Amicline 369
+Amicline [page 369](#page-369)
 
-Amodiaquine 365
+Amodiaquine [page 365](#page-365)
 
-Amoxicillin 352
+Amoxicillin [page 352](#page-352)
 
-Ampicillin 352
+Ampicillin [page 352](#page-352)
 
-Analgesics 378
+Analgesics [page 378](#page-378)
 
-Anemia, medicines for 392
+Anemia, medicines for [page 392](#page-392)
 
-Anesthetics379
+Anesthetics [page 379](#page-379)
 
-Antacids 380
+Antacids [page 380](#page-380)
 
-Antibiotics 350
+Antibiotics [page 350](#page-350)
 
-Antihistamines  385
+Antihistamines  [page 385](#page-385)
 
-Antiminth (pyrantel) 375
+Antiminth (pyrantel) [page 375](#page-375)
 
-Antispasmodics 380
+Antispasmodics [page 380](#page-380)
 
-Antitetanus immunoglobulin388
+Antitetanus immunoglobulin [page 388](#page-388)
 
-Antitoxins 387
+Antitoxins [page 387](#page-387)
 
-Antivenoms 387
+Antivenoms [page 387](#page-387)
 
-Antivipmyn (antivenom) 387
+Antivipmyn (antivenom) [page 387](#page-387)
 
-Antrypol (suramin) 377
+Antrypol (suramin) [page 377](#page-377)
 
-Aralen (chloroquine) 366
+Aralen (chloroquine) [page 366](#page-366)
 
-Artemether with lumefantrine 364
+Artemether with lumefantrine [page 364](#page-364)
 
-Artemisinin 363
+Artemisinin [page 363](#page-363)
 
-Artesunate 364
+Artesunate [page 364](#page-364)
 
-Aspirin 378
+Aspirin [page 378](#page-378)
 
-Asthma, medicines for 384
+Asthma, medicines for [page 384](#page-384)
 
-Atabrine 369
+Atabrine [page 369](#page-369)
 
-Atropine 380
+Atropine [page 380](#page-380)
 
-Azithromycin359
+Azithromycin [page 359](#page-359)
 
-AZT (zidovudine) 397
+AZT (zidovudine) [page 397](#page-397)
 
 # B
 
-Bactrim (cotrimoxazole) 357
+Bactrim (cotrimoxazole) [page 357](#page-357)
 
-Banocide (diethylcarbamazine) 377
+Banocide (diethylcarbamazine) [page 377](#page-377)
 
-Beclomethasone 384
+Beclomethasone [page 384](#page-384)
 
-Belladonna 380
+Belladonna [page 380](#page-380)
 
-Benadryl (diphenhydramine) 386
+Benadryl (diphenhydramine) [page 386](#page-386)
 
-Benzoic acid 371
+Benzoic acid [page 371](#page-371)
 
-Benzyl benzoate 372
+Benzyl benzoate [page 372](#page-372)
 
-Betadine (povidone iodine) 370
+Betadine (povidone iodine) [page 370](#page-370)
 
-Bicarbonate of soda 380
+Bicarbonate of soda [page 380](#page-380)
 
-Biltricide (praziquantel) 375, 376
+Biltricide (praziquantel) [page 375](#page-375), [page 376](#page-376)
 
-Birth control 393
+Birth control [page 393](#page-393)
 
-Bismuth subsalicylate 383
+Bismuth subsalicylate [page 383](#page-383)
 
-Bleeding, medicines for 390
+Bleeding, medicines for [page 390](#page-390)
 
-Broxyquinoline 369
+Broxyquinoline [page 369](#page-369)
 
 # C
 
-Cafergot (ergotamine with caffeine) 379
+Cafergot (ergotamine with caffeine) [page 379](#page-379)
 
-Calcium carbonate 381
+Calcium carbonate [page 381](#page-381)
 
-Ceftriaxone 358
+Ceftriaxone [page 358](#page-358)
 
-Cephalosporins 357
+Cephalosporins [page 357](#page-357)
 
-Charcoal, powdered or activated 388
+Charcoal, powdered or activated [page 388](#page-388)
 
-Chlamydia, medicines for 359
+Chlamydia, medicines for [page 359](#page-359)
 
-Chlorambin 369
+Chlorambin [page 369](#page-369)
 
-Chloramphenicol 356
+Chloramphenicol [page 356](#page-356)
 
-Chloromycetin (chloramphenicol) 356
+Chloromycetin (chloramphenicol) [page 356](#page-356)
 
-Chloroquine 366
+Chloroquine [page 366](#page-366)
 
-Chlorpheniramine 386
+Chlorpheniramine [page 386](#page-386)
 
-Chlortetracycline 378
+Chlortetracycline [page 378](#page-378)
 
-Cilest (birth control pills) 393
+Cilest (birth control pills) [page 393](#page-393)
 
-Cipro (ciprofloxacin) 358
+Cipro (ciprofloxacin) [page 358](#page-358)
 
-Ciprofloxacin 358
+Ciprofloxacin [page 358](#page-358)
 
-Clindamycin 358
+Clindamycin [page 358](#page-358)
 
-Clioquinol 369
+Clioquinol [page 369](#page-369)
 
-Clofazimine 363
+Clofazimine [page 363](#page-363)
 
-Cloxacillin 350
+Cloxacillin [page 350](#page-350)
 
-Coartem (artemether with lumefantrine) b364
+Coartem (artemether with lumefantrine)  [page 364](#page-364)
 
-Cobantril (pyrantel) 375
+Cobantril (pyrantel) [page 375](#page-375)
 
-Codeine 383
+Codeine [page 383](#page-383)
 
 # [345](#page-345)
 {:.no_toc}
 
-Condoms .395
+Condoms [page 395](#page-395)
 
-Contraceptive foam.395
+Contraceptive foam [page 395](#page-395)
 
-Contraceptive implants 396
+Contraceptive implants [page 396](#page-396)
 
-Contraceptive tablets 395
+Contraceptive tablets [page 395](#page-395)
 
-Contraceptives, oral 393
+Contraceptives, oral [page 393](#page-393)
 
-Convulsions (fits), medicines for  388
+Convulsions (fits), medicines for  [page 388](#page-388)
 
-Copper T (IUD) 395
+Copper T (IUD) [page 395](#page-395)
 
-Cortico-steroid 370
+Cortico-steroid [page 370](#page-370)
 
-Cortisone  391
+Cortisone  [page 391](#page-391)
 
-Cotrimoxazole 357
+Cotrimoxazole [page 357](#page-357)
 
-Cough medicines 383
+Cough medicines [page 383](#page-383)
 
-Cramps of the gut, medicines for 380
+Cramps of the gut, medicines for [page 380](#page-380)
 
-Crotamiton 372
+Crotamiton [page 372](#page-372)
 
-Crystal violet 370
+Crystal violet [page 370](#page-370)
 
-Cyanocobalamin (vitamin B12) 392
+Cyanocobalamin (vitamin B12) [page 392](#page-392)
 
-Cyclofem (contraceptive injection)
-396
-Cytotec (misoprostol) 391
+Cyclofem (contraceptive injection) [page 396](#page-396)
+
+Cytotec (misoprostol) [page 391](#page-391)
 
 # D
 
-d4T (stavudine) 397
+d4T (stavudine) [page 397](#page-397)
 
-Dapsone (diaminodiphenylsulfone, DDS) 362
+Dapsone (diaminodiphenylsulfone, DDS) [page 362](#page-362)
 
-Dehydration, medicines for .381
+Dehydration, medicines for  [page 381](#page-381)
 
-Delfen (contraceptive foam)395
+Delfen (contraceptive foam) [page 395](#page-395)
 
-Depo-Provera (birth control injection) .396
+Depo-Provera (birth control injection) [page 396](#page-396)
 
-Diane (birth control pills) .393
+Diane (birth control pills) [page 393](#page-393)
 
-Diaphragm395
+Diaphragm [page 395](#page-395)
 
-Diarrhea, medicines for381, 383
+Diarrhea, medicines for [page 381](#page-381), [page 383](#page-383)
 
-Diazepam 389
+Diazepam [page 389](#page-389)
 
-Dicloxacillin .350
+Dicloxacillin [page 350](#page-350)
 
-Diethylcarbamazine.377
+Diethylcarbamazine [page 377](#page-377)
 
-Diiodohydroxyquin 369
+Diiodohydroxyquin [page 369](#page-369)
 
-Dilantin (phenytoin) 389
+Dilantin (phenytoin) [page 389](#page-389)
 
-Diloxanide furoate 368
+Diloxanide furoate [page 368](#page-368)
 
-Dimenhydrinate 386
+Dimenhydrinate [page 386](#page-386)
 
-Diodoquin (diiodohydroxyquin) 369
+Diodoquin (diiodohydroxyquin) [page 369](#page-369)
 
-Diphenhydramine 386
+Diphenhydramine [page 386](#page-386)
 
-Diphenylhydantoin (phenytoin) 389
+Diphenylhydantoin (phenytoin) [page 389](#page-389)
 
-Doxycycline 355
+Doxycycline [page 355](#page-355)
 
-Dramamine (dimenhydrinate)386
+Dramamine (dimenhydrinate) [page 386](#page-386)
 
-Droncit (praziquantel) 376
+Droncit (praziquantel) [page 376](#page-376)
 
 # E
 
-Efavirenz 397
+Efavirenz [page 397](#page-397)
 
-EFV (efavirenz) 397
+EFV (efavirenz) [page 397](#page-397)
 
-Emko (contraceptive foam) 395
+Emko (contraceptive foam) [page 395](#page-395)
 
-Entero Quinol 369
+Entero Quinol [page 369](#page-369)
 
-Entero Vioform 369
+Entero Vioform [page 369](#page-369)
 
-Ephedrine 383
+Ephedrine [page 383](#page-383)
 
-Epinephrine 385
+Epinephrine [page 385](#page-385)
 
-Epsom salts 382
+Epsom salts [page 382](#page-382)
 
-Ergometrine 390
+Ergometrine [page 390](#page-390)
 
-Ergonovine 390
+Ergonovine [page 390](#page-390)
 
-Ergotamine with caffeine 379
+Ergotamine with caffeine [page 379](#page-379)
 
 
 
-Ergotrate (ergotamine tartrate) 390
+Ergotrate (ergotamine tartrate) [page 390](#page-390)
 
-Erythromycin 354
+Erythromycin [page 354](#page-354)
 
-Ethambutol 361
+Ethambutol [page 361](#page-361)
 
-Eurax (crotamiton) 372 Expectorants 383
+Eurax (crotamiton) [page 372](#page-372) Expectorants [page 383](#page-383)
 
-Exluton (birth control pills) 393
+Exluton (birth control pills) [page 393](#page-393)
 
-Exsel (selenium sulfide) 371
+Exsel (selenium sulfide) [page 371](#page-371)
 
-Eyes, medicines for 378
+Eyes, medicines for [page 378](#page-378)
 
 # F
 
-Family planning methods 393
+Family planning methods [page 393](#page-393)
 
-Fansidar (pyrimethamine with sulfadoxine) 364
+Fansidar (pyrimethamine with sulfadoxine) [page 364](#page-364)
 
-Femoden (birth control pills) 393
+Femoden (birth control pills) [page 393](#page-393)
 
-Femulen (birth control pills) 394
+Femulen (birth control pills) [page 394](#page-394)
 
-Ferrous sulfate 392
+Ferrous sulfate [page 392](#page-392)
 
 [Fits (convulsions), medicines for](#page-388)
 
-Flagyl (metronidazole) 368
+Flagyl (metronidazole) [page 368](#page-368)
 
-Floraquin 369
+Floraquin [page 369](#page-369)
 
-Folic acid 392
+Folic acid [page 392](#page-392)
 
-Fungus infections, medicines for 371
+Fungus infections, medicines for [page 371](#page-371)
 
-Furamide (diloxanide furoate) 368
+Furamide (diloxanide furoate) [page 368](#page-368)
 
 # G
 
-Garamycin (gentamicin) 358
+Garamycin (gentamicin) [page 358](#page-358)
 
-Gentamicin 358
+Gentamicin [page 358](#page-358)
 
-Gentian violet 370
+Gentian violet [page 370](#page-370)
 
-Germanin (suramin) 377
+Germanin (suramin) [page 377](#page-377)
 
-Giardia, medicines for 367
+Giardia, medicines for [page 367](#page-367)
 
-Glycerin suppositories 382
+Glycerin suppositories [page 382](#page-382)
 
-Gonorrhea, medicines for 359
+Gonorrhea, medicines for [page 359](#page-359)
 
-Gracial (birth control pills) 393
+Gracial (birth control pills) [page 393](#page-393)
 
-Griseofulvin 371
+Griseofulvin [page 371](#page-371)
 
-Gynera (birth control pills) 393
+Gynera (birth control pills) [page 393](#page-393)
 
-Gynol II (contraceptive gel) 395
+Gynol II (contraceptive gel) [page 395](#page-395)
 
 # H
 
-Halquinol .369
+Halquinol [page 369](#page-369)
 
 
 
-Harmonet (birth control pills) 393
+Harmonet (birth control pills) [page 393](#page-393)
 
-Headache, medicines for378
+Headache, medicines for [page 378](#page-378)
 
-Helmex (pyrantel) 375
+Helmex (pyrantel) [page 375](#page-375)
 
-Hemorrhage, medicines for 390
+Hemorrhage, medicines for [page 390](#page-390)
 
-Hemorrhoids, medicines for 391
+Hemorrhoids, medicines for [page 391](#page-391)
 
-Herpes, medicines for 373
+Herpes, medicines for [page 373](#page-373)
 
-Hetrazan (diethylcarbamazine) 377
+Hetrazan (diethylcarbamazine) [page 377](#page-377)
 
-Human tetanus immune globulin 388
+Human tetanus immune globulin [page 388](#page-388)
 
 
 # [346](#page-346)
 {:.no_toc}
 
-Hydroxyquinolines 369
+Hydroxyquinolines [page 369](#page-369)
 
-Hyoscyamine (atropine) 380
+Hyoscyamine (atropine) [page 380](#page-380)
 
-Hyper-tet (tetanus immune globulin) 388
+Hyper-tet (tetanus immune globulin) [page 388](#page-388)
 
 # I
 
@@ -978,7 +978,7 @@ Oxacillin [350](#page-350)
 
 Oxamniquine [376](#page-376)
 
-Oxytetracycline355
+Oxytetracycline [page 355](#page-355)
 
 Oxytocin [390](#page-390)
 
@@ -1105,7 +1105,7 @@ Rifampicin for leprosy [362](#page-362)
 
 Ringworm, medicines for [371](#page-371)
 
-River blindness, medicines for377
+River blindness, medicines for [page 377](#page-377)
 
 # S
 
@@ -1222,7 +1222,7 @@ Vaginal infections, medicines for [369](#page-369)
 
 Valium (diazepam) [389](#page-389)
 
-Vansi I (oxamniquine)376
+Vansi I (oxamniquine) [page 376](#page-376)
 
 Vaseline (petroleum jelly) [370](#page-370)
 
@@ -1346,7 +1346,7 @@ This is because the next time the reaction would likely be far worse and might k
 
 (But stomach upset from taking penicillin is not an allergic reaction, and no cause to stop taking it.)
 
-Persons who cannot take penicillin can sometimes be treated with tetracycline or erythromycin by mouth (see pages 354 and 355 for uses and precautions).
+Persons who cannot take penicillin can sometimes be treated with tetracycline or erythromycin by mouth (see pages[page 354](#page-354) and[page 355](#page-355) for uses and precautions).
 
 Most infections that can be treated with penicillin can be treated quite well with penicillin taken by mouth.
 
@@ -3396,6 +3396,7 @@ Give 1 large dose only:
 **DANGER! DO NOT USE!**
 
 Hydroxyquinolines (clioquinol, iodoquinol, di-iodohydroxyquinoline, halquinol, broxyquinoline) (familiar brand names: Diodoquin, Amicline, Floraquin, Entero Quinol, Chlorambin, Nivembin, Quogyl, Entero-Vioform, and many other brands)
+
 These medicines were commonly used in the past to treat diarrhea.
 
 **They are now known to sometimes cause permanent paralysis, blindness, and even death.**
@@ -6083,7 +6084,7 @@ The amounts of each hormone are the same in all 21 hormone pills in each pack.
 
 Information about the use, risks, and precautions for birth control pills can be found on [page 289](#page-289).
 
-Most birth control pills contain 1 or 2 hormones similar to hormones that a woman’s body normally makes during her menstrual cycle (see pages 245 and 291).
+Most birth control pills contain 1 or 2 hormones similar to hormones that a woman’s body normally makes during her menstrual cycle (see pages[page 245](#page-245) and[page 291](#page-291) ).
 
 These hormones are called estrogen and progestin (see [page 288](#page-288)).
 
