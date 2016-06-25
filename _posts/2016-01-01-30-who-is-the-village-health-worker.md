@@ -510,7 +510,7 @@ It has been said that the social meaning of love is justice. The health worker w
 
 
 
-# WORKING TOWARD A BALANCE BETWEEN
+# BALANCE BETWEEN TREATMENT AND PREVENTION
 
 A balance between treatment and prevention often comes down to a balance between immediate needs and long-term needs.
 
@@ -535,7 +535,7 @@ You cannot tell the mother whose child is ill that prevention is more important 
 
 
 
->Work toward prevention—do not force it.
+>**Work toward prevention — do not force it.**
 
 
 **Use treatment as a doorway to prevention.** One of the best times to talk to people about prevention is when they come for treatment. For example, if a mother brings a child with worms, carefully explain to her how to treat him. But also take time to explain to both the mother and child how the worms are spread and the different things they can do to prevent this from happening (see Chapter 12). Visit their home from time to time, not to find fault, but to help the family toward more effective self-care.
@@ -607,7 +607,7 @@ For more information about the use and misuse of medicines, see Chapter 6, page 
 {:.no_toc}
 
 
-# FINDING OUT WHAT PROGRESS HAS BEEN MADE (EVALUATION)
+# FINDING OUT WHAT PROGRESS HAS BEEN MADE (evaluation)
 
 From time to time in your health work, it helps to take a careful look at what and how much you and your people have succeeded in doing. What changes, if any, have been made to improve health and well-being in your community?
 
@@ -648,7 +648,9 @@ Setting goals often helps people work harder and get more done.
 {:.no_toc}
 
 
-# TEACHING AND LEARNING TOGETHER— THE HEALTH WORKER AS AN EDUCATOR
+# TEACHING AND LEARNING TOGETHER
+
+## the health worker as an educator
 
 As you come to realize how many things affect health, you may think the health worker has an impossibly large job. And true, you will never get much done if you try to deliver health care by yourself.
 
@@ -672,7 +674,7 @@ TWO APPROACHES TO HEALTH CARE
 # [w22](#page-w22)
 {:.no_toc}
 
-# Tools for Teaching
+## Tools for Teaching
 
 Flannelboards are good for talking with groups because you can keep making new pictures. Cover
 a square board or piece of cardboard with a flannel cloth. You can place different cutout drawings or photos on it. Strips of sandpaper or flannel glued to the backs of cutouts help
@@ -698,7 +700,7 @@ A list of addresses where you can send for teaching materials to use for health 
 {:.no_toc}
 
 
-### Other Ways to Get Ideas Across
+## Other Ways to Get Ideas Across
 
 Story telling. When you have a hard time explaining something, a story, especially a true one, will help make your point.
 
@@ -710,8 +712,7 @@ The child also had a cough, and the doctor had prescribed a cough medicine. Iren
 
 She went to visit the family and learned that the older brother had been very sick for a long time and had coughed blood. Irene went to the health center and told the doctor she was afraid the child had tuberculosis.
 
-Tests were made, and
-it turned out that Irene was right... So you see, the health worker spotted the real problem before the doctor—because she knew her people and visited their homes.
+Tests were made, and it turned out that Irene was right... So you see, the health worker spotted the real problem before the doctor—because she knew her people and visited their homes.
 
 Stories also make learning more interesting. It helps if health workers are good story tellers.
 
@@ -727,7 +728,7 @@ The flies dirty the food that has not been covered. Then children eat this food 
 # [w24](#page-w24)
 {:.no_toc}
 
-# Working and Learning Together for the Common Good
+## Working and Learning Together for the Common Good
 
 There are many ways to interest and involve people in working together to meet their common needs. Here are a few ideas:
 
@@ -751,7 +752,7 @@ not take part in group activities. But respect people’s privacy. If your visit
 {:.no_toc}
 
 
-# Ways to Share and Exchange Ideas in a Group
+## Ways to Share and Exchange Ideas in a Group
 
 As a health worker you will find that the success you have in improving your people’s health will depend far more on your skills as a teacher than on your medical or technical knowledge.
 
@@ -769,8 +770,7 @@ Too often they may think of themselves as ignorant and powerless. But they are n
 
 They already make great changes in their surroundings with the tools they use, the land they farm, and the things they build. They can do many important things that people with a lot of schooling cannot.
 
-If you can help people realize how much they already know and have done
-to change their surroundings, they may also realize that they can learn and do even more. By working together it is within their power to bring about even bigger changes for their health and well-being.
+If you can help people realize how much they already know and have done to change their surroundings, they may also realize that they can learn and do even more. By working together it is within their power to bring about even bigger changes for their health and well-being.
 
 Then how do you tell people these things?
 
