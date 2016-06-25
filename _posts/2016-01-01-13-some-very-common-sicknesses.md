@@ -313,7 +313,7 @@ Keep giving the Drink, even if the person vomits it out again. Some will stay in
 
 ♦ If you cannot control the vomiting or if the dehydration gets worse, seek medical help fast.
 
-3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, see pages 144 to 145.)
+3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, see pages [page 144](#page-144)to [page 145](#page-145).)
 
 ♦ Use metronidazole ([page 368](#page-368)). Take the medicine according to the recommended dose. If the diarrhea continues after treatment, seek medical advice.
 
@@ -489,87 +489,134 @@ When taken by mouth, the medicine should be swallowed with very little water and
 # [162](#page-162)
 {:.no_toc}
 
-HEADACHES AND MIGRAINES
-SIMPLE HEADACHE can be helped by rest and aspirin. It often helps to put a cloth
+# HEADACHES AND MIGRAINES
+
+**SIMPLE HEADACHE** can be helped by rest and aspirin. It often helps to put a cloth
 soaked in hot water on the back of the
 neck and to massage (rub) the neck
 For simple or nervous headache, folk cures sometimes work as well as modern medicine.
-folk cure
-aspirin
- and shoulders gently. Some other home remedies also seem to help.
-Headache is common with
-any sickness that causes fever. If headache is severe, check for signs of meningitis ([page 185](#page-185)).
-Headaches that keep coming back may be a sign of a chronic illness, poor nutrition, or chemicals at work or in
-the environment. It is important to eat well and get enough sleep. If you think that chemicals could be causing the headaches or if they do not go away, talk with a health worker.
-A MIGRAINE is a severe throbbing
-headache often on one side of the head only.
-Migraine attacks may come often, or months or years apart.
+
+folk cure aspirin and shoulders gently. Some other home remedies also seem to help.
+
+Headache is common with any sickness that causes fever. If headache is severe, check for signs of meningitis ([page 185](#page-185)).
+
+Headaches that keep coming back may be a sign of a chronic illness, poor nutrition, or chemicals at work or in the environment. It is important to eat well and get enough sleep. If you think that chemicals could be causing the headaches or if they do not go away, talk with a health worker.
+
+A **MIGRAINE** is a severe throbbing headache often on one side of the head only. Migraine attacks may come often, or months or years apart.
+
 A typical migraine begins with blurring of vision, seeing strange spots of light, or numbness of one hand or foot. This is followed by severe headache, which may last hours or days. Often there is vomiting. Migraines are very painful, but not dangerous.
+
 TO STOP A MIGRAINE, DO THE FOLLOWING AT THE FIRST SIGN:
+
 ♦ Take 2 aspirins with a cup of strong coffee or strong black tea.
-♦ Lie down in a dark, quiet place. Do your best to relax. Try not to think about your problems.
-♦ For especially bad migraine headaches, take aspirin, if possible with codeine,
-or with another sedative. Or obtain pills of ergotamine with caffeine (Cafergot,
+
+♦ Lie down in a dark, quiet place. Do your best to
+relax. Try not to think about your problems.
+
+♦ For especially bad migraine headaches, take aspirin, if possible with codeine, or with another sedative. Or obtain pills of ergotamine with caffeine (Cafergot,
 [page 379](#page-379)). Take 2 pills at first and 1 pill every 30 minutes until the pain goes away. Do not take more than 6 pills in 1 day.
-WARNING: Do not use Cafergot during pregnancy.
+
+WARNING: Do not use **Cafergot** during pregnancy.
 
 # [163](#page-163)
 {:.no_toc}
 
-COLDS AND THE FLU
+# COLDS AND THE FLU
+
 Colds and the flu are common virus infections that may cause runny nose, cough, sore throat, and sometimes fever or pain in the joints. There may be mild diarrhea, especially in young children.
+
 Colds and the flu almost always go away without medicine. Do not use penicillin, tetracycline, or other antibiotics, as they will not help at all and may cause harm.
+
 ♦ Drink plenty of water and get enough rest.
+
+
 ♦ Aspirin ([page 378](#page-378)) or acetaminophen ([page 379](#page-379)) helps lower temperature and relieve body aches and headaches. More expensive ‘cold tablets’ are no better than aspirin. So why waste your money?
+
 ♦ No special diet is needed. However, fruit juices, especially orange juice or lemonade, are helpful.
 For treating coughs and stuffy noses that come with colds, see the next pages.
+
 WARNING: Do not give any kind of antibiotic or injections to a child with a simple cold. They will not help and may cause harm.
-If a cold or the flu lasts more than a week, or if the person has fever, coughs up
-a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages 170 and 171). An antibiotic may be called for. The danger of a cold turning into pneumonia is greater in old people, in those who have lung problems like chronic bronchitis, in people who cannot move much, and in people with HIV. People with HIV can take cotrimoxazole daily to prevent pneumonia and other infections (see [page 357](#page-357)).
+
+If a cold or the flu lasts more than a week, or if the person has fever, coughs up a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages 170 and 171). An antibiotic may be called for.
+
+The danger of a cold turning into pneumonia is greater in old people, in those who have lung problems like chronic bronchitis, in people who cannot move much, and in people with HIV. People with HIV can take cotrimoxazole daily to prevent pneumonia and other infections (see [page 357](#page-357)).
+
 Sore throat is often part of a cold. No special medicine is needed, but it may help to gargle with warm water. However, if the sore throat begins suddenly, with high fever, it could be a strep throat. Special treatment is needed (see [page 310](#page-310)).
+
 Prevention of colds:
-♦ Getting enough sleep and eating well helps prevent colds. Eating oranges, tomatoes, and other fruit containing vitamin C may help. Washing hands oftenespecially before touching your face, nose, mouth, or anything you put into your mouthis also good prevention.
-♦ Contrary to popular belief, colds do not come from getting cold or wet (although getting very cold, wet, or tired can make a cold worse). A cold is ‘caught’ from others who have the infection and sneeze the virus into the air.
-♦ To keep from giving his cold to others, the sick person should eat and sleep separatelyand take special care to keep far away from small babies. He should cover his nose and mouth when he coughs or sneezes, and wash his hands often if possible.
-♦ To prevent a cold from leading to earache ([page 309](#page-309)), try not to blow your nosejust wipe it. Teach children to do the same.
+
+  ♦ Getting enough sleep and eating well helps prevent colds. Eating oranges, tomatoes, and other fruit containing vitamin C may help. Washing hands oftenespecially before touching your face, nose, mouth, or anything you put into your mouthis also good prevention.
+
+  ♦ Contrary to popular belief, colds do not come from getting cold or wet (although getting very cold, wet, or tired can make a cold worse). A cold is ‘caught’ from others who have the infection and sneeze the virus into the air.
+
+  ♦ To keep from giving his cold to others, the sick person should eat and sleep separatelyand take special care to keep far away from small babies. He should cover his nose and mouth when he coughs or sneezes, and wash his hands often if possible.
+
+  ♦ To prevent a cold from leading to earache ([page 309](#page-309)), try not to blow your nosejust wipe it. Teach children to do the same.
 
 # [164](#page-164)
 {:.no_toc}
 
-STUFFY AND RUNNY NOSES
+# STUFFY AND RUNNY NOSES
+
 A stuffy or runny nose can result from a cold or allergy (see next page). A lot of mucus in the nose may cause ear infections in children or sinus problems in adults.
+
 To help clear a stuffy nose, do the following:
-1. In little children, carefully suck the mucus out of the nose with a suction bulb or syringe without a needle, like this:
-2. Older children and adults can put a little salt water into their hand and sniff it into the nose. This helps to loosen the mucus.The water should not be too salty. 1/4 teaspoon of salt mixed in a cup of water is enough.
-3. Breathing hot water vapor as described on page 168 helps clear a stuffy nose.
-4. Wipe a runny or stuffy nose, but try not to blow it. Blowing the nose may lead to earache and sinus infections.
-5. Persons who often get earaches or sinus trouble after a cold can help prevent these problems by using decongestant nose drops with phenylephrine or ephedrine ([page 383](#page-383)). After sniffing a little salt water, put the drops in the nose like this:
-With the head sideways, put 2 or 3 drops in the lower nostril. Wait a couple of minutes and then do the other side.
-CAUTION: Use decongestant drops no more than 3 times a day, for no more than 3 days.
+
+  1. In little children, carefully suck the mucus out of the nose with a suction bulb or **syringe without a needle**, like this:
+
+  2. Older children and adults can put a little salt water into their hand and sniff it into the nose. This helps to loosen the mucus.The water should not be too salty. 1/4 teaspoon of salt mixed in a cup of water is enough.
+
+  3. Breathing hot water vapor as described on page [page 168](#page-168) helps clear a stuffy nose.
+
+  4. Wipe a runny or stuffy nose, but **try not to blow** it. Blowing the nose may lead to earache and sinus infections.
+
+  5. Persons who often get earaches or sinus trouble after a cold can help prevent these problems by using decongestant nose drops with phenylephrine or ephedrine ([page 383](#page-383)). After sniffing a little salt water, put the drops in the nose like this: _With the head sideways, put 2 or 3 drops in the lower nostril. Wait a couple of minutes and then do the other side._
+
+CAUTION: **Use decongestant drops no more than 3 times a day, for no more than 3 days.**
+
 A decongestant syrup (with phenylephrine or something similar) may also help.
 
-Prevent ear and sinus infectionstry not to blow your nose, just wipe it.
+>Prevent ear and sinus infections, try not to blow your nose, just wipe it.
 
 # [165](#page-165)
 {:.no_toc}
 
-SINUS TROUBLE (SINUSITIS)
+# SINUS TROUBLE (SINUSITIS)
+
 Sinusitis is an acute or chronic (long-term) inflammation of the sinuses or hollows in the bone that open into the nose. It usually occurs after a person has had an infection of the ears or throat, or after a bad cold.
+
+
 Signs:
-• Pain in the face above and below the eyes, here (It hurts more when you tap lightly just over the bones, or when the person bends over.)
-• Thick mucus or pus in the nose, perhaps with a bad smell. The nose is often stuffy.
-• Fever (sometimes).
-• Certain teeth may hurt.
+
+  • Pain in the face above and below the eyes, here (It hurts more when you tap lightly just over the bones, or when the person bends over.)
+
+  • Thick mucus or pus in the nose, perhaps with a bad smell. The nose is often stuffy.
+
+  • Fever (sometimes).
+
+  • Certain teeth may hurt.
+
 Treatment:
-♦ Drink a lot of water.
-♦ Sniff a little salt water into the nose (see [page 164](#page-164)), or breathe steam from hot
-water to clear the nose (see [page 168](#page-168)).
-♦ Put hot compresses on the face.
-♦ Use decongestant nose drops such as phenylephrine (Neo-synephrine, [page 383](#page-383)).
-♦ Use an antibiotic such as tetracycline ([page 355](#page-355)), ampicillin ([page 352](#page-352)), or penicillin ([page 351](#page-351)).
-♦ If the person does not get better, seek medical help. Prevention:
+
+  ♦ Drink a lot of water.
+
+  ♦ Sniff a little salt water into the nose (see [page 164](#page-164)), or breathe steam from hot
+  water to clear the nose (see [page 168](#page-168)).
+
+  ♦ Put hot compresses on the face.
+
+  ♦ Use decongestant nose drops such as phenylephrine (Neo-synephrine, [page 383](#page-383)).
+
+  ♦ Use an antibiotic such as tetracycline ([page 355](#page-355)), ampicillin ([page 352](#page-352)), or penicillin ([page 351](#page-351)).
+
+  ♦ If the person does not get better, seek medical help.
+
+Prevention:
+
 When you get a cold and a stuffy nose, try to keep your nose clear. Follow the instructions on page 164.
-HAY FEVER (ALLERGIC RHINITIS)
+
+# HAY FEVER (ALLERGIC RHINITIS)
+
 Runny nose and itchy eyes can be caused by an allergic reaction to something in the air that a person has breathed in (see the next page). It is often worse at certain times of year.
 
 Treatment:
@@ -585,25 +632,25 @@ Find out what things cause this reaction (for example: dust, chicken feathers, p
 
 # ALLERGIC REACTIONS
 
-An allergy is a disturbance or reaction that affects only certain persons when things they are sensitive or allergic to are
+An allergy is a disturbance or reaction that affects only certain persons when things they are sensitive or allergic to are:
 
-• breathed in
+  • breathed in
 
-• eaten
+  • eaten
 
-• injected
+  • injected
 
-• or touch the skin
+  • or touch the skin
 
 Allergic reactions, which can be mild or very serious, include:
 
-• itching rashes, lumpy patches, or hives ([page 203](#page-203))
+  • itching rashes, lumpy patches, or hives ([page 203](#page-203))
 
-• runny nose and itching or burning eyes (hay fever, [page 165](#page-165))
+  • runny nose and itching or burning eyes (hay fever, [page 165](#page-165))
 
-• irritation in the throat, difficulty breathing, or asthma (see next page) • allergic shock ([page 70](#page-70))
+  • irritation in the throat, difficulty breathing, or asthma (see next page) • allergic shock ([page 70](#page-70))
 
-• diarrhea (in children allergic to milka rare cause of diarrhea, [page 156](#page-156))
+  • diarrhea (in children allergic to milka rare cause of diarrhea, [page 156](#page-156))
 
 An allergy is not an infection and cannot be passed from one person to another. However, children of allergic parents also tend to have allergies.
 
@@ -611,23 +658,23 @@ Often allergic persons suffer more in certain seasonsor whenever they come in to
 
 Common causes of allergic reactions are:
 
-- pollen of certain flowers and grasses
+  - pollen of certain flowers and grasses
 
-- chicken feathers
+  - chicken feathers
 
-- dust
+  - dust
 
-- specific food, especially  sh, shell sh, beer, etc.
+  - specific food, especially  sh, shell sh, beer, etc.
 
-- chemicals in your home, school, or work
+  - chemicals in your home, school, or work
 
-- hair from cats and other animals
+  - hair from cats and other animals
 
-- certain medicines, especially injections of penicillin or antitoxins made from horse serum (see [page 70](#page-70))
+  - certain medicines, especially injections of penicillin or antitoxins made from horse serum (see [page 70](#page-70))
 
-- kapok or feather pillows
+  - kapok or feather pillows
 
-- moldy blankets or clothes
+  - moldy blankets or clothes
 
 
 # [167](#page-167)
@@ -640,10 +687,23 @@ A person with asthma has fits or attacks of difficult breathing. Listen for a hi
 When he breathes in, the skin behind his collar bones
 and between his ribs may suck in as he tries to get air.
 
-If the person cannot get enough air, his nails and lips may turn
-blue, and his neck veins may swell. Usually there is no fever.
+If the person cannot get enough air, his nails and lips may turn blue, and his neck veins may swell. Usually there is no fever.
 
-sitting up to breathe
+Asthma can also be caused by unclean air (air pollution), such as smoke from cigarettes, inside cooking fires, burning fields, or cars and trucks.
+
+Asthma often begins in childhood and may be a problem for life. It is not contagious, but is more common in children with relatives who have asthma. It is generally worse during certain months of the year or at night.
+
+An asthma attack may be caused by eating or breathing things to which the person is allergic (see [page 166](#page-166)). In children asthma often starts with a cold. Nervousness or worry may bring on an asthma attack.
+
+Asthma can also be caused by unclean air (air pollution), such as smoke from cigarettes, inside cooking fires, burning fields, or cars and trucks.
+
+
+
+_Treatment:_
+
+♦ If asthma gets worse inside the house, the person should go outside to a place where the air is cleanest. Remain calm and be gentle with the person. Reassure him.
+
+♦ Give a lot of liquids. This loosens mucus and makes breathing easier. Breathing water vapor may also help (see [page 168](#page-168)).
 
 ♦ Strong coffee or black tea can help relieve an asthma attack if you do not have any medicines.
 
@@ -655,26 +715,17 @@ sitting up to breathe
 
 ♦ In rare cases, worms cause asthma. Try giving mebendazole ([page 373](#page-373)) to a child who starts having asthma if you think she has worms.
 
-♦ If the person does not get better, seek medical help. Prevention:
+♦ **If the person does not get better, seek medical help.**
+
+_Prevention:_
 
 A person with asthma should avoid eating or breathing things that bring on attacks. The house or work place should be kept clean. Keep chickens and other animals outside. Air bedding in the sunshine.
 
 Sometimes it helps to sleep outside in the open air. Drink at least 8 glasses of water each day to keep the mucus loose. Persons with asthma may improve when they move to where the air is cleaner.
 
 
-Asthma often begins in childhood and may be a problem for life. It is not contagious, but is more common in children with relatives who have asthma. It is generally worse during certain months of the year or at night.
 
-An asthma attack may be caused by eating or breathing things to which the person is allergic (see [page 166](#page-166)). In children asthma often starts with a cold. Nervousness or worry may bring on an asthma attack.
-
-Asthma can also be caused by unclean air (air pollution), such as smoke from cigarettes, inside cooking fires, burning fields, or cars and trucks.
-
-Treatment:
-
-♦ If asthma gets worse inside the house, the person should go outside to a place where the air is cleanest. Remain calm and be gentle with the person. Reassure him.
-
-♦ Give a lot of liquids. This loosens mucus and makes breathing easier. Breathing water vapor may also help (see [page 168](#page-168)).
-
-If you have asthma do not smokesmoking damages your lungs even more
+>If you have asthma do not smokes, moking damages your lungs even more
 
 # [168](#page-168)
 {:.no_toc}
@@ -685,85 +736,87 @@ Coughing is not a sickness in itself, but is a sign of many different sicknesses
 
 ## DRY COUGH WITH LITTLE OR NO PHLEGM:
 
-cold or  u ([page 163](#page-163))
+- cold or flu ([page 163](#page-163))
 
-wormswhen passing through the lungs ([page 140](#page-140))
+- wormswhen passing through the lungs ([page 140](#page-140))
 
-measles ([page 311](#page-311))
+- measles ([page 311](#page-311))
 
-smoker’s cough (smoking, [page 149](#page-149))
+- smoker’s cough (smoking, [page 149](#page-149))
 
 ## COUGH WITH MUCH OR LITTLE PHLEGM:
 
-bronchitis ([page 170](#page-170))
+- bronchitis ([page 170](#page-170))
 
-pneumonia ([page 171](#page-171))
+- pneumonia ([page 171](#page-171))
 
-asthma ([page 167](#page-167))
+- asthma ([page 167](#page-167))
 
-smoker’s cough, especially when getting up in the morning ([page 149](#page-149))
+- smoker’s cough, especially when getting up in the morning ([page 149](#page-149))
 
 ## COUGH WITH A WHEEZE OR WHOOP AND TROUBLE BREATHING:
 
-asthma ([page 167](#page-167))
+- asthma ([page 167](#page-167))
 
-whooping cough ([page 313](#page-313))
+- whooping cough ([page 313](#page-313))
 
-diphtheria ([page 313](#page-313))
+- diphtheria ([page 313](#page-313))
 
-heart trouble ([page 325](#page-325))
+- heart trouble ([page 325](#page-325))
 
-something stuck in the throat ([page 79](#page-79))
+- something stuck in the throat ([page 79](#page-79))
 
 ## CHRONIC OR PERSISTENT COUGH:
 
-tuberculosis ([page 179](#page-179))
+- tuberculosis ([page 179](#page-179))
 
-smoker’s or miner’s cough ([page 149](#page-149))
+- smoker’s or miner’s cough ([page 149](#page-149))
 
-asthma (repeated attacks, [page 167](#page-167))
+- asthma (repeated attacks, [page 167](#page-167))
 
-chronic bronchitis ([page 170](#page-170))
+- chronic bronchitis ([page 170](#page-170))
 
-emphysema ([page 170](#page-170))
+- emphysema ([page 170](#page-170))
 
 ## COUGHING UP BLOOD:
 
-tuberculosis ([page 179](#page-179))
+- tuberculosis ([page 179](#page-179))
 
-pneumonia (yellow, green, or blood-streaked phlegm, [page 171](#page-171))
+- pneumonia (yellow, green, or blood-streaked phlegm, [page 171](#page-171))
 
-severe worm infection ([page 140](#page-140))
+- severe worm infection ([page 140](#page-140))
 
-cancer of the lungs or throat ([page 149](#page-149))
+- cancer of the lungs or throat ([page 149](#page-149))
 
-Coughing is the body’s way of cleaning the breathing system and getting rid of phlegm (mucus with pus) and germs in the throat or lungs. So when a cough produces phlegm, do not take medicine to stop the cough, but rather do something to help loosen and bring up the phlegm.
+Coughing is the body’s way of cleaning the breathing system and getting rid of phlegm (mucus with pus) and germs in the throat or lungs. So when a cough produces phlegm, **do not take medicine to stop the cough, but rather do something to help loosen and bring up the phlegm.**
 
-**Treatment for cough:**
-
-1. To loosen mucus and ease any kind of cough, drink lots of water. This works better than any medicine.
-
-Also breathe hot water vapors. Sit on a chair with a bucket of very hot water at your feet. Place a sheet over the bucket to catch the vapors as they rise. Breathe the vapors deeply for 15 minutes. Repeat several times a day. Some people like to add mint or eucalyptus leaves or Vaporub, but hot water works just as well alone.
-
-CAUTION: Do not use eucalyptus or Vaporub if the person has asthma. They make it worse.
 
 # [169](#page-169)
 {:.no_toc}
 
 
-2. For all kinds of cough, especially a dry cough, the following cough syrup can be given:
+**Treatment for cough:**
 
-Mix: 1 part honey 1 part lemon juice + Take a teaspoonful every 2 or 3 hours.
+  1. **To loosen mucus** and ease any kind of cough, drink lots of water. This works better than any medicine.
 
-WARNING: Do not give honey to babies under 1 year. Make the syrup with sugar instead of honey.
+  Also **breathe hot water vapors**. Sit on a chair with a bucket of very hot water at your feet. Place a sheet over the bucket to catch the vapors as they rise. Breathe the vapors deeply for 15 minutes. Repeat several times a day. Some people like to add mint or eucalyptus leaves or Vaporub, but hot water works just as well alone.
 
-3. For a severe dry cough that does not let you sleep, you can take a syrup with codeine ([page 383](#page-383)). Tablets of aspirin with codeine (or even aspirin alone) also help. If there is a lot of phlegm or wheezing, do not use codeine.
+  CAUTION: Do not use eucalyptus or Vaporub if the person has asthma. They make it worse.
 
-4. For a cough with wheezing (difficult, noisy breathing), see Asthma ([page 167](#page-167)), Chronic Bronchitis ([page 170](#page-170)), and Heart Trouble ([page 325](#page-325)).
 
-5. Try to find out what sickness is causing the cough and treat that. If the cough lasts a long time, if there is blood, pus, or smelly phlegm in it, or if the person is losing weight or has continual difficulty breathing, see a health worker.
+  2. For all kinds of cough, especially a dry cough, the following cough syrup can be given:
 
-6. If you have any kind of a cough, do not smoke. Smoking damages the lungs.
+  Mix: 1 part honey 1 part lemon juice + Take a teaspoonful every 2 or 3 hours.
+
+  WARNING: Do not give honey to babies under 1 year. Make the syrup with sugar instead of honey.
+
+  3. For a severe dry cough that does not let you sleep, you can take a syrup with codeine ([page 383](#page-383)). Tablets of aspirin with codeine (or even aspirin alone) also help. If there is a lot of phlegm or wheezing, do not use codeine.
+
+  4. For a cough with wheezing (difficult, noisy breathing), see Asthma ([page 167](#page-167)), Chronic Bronchitis ([page 170](#page-170)), and Heart Trouble ([page 325](#page-325)).
+
+  5. Try to find out what sickness is causing the cough and treat that. If the cough lasts a long time, if there is blood, pus, or smelly phlegm in it, or if the person is losing weight or has continual difficulty breathing, see a health worker.
+
+  6. If you have any kind of a cough, do not smoke. Smoking damages the lungs.
 
 
 ## HOW TO DRAIN MUCUS FROM THE LUNGS (POSTURAL DRAINAGE)
@@ -803,16 +856,14 @@ Use antibiotics only if the bronchitis lasts more than a week and is not getting
 
 ♦ Take an anti-asthma medicine with salbutamol ([page 384](#page-384)).
 
-‘barrel chest’
-
 ♦ Persons with chronic bronchitis should use cotrimoxazole or amoxicillin every time they have a cold or ‘flu’ with a fever.
 
 ♦ If the person has trouble coughing up sticky phlegm, have him breathe hot water vapors ([page 168](#page-168)) and then help him with postural drainage (see [page 169](#page-169)).
 
-Emphysema can result from chronic asthma, chronic bronchitis, or smoking.
+_Emphysema can result from chronic asthma, chronic bronchitis, or smoking._
 
-If you have a chronic cough (or want to prevent one),
-DO NOT SMOKE!
+>If you have a chronic cough (or want to prevent one),
+**DO NOT SMOKE!**
 
 
 # [171](#page-171)
@@ -824,33 +875,35 @@ Pneumonia is an acute infection of the lungs. It often occurs after another resp
 
 **Signs:**
 
-• Sudden chills and then high fever.
+  • Sudden chills and then high fever.
 
-• Rapid, shallow breathing, with little grunts or sometimes wheezing. The nostrils may spread with each breath.
+  • Rapid, shallow breathing, with little grunts or sometimes wheezing. The nostrils may spread with each breath.
 
-• Fever (sometimes newborns and old or very weak persons have severe pneumonia with little or no fever).
+  • Fever (sometimes newborns and old or very weak persons have severe pneumonia with little or no fever).
 
-• Cough (often with yellow, greenish, rust colored, or slightly bloody mucus).
+  • Cough (often with yellow, greenish, rust colored, or slightly bloody mucus).
 
-• Chest pain (sometimes).
+  • Chest pain (sometimes).
 
-• The person looks very ill.
+  • The person looks very ill.
 
-• Cold sores often appear on the face or lips ([page 232](#page-232)).
+  • Cold sores often appear on the face or lips ([page 232](#page-232)).
 
-A very sick child with fast, shallow breathing probably has pneumonia. For a newborn baby, fast breathing means more than 60 breaths a minute. For a baby between 2 months and 1 year, fast breathing is more than 50 breaths a minute, and for a child between 1 and 5 years old, 40 breaths a minute. (If breathing is rapid and deep, check for dehydration, [page 151](#page-151), or hyperventilation, [page 24](#page-24).) Do not count the breaths while the child is crying or just after she has stopped.
+A very sick child with fast, shallow breathing probably has pneumonia. For a newborn baby, fast breathing means more than 60 breaths a minute.
+
+For a baby between 2 months and 1 year, fast breathing is more than 50 breaths a minute, and for a child between 1 and 5 years old, 40 breaths a minute. (If breathing is rapid and deep, check for dehydration, [page 151](#page-151), or hyperventilation, [page 24](#page-24).) Do not count the breaths while the child is crying or just after she has stopped.
 
 **Treatment:**
 
-♦ For pneumonia, treatment with antibiotics can make the difference between life and death. Give benzylpenicillin ([page 351](#page-351)), cotrimoxazole ([page 357](#page-357)), or erythromycin ([page 354](#page-354)). In serious cases, inject procaine penicillin ([page 352](#page-352)), adults: 1,000,000 units (1 g) a day, or give amoxicillin by mouth (pages 352 to 353), 500 mg, 3 times a day. Give small children 1⁄4 to 1⁄2 the adult dose. For children under 6, amoxicillin is usually best.
+  ♦ For pneumonia, treatment with antibiotics can make the difference between life and death. Give benzylpenicillin ([page 351](#page-351)), cotrimoxazole ([page 357](#page-357)), or erythromycin ([page 354](#page-354)). In serious cases, inject procaine penicillin ([page 352](#page-352)), adults: 1,000,000 units (1 g) a day, or give amoxicillin by mouth (pages 352 to 353), 500 mg, 3 times a day. Give small children 1⁄4 to 1⁄2 the adult dose. For children under 6, amoxicillin is usually best.
 
-♦ Give aspirin ([page 378](#page-378)) or acetaminophen ([page 379](#page-379)) to lower the temperature and lessen the pain. Acetaminophen is safer for children under 12.
+  ♦ Give aspirin ([page 378](#page-378)) or acetaminophen ([page 379](#page-379)) to lower the temperature and lessen the pain. Acetaminophen is safer for children under 12.
 
-♦ Give plenty of liquids. If the person will not eat, give him liquid foods or Rehydration Drink (see [page 152](#page-152)).
+  ♦ Give plenty of liquids. If the person will not eat, give him liquid foods or Rehydration Drink (see [page 152](#page-152)).
 
-♦ Ease the cough and loosen the mucus by giving the person plenty of water and having him breathe hot water vapors (see [page 168](#page-168)). Postural drainage may also help (see [page 169](#page-169)).
+  ♦ Ease the cough and loosen the mucus by giving the person plenty of water and having him breathe hot water vapors (see [page 168](#page-168)). Postural drainage may also help (see [page 169](#page-169)).
 
-♦ If the person is wheezing, an anti-asthma medicine may help (see [page 384](#page-384)).
+  ♦ If the person is wheezing, an anti-asthma medicine may help (see [page 384](#page-384)).
 
 
 # [172](#page-172)
@@ -869,37 +922,38 @@ Hepatitis B is more serious and can lead to permanent scarring of the liver (cir
 
 **Signs:**
 
-• Feels tired. Does not want to eat or smoke. Often goes days without eating anything.
+  • Feels tired. Does not want to eat or smoke. Often goes days without eating anything.
 
-• Sometimes there is a pain on the right side near the liver. Sometimes there is pain in the muscles or joints.
+  • Sometimes there is a pain on the right side near the liver. Sometimes there is pain in the muscles or joints.
+
+  • May have a fever.
+
+  • After a few days, the eyes and skin turn yellow.
+
+  • Sight or smell of food may cause vomiting.
+
+  • The urine may turn dark like Coca Cola, and the stools may become whitish, or the person may have diarrhea.
+
 
 **Treatment:**
 
-• May have a fever.
+  ♦ Antibiotics do not work against hepatitis. In fact some medicines such as acetaminophen will cause added damage to the sick liver. Do not use medicines.
 
-• After a few days, the eyes and skin turn yellow.
+  ♦ The sick person should rest and drink lots of liquids. If he refuses most food, give him orange juice, papaya, and other fruit plus broth or vegetable soup. It may help to take vitamins. To control vomiting, see [page 161](#page-161).
 
-• Sight or smell of food may cause vomiting.
-
-• The urine may turn dark like Coca Cola, and the stools may become whitish, or the person may have diarrhea.
-
-♦ Antibiotics do not work against hepatitis. In fact some medicines such as acetaminophen will cause added damage to the sick liver. Do not use medicines.
-
-♦ The sick person should rest and drink lots of liquids. If he refuses most food, give him orange juice, papaya, and other fruit plus broth or vegetable soup. It may help to take vitamins. To control vomiting, see [page 161](#page-161).
-
-♦ When the sick person can eat, give a balanced meal. Vegetables and fruit are good, with some protein (pages 110 to 111). But do not give a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard. Avoid lard and fatty foods. Do not drink any alcohol for at least 6 months.
+  ♦ When the sick person can eat, give a balanced meal. Vegetables and fruit are good, with some protein (pages 110 to 111). But do not give a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard. Avoid lard and fatty foods. Do not drink any alcohol for at least 6 months.
 
 **Prevention:**
 
-♦ Small children often have hepatitis without any signs of sickness, but they can spread the disease to others. It is very important that everyone in the house follow all the guidelines of cleanliness with great care (see pages 133 to 139).
+  ♦ Small children often have hepatitis without any signs of sickness, but they can spread the disease to others. It is very important that everyone in the house follow all the guidelines of cleanliness with great care (see pages 133 to 139).
 
-♦ The Hepatitis A virus passes from the stool of one person to the mouth of another by way of contaminated water or food. To prevent others from getting sick, bury the sick person’s stools. The sick person, his family and caregivers must try to stay clean and wash their hands often.
+  ♦ The Hepatitis A virus passes from the stool of one person to the mouth of another by way of contaminated water or food. To prevent others from getting sick, bury the sick person’s stools. The sick person, his family and caregivers must try to stay clean and wash their hands often.
 
-♦ The Hepatitis B and Hepatitis C viruses can pass from person to person through sex, injections with unsterile needles, transfusions of infected blood and from mother to baby at birth. Take steps to prevent passing hepatitis to others: use a condom during sex (see [page 287](#page-287)), follow the HIV prevention suggestions on [page 401](#page-401), and always boil needles and syringes before each use (see [page 74](#page-74)).
+  ♦ The Hepatitis B and Hepatitis C viruses can pass from person to person through sex, injections with unsterile needles, transfusions of infected blood and from mother to baby at birth. Take steps to prevent passing hepatitis to others: use a condom during sex (see [page 287](#page-287)), follow the HIV prevention suggestions on [page 401](#page-401), and always boil needles and syringes before each use (see [page 74](#page-74)).
 
-♦ Vaccines now exist for Hepatitis A and Hepatitis B but they may be expensive or not be available everywhere. Hepatitis B is dangerous and there is no cure, so if the vaccine is accessible all children should be vaccinated. There is a new medicine for Hepatitis C, but it is very expensive and not widely available.
+  ♦ Vaccines now exist for Hepatitis A and Hepatitis B but they may be expensive or not be available everywhere. Hepatitis B is dangerous and there is no cure, so if the vaccine is accessible all children should be vaccinated. There is a new medicine for Hepatitis C, but it is very expensive and not widely available.
 
-**WARNING:** Hepatitis can also be transmitted by giving injections with unsterile needles: Always boil needles and syringes before each use (see [page 74](#page-74)).
+**WARNING:** Hepatitis can also be transmitted by giving injections with unsterile needles: **Always boil needles and syringes** before each use (see [page 74](#page-74)).
 
 # [173](#page-173)
 {:.no_toc}
@@ -909,13 +963,13 @@ Hepatitis B is more serious and can lead to permanent scarring of the liver (cir
 
 Most chronic joint pain, or arthritis, in older people cannot be cured completely. However, the following offer some relief:
 
-♦ Rest. If possible, avoid hard work and heavy exercise that bother the painful joints. If the arthritis causes some fever, it helps to take naps during the day.
+  ♦ Rest. If possible, avoid hard work and heavy exercise that bother the painful joints. If the arthritis causes some fever, it helps to take naps during the day.
 
-♦ Place cloths soaked in hot water on the painful joints (see [page 195](#page-195)).
+  ♦ Place cloths soaked in hot water on the painful joints (see [page 195](#page-195)).
 
-♦ Aspirin helps relieve pain; the dose for arthritis is higher than that for calming other pain. Adults should take 3 tablets, 4 times a day. If your ears begin to ring, take less. To avoid stomach problems caused by aspirin, always take it with food, or a large glass of water. If stomach pain continues, take the aspirin not only with food and lots of water, but also with a spoonful of an antacid such as Maalox or Gelusil.
+  ♦ Aspirin helps relieve pain; the dose for arthritis is higher than that for calming other pain. Adults should take 3 tablets, 4 times a day. If your ears begin to ring, take less. To avoid stomach problems caused by aspirin, always take it with food, or a large glass of water. If stomach pain continues, take the aspirin not only with food and lots of water, but also with a spoonful of an antacid such as Maalox or Gelusil.
 
-♦ It is important to do simple exercises to help maintain or increase the range of motion in the painful joints.
+  ♦ It is important to do simple exercises to help maintain or increase the range of motion in the painful joints.
 
 If only one joint is swollen and feels hot, it may be infectedespecially if there is fever. Use an antibiotic such as penicillin (see [page 350](#page-350)) and if possible see a health worker.
 
@@ -950,37 +1004,26 @@ Very low back pain sometimes comes from problems in the uterus, ovaries, or rect
 
 **Treatment and prevention of back pain:**
 
-♦ If back pain has a cause like TB, a urinary infection, or gallbladder disease, treat the cause. Seek medical help if you suspect a serious disease.
+  ♦ If back pain has a cause like TB, a urinary infection, or gallbladder disease, treat the cause. Seek medical help if you suspect a serious disease.
 
-♦ Simple backache, including that of pregnancy, can often be prevented or made better by:
+  ♦ Simple backache, including that of pregnancy, can often be prevented or made better by: 1.always standing straight 2.sleeping on a firm surface 3.back-bending exercises (done very slowly)
 
-always standing straight
 
-like this
+  ♦ Aspirin and hot soaks ([page 195](#page-195)) help calm most kinds of back pain.
 
-not like this
+  ♦ For sudden, severe, low back pain that comes from twisting, lifting, bending, or straining, quick relief can sometimes be brought like this:
 
-sleeping on a  rm  at surface like this
+  Have the person lie with one foot tucked under his knee.
 
-not like this
+  Then, holding this shoulder down, gently but steadily push this knee over so as to twist the back.
 
-back-bending exercises (done very slowly)
+  Do this first on one side and then the other.
 
-♦ Aspirin and hot soaks ([page 195](#page-195)) help calm most kinds of back pain.
+  **CAUTION:** Do not try this if the back pain is from a fall or injury.
 
-♦ For sudden, severe, low back pain that comes from twisting, lifting, bending, or straining, quick relief can sometimes be brought like this:
+  ♦ If back pain from lifting or twisting is sudden and severe with knife-like pain when you bend over, if the pain goes into the leg(s), or if a foot becomes numb or weak, this is serious. A nerve coming from the back may be ‘pinched’ by a slipped disc (pad between the bones of the back). It is best to rest flat on your back for a few days. It may help to put something firm under the knees and mid back.
 
-Have the person lie with one foot tucked under his knee.
-
-Then, holding this shoulder down, gently but steadily push this knee over so as to twist the back.
-
-Do this first on one side and then the other.
-
-**CAUTION:** Do not try this if the back pain is from a fall or injury.
-
-♦ If back pain from lifting or twisting is sudden and severe with knife-like pain when you bend over, if the pain goes into the leg(s), or if a foot becomes numb or weak, this is serious. A nerve coming from the back may be ‘pinched’ by a slipped disc (pad between the bones of the back). It is best to rest flat on your back for a few days. It may help to put something firm under the knees and mid back.
-
-♦ Take aspirin and use hot soaks. If pain does not begin to get better in a few days, seek medical advice.
+  ♦ Take aspirin and use hot soaks. If pain does not begin to get better in a few days, seek medical advice.
 
 
 # [175](#page-175)
@@ -995,26 +1038,24 @@ Varicose veins are veins that are swollen, twisted, and often painful. They are 
 
 There is no medicine for varicose veins. But the following will help:
 
-♦ Do not spend much time standing or sitting with your feet down. If you have no choice but to sit or stand for long periods, try to lie down with your feet up (above the level of the heart) for a few minutes every half hour. When standing, try to walk in place. Or, repeatedly lift your heels off the ground and put them back down. Also, sleep with your feet up (on pillows).
+  ♦ Do not spend much time standing or sitting with your feet down. If you have no choice but to sit or stand for long periods, try to lie down with your feet up (above the level of the heart) for a few minutes every half hour. When standing, try to walk in place. Or, repeatedly lift your heels off the ground and put them back down. Also, sleep with your feet up (on pillows).
 
-♦ Use elastic stockings (support hose) or elastic bandages to help hold in the veins. Be sure to take them off at night.
+  ♦ Use elastic stockings (support hose) or elastic bandages to help hold in the veins. Be sure to take them off at night.
 
-♦ Taking care of your veins in this way will help prevent chronic sores or varicose ulcers on the ankles ([page 213](#page-213)).
+  ♦ Taking care of your veins in this way will help prevent chronic sores or varicose ulcers on the ankles ([page 213](#page-213)).
 
 # PILES (HEMORRHOIDS)
 
 Piles or hemorrhoids are varicose veins of the anus or rectum, which feel like little lumps or balls. They may be painful, but are not dangerous. They frequently appear during pregnancy and may go away afterwards.
 
-♦ Certain bitter plant juices (witch hazel, cactus, etc.) dabbed on hemorrhoids help shrink them. So do hemorrhoid suppositories ([page 391](#page-391)).
+  ♦ Certain bitter plant juices (witch hazel, cactus, etc.) dabbed on hemorrhoids help shrink them. So do hemorrhoid suppositories ([page 391](#page-391)).
 
-♦ Sitting in a bath of warm water can help the hemorrhoid heal.
+  ♦ Sitting in a bath of warm water can help the hemorrhoid heal.
 
-♦ Piles may be caused in part by constipation. It helps to eat plenty
-of fruit or food with a lot of fiber, like cassava or bran.
+  ♦ Piles may be caused in part by constipation. It helps to eat plenty
+  of fruit or food with a lot of fiber, like cassava or bran.
 
-
-
-♦ Very large hemorrhoids may require an operation. Get medical advice.
+  ♦ Very large hemorrhoids may require an operation. Get medical advice.
 
 If a hemorrhoid begins to bleed, the bleeding can sometimes be controlled by pressing with a clean cloth directly on the hemorrhoid.
 

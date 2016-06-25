@@ -83,7 +83,7 @@ In this revised edition of _Where There Is No Doctor_, we have added new informa
 
 When it would fit without having to change page numbers, we have added new information to the main part of the book. (This way, the numbering stays the same, so that page references in our other books, such as _[Helping Health Workers Learn](#addresses-for-teaching-materials)_, will still be correct.)
 
-The **[Additional Information](#page-399)** section at the end of the book (page 399) has information about health problems of growing or special concern: HIV and AIDS, sores on the genitals, leishmaniasis, complications from abortion, guinea worm, and others.
+The **[Additional Information](#page-399)** section at the end of the book has information about health problems of growing or special concern: HIV and AIDS, sores on the genitals, leishmaniasis, complications from abortion, guinea worm, and others.
 
 Here also are topics such as measuring blood pressure, misuse of pesticides, drug addiction, and a method of caring for early and underweight babies.
 
