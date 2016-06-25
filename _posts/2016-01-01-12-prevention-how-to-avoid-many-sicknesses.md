@@ -282,11 +282,11 @@ Many roundworms in the intestines may cause discomfort, indigestion, and weaknes
 
 **Prevention**
 
-_Where There Is No Doctor_  2015 141 Use latrines, wash hands before eating or handling food, protect food from flies, and follow the guidelines of cleanliness described in the first part of this chapter.
+Use latrines, wash hands before eating or handling food, protect food from flies, and follow the guidelines of cleanliness described in the first part of this chapter.
 
 **Treatment:**
 
-Mebendazole will usually get rid of roundworms. For dosage see [page 373](#page-373). Piperazine also works (see [page 374](#page-374)). Some home remedies work fairly well. For a home remedy using papaya see page 13.
+Mebendazole will usually get rid of roundworms. For dosage see [page 373](#page-373). Piperazine also works (see [page 374](#page-374)). Some home remedies work fairly well. For a home remedy using papaya see page [page 13](#page-13).
 WARNING: Do not use thiabendazole for roundworms. It often makes the worms move up to the nose or mouth and can cause gagging.
 
 
@@ -371,7 +371,7 @@ A stool analysis is needed to prove that they are there.
 
  **Treatment:**
 
- Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages 373 to 375. Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
+ Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages [page 373](#page-373)to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
 
  >Prevent hookworm: **Build and use latrines. Do not let children go barefoot.**
 
@@ -431,7 +431,7 @@ In serious cases the person may have:
   • small bruises (black or blue spots) on the skin
   • bleeding in the whites of the eyes
 
-**Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, see pages 373 and 374. (Cortico-steroids may help, but should be given by a health worker or doctor.)
+**Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, see pages [page 373](#page-373)and [page 374](#page-374). (Cortico-steroids may help, but should be given by a health worker or doctor.)
 
 **Important:** If several people who ate meat from the same pig get sick afterward, suspect trichinosis. This can be dangerous; seek medical attention.
 

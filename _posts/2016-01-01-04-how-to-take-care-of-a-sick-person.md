@@ -195,31 +195,31 @@ Age:
 
 Male  Female
 
-Where is he (she)?  
+Where is he (she) ?  
 
-What is the main sickness or problem right now?
+What is the main sickness or problem right now ?
 
-When did it begin?  
+When did it begin ?  
 
-How did it begin?  
+How did it begin ?  
 
-Has the person had the same problem before?
+Has the person had the same problem before ?
 
-When?
+When ?
 
 Is there fever?
 
-How high?°
+How high ? °
 
-When and for how long?
+When and for how long ?
 
-Pain?
+Pain ?
 
-Where?
+Where ?
 
-What kind?
+What kind ?
 
-#### What is wrong or different from normal in any of the following?
+#### What is wrong or different from normal in any of the following ?
 
 **Skin:
 
@@ -233,11 +233,11 @@ Genitals:
 
 Urine:**
 
-Much or little?  
+Much or little ?  
 
-Color?
+Color ?
 
-Trouble urinating?
+Trouble urinating ?
 
 Describe:  
 
@@ -247,55 +247,55 @@ Times at night:
 
 **Stools:**
 
-- Color?  
+- Color ?  
 
-- Blood or mucus?
+- Blood or mucus ?
 
-- Diarrhea?  
+- Diarrhea ?  
 
 - Number of times a day:  
 
-- Cramps?
+- Cramps ?
 
-- Dehydration?
+- Dehydration ?
 
-- Mild or severe?  
+- Mild or severe ?  
 
-- Worms?
+- Worms ?
 
-- What kind?
+- What kind ?
 
 **Breathing:**
 
 - Breaths per minute:
 
-- Deep, shallow, or normal?  
+- Deep, shallow, or normal ?  
 
 - Difficulty breathing (describe):
 
 - Cough (describe):
 
-- Wheezing?  
+- Wheezing ?  
 
 - Mucus?  
 
 - With blood?
 
-**Does the person have any of the SIGNS OF DANGEROUS ILLNESS** listed on page 42?
+**Does the person have any of the SIGNS OF DANGEROUS ILLNESS** listed on page [page 42](#page-42) ?
 
-- Which? (give details):
+- Which ? (give details):
 
 **Other signs:**
 
-- Is the person taking medicine?
+- Is the person taking medicine ?
 
-- What?
+- What ?
 
 - Has the person ever used medicine that has caused a rash, hives (or bumps) ?
 
-- with itching, or other allergic reactions?
+- with itching, or other allergic reactions ?
 
-- What?
+- What ?
 
 - The state of the sick person is:
 
