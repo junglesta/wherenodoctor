@@ -159,11 +159,13 @@ of 1 year, but ask medical advice when possible.
 
 # HOW TO TAKE MEDICINES
 
-It is important to take medicines more or less at the time recommended. Some medicines should be taken only once a day, but others must be taken more often. If you do not have a clock, it does not matter. If the directions say ‘1 pill every 8 hours’, take 3 a day: one in the morning, one in the afternoon, and one at night. If they say ‘1 pill every 6 hours’, take 4 each day: one in the morning, one at midday, one in
-the afternoon, and one at night. If the directions are ‘1 every 4 hours’, take 6 a day, allowing more or less the same time between pills.
+It is important to take medicines more or less at the time recommended. Some medicines should be taken only once a day, but others must be taken more often. If you do not have a clock, it does not matter.
+
+If the directions say ‘1 pill every 8 hours’, take 3 a day: one in the morning, one in the afternoon, and one at night. If they say ‘1 pill every 6 hours’, take 4 each day: one in the morning, one at midday, one in the afternoon, and one at night.
+
+If the directions are ‘1 every 4 hours’, take 6 a day, allowing more or less the same time between pills.
+
 Whenever you give a medicine to someone else, it is a good idea to write the instructions and also to have the person repeat to you how and when to take the medicine. Make very sure he understands.
-
-
 
 To remind people who cannot read when to take their medicine, you can give them a note like this
 

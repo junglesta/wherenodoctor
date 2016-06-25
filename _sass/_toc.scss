@@ -26,6 +26,9 @@ $toppa: 10px;
   #green-pages & {
     border: 4px solid  transparentize($color_green, .15);
   }
+  // a {
+  //   border-bottom: 5px solid rgba(0,0,0,0);
+  // }
 }
 
 #markdown-toc ul {

@@ -26,7 +26,7 @@ In the larger sense, a village health worker is anyone who takes part in making 
 
   - Schoolchildren can share what they learn with their parents;
 
-  - Shopkeepers can find out about the correct use of medicines they sell and give sensible advice and warning to buyers (see p. 338);
+  - Shopkeepers can find out about the correct use of medicines they sell and give sensible advice and warning to buyers (see [page 338](#page-338));
 
   - Midwives can counsel parents about the importance of eating well during pregnancy, breastfeeding, and family planning.
 
@@ -179,7 +179,7 @@ Many sicknesses can be prevented. Your job, then, is to help your people underst
 
 Most health problems have many causes, one leading to another. To correct the problem in a lasting way, you must look for and deal with the underlying causes. You must get to the root of the problem.
 
-For example, in many villages diarrhea is the most common cause of death in small children. The spread of diarrhea is caused in part by lack of cleanliness (poor sanitation and hygiene). You can do something to correct this by digging latrines and teaching basic guidelines of cleanliness (p. 133).
+For example, in many villages diarrhea is the most common cause of death in small children. The spread of diarrhea is caused in part by lack of cleanliness (poor sanitation and hygiene). You can do something to correct this by digging latrines and teaching basic guidelines of cleanliness ([page 133](#page-133)).
 
 **But the children who suffer and die most often from diarrhea are those who are poorly nourished.** Their bodies do not have strength to fight the infections. So to prevent death from diarrhea we must also prevent poor nutrition.
 
@@ -257,7 +257,7 @@ As a simple example of how each of these things can be important, let us suppose
 
 3. To get rid of his cough will require his willingness to give up smoking. For this he must understand how much it really matters.
 
-4. One resource that may help him give up smoking is information about the harm it can do him and his family (see p. 149). Another is the support and encouragement of his family, his friends, and you.
+4. One resource that may help him give up smoking is information about the harm it can do him and his family (see [page 149](#page-149)). Another is the support and encouragement of his family, his friends, and you.
 
 
 # [w9](#page-w9)
@@ -317,7 +317,7 @@ How many people have chronic (long-term) illnesses? What are they?
 
 How many children do most parents have? How many children died? Of what? At what ages? What were some of the underlying causes?
 
-How many parents are interested in not having any more children or in not having them so often? For what reasons? (See Family Planning, p. 283.)
+How many parents are interested in not having any more children or in not having them so often? For what reasons? (See Family Planning, [page 283](#page-283).)
 
 # [w11](#page-w11)
 {:.no_toc}
@@ -328,8 +328,8 @@ How many parents are interested in not having any more children or in not having
 
 How many mothers breast feed their babies? For how long? Are these babies healthier than those who are not breastfed? Why?
 What are the main foods people eat? Where do they come from? Do people make good use of all foods available?
-How many children are underweight (p. 109) or show signs of poor nutrition? How much do parents and school children know about nutritional needs?
-How many people smoke a lot? How many drink alcoholic or soft drinks very often? What effect does this have on their own and their families’ health? (See p. 148 to 150.)
+How many children are underweight ([page 109](#page-109)) or show signs of poor nutrition? How much do parents and school children know about nutritional needs?
+How many people smoke a lot? How many drink alcoholic or soft drinks very often? What effect does this have on their own and their families’ health? (See [page 148](#page-148) to 150.)
 
 #### land and food
 
@@ -436,7 +436,7 @@ This year maize Next year beans
 
 - Compost pile
 
-- SMALLER FAMILIES THROUGH FAMILY PLANNING (p. 283)
+- SMALLER FAMILIES THROUGH FAMILY PLANNING ([page 283](#page-283))
 
 - Metal sleeves to keep out rats
 
@@ -562,15 +562,15 @@ This way you are helping people to rely on local resources (themselves), rather 
 
 Three common health problems for which people too often request medicines they do not need are (1) the common cold, (2) minor cough, and (3) diarrhea.
 
-The common cold is best treated by resting, drinking lots of liquids, and at the most taking aspirin. Penicillin, tetracycline, and other antibiotics do not help at all (see p. 163).
+The common cold is best treated by resting, drinking lots of liquids, and at the most taking aspirin. Penicillin, tetracycline, and other antibiotics do not help at all (see [page 163](#page-163)).
 
-For minor coughs, or even more severe coughs with thick mucus or phlegm, drinking a lot of water will loosen mucus and ease the cough faster and better than cough syrup. Breathing warm water vapor brings even greater relief (see p. 168).
+For minor coughs, or even more severe coughs with thick mucus or phlegm, drinking a lot of water will loosen mucus and ease the cough faster and better than cough syrup. Breathing warm water vapor brings even greater relief (see [page 168](#page-168)).
 
 Do not make people dependent on cough syrup or other medicines they do not need.
 
 For most diarrhea of children, medicines do not make them get well. Many commonly used medicines (neomycin, streptomycin, kaolin-pectin, Lomotil, chloramphenicol) may even be harmful.
 
-What is most important is that the child get lots of liquids and enough food (see p. 155 to 156). The key to the child’s recovery is the mother, not the medicine. If you can help mothers understand this and learn what to do, many children’s lives can be saved.
+What is most important is that the child get lots of liquids and enough food (see [page 155](#page-155) to 156). The key to the child’s recovery is the mother, not the medicine. If you can help mothers understand this and learn what to do, many children’s lives can be saved.
 
 
 
@@ -587,7 +587,7 @@ Medicines are often used too much, both by doctors and by ordinary people. This 
 
   • What is more, when some medicines are used too often for minor problems, they lose their power to fight dangerous sicknesses.
 
-An example of a medicine losing its power is chloramphenicol. The extreme overuse of this important but risky antibiotic for minor infections has meant that in some parts of the world chloramphenicol no longer works against typhoid fever, a very dangerous infection. Frequent overuse of chloramphenicol has allowed typhoid to become resistant to it (see p. 58).
+An example of a medicine losing its power is chloramphenicol. The extreme overuse of this important but risky antibiotic for minor infections has meant that in some parts of the world chloramphenicol no longer works against typhoid fever, a very dangerous infection. Frequent overuse of chloramphenicol has allowed typhoid to become resistant to it (see [page 58](#page-58)).
 
 For all the above reasons the use of medicines should be limited.
 
@@ -625,7 +625,7 @@ This kind of question will help you measure action taken. But to find out the re
 • How much was harvested this season (corn, beans, or other crops)—as compared to before improved methods were used?
 
 • How many children show normal
-weight and weight-gain on their Child Health Charts (see p. 297)—as compared to when the Under-Fives Program was started?
+weight and weight-gain on their Child Health Charts (see [page 297](#page-297))—as compared to when the Under-Fives Program was started?
 
 • Do fewer children die now than before?
 To be able to judge the success of any activity you need to collect certain information both before and after. For example, if you want to teach mothers how important it is to breastfeed their babies, first take a count of how many mothers are doing so. Then begin the teaching program and each year take another count. This way you can get a good idea as to how much effect your teaching has had.
@@ -741,7 +741,7 @@ There are many ways to interest and involve people in working together to meet t
 
 5. Classroom visits. Work with the village schoolteacher to encourage health- related activities, through demonstrations and play acting. Also invite small groups of students to come to the health center. Children not only learn quickly, but they can help out in many ways. If you give children a chance, they gladly become a valuable resource.
 
-6. Mother and child health meetings. It is especially important that pregnant women and mothers of small children (under five years old) be well informed about their own and their babies’ health needs. Regular visits to the health post are opportunities for both check-ups and learning. Have mothers keep their children’s health records and bring them each month to have their children’s growth recorded (see the Child Health Chart, p. 297). Mothers who understand the chart often take pride in making sure their children are eating and growing well. They can learn to understand these charts even if they cannot read. Perhaps you can help train interested mothers to organize and lead these activities.
+6. Mother and child health meetings. It is especially important that pregnant women and mothers of small children (under five years old) be well informed about their own and their babies’ health needs. Regular visits to the health post are opportunities for both check-ups and learning. Have mothers keep their children’s health records and bring them each month to have their children’s growth recorded (see the Child Health Chart, [page 297](#page-297)). Mothers who understand the chart often take pride in making sure their children are eating and growing well. They can learn to understand these charts even if they cannot read. Perhaps you can help train interested mothers to organize and lead these activities.
 
 7. Home visits. Make friendly visits to people’s homes, especially homes of families who have special problems, who do not come often to the health post, or who do
 not take part in group activities. But respect people’s privacy. If your visit cannot be friendly, do not make it—unless children or defenseless persons are in danger.
@@ -836,13 +836,13 @@ Anyone who knows how to read can use this book in her own home. Even those who d
 
 A health worker or anyone who gives out the book should make sure that people understand how to use the list of Contents, the Index, the Green Pages, and the Vocabulary.
 
-Take special care to give examples of how to look things up. Urge each person to carefully read the sections of the book that will help her understand what may be helpful to do, what could be harmful or dangerous, and when it is important to get help (see especially Chapters 1, 2, 6, and 8, and also the SIGNS OF DANGEROUS ILLNESS, p. 42).
+Take special care to give examples of how to look things up. Urge each person to carefully read the sections of the book that will help her understand what may be helpful to do, what could be harmful or dangerous, and when it is important to get help (see especially Chapters 1, 2, 6, and 8, and also the SIGNS OF DANGEROUS ILLNESS, [page 42](#page-42)).
 
 Point out how important it is to prevent sickness before it starts.
 
 Encourage people to pay special attention to Chapters 11 and 12, which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
 
-Also show and mark the pages that tell about the most common problems in your area. For example, you can mark the pages on diarrhea and be sure mothers with small children understand about ‘special drink’ (oral rehydration, p. 152).
+Also show and mark the pages that tell about the most common problems in your area. For example, you can mark the pages on diarrhea and be sure mothers with small children understand about ‘special drink’ (oral rehydration, [page 152](#page-152)).
 
 Many problems and needs can be explained briefly. But the more time you spend with people discussing how to use the book or reading and using it together, the more everyone will get out of it.
 

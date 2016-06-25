@@ -13,13 +13,13 @@ This chapter is about the prevention and treatment of problems seen mostly in ol
 
 ## Difficulties with Vision
 
-(see p. 217)  
+(see [page 217](#page-217))  
 
 After the age of 40, many people have problems seeing close objects clearly. They are becoming farsighted. Often glasses will help.
 
-Everyone over age 40 should watch for signs of glaucoma, which can cause blindness if left untreated. Any person with signs of glaucoma (see p. 222) should seek medical help.
+Everyone over age 40 should watch for signs of glaucoma, which can cause blindness if left untreated. Any person with signs of glaucoma (see [page 222](#page-222)) should seek medical help.
 
-Cataracts (see p. 225) and ‘floaters’ before the eyes (tiny moving spots, p. 227) are also common problems of old age.
+Cataracts (see [page 225](#page-225)) and ‘floaters’ before the eyes (tiny moving spots, [page 227](#page-227)) are also common problems of old age.
 
 ## Weakness, Tiredness, and Eating Habits
 
@@ -27,9 +27,9 @@ Old people understandably have less energy and strength than when they were youn
 
 ## Swelling of the Feet
 
-(see p. 176)  
+(see [page 176](#page-176))  
 
-This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see p. 325). Whatever the cause, keeping the feet up is the best treatment. Walking helps too, but do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
+This can be caused by many diseases, but in older people it is often caused by poor circulation or heart trouble (see [page 325](#page-325)). Whatever the cause, keeping the feet up is the best treatment. Walking helps too, but do not spend much time standing or sitting with the feet down. Keep the feet up whenever possible.
 
 
 
@@ -41,31 +41,31 @@ This can be caused by many diseases, but in older people it is often caused by p
 
 ## Chronic Sores of the Legs or Feet
 
-(see p. 213)  
-These may result from poor circulation, often because of varicose veins (p. 175). Sometimes diabetes is part of the cause (p. 127).
+(see [page 213](#page-213))  
+These may result from poor circulation, often because of varicose veins ([page 175](#page-175)). Sometimes diabetes is part of the cause ([page 127](#page-127)).
 
 For other possibilities, see page 20.
 
 Sores that result from poor circulation heal very slowly.
 
-Keep the sore as clean as possible. Wash it with boiled water and mild soap and change the bandage often. If signs of infection develop, treat as directed on p. 88.
+Keep the sore as clean as possible. Wash it with boiled water and mild soap and change the bandage often. If signs of infection develop, treat as directed on [page 88](#page-88).
 
 When sitting or sleeping, keep the foot up.
 
 ## Difficulty Urinating
 
-Difficulty Urinating (see p. 235)
+Difficulty Urinating (see [page 235](#page-235))
 
 ## Chronic Cough
 
-(see p. 168)
+(see [page 168](#page-168))
 Older people who cough a lot should not smoke and should seek medical advice. If they had symptoms of tuberculosis when they were younger, or have ever coughed up blood, they may have tuberculosis.
 
 If an older person develops a cough with wheezing or trouble breathing (asthma) or if his feet also swell, he may have heart trouble (see the next page).
 
 ## Rheumatoid Arthritis (painful joints)
 
-(see p. 173)  
+(see [page 173](#page-173))  
 Many older people have arthritis.
 
 **To help arthritis:**
@@ -73,9 +73,9 @@ Many older people have arthritis.
 
   ♦ Rest the joints that hurt.
 
-  ♦ Apply hot compresses (see p. 195).
+  ♦ Apply hot compresses (see [page 195](#page-195)).
 
-  ♦ Take a medicine for pain; aspirin is best. For severe arthritis, take 2 to 3 aspirin tablets up to 6 times a day with bicarbonate of soda, an antacid (see p. 380), milk, or a lot of water. (If the ears begin to ring, take less.)
+  ♦ Take a medicine for pain; aspirin is best. For severe arthritis, take 2 to 3 aspirin tablets up to 6 times a day with bicarbonate of soda, an antacid (see [page 380](#page-380)), milk, or a lot of water. (If the ears begin to ring, take less.)
 
   ♦ It is important to do exercises that help maintain as much movement as possible in the painful joints.
 
@@ -122,7 +122,7 @@ Heart disease is more frequent in older people, especially in those who are fat,
   ♦ If a person has angina pectoris or heart attack, she should rest very quietly in
   a cool place until the pain goes away.
 
-If the chest pain is very strong and does not go away with rest, or if the person shows signs of **shock** (see p. 77), the heart has probably been severely damaged.
+If the chest pain is very strong and does not go away with rest, or if the person shows signs of **shock** (see [page 77](#page-77)), the heart has probably been severely damaged.
 
 The person should stay in bed for at least a week or as long as she is in pain or shock.
 
@@ -148,7 +148,7 @@ Many of the health problems of middle and old age, including high blood pressure
 
   6. **Learn how to relax** and deal positively with things that worry or upset you.
 
-High blood pressure (p. 125) and hardening of the arteries (arteriosclerosis), which are the main causes of heart disease and stroke, can usually be prevented, or reduced, by doing the things recommended above.
+High blood pressure ([page 125](#page-125)) and hardening of the arteries (arteriosclerosis), which are the main causes of heart disease and stroke, can usually be prevented, or reduced, by doing the things recommended above.
 
 The lowering of high blood pressure is important in the prevention of heart disease and stroke. Persons who have high blood pressure should have it checked from time to time and take measures to lower it.
 
@@ -170,7 +170,7 @@ If she lives, she may have trouble speaking, seeing, or thinking, or one side of
 
 **Treatment:**
 
-Put the person in bed with her head a little higher than her feet. If she is unconscious, roll her head back and to one side so her saliva (or vomit) runs out of her mouth, rather than into her lungs. While she is unconscious, give no food, drink, or medicines by mouth (see the Unconscious Person, p. 78). If possible, seek medical help.
+Put the person in bed with her head a little higher than her feet. If she is unconscious, roll her head back and to one side so her saliva (or vomit) runs out of her mouth, rather than into her lungs. While she is unconscious, give no food, drink, or medicines by mouth (see the Unconscious Person, [page 78](#page-78)). If possible, seek medical help.
 
 After the stroke, if the person remains partly paralyzed, help her to walk with a cane and to use her good hand to care for herself. She should avoid heavy exercise and anger.
 
@@ -182,13 +182,13 @@ If a younger or middle aged person suddenly develops paralysis on one side of hi
 
 ## Deafness
 
-Deafness that comes on gradually without pain or other symptoms occurs most often in men over 40. It is usually incurable, though a hearing aid may help. Sometimes deafness results from ear infections (see p. 309), a head injury, or a plug of dry wax. For information on how to remove ear wax, see p. 405.
+Deafness that comes on gradually without pain or other symptoms occurs most often in men over 40. It is usually incurable, though a hearing aid may help. Sometimes deafness results from ear infections (see [page 309](#page-309)), a head injury, or a plug of dry wax. For information on how to remove ear wax, see [page 405](#page-405).
 
 # DEAFNESS WITH RINGING OF THE EARS AND DIZZINESS
 
 If an older person loses hearing in one or both ears, occasionally with severe dizziness, and hears a loud ‘ringing’ or buzzing, he probably has Ménière’s disease. He may also feel nauseous, or vomit, and may sweat a lot.
 
-He should take an antihistamine, such as dimenhydrinate (Dramamine, p. 386) and go to bed until the signs go away. He should have no salt in his food. If he does not get better soon, or if the problem returns, he should seek medical advice.
+He should take an antihistamine, such as dimenhydrinate (Dramamine, [page 386](#page-386)) and go to bed until the signs go away. He should have no salt in his food. If he does not get better soon, or if the problem returns, he should seek medical advice.
 
 
 # [328](#page-328)
@@ -213,7 +213,7 @@ Certain medicines may help bring sleep, but it is better not to use them if they
 
   ♦ In bed, try to relax each part of your body, then your whole body and mind. Remember good times.
 
-  ♦ If you still cannot sleep, try taking an antihistamine like promethazine (Phenergan, p. 385) or dimenhydrinate (Dramamine, p. 386) half an hour before going to bed. These are less habit-forming than stronger drugs.
+  ♦ If you still cannot sleep, try taking an antihistamine like promethazine (Phenergan, [page 385](#page-385)) or dimenhydrinate (Dramamine, [page 386](#page-386)) half an hour before going to bed. These are less habit-forming than stronger drugs.
 
 # DISEASES FOUND MORE OFTEN IN PEOPLE OVER 40 YEARS OLD
 
@@ -233,7 +233,7 @@ When cirrhosis is severe, it is hard to cure. There are no medicines that help m
 
   ♦ Never drink alcohol again! Alcohol poisons the liver.
 
-  ♦ Eat as well as possible: vegetables, fruit, and some protein (p. 110 and 111). But do not eat a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard.
+  ♦ Eat as well as possible: vegetables, fruit, and some protein ([page 110](#page-110) and [page 111](#page-111)). But do not eat a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard.
 
   ♦ If a person with cirrhosis has swelling, he should not use any salt in his food.
 
@@ -264,15 +264,15 @@ The gallbladder is a small sac attached to the liver. It collects a bitter, gree
 
   ♦ Do not eat greasy food. Overweight (fat) people should eat small meals and lose weight.
 
-  ♦ Take ibuprofen to calm the pain (see p. 379). Stronger painkillers are often needed. (Aspirin will probably not help.)
+  ♦ Take ibuprofen to calm the pain (see [page 379](#page-379)). Stronger painkillers are often needed. (Aspirin will probably not help.)
 
-  ♦ If the person has a fever, she should take ampicillin (p. 352).
+  ♦ If the person has a fever, she should take ampicillin ([page 352](#page-352)).
 
   ♦ In severe or chronic cases, seek medical help. Sometimes surgery is needed.
 
 **Prevention:**
 
-Women (and men) who are overweight should try to lose weight (see p. 126). Avoid rich, sweet, and greasy food, do not eat too much, and get some exercise.
+Women (and men) who are overweight should try to lose weight (see [page 126](#page-126)). Avoid rich, sweet, and greasy food, do not eat too much, and get some exercise.
 
 ## BILIOUSNESS
 

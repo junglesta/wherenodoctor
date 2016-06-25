@@ -12,16 +12,16 @@ bookpage: 179
 >THE SOONER HE GETS MEDICAL HELP, THE BETTER HIS CHANCE OF GETTING WELL.
 
 
-CAUTION: Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, p. 42.
+CAUTION: Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, [page 42](#page-42).
 
 
 # TUBERCULOSIS (TB, CONSUMPTION)
 
 Tuberculosis of the lungs is a chronic (long-lasting), contagious (easily spread) disease that anyone can get. But it often strikes persons between 15 and 35 years of age, especially those who are weak, poorly nourished, have HIV, or live with someone who has TB.
 
-Because so many people with HIV (p. 399) get very sick with TB, all people with HIV should get a TB test.
+Because so many people with HIV ([page 399](#page-399)) get very sick with TB, all people with HIV should get a TB test.
 
-People with HIV can take isoniazid (see p. 360) to prevent TB from developing. Encourage people with TB to also be tested for HIV and find help with a treatment program if they are positive.
+People with HIV can take isoniazid (see [page 360](#page-360)) to prevent TB from developing. Encourage people with TB to also be tested for HIV and find help with a treatment program if they are positive.
 
 Tuberculosis is curable. Yet thousands die needlessly from this disease every year. Both for prevention and cure, it is very important to treat tuberculosis early. Be on the lookout for the signs of tuberculosis. A person may have one or many of them.
 
@@ -50,33 +50,33 @@ Tuberculosis is curable. Yet thousands die needlessly from this disease every ye
 
   - Lighter skin color.
 
-  - Swellings in the neck (lymph nodes), or the belly (p. 20)
+  - Swellings in the neck (lymph nodes), or the belly ([page 20](#page-20))
 
 
-TB is usually only in the lungs. But it can affect any part of the body. In young children it may cause meningitis (see p. 185). For skin problems from TB, see p. 212.
+TB is usually only in the lungs. But it can affect any part of the body. In young children it may cause meningitis (see [page 185](#page-185)). For skin problems from TB, see [page 212](#page-212).
 
 
 **_If you think you might have tuberculosis:_**
 
 Seek medical help. At the first sign of tuberculosis, go to a health center where the workers can examine you, and test the stuff you cough up (phlegm or sputum) to see if you have TB or not. Many governments give TB medicines free. Ask at the nearest health center. You will probably be given some of the following medicines:
 
-  - Isoniazid (INH) pills (p. 360)
+  - Isoniazid (INH) pills ([page 360](#page-360))
 
-  - Ethambutol pills (p. 361)
+  - Ethambutol pills ([page 361](#page-361))
 
-  - Rifampin pills (p. 360).
+  - Rifampin pills ([page 360](#page-360)).
 
-  - Streptomycin injections (p. 361)
+  - Streptomycin injections ([page 361](#page-361))
 
-  - Pyrazinamide pills (p. 361)
+  - Pyrazinamide pills ([page 361](#page-361))
 
-It is very important to take the medicines as directed. Treatments may be different in different countries, but usually the treatment has 2 parts. You will take 4 medicines for 2 months and then test your sputum. If you are getting better, you will take 2 or 3 medicines for another 4 months. Then you will be tested again to make sure you are cured. **Do not stop taking the medicines, even if you feel better**. This can lead to the illness coming back and infecting you and other people, with a form of TB that is much harder to cure, multi-drug resistant tuberculosis (see p. 359). **To cure TB completely can take from 6 months to more than a year.**
+It is very important to take the medicines as directed. Treatments may be different in different countries, but usually the treatment has 2 parts. You will take 4 medicines for 2 months and then test your sputum. If you are getting better, you will take 2 or 3 medicines for another 4 months. Then you will be tested again to make sure you are cured. **Do not stop taking the medicines, even if you feel better**. This can lead to the illness coming back and infecting you and other people, with a form of TB that is much harder to cure, multi-drug resistant tuberculosis (see [page 359](#page-359)). **To cure TB completely can take from 6 months to more than a year.**
 
 Eat as well as possible: plenty of energy foods and also foods rich in proteins and vitamins (pages 110 to 111). Rest is important. If possible, stop working and take
 it easy until you begin to get better. From then on, try not to work so hard that you become tired or breathe with difficulty. Try to always get enough rest and sleep.
 
 Tuberculosis in any other part of the body is treated
-the same as TB of the lungs, but the treatment may be longer. This includes TB in the glands of the neck, TB of the abdomen (see picture on p. 20), TB of the skin (see p. 212), and TB of a joint (like the knee). A child with severe TB of the backbone may also need surgery to prevent paralysis (see Disabled Village Children, Chapter 21).
+the same as TB of the lungs, but the treatment may be longer. This includes TB in the glands of the neck, TB of the abdomen (see picture on [page 20](#page-20)), TB of the skin (see [page 212](#page-212)), and TB of a joint (like the knee). A child with severe TB of the backbone may also need surgery to prevent paralysis (see Disabled Village Children, Chapter 21).
 
 **Tuberculosis is very contagious.** It spreads when someone with TB coughs germs into the air. Anyone, especially a child, who lives with someone who has TB runs a great risk of catching the disease.
 
@@ -177,7 +177,7 @@ Tetanus germs enter through the umbilical cord of a newborn baby because of lack
 
   - when the cord has been cut with an instrument that has not been boiled and kept completely clean, or
 
-  - when the cord has not been cut close to the body (see p. 262), or
+  - when the cord has not been cut close to the body (see [page 262](#page-262)), or
 
   - when the newly cut cord is tightly covered or is not kept dry.
 
@@ -229,7 +229,7 @@ Tetanus is a deadly disease. Seek medical help at the first sign. If there is an
 
   - Examine the whole body for infected wounds or sores. Often the wound will contain pus. Open the wound and wash it with soap and cool, boiled water; completely remove all dirt, pus, thorns, splinters, etc.; flood the wound with hydrogen peroxide if you have any.
 
-  - Inject 1 million units of procaine penicillin at once and repeat every 12 hours for 7 to 10 days (p. 352). (For newborn babies crystalline penicillin is better.) After using injected penicillin for 2 days, you can switch to penicillin by mouth (penicillin V, p. 351). If there is no penicillin, use another antibiotic, like tetracycline.
+  - Inject 1 million units of procaine penicillin at once and repeat every 12 hours for 7 to 10 days ([page 352](#page-352)). (For newborn babies crystalline penicillin is better.) After using injected penicillin for 2 days, you can switch to penicillin by mouth (penicillin V, [page 351](#page-351)). If there is no penicillin, use another antibiotic, like tetracycline.
 
   - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (see pages 70 and 388).
 
@@ -249,13 +249,13 @@ Tetanus is a deadly disease. Seek medical help at the first sign. If there is an
 
 Even in the best hospitals, half the people with tetanus die. It is much easier to prevent tetanus than to treat it.
 
-  - Vaccination: This is the surest protection against tetanus. Both children and adults should be vaccinated. Vaccinate your whole family at the nearest health center (see p. 147). For complete protection, the vaccination should be repeated once every 10 years. Vaccinating women against tetanus each time they are pregnant will prevent tetanus in newborn infants (see p. 250).
+  - Vaccination: This is the surest protection against tetanus. Both children and adults should be vaccinated. Vaccinate your whole family at the nearest health center (see [page 147](#page-147)). For complete protection, the vaccination should be repeated once every 10 years. Vaccinating women against tetanus each time they are pregnant will prevent tetanus in newborn infants (see [page 250](#page-250)).
 
   - When you have a wound, especially a dirty or deep wound, clean and take care of it in the manner described on page 89.
 
-  - If the wound is very big, deep, or dirty, seek medical help. If you have not been vaccinated against tetanus, get the vaccination and also get an injection of antitetanus immunoglobulin (see p. 388).
+  - If the wound is very big, deep, or dirty, seek medical help. If you have not been vaccinated against tetanus, get the vaccination and also get an injection of antitetanus immunoglobulin (see [page 388](#page-388)).
 
-  - In newborn babies, cleanliness is very important to prevent tetanus. The instrument used to cut the umbilical cord should be sterilized (p. 262); the cord should be cut short, and the umbilical area kept clean and dry.
+  - In newborn babies, cleanliness is very important to prevent tetanus. The instrument used to cut the umbilical cord should be sterilized ([page 262](#page-262)); the cord should be cut short, and the umbilical area kept clean and dry.
 
 
 # [185](#page-185)
@@ -285,10 +285,10 @@ This is a very serious infection of the brain, more common in children. It may b
 
 Get medical help fast, every minute counts! If possible take the person to a hospital. Meanwhile:
 
-  - Inject ampicillin every 6 hours, 500 mg for children or 1 g for adults (see p. 353). Also give ceftriaxone or gentamicin (see p. 358).
+  - Inject ampicillin every 6 hours, 500 mg for children or 1 g for adults (see [page 353](#page-353)). Also give ceftriaxone or gentamicin (see [page 358](#page-358)).
   - If there is high fever (more than 40°), lower it with wet cloths and acetaminophen or aspirin (see pages 378 to 379).
   - If the mother has tuberculosis or if you have any other reason to suspect that the child has tubercular meningitis, inject him with 20 mg of streptomycin for each kg. he weighs and get medical help at once. Also, use ampicillin in case the meningitis is not from TB.
-  - If you know the meningitis came from malaria, give an injection of artesunate or quinine at once (see p. 366).
+  - If you know the meningitis came from malaria, give an injection of artesunate or quinine at once (see [page 366](#page-366)).
 
 
 ### Prevention:
@@ -319,7 +319,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 
   - Usually malaria causes fevers every 2 or 3 days (depending on the kind of malaria), but in the beginning it may cause fever daily. Also, the fever pattern may not be regular or typical. For this reason anyone who suffers from unexplained fevers should have his blood tested for malaria.
 
-  - Chronic malaria often causes a large spleen and anemia (see p. 124). For people with HIV (p. 399) it can cause them to get sick faster.
+  - Chronic malaria often causes a large spleen and anemia (see [page 124](#page-124)). For people with HIV ([page 399](#page-399)) it can cause them to get sick faster.
 
   - In young children, anemia and paleness can begin within a day or two. In children with malaria affecting the brain (cerebral malaria), seizures (fits) may be followed
   by periods of unconsciousness. Also, the palms may show a blue gray color, and breathing may be rapid and deep. (Note: Children who have not been breastfed are more likely to get malaria.)
@@ -329,7 +329,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
   - If you suspect malaria or have repeated fevers, if possible go to a health center for a blood test. In areas where an especially dangerous type of malaria called falciparum occurs, seek treatment immediately.
   - In areas where malaria is common and blood tests are not available, treat any unexplained high fever as malaria. Take the malaria medicine known to work best in your area. (See pages 363 to 367 for dosages and information on malaria medicines.)
   - If you get better with the medicine, but after several days the fevers start again, you may need another medicine. Get advice from the nearest health center.
-  - If a person who possibly has malaria begins to have seizures or other signs of meningitis (p. 185) he may have cerebral malaria. If possible, inject quinine or artesunate at once (see p. 366).
+  - If a person who possibly has malaria begins to have seizures or other signs of meningitis ([page 185](#page-185)) he may have cerebral malaria. If possible, inject quinine or artesunate at once (see [page 366](#page-366)).
 
 
 
@@ -384,7 +384,7 @@ A severe form of dengue may cause bleeding into the skin (small dark spots), or 
 
   - Rest, lots of liquids such as rehydration drink, fruit juice, or milk, acetaminophen (but not aspirin or ibuprofen) for fever and pain.
 
-  - In case of severe bleeding, treat for shock, if necessary (see p. 77).
+  - In case of severe bleeding, treat for shock, if necessary (see [page 77](#page-77)).
 
 
 
@@ -403,13 +403,13 @@ This is a disease that comes from drinking fresh milk from infected cows or goat
 
 • The fevers may be mild or severe. Typically, these begin with afternoon chills and end with sweating in the early morning. In chronic brucellosis, the fevers may stop for several days and then return. Without treatment, brucellosis may last for years.
 
-• There may be swollen lymph nodes in the neck, armpits, and groin (p. 88).
+• There may be swollen lymph nodes in the neck, armpits, and groin ([page 88](#page-88)).
 
 **Treatment:**
 
 ♦ If you suspect brucellosis, get medical advice, because it is easy to confuse this disease with others, and the treatment is long and expensive.
 
-♦ Treat with tetracycline, adults: two 250 mg. capsules 4 times a day for 3 weeks. For precautions, see page 357. Or use cotrimoxazole. (For dosage and precautions, see p. 357.)
+♦ Treat with tetracycline, adults: two 250 mg. capsules 4 times a day for 3 weeks. For precautions, see page 357. Or use cotrimoxazole. (For dosage and precautions, see [page 357](#page-357).)
 
 **Prevention:**
 
@@ -430,7 +430,7 @@ PREVENT BRUCELLOSIS: NEVER DRINK UNBOILED MILK
 
 # TYPHOID FEVER
 
-Typhoid is an infection of the gut that affects the whole body. It is spread from feces‐to‐mouth in contaminated food and water and often comes in epidemics (many people sick at once). Of the different infections sometimes called ‘the fever’ (see p. 26), typhoid is one of the most dangerous.
+Typhoid is an infection of the gut that affects the whole body. It is spread from feces‐to‐mouth in contaminated food and water and often comes in epidemics (many people sick at once). Of the different infections sometimes called ‘the fever’ (see [page 26](#page-26)), typhoid is one of the most dangerous.
 
 **Signs of typhoid:**
 
@@ -446,7 +446,7 @@ a little more each day until it reaches
 40° or more.
 
 • Pulse is often relatively slow for the
-amount of fever present. Take the pulse and temperature every half hour. If the pulse gets slower when the fever goes up, the person probably has typhoid (see p. 26).
+amount of fever present. Take the pulse and temperature every half hour. If the pulse gets slower when the fever goes up, the person probably has typhoid (see [page 26](#page-26)).
 
 • Sometimes there is vomiting, diarrhea, or constipation.
 
@@ -471,17 +471,17 @@ Third week:
 
 ♦ Seek medical help.
 
-♦ Give ciprofloxacin (p. 356), chloramphenicol (p. 356), ampicillin (p. 352), or cotrimoxazole (p. 357). Ask a health worker which medicine works best where you live.
+♦ Give ciprofloxacin ([page 356](#page-356)), chloramphenicol ([page 356](#page-356)), ampicillin ([page 352](#page-352)), or cotrimoxazole ([page 357](#page-357)). Ask a health worker which medicine works best where you live.
 
-♦ Lower the fever with cool wet cloths (see p. 76).
+♦ Lower the fever with cool wet cloths (see [page 76](#page-76)).
 
-♦ Give plenty of liquids: soups, juices, and Rehydration Drink to avoid dehydration (see p. 152).
+♦ Give plenty of liquids: soups, juices, and Rehydration Drink to avoid dehydration (see [page 152](#page-152)).
 
 ♦ Give nutritious foods, in liquid form if necessary.
 
 ♦ The person should stay in bed until the fever is completely gone.
 
-♦ If the person shits blood or develops signs of peritonitis (p. 94) or pneumonia (p. 171), take her to a hospital at once.
+♦ If the person shits blood or develops signs of peritonitis ([page 94](#page-94)) or pneumonia ([page 171](#page-171)), take her to a hospital at once.
 
 
 **Prevention:**
@@ -521,7 +521,7 @@ Treatment:
 
 ♦ If you think someone may have typhus, get medical advice. Special tests are often needed.
 
-♦ Give tetracycline, adults: 2 capsules of 250 mg. 4 times a day for 7 days (see p. 355). Chloramphenicol also works, but is riskier (p. 356).
+♦ Give tetracycline, adults: 2 capsules of 250 mg. 4 times a day for 7 days (see [page 355](#page-355)). Chloramphenicol also works, but is riskier ([page 356](#page-356)).
 
 Prevention:
 
@@ -546,7 +546,7 @@ rats. The fleas may jump off onto you. Drown and burn the rats and their fleas. 
 This mildly infectious disease develops slowly, often over many years. It can only spread from persons who have untreated leprosy, to persons who have low resistance to the disease. In areas where leprosy is common, children should be checked every 6 to 12 months especially children living with persons who have leprosy.
 Signs: Leprosy can cause a variety of skin problems, loss of feeling, and paralysis of the hands and feet.
 
-The first sign of leprosy is often a slowly growing patch on the skin that does not itch or hurt. At first, feeling inside the patch may be normal. Keep watching it. If feeling in the patch becomes reduced or absent (see p. 38) it is probably leprosy.
+The first sign of leprosy is often a slowly growing patch on the skin that does not itch or hurt. At first, feeling inside the patch may be normal. Keep watching it. If feeling in the patch becomes reduced or absent (see [page 38](#page-38)) it is probably leprosy.
 Examine the whole body for skin patches, especially the face, arms, back, butt, and legs.
 
  pale patch without clear border

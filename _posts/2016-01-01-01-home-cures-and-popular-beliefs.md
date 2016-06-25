@@ -11,8 +11,7 @@ Everywhere on earth people use home remedies. In some places, the older or tradi
 
 Many home remedies have great value. Others have less. And some may be risky or harmful. Home remedies, like modern medicines, must be used with caution.
 
-Try to do no harm. Only use remedies if you are sure they are safe and
-know exactly how to use them.
+Try to do no harm. Only use remedies if you are sure they are safe and know exactly how to use them.
 
 # HOME CURES THAT HELP
 

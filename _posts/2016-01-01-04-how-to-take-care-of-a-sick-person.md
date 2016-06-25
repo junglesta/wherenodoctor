@@ -15,7 +15,7 @@ Medicines are often not necessary. But good care is always important. The follow
 
 # 1. The Comfort of the Sick Person
 
-A person who is sick should rest in a quiet, comfortable place with plenty of fresh air and light. He should keep from getting too hot or cold. If the air is cold or the person is chilled, cover him with a sheet or blanket. But if the weather is hot or the person has a fever, do not cover him at all (see p. 75).
+A person who is sick should rest in a quiet, comfortable place with plenty of fresh air and light. He should keep from getting too hot or cold. If the air is cold or the person is chilled, cover him with a sheet or blanket. But if the weather is hot or the person has a fever, do not cover him at all (see [page 75](#page-75)).
 
 
 # 2. Liquids
@@ -44,13 +44,13 @@ Energy foods are especially important, for example, porridges of rice, wheat, oa
 
 _A few problems do require special diets. These are explained on the following pages:_
 
- - anemia 124
- - stomach ulcers and heartburn 128
- - appendicitis, gut obstruction, acute abdomen (in these cases take no food at all) 93
- - diabetes 127
- - heart problems 325
- - gallbladder problems 329
- - high blood pressure 125
+ - anemia [124](#page-124)
+ - stomach ulcers and heartburn [128](#page-128)
+ - appendicitis, gut obstruction, acute abdomen (in these cases take no food at all) [93](#page-93)
+ - diabetes [127](#page-127)
+ - heart problems [325](#page-325)
+ - gallbladder problems [329](#page-329)
+ - high blood pressure [125](#page-125)
 
 
 # SPECIAL CARE FOR A PERSON WHO IS VERY ILL
@@ -62,9 +62,9 @@ drink a little at a time, give him small amounts often. If he can barely swallow
 
 Measure the amount of liquids the person drinks each day. An adult needs to drink 2 liters or more every day and should urinate at least a cup (240 ml.) of urine 3 or 4 times daily.
 
-If the person is not drinking or urinating enough, or if he begins to show signs of dehydration (p. 151), encourage him to drink more. He should drink nutritious liquids, usually with a little salt added.
+If the person is not drinking or urinating enough, or if he begins to show signs of dehydration ([page 151](#page-151)), encourage him to drink more. He should drink nutritious liquids, usually with a little salt added.
 
-If he will not drink these, give him a Rehydration Drink (see p. 152). If he cannot drink enough of this, and develops signs of dehydration, a health worker may be able to give him intravenous solution. But the need for this can usually be avoided if the person is urged to take small sips often.
+If he will not drink these, give him a Rehydration Drink (see [page 152](#page-152)). If he cannot drink enough of this, and develops signs of dehydration, a health worker may be able to give him intravenous solution. But the need for this can usually be avoided if the person is urged to take small sips often.
 
 # [41](#page-41)
 {:.no_toc}
@@ -80,9 +80,9 @@ Change the bed clothes daily and each time they become dirty. Soiled or bloodsta
 
 # 4. Changing Position in Bed
 
-A person who is very weak and cannot turn over alone should be helped to change position in bed many times each day. This helps prevent bed sores (see p. 214).
+A person who is very weak and cannot turn over alone should be helped to change position in bed many times each day. This helps prevent bed sores (see [page 214](#page-214)).
 A child who is sick for a long time should be held often on her mother’s lap.
-Frequent changing of the person’s position also helps to prevent pneumonia, a constant danger for anyone who is very weak or ill and must stay in bed for a long time. If the person has a fever, begins to cough, and breathes with fast, shallow breaths, she probably has pneumonia (see p. 171).
+Frequent changing of the person’s position also helps to prevent pneumonia, a constant danger for anyone who is very weak or ill and must stay in bed for a long time. If the person has a fever, begins to cough, and breathes with fast, shallow breaths, she probably has pneumonia (see [page 171](#page-171)).
 
 # 5. Watching for Changes
 
@@ -104,56 +104,56 @@ A person who has one or more of the following signs is probably too sick to be t
 
 _Until help comes, follow the instructions on the pages indicated:_
 
-1. Loss of large amounts of blood from anywhere in the body 82, 264, 281
+1. Loss of large amounts of blood from anywhere in the body [82](#page-82), [264](#page-264), [281](#page-281)
 
-2. Coughing up blood 179
+2. Coughing up blood [179](#page-179)
 
-3. Marked blueness of lips and nails (if it is new) 30
+3. Marked blueness of lips and nails (if it is new) [30](#page-30)
 
-4. Great difficulty in breathing; does not improve with rest 167, 325
+4. Great difficulty in breathing; does not improve with rest [167](#page-167), [325](#page-325)
 
-5. The person cannot be wakened (coma) 78
+5. The person cannot be wakened (coma) [78](#page-78)
 
-6. The person is so weak he faints when he stands up 325
+6. The person is so weak he faints when he stands up [325](#page-325)
 
-7. Twelve hours or more without being able to urinate 234
+7. Twelve hours or more without being able to urinate [234](#page-234)
 
-8. A day or more without being able to drink any liquids 151
+8. A day or more without being able to drink any liquids [151](#page-151)
 
-9. Heavy vomiting or severe diarrhea that lasts for more than one day or more than a few hours in babies. 151
+9. Heavy vomiting or severe diarrhea that lasts for more than one day or more than a few hours in babies. [151](#page-151)
 
-10. Black stools like tar, or vomit with blood or feces  128
+10. Black stools like tar, or vomit with blood or feces  [128](#page-128)
 
-11. Strong, continuous stomach pains with vomiting in a person who does not have diarrhea or cannot have a bowel movement 93
+11. Strong, continuous stomach pains with vomiting in a person who does not have diarrhea or cannot have a bowel movement [93](#page-93)
 
-12. Any strong continuous pain that lasts for more than 3 days 29 > 38
+12. Any strong continuous pain that lasts for more than 3 days [29](#page-29) > [38](#page-38)
 
-13. Stiff neck with arched back, with or without a stiff jaw  182,185
+13. Stiff neck with arched back, with or without a stiff jaw  [182](#page-182) , [185](#page-185)
 
-14. More than one seizure (fit) in someone with fever or serious illness 76, 185
+14. More than one seizure (fit) in someone with fever or serious illness [76](#page-76), [185](#page-185)
 
 15. High fever (above 39° C) that cannot be
-brought down or that lasts more than 4 or 5 days 75
+brought down or that lasts more than 4 or 5 days [75](#page-75)
 
-16. Weight loss over an extended time 20, 400
+16. Weight loss over an extended time [20](#page-20), [400](#page-400)
 
-17. Blood in the urine 146,234
+17. Blood in the urine [146](#page-146), [234](#page-234)
 
-18. Sores that keep growing and do not go away with treatment 191, 196, 211, 212
+18. Sores that keep growing and do not go away with treatment [191](#page-191), [196](#page-196), [211](#page-211), [212](#page-212)
 
-19. A lump in any part of the body that keeps getting bigger 196, 280
+19. A lump in any part of the body that keeps getting bigger [196](#page-196), [280](#page-280)
 
-20. Very high blood pressure (220/120 or greater) 327
+20. Very high blood pressure (220/120 or greater) [327](#page-327)
 
 21. Problems with pregnancy and childbirth:
 
- - any bleeding during pregnancy 249, 281
+ - any bleeding during pregnancy [249](#page-249), [281](#page-281)
 
- - high blood pressure (140/90 or greater) 249
+ - high blood pressure (140/90 or greater) [249](#page-249)
 
- - long delay once the waters have broken and labor has begun 267
+ - long delay once the waters have broken and labor has begun [267](#page-267)
 
- - severe bleeding 264
+ - severe bleeding [264](#page-264)
 
 
 # [43](#page-43)
@@ -168,7 +168,7 @@ an operation may be needed (for example, appendicitis), do not wait for the heal
 worker. Take the person to the health
 center or the hospital at once.
 
-When you need to carry a person on a stretcher, make sure he is as comfortable as possible and cannot fall out. If he has any broken bones, splint them before moving him (see p. 99). If the sun is very strong, rig a sheet over the stretcher to give shade yet allow fresh air to pass underneath
+When you need to carry a person on a stretcher, make sure he is as comfortable as possible and cannot fall out. If he has any broken bones, splint them before moving him (see [page 99](#page-99)). If the sun is very strong, rig a sheet over the stretcher to give shade yet allow fresh air to pass underneath
 
 # WHAT TO TELL THE HEALTH WORKER
 

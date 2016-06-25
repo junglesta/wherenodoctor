@@ -267,7 +267,7 @@ Birth control pills contain hormones that are similar to the natural hormones in
 
 There are 2 main types of birth control pills: combination pills which contain 2 hormones, estrogen and progestin, and minipills which contain only progestin.
 
-Both types of pill are very effective if taken every day at the same time. They are safe for most women, but women with certain health problems should not take them (see p. 289).
+Both types of pill are very effective if taken every day at the same time. They are safe for most women, but women with certain health problems should not take them (see [page 289](#page-289)).
 
 Birth control pills do not protect against HIV or other sexually transmitted infections (STIs). To protect yourself, also use a condom.
 
@@ -314,7 +314,7 @@ A woman who has any of the following signs should not take any type of oral cont
 
 • Breast cancer or a hard lump in the breast (see page 279). Birth control pills do not cause cancer, but if a woman already has breast cancer, the pill can make it worse.
 
-• Abnormal bleeding from the vagina during the 3 months before starting to take birth control pills. See a health worker first to find out if there is a serious problem (see p. 280).
+• Abnormal bleeding from the vagina during the 3 months before starting to take birth control pills. See a health worker first to find out if there is a serious problem (see [page 280](#page-280)).
 
 If you suffer from tuberculosis, diabetes, kidney disease, or epilepsy, get medical advice about taking birth control pills.
 
@@ -322,23 +322,23 @@ If you suffer from tuberculosis, diabetes, kidney disease, or epilepsy, get medi
 
 The combination pill can make some health problems very dangerous. Do not take combination pills if you have:
 
-• High blood pressure, 160/110 or higher (p. 125)
+• High blood pressure, 160/110 or higher ([page 125](#page-125))
 
 • Diabetes for more than 20 years
 
 • Age 35 or older and smoke tobacco
 
-• Migraines (p. 162)
+• Migraines ([page 162](#page-162))
 
-• Gallbladder disease (p. 329)
+• Gallbladder disease ([page 329](#page-329))
 
-• History of stroke (p. 327).
+• History of stroke ([page 327](#page-327)).
 
 • A blood clot in a vein (this usually causes heat and pain in one leg)
 
-• Liver disease or hepatitis (p. 172 and p. 328)
+• Liver disease or hepatitis ([page 172](#page-172) and [page 328](#page-328))
 
-Most women with any of these health problems can safely use the progestin-only minipill (p. 394) or birth control implants or injections (p. 396). Women with varicose veins that are not inflamed can usually take birth control pills without problems. But they should stop taking them if the veins become inflamed.
+Most women with any of these health problems can safely use the progestin-only minipill ([page 394](#page-394)) or birth control implants or injections ([page 396](#page-396)). Women with varicose veins that are not inflamed can usually take birth control pills without problems. But they should stop taking them if the veins become inflamed.
 
 ## warning signs for problems with combined pills
 
@@ -368,7 +368,7 @@ If you have any of these problems, pregnancy can also be dangerous, so use anoth
 
 Just like the minipill, implants contain only progestin and can be used by women who cannot use estrogen, or by breastfeeding mothers who have not had monthly bleeding since giving birth.
 
-Women who should not use any type of birth control pill should not use implants either (see p. 289). Implants do not protect against HIV and other STIs.
+Women who should not use any type of birth control pill should not use implants either (see [page 289](#page-289)). Implants do not protect against HIV and other STIs.
 
 Implants are small plastic tubes placed under the skin on the inside of a woman’s arm.
 
@@ -376,11 +376,11 @@ They prevent pregnancy for 3 to 5 years, depending on the type of implant. Impla
 
 ## Birth Control Injections
 
-Like the pill, some injections are progestin-only and some are a combination of estrogen and progestin. Women who should not take any type of pill should not use injections either (see p. 289).
+Like the pill, some injections are progestin-only and some are a combination of estrogen and progestin. Women who should not take any type of pill should not use injections either (see [page 289](#page-289)).
 
 Both types of injection are usually given by a health worker. These injections do not protect against HIV and other STIs.
 
-Combined injections, such as Cyclofem and Mesigyna, are given once a month. Women who should not use estrogen should avoid these (see p. 289).
+Combined injections, such as Cyclofem and Mesigyna, are given once a month. Women who should not use estrogen should avoid these (see [page 289](#page-289)).
 
 Progestin-only injections, such as Depo Provera and Noristerat are given every 2 or 3 months. See page 396.
 
@@ -400,7 +400,7 @@ An IUD (Intra-Uterine Device) is a small plastic, or plastic and copper, object 
 
 Spermicides are foam, tablets, cream, jelly, or flat strips that dissolve in the vagina and kill sperm so they cannot fertilize an egg. Spermicide is put into the vagina just before having sex.
 
-It does not work well by itself, but gives extra protection against pregnancy when used with a condom or a diaphragm. Spermicide does not protect against STIs or HIV. See page 395. If used frequently it can irritate the vagina, making it easier for the woman to get an infection, including HIV.
+It does not work well by itself, but gives extra protection against pregnancy when used with a condom or a diaphragm. Spermicide does not protect against STIs or HIV. See [page 395](#page-395). If used frequently it can irritate the vagina, making it easier for the woman to get an infection, including HIV.
 
 
 
@@ -491,7 +491,7 @@ Boil a small sponge or piece of soft fabric to kill any germs in it. Then soak i
 
 # THESE METHODS DO NOT PREVENT PREGNANCY
 
-**Urinating (peeing)** after sex is not harmful, but it won’t prevent pregnancy. Urine does not wash semen out of the vagina, because it comes out of a different hole (see p. 286).
+**Urinating (peeing)** after sex is not harmful, but it won’t prevent pregnancy. Urine does not wash semen out of the vagina, because it comes out of a different hole (see [page 286](#page-286)).
 
 **Washing out the vagina (douching)** after having sex doesn’t work either. Sperm move very fast and some will reach the inside of the womb before they can be washed out. Douching can even push sperm up into the womb.
 

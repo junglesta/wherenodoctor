@@ -38,7 +38,7 @@ _“This child has a sweet tooth,  but soon he’ll have no more” (no more tee
 
 **CAUTION**: Fluoride is poisonous if more than a small amount is swallowed. Use with care and keep it out of the reach of children. Before adding fluoride to drinking water, try to get the water tested to see how much fluoride is needed.
 
-**4.Do not bottle feed older babies.** Continual sucking on a bottle bathes the baby’s teeth in sweet liquid and causes early decay. (It is best not to bottle feed at all. See p. 271.)
+**4.Do not bottle feed older babies.** Continual sucking on a bottle bathes the baby’s teeth in sweet liquid and causes early decay. (It is best not to bottle feed at all. See [page 271](#page-271).)
 
 # A TOOTHBRUSH IS NOT NECESSARY
 
@@ -70,7 +70,7 @@ To calm the pain:
 
   - Take a pain medicine like aspirin.
 
-  - If the tooth infection is severe (swelling, pus, large tender lymph nodes), use an antibiotic: tablets of penicillin (p. 351), amoxicillin, or ampicillin (p. 352). People allergic to medicines in the penicillin family can take erythromycin (p. 354).
+  - If the tooth infection is severe (swelling, pus, large tender lymph nodes), use an antibiotic: tablets of penicillin ([page 351](#page-351)), amoxicillin, or ampicillin ([page 352](#page-352)). People allergic to medicines in the penicillin family can take erythromycin ([page 354](#page-354)).
 
 If the pain and swelling do not go away or keep coming back, the tooth should probably be pulled.
 
@@ -93,9 +93,9 @@ Inflamed (red and swollen), painful gums that bleed easily are caused by:
 
   - Eat protective foods rich in vitamins, especially eggs, meat, beans, dark green vegetables, and fruits like oranges, lemons, and tomatoes (see Chapter 11). Avoid sweet, sticky, and stringy foods that get stuck between the teeth.
 
-**Note:** Sometimes medicines for seizures (epilepsy), such as phenytoin (Dilantin), cause swelling and unhealthy growth of the gums (see p. 389). If this happens, consult a health worker and consider using a different medicine.
+**Note:** Sometimes medicines for seizures (epilepsy), such as phenytoin (Dilantin), cause swelling and unhealthy growth of the gums (see [page 389](#page-389)). If this happens, consult a health worker and consider using a different medicine.
 
-4. Do not bottle feed older babies. Continual sucking on a bottle bathes the baby’s teeth in sweet liquid and causes early decay. (It is best not to bottle feed at all. See p. 271.)
+4. Do not bottle feed older babies. Continual sucking on a bottle bathes the baby’s teeth in sweet liquid and causes early decay. (It is best not to bottle feed at all. See [page 271](#page-271).)
 
 
 # [230](#page-230)
@@ -142,7 +142,7 @@ If possible, see a dental worker right away, if you go soon enough, he can often
 
   ♦ Take a pain medicine like aspirin.
 
-  ♦ If the tooth infection is severe (swelling, pus, large tender lymph nodes), use an antibiotic: tablets of penicillin (p. 351), amoxicillin, or ampicillin (p. 352). People allergic to medicines in the penicillin family can take erythromycin (p. 354).
+  ♦ If the tooth infection is severe (swelling, pus, large tender lymph nodes), use an antibiotic: tablets of penicillin ([page 351](#page-351)), amoxicillin, or ampicillin ([page 352](#page-352)). People allergic to medicines in the penicillin family can take erythromycin ([page 354](#page-354)).
 
 If the pain and swelling do not go away or keep coming back, the tooth should probably be pulled.
 
@@ -168,7 +168,7 @@ Inflamed (red and swollen), painful gums that bleed easily are caused by:
 
 **Note:**
 
-Sometimes medicines for seizures (epilepsy), such as phenytoin (Dilantin), cause swelling and unhealthy growth of the gums (see p. 389). If this happens, consult a health worker and consider using a different medicine.
+Sometimes medicines for seizures (epilepsy), such as phenytoin (Dilantin), cause swelling and unhealthy growth of the gums (see [page 389](#page-389)). If this happens, consult a health worker and consider using a different medicine.
 
 
 # [232](#page-232)
@@ -185,11 +185,11 @@ Children with these sores should eat foods rich in vitamins and proteins: like m
 
 **The tongue is coated with white ‘fur’.** Many illnesses cause a white or yellowish coating on the tongue and roof of the mouth. This is common when there is a fever. Although this coating is not serious, it helps to rinse the mouth with a solution of warm water with salt and bicarbonate of soda several times a day.
 
-Tiny white spots, like salt grains, in the mouth of a child with fever may be an early sign of measles (p. 311).
+Tiny white spots, like salt grains, in the mouth of a child with fever may be an early sign of measles ([page 311](#page-311)).
 
-**Thrush:** small white patches on the inside of the mouth and tongue that look like milk curds stuck to raw meat. They are caused by a yeast infection (Candida) (see p. 242). Thrush is common in newborn babies, in persons with HIV, and in persons using certain antibiotics, especially tetracycline or ampicillin.
+**Thrush:** small white patches on the inside of the mouth and tongue that look like milk curds stuck to raw meat. They are caused by a yeast infection (Candida) (see [page 242](#page-242)). Thrush is common in newborn babies, in persons with HIV, and in persons using certain antibiotics, especially tetracycline or ampicillin.
 
-Unless it is very important to keep taking the antibiotic, stop taking it. Use nystatin (p. 372) or paint the inside of the mouth with gentian violet. Eating yogurt may also help. In very severe cases, or if thrush moves into the throat and makes it hard to swallow, consult a health worker.
+Unless it is very important to keep taking the antibiotic, stop taking it. Use nystatin ([page 372](#page-372)) or paint the inside of the mouth with gentian violet. Eating yogurt may also help. In very severe cases, or if thrush moves into the throat and makes it hard to swallow, consult a health worker.
 
 A stronger medicine may be needed.
 
@@ -201,8 +201,8 @@ Small painful blisters on lips (or genitals) that break and form scabs. May appe
 
 They heal after 1 or 2 weeks. Holding ice on the sores for several minutes, several times a day may help them to heal faster.
 
-Putting alum, camphor, or bitter plant juices (such as Cardon cactus, p. 13) on them may help.
+Putting alum, camphor, or bitter plant juices (such as Cardon cactus, [page 13](#page-13)) on them may help.
 
-Taking acyclovir (p. 373) can make cold sores less painful. For information about herpes on the genitals, see p. 402.
+Taking acyclovir ([page 373](#page-373)) can make cold sores less painful. For information about herpes on the genitals, see [page 402](#page-402).
 
 For more information on caring for the teeth and gums, see _Where There Is No Dentist_, also available from Hesperian.

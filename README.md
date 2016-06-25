@@ -11,13 +11,13 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # Status
 
-- **Many chapters to be completed**
+- **Many chapters to be checked**
 
 - **Chapters with full text and page no.s:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, greenpages, yellowpages, additional informations, brownpages, content, introduction,
 
 - **Chapters w/ ok headers and ToC:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, greenpages, additional informations, brownpages, content, introduction,
 
-- **Chapters with all links working:** content, introduction, 16,
+- **Chapters with all links working:**  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, greenpages, content, yellowpages, introduction,
 
 
 # 2do

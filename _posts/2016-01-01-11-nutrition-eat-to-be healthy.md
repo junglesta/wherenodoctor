@@ -264,7 +264,7 @@ Other forms of malnutrition may result when certain vitamins and minerals are mi
 
   • Rickets from lack of vitamin D (see p. 125).
 
-  • Various skin problems, sores on the lips and mouth, or bleeding gums from not eating enough fruits, vegetables, and other foods containing certain vitamins (see p. 208 and 232).
+  • Various skin problems, sores on the lips and mouth, or bleeding gums from not eating enough fruits, vegetables, and other foods containing certain vitamins (see [page 208](#page-208)and 232).
 
   • Anemia in people who do not get enough iron (see p. 124).
 
@@ -839,7 +839,7 @@ Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ul
 
   ♦ Avoid tobacco. Smoking or chewing tobacco increases stomach acid and makes the problem worse.
 
-  ♦ Take antacids. The best, safest antacids contain magnesium and aluminum hydroxide. (See p. 380 for information, dose, and warnings about different antacids.)
+  ♦ Take antacids. The best, safest antacids contain magnesium and aluminum hydroxide. (See [page 380](#page-380)for information, dose, and warnings about different antacids.)
 
   ♦ If the above treatments do not work, you may have an ulcer. Use 2 medicines to treat the bacteria that causes the ulcer: either amoxicillin (p. 352) or tetracycline (p. 355); and metronidazole (p. 368). Also take omeprazole (Prilosec, p. 381) or ranitidine (Zantac, see p. 381) to reduce the production of acid in the stomach. These medicines help to calm the pain and heal the sore.
 

@@ -23,11 +23,11 @@ It can spread through:
 
   - **Using an unsterilized needle or syringe** (or any instrument that pierces or cuts the skin).
 
-  - **Pregnancy**, birth or breastfeeding, which can pass HIV to a baby if the mother is infected. (See p. 398 for information on preventing HIV from spreading this way.)
+  - **Pregnancy**, birth or breastfeeding, which can pass HIV to a baby if the mother is infected. (See [page 398](#page-398) for information on preventing HIV from spreading this way.)
 
   - **Blood transfusions**, if the blood has not been tested to be sure it is free from HIV.
 
-**HIV is not spread through everyday contact** such as shaking hands, hugging, kissing, or living, playing, sleeping, or eating together. Also, it is not spread by food, water, insects, toilet seats, or communion cups. Caring for someone with HIV or AIDS is safe if you follow the advice on p. 401.
+**HIV is not spread through everyday contact** such as shaking hands, hugging, kissing, or living, playing, sleeping, or eating together. Also, it is not spread by food, water, insects, toilet seats, or communion cups. Caring for someone with HIV or AIDS is safe if you follow the advice on [page 401](#page-401).
 
 _IMPORTANT:_ **Someone who looks and feels completely healthy can have, and spread, HIV.** It may take years after the virus enters the body for the first signs of illness to appear. The only way to know for sure whether or not you have HIV is to get an HIV test. These tests are available at many health centers at low or no cost.
 
@@ -56,9 +56,9 @@ If a combination of these 3 signs appears and the person gets sick more and more
 
   - A bad cough that lasts for more than 1 month.
 
-  - Yeast infection in the mouth (‘thrush,’ see p. 232).
+  - Yeast infection in the mouth (‘thrush,’ see [page 232](#page-232)).
 
-  - Swollen lymph nodes, anywhere in the body (see p. 88).
+  - Swollen lymph nodes, anywhere in the body (see [page 88](#page-88)).
 
   - Rashes or painless dark patches on the skin.
 
@@ -66,7 +66,7 @@ If a combination of these 3 signs appears and the person gets sick more and more
 
   - Feels tired all the time.
 
-  - People with HIV are more likely to get TB (p. 179) or shingles (p. 204).
+  - People with HIV are more likely to get TB ([page 179](#page-179)) or shingles ([page 204](#page-204)).
 
 >AIDS was called ‘slim disease’ in Africa because people lost so much weight.
 
@@ -77,21 +77,21 @@ There is still no medicine to cure HIV or AIDS. But medicines called “antiretr
 
 Because people with HIV have difficulty fighting infections, many use cotrimoxazole daily to prevent infections (see page 357). Be sure to treat any problems that occur:
 
-  - For diarrhea, use Rehydration Drink (see p. 152).
+  - For diarrhea, use Rehydration Drink (see [page 152](#page-152)).
 
   - For yeast infection in the mouth (thrush), use gentian violet, nystatin, or miconazole (see pages 232 and 372).
 
-  - For warts, use trichloroacetic acid or podophyllin (see p. 373 and 402).
+  - For warts, use trichloroacetic acid or podophyllin (see [page 373](#page-373) and 402).
 
   - For fever, give lots of fluids, aspirin or acetaminophen, and lower high fever with a cool bath (see pages 75 and 76).
 
   - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages 168 to 171). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages 179 and 180).
 
-  - For itching and rashes, use antihistamines (p. 385) and treat infections (p. 202).
+  - For itching and rashes, use antihistamines ([page 385](#page-385)) and treat infections ([page 202](#page-202)).
 
   - Treat infected wounds and sores (see pages 88 and 89).
 
-  - For shingles, see p. 204.
+  - For shingles, see [page 204](#page-204).
 
 You can also stay as healthy as possible by eating well (see Chapter 11); purifying your drinking water; avoiding alcohol, tobacco, and other drugs; getting enough rest and sleep; and using a condom when having sex.
 
@@ -137,7 +137,7 @@ If they have a lot of fever, diarrhea, or pain, they will need extra help stayin
 
 - Soiled or bloody clothes, bedding, or towels should be handled with care. Wash them in hot soapy water, or add chlorine bleach. Keep separate from other household laundry.
 
-At some point, there is nothing more that can be done to treat a person with AIDS. At home, family and friends can give love and support to help the person prepare for his or her death (see p. 330).
+At some point, there is nothing more that can be done to treat a person with AIDS. At home, family and friends can give love and support to help the person prepare for his or her death (see [page 330](#page-330)).
 
 
 
@@ -151,7 +151,7 @@ A single, painless sore on the genitals may be a sign of syphilis ([see page 237
 
 ## Genital Warts (Venereal warts, Condylomata acuminata)
 
-These warts are caused by a virus that is spread by sexual contact. They look like warts on other parts of the body (see p. 210) but there are usually more of them.
+These warts are caused by a virus that is spread by sexual contact. They look like warts on other parts of the body (see [page 210](#page-210)) but there are usually more of them.
 
 **Signs**
 
@@ -160,11 +160,11 @@ Small, hard, whitish or brownish skin growths that have a rough surface. In men 
 **Treatment**
 
 Apply a small amount of trichloroacetic acid or podophyllin
-(see p. 373) to each wart. (If possible, first apply some Vaseline or other greasy ointment to the skin around each wart to protect the healthy skin.) Podophyllin must be washed off 6 hours later. Several treatments are usually necessary. The warts will slowly shrink and go away, but often return.
+(see [page 373](#page-373)) to each wart. (If possible, first apply some Vaseline or other greasy ointment to the skin around each wart to protect the healthy skin.) Podophyllin must be washed off 6 hours later. Several treatments are usually necessary. The warts will slowly shrink and go away, but often return.
 
 **Prevention:**
 
-The man should wear a condom (see p. 287) during sex if either he or his partner has genital warts.
+The man should wear a condom (see [page 287](#page-287)) during sex if either he or his partner has genital warts.
 
 >Using a condom each time you have sex helps prevent the spread of warts, herpes, chancroid, HIV, and other sexually transmitted infections.
 
@@ -212,7 +212,7 @@ _CAUTION:_ If a woman has herpes sores when she gives birth, her baby can get it
 
   - Give 1 g of azithromycin by mouth in 1 dose, or erythromycin 500 mg by mouth, 4 times daily for 7 days, or ciprofloxacin 500 mg by mouth 2 times a day for 3 days. You can also give ceftriaxone, 250 mg by intramuscular injection, as a single dose. Pregnant women and children should not take ciprofloxacin.
 
-  - Generally, it is best to treat for syphilis at the same time (see p. 237).
+  - Generally, it is best to treat for syphilis at the same time (see [page 237](#page-237)).
 
 
 
@@ -234,7 +234,7 @@ A baby boy is born with a tube of skin (foreskin) covering the ‘head’ of his
 
 However, if the foreskin becomes red, swollen, and so tight that the baby cannot pass urine without pain, this is not normal. Take him to a health worker for a circumcision as soon as possible.
 
-As a family ritual, simple circumcision of a healthy baby boy may be done by a midwife or person with experience. Using a new razor, she cuts off a little of the foreskin beyond the head of the penis. After the cut, there is some bleeding. Hold the penis firmly with a clean cloth, or gauze, for 5 minutes, until the bleeding stops. Some healers use the juice of a plant to help stop the bleeding (see [Aloe Vera p. 13](#page-13)).
+As a family ritual, simple circumcision of a healthy baby boy may be done by a midwife or person with experience. Using a new razor, she cuts off a little of the foreskin beyond the head of the penis. After the cut, there is some bleeding. Hold the penis firmly with a clean cloth, or gauze, for 5 minutes, until the bleeding stops. Some healers use the juice of a plant to help stop the bleeding (see [Aloe Vera [page 13](#page-13)](#page-13)).
 
 If the bleeding does not stop, wash away the clots of blood with clean water, and pinch the end of the foreskin between the fingers with a piece of clean cloth for as long as it takes the bleeding to stop. No medicine is needed.
 
@@ -274,9 +274,9 @@ However, for a baby who is basically healthy, a mother can often provide similar
 
   - While you bathe or rest, ask the father, or another family member, to ‘kangaroo’ the baby.
 
-  - Take the baby to a health worker regularly. Be sure that he gets all his vaccinations (see p. 147).
+  - Take the baby to a health worker regularly. Be sure that he gets all his vaccinations (see [page 147](#page-147)).
 
-  - Give the baby iron and vitamin supplements, especially vitamin D (see p. 392).
+  - Give the baby iron and vitamin supplements, especially vitamin D (see [page 392](#page-392)).
 
 # EAR WAX
 
@@ -321,7 +321,7 @@ Other forms affect mainly the skin (cutaneous leishmaniasis, tropical sore, Delh
 
   - Do this 2 times a day for 10 days. This ‘heat treatment’ often brings a complete cure.
 
-  - If the sore looks infected (red and painful), also give antibiotics (see p. 351).
+  - If the sore looks infected (red and painful), also give antibiotics (see [page 351](#page-351)).
 
 # GUINEA WORM
 
@@ -348,7 +348,7 @@ Guinea worm is spread from person to person, like this:
 
   - After a week a blister forms, which soon bursts open forming a sore. This often happens when standing in water, or bathing. The end of a white thread-like Guinea worm can be seen poking out of the sore.
 
-  - If the sore gets dirty and infected, the pain and swelling spread, and walking becomes impossible. Sometimes tetanus occurs (see p. 182).
+  - If the sore gets dirty and infected, the pain and swelling spread, and walking becomes impossible. Sometimes tetanus occurs (see [page 182](#page-182)).
 
 
 **Treatment**
@@ -360,9 +360,9 @@ Guinea worm is spread from person to person, like this:
 
   - Give metronidazole or thiabendazole to help reduce discomfort and make it easier to slowly pull out the worm. (The medicines do not kill the worms. For dosages and precautions, see pages 368 and 374.)
 
-  - Give anti-tetanus vaccination (p. 147).
+  - Give anti-tetanus vaccination ([page 147](#page-147)).
 
-  - If sores become infected (spreading pain, redness, swelling, and fever), give penicillin or dicloxacillin or a similar antibiotic (see p. 351).
+  - If sores become infected (spreading pain, redness, swelling, and fever), give penicillin or dicloxacillin or a similar antibiotic (see [page 351](#page-351)).
 
 
 **Prevention**
@@ -414,11 +414,11 @@ In cold climates, or cold, wet or windy weather, persons who are not wearing eno
 
   >WARNING: Do not warm up the person too fast as this could cause heart problems and death.
 
-  - Do all you can to keep the person warm. If it is a child, wrap him inside your clothing against your skin (see ‘Kangarooing’, p. 405). Or sleep with him in your arms. If possible, have someone else lie on the other side. Or put pans of hot coals, or a few small oil lamps under the cot. (But be careful he does not get burned, or too warm.)
+  - Do all you can to keep the person warm. If it is a child, wrap him inside your clothing against your skin (see ‘Kangarooing’, [page 405](#page-405)). Or sleep with him in your arms. If possible, have someone else lie on the other side. Or put pans of hot coals, or a few small oil lamps under the cot. (But be careful he does not get burned, or too warm.)
 
   - Give sweet things to eat and drink like sugar, candy, honey, ripe fruit or juice. If you do not have sweets, give starchy foods like rice, bread, plantain, or potatoes.
 
-  - If the person stops breathing, give mouth-to-mouth breathing (see p. 80). Keep giving mouth-to-mouth breathing for at least 1 hour.
+  - If the person stops breathing, give mouth-to-mouth breathing (see [page 80](#page-80)). Keep giving mouth-to-mouth breathing for at least 1 hour.
 
   If the person stops shivering but still has any of the above signs, or if he is unconscious, his condition is very serious.
 
@@ -435,7 +435,7 @@ Sometimes, especially in cool weather, a baby, sick child, or person who is very
 
 ## Frozen Skin (Frostbite)
 
-In freezing weather, if a person is not dressed warmly enough, her hands, feet, ears, and sometimes face may begin to freeze. Frostbite is very dangerous. If completely frozen, the skin will die and later turn black (p. 213). The part may have to be cut off (amputated).
+In freezing weather, if a person is not dressed warmly enough, her hands, feet, ears, and sometimes face may begin to freeze. Frostbite is very dangerous. If completely frozen, the skin will die and later turn black ([page 213](#page-213)). The part may have to be cut off (amputated).
 
 **Signs of frostbite:**
 
@@ -463,11 +463,11 @@ CAUTION: Do not start treatment for severe frostbite until you are in a place wh
 
   ♦ If the water cools, add more warm water. But take out the person’s hand or foot while you do this. Remember, she cannot feel how hot the water is and you can easily burn her.
 
-  ♦ As it gets warm, the frozen part will become very painful. Give aspirin or codeine (p. 379 and 384).
+  ♦ As it gets warm, the frozen part will become very painful. Give aspirin or codeine ([page 379](#page-379) and 384).
 
   ♦ When it is no longer frozen, the person must stay warm and rest.
 
-  ♦ Be very gentle with the part that was frozen. Treat as you would a severe wound or burn (p. 96). Seek medical help. Sometimes dead parts of the body must be removed through surgery.
+  ♦ Be very gentle with the part that was frozen. Treat as you would a severe wound or burn ([page 96](#page-96)). Seek medical help. Sometimes dead parts of the body must be removed through surgery.
 
 
 # [410](#page-410)
@@ -480,21 +480,21 @@ Blood pressure measurement can be an important skill for health workers and midw
 
   • Pregnant women (see pages 249, 251, and 253).
 
-  • Mothers before and during childbirth (see p. 265).
+  • Mothers before and during childbirth (see [page 265](#page-265)).
 
-  • A person who may be losing a lot of blood from any part of the body, inside or out (see p. 77).
+  • A person who may be losing a lot of blood from any part of the body, inside or out (see [page 77](#page-77)).
 
-  • A person who might be in shock (see p. 77), including allergic shock (see p. 70).
+  • A person who might be in shock (see [page 77](#page-77)), including allergic shock (see [page 70](#page-70)).
 
   • People over 40.
 
-  • People who are too heavy (see p. 126).
+  • People who are too heavy (see [page 126](#page-126)).
 
-  • Anyone with signs of heart trouble (p. 325), stroke (p. 327), difficulty breathing, frequent headaches, swelling, diabetes (p. 127), chronic urinary problems (p. 234), or swollen or painful veins (p. 175).
+  • Anyone with signs of heart trouble ([page 325](#page-325)), stroke ([page 327](#page-327)), difficulty breathing, frequent headaches, swelling, diabetes ([page 127](#page-127)), chronic urinary problems ([page 234](#page-234)), or swollen or painful veins ([page 175](#page-175)).
 
-  • Persons known to have high blood pressure (see p. 125).
+  • Persons known to have high blood pressure (see [page 125](#page-125)).
 
-  • Women taking (or planning to take) birth control pills (see p. 288).
+  • Women taking (or planning to take) birth control pills (see [page 288](#page-288)).
 
 There are 2 kinds of instruments for measuring blood pressure:
 A blood pressure and the older mercury cuff with a gauge, sphygmomanometer, which shows the level of mercury.
@@ -536,7 +536,7 @@ If a person’s blood pressure is 160/110, he has seriously **high blood pressur
 
 If a person regularly has **low blood pressure**, there is no need to worry. In fact, blood pressure on the low side of normal, 90/60 to 110/70, means a person is likely to live long and is less likely to suffer from heart trouble or stroke.
 
-**A sudden drop in blood pressure** is a danger sign, especially if it falls below 60/40. Health workers should watch for any sudden drop in the blood pressure of persons who are losing blood or at risk of shock (see p. 77).
+**A sudden drop in blood pressure** is a danger sign, especially if it falls below 60/40. Health workers should watch for any sudden drop in the blood pressure of persons who are losing blood or at risk of shock (see [page 77](#page-77)).
 
 For more information about blood pressure measurement, see [_Helping Health Workers Learn_](#addresses-for-teaching-materials), Chapter 19.
 
@@ -605,9 +605,9 @@ WARNING: If you use any pesticide, take the following precautions:
 
 **Treatment for pesticide poisoning:**
 
-  ♦ If the person is not breathing, quickly do mouth-to-mouth breathing (see p. 80).
+  ♦ If the person is not breathing, quickly do mouth-to-mouth breathing (see [page 80](#page-80)).
 
-  ♦ Follow instructions on p. 103 to make the person vomit, and to give powdered charcoal (or egg whites) to soak up the poison inside the gut. But do not make the person vomit if you do not know what kind of pesticide he was using, or if he swallowed a pesticide with gasoline, kerosene, xylene, or other ‘petroleum-based’ liquids.
+  ♦ Follow instructions on [page 103](#page-103) to make the person vomit, and to give powdered charcoal (or egg whites) to soak up the poison inside the gut. But do not make the person vomit if you do not know what kind of pesticide he was using, or if he swallowed a pesticide with gasoline, kerosene, xylene, or other ‘petroleum-based’ liquids.
 
   ♦ Remove any pesticide-soaked clothing, and wash skin exposed to pesticide.
 
@@ -642,22 +642,22 @@ Methods for ending a pregnancy such as putting sticks or other hard objects into
 
   • heavy bleeding from the vagina
 
-If you see these signs in a woman who may have been pregnant, they could be the result of an abortion. But they could also be signs of miscarriage (p. 281), ectopic pregnancy (p. 280), or pelvic inflammatory disease (p. 243).
+If you see these signs in a woman who may have been pregnant, they could be the result of an abortion. But they could also be signs of miscarriage ([page 281](#page-281)), ectopic pregnancy ([page 280](#page-280)), or pelvic inflammatory disease ([page 243](#page-243)).
 
 Some women with problems following an abortion go for medical help, but
 are afraid or ashamed to tell what really happened. Others may be too afraid or embarrassed even to seek medical help, especially if the abortion was secret or illegal. They may wait until they are very sick.
 
 This delay could be fatal. Heavy bleeding (more than with a normal period) or infection following an abortion is dangerous. Get medical help right away! Meanwhile, do the following:
 
-  ♦ Try to control bleeding. Follow instructions on p. 266 for bleeding after miscarriage. Give misoprostol, oxytocin, or ergometrine (see pages 390 and 391).
+  ♦ Try to control bleeding. Follow instructions on [page 266](#page-266) for bleeding after miscarriage. Give misoprostol, oxytocin, or ergometrine (see pages 390 and 391).
 
-  ♦ Treat for shock (see p. 77).
+  ♦ Treat for shock (see [page 77](#page-77)).
 
-  ♦ If there are signs of infection, give antibiotics as for Childbirth Fever (see p. 276).
+  ♦ If there are signs of infection, give antibiotics as for Childbirth Fever (see [page 276](#page-276)).
 
 **To prevent illness and death from abortion:**
 
-  ♦ Give antibiotics (ampicillin, p. 353, or tetracycline, p. 355) after any abortion, whether done at home or in a health center. This reduces the risk of infections and dangerous complications.
+  ♦ Give antibiotics (ampicillin, [page 353](#page-353), or tetracycline, [page 355](#page-355)) after any abortion, whether done at home or in a health center. This reduces the risk of infections and dangerous complications.
 
   ♦ Prevent unwanted pregnancy. Birth control methods should be available to both women and men (see Chapter 20).
 
@@ -694,7 +694,7 @@ drugs create different effects on the body and mind. Cocaine or kolanuts may mak
 >WARNING: Use of cigarettes, alcohol, or other drugs by pregnant women can harm their unborn child.  
 Also, injecting drugs using the same needle for more than one person spreads dangerous diseases.
 
-See hepatitis (p. 172) and HIV and AIDS (p. 399).
+See hepatitis ([page 172](#page-172)) and HIV and AIDS ([page 399](#page-399)).
 
 
 >Drug dependence can cause: self-neglect, family problems, aggression,
@@ -708,7 +708,7 @@ Here are a few suggestions to help solve the problem of drug use and addiction:
 
 ♦ Be as helpful and supportive as possible to someone trying to overcome drug use. Remember that their difficult moods are because of their addiction, not because of you.
 
-♦ Members of the community who have been addicted to drugs but have overcome the habit can form a ‘support group’ to help others trying to give up alcohol or drugs. Alcoholics Anonymous is one such organization (see p. 429). This group of recovering alcoholics has successfully helped people all over the world to deal with problems of addiction.
+♦ Members of the community who have been addicted to drugs but have overcome the habit can form a ‘support group’ to help others trying to give up alcohol or drugs. Alcoholics Anonymous is one such organization (see [page 429](#page-429)). This group of recovering alcoholics has successfully helped people all over the world to deal with problems of addiction.
 
 ♦ Families, schools, and health workers can tell children about the dangers of cigarettes, alcohol, and drugs. Help children learn that there are other, healthier ways to ‘feel good’, to act ‘grown up’, or to rebel.
 

@@ -42,25 +42,25 @@ _Note:_ Some health workers and many doctors give medicines when none is needed,
 
 Here is a list of the most common and dangerous errors people make in using modern medicines. The improper use of the following medicines causes many deaths each year. BE CAREFUL!
 
-## 1. Chloramphenicol (Chloromycetin) (p. 356)
+## 1. Chloramphenicol (Chloromycetin) ([page 356](#page-356))
 
-The popular use of this medicine for simple diarrhea and other mild sicknesses is extremely unfortunate, because it is so risky. Use chloramphenicol only for very severe illnesses, like typhoid (see p. 188). Never give it to babies younger than 1 month old.
+The popular use of this medicine for simple diarrhea and other mild sicknesses is extremely unfortunate, because it is so risky. Use chloramphenicol only for very severe illnesses, like typhoid (see [page 188](#page-188)). Never give it to babies younger than 1 month old.
 
-## 2. Oxytocin (Pitocin), Ergonovine (Ergotrate), and Misoprostol (Cytotec) (p. 390-391)
+## 2. Oxytocin (Pitocin), Ergonovine (Ergotrate), and Misoprostol (Cytotec) ([page 390](#page-390))
 
-Unfortunately, some midwives use these medicines to speed up childbirth or ‘give strength’ to the mother in labor. This practice is very dangerous. It can kill the mother or the child. Use these medicines only to control bleeding after the child is born (see p. 266).
+Unfortunately, some midwives use these medicines to speed up childbirth or ‘give strength’ to the mother in labor. This practice is very dangerous. It can kill the mother or the child. Use these medicines only to control bleeding after the child is born (see [page 266](#page-266)).
 
 ## 3. Injections of any medicine
 
-The common belief that injections are usually better than medicine taken by mouth is not true. Many times medicines taken by mouth work as well as or better than injections. Also, most medicine is more dangerous injected than when taken by mouth. Injections given to a child who has a mild polio infection (with only signs of a cold) can lead to paralysis (see p. 74). Use of injections should be very limited (read Chapter 9 carefully).
+The common belief that injections are usually better than medicine taken by mouth is not true. Many times medicines taken by mouth work as well as or better than injections. Also, most medicine is more dangerous injected than when taken by mouth. Injections given to a child who has a mild polio infection (with only signs of a cold) can lead to paralysis (see [page 74](#page-74)). Use of injections should be very limited (read Chapter 9 carefully).
 
-## 4. Penicillin (p. 350)
+## 4. Penicillin ([page 350](#page-350))
 
-Penicillin works only against certain types of infections. Use of penicillin for sprains, bruises, or any pain or fever is a great mistake. As a general rule, injuries that do not break the skin, even if they make large bruises, have no danger of infection; they do not need to be treated with penicillin or any other antibiotic. Neither penicillin nor other antibiotics helps colds (see p. 163).
+Penicillin works only against certain types of infections. Use of penicillin for sprains, bruises, or any pain or fever is a great mistake. As a general rule, injuries that do not break the skin, even if they make large bruises, have no danger of infection; they do not need to be treated with penicillin or any other antibiotic. Neither penicillin nor other antibiotics helps colds (see [page 163](#page-163)).
 
-Penicillin is dangerous for some people. Before using it, know its risks and the precautions you must take, see pages 70 and 350.
+Penicillin is dangerous for some people. Before using it, know its risks and the precautions you must take, see [page 70](#page-70) and [page 350](#page-350).
 
-## 5. Gentamicin  (Garamycin) (p. 358)
+## 5. Gentamicin  (Garamycin) ([page 358](#page-358))
 
 Too much use of this antibiotic for babies has caused permanent hearing loss (deafness) in millions of babies. Give to babies only for life-threatening infections. For many infections of the newborn, ampicillin works as well and is much less dangerous.
 
@@ -70,7 +70,7 @@ Too much use of this antibiotic for babies has caused permanent hearing loss (de
 
 
 
-## 6. Anti-diarrhea medicines with hydroxyquinolines (Clioquinol, di-iodohydroxyquinoline, halquinol, broxyquinoline: Diodoquin, Enteroquinol, Amicline, Quogyl, and many other brand names) (p. 369)
+## 6. Anti-diarrhea medicines with hydroxyquinolines (Clioquinol, di-iodohydroxyquinoline, halquinol, broxyquinoline: Diodoquin, Enteroquinol, Amicline, Quogyl, and many other brand names) ([page 369](#page-369))
 
 In the past clioquinols were widely used to treat diarrhea. These dangerous medicines are now prohibited in many countries, but in others are still sold. They can cause permanent paralysis, blindness, and even death. For treatment of diarrhea, see Chapter 13.
 
@@ -84,33 +84,33 @@ Anabolic steroids are made from male hormones and are mistakenly used in tonics 
 
 ## 9. Arthritis medicines (Butazones: oxyphenbutazone, Amidozone; and phenylbutazone, Butazolidin)
 
-These medicines for joint pain (arthritis) can cause a dangerous, sometimes deadly, blood disease (agranulocytosis). They can also damage the stomach, liver, and kidneys. Do not use these dangerous medicines. For arthritis, aspirin (p. 378) or ibuprofen (p. 379) is much safer and cheaper. For pain and fever only, acetaminophen (p. 379) can be used.
+These medicines for joint pain (arthritis) can cause a dangerous, sometimes deadly, blood disease (agranulocytosis). They can also damage the stomach, liver, and kidneys. Do not use these dangerous medicines. For arthritis, aspirin ([page 378](#page-378)) or ibuprofen ([page 379](#page-379)) is much safer and cheaper. For pain and fever only, acetaminophen ([page 379](#page-379)) can be used.
 
-## 10. Vitamin B12, liver extract, and iron injections (p. 392)
+## 10. Vitamin B12, liver extract, and iron injections ([page 392](#page-392))
 
-Vitamin B12 and liver extract do not help anemia or ‘weakness’ except in rare cases. Also, they have certain risks when injected. They should only be used when a specialist has prescribed them after testing the blood. Also, avoid injectable iron, such as Imferon. To combat anemia, iron pills are safer and work as well (see p. 124).
+Vitamin B12 and liver extract do not help anemia or ‘weakness’ except in rare cases. Also, they have certain risks when injected. They should only be used when a specialist has prescribed them after testing the blood. Also, avoid injectable iron, such as Imferon. To combat anemia, iron pills are safer and work as well (see [page 124](#page-124)).
 
 
 # [52](#page-52)
 {:.no_toc}
 
-## 11. Other vitamins (p. 391)
+## 11. Other vitamins ([page 391](#page-391))
 
 As a general rule, DO NOT INJECT VITAMINS. Injections are more dangerous, more
 expensive, and usually no more effective than pills.
 Unfortunately, many people waste their money on syrups, tonics, and ‘elixirs’
-that contain vitamins. Many lack the most important vitamins (see p. 118). But even when they contain them, it is wiser to buy more and better food. Body-building and protective foods like beans, eggs, meat, fruit, vegetables, and whole grains are rich in vitamins and other nutrients (see p. 111). Giving a thin, weak person good food more often will usually help him far more than giving him vitamin and mineral supplements.
+that contain vitamins. Many lack the most important vitamins (see [page 118](#page-118)). But even when they contain them, it is wiser to buy more and better food. Body-building and protective foods like beans, eggs, meat, fruit, vegetables, and whole grains are rich in vitamins and other nutrients (see [page 111](#page-111)). Giving a thin, weak person good food more often will usually help him far more than giving him vitamin and mineral supplements.
 
 THE BEST WAY TO GET VITAMINS:
 
-For more information about vitamins, when they are necessary, and the foods that have them, read Chapter 11, especially pages 111 and 118.
+For more information about vitamins, when they are necessary, and the foods that have them, read Chapter 11, especially [page 111](#page-111) and [page 118](#page-118).
 
 ## 12. Combination medicines
 
 Sometimes, 2 or more medicines are combined in the same pill or tonic. Usually they are less effective, and more expensive, when prepared this way. Sometimes they do more harm than good. If someone wants to prescribe combination medicines, ask him or her to prescribe only the medicine that is really necessary.
 
 Do not waste your money on unnecessary medicines.
-Some medicines for HIV come in combination pills (see p. 397). This makes them easier to take.
+Some medicines for HIV come in combination pills (see [page 397](#page-397)). This makes them easier to take.
 Some common combination medicines that should be avoided are:
 
   • cough medicines which contain medicines both to suppress a cough and also to get rid of mucus. (Cough medicines are almost always useless and a waste of money, whether or not they combine medicines.)
@@ -139,9 +139,9 @@ In some areas, persons who are anemic or very weak spend their last penny to hav
 
 Also when a person who is not well trained puts the I.V. solution into a vein, there is danger of an infection entering the blood. This can kill the sick person.
 
-Intravenous solution should be used only when a person can take nothing by mouth, or when she is badly dehydrated (see p. 151).
+Intravenous solution should be used only when a person can take nothing by mouth, or when she is badly dehydrated (see [page 151](#page-151)).
 
-If the sick person can swallow, give her a liter of water with sugar (or cereal) and salt (see Rehydration Drink, p. 152). It will do as much for her as injecting a liter of I.V. solution. For people who are able to eat, nutritious foods do more to strengthen them than any type of I.V. fluid.
+If the sick person can swallow, give her a liter of water with sugar (or cereal) and salt (see Rehydration Drink, [page 152](#page-152)). It will do as much for her as injecting a liter of I.V. solution. For people who are able to eat, nutritious foods do more to strengthen them than any type of I.V. fluid.
 
 If a sick person is able to swallow and keep down liquids . . .
 
@@ -155,15 +155,15 @@ Many people have beliefs about things they should not do or eat when taking medi
 
 In truth, no medicine causes harm just because it is taken with certain foods, whether pork, chili pepper, guava, oranges, or any other food.
 
-But foods with lots of grease or spices can make problems of the stomach or gut worse, whether or not any medicine is being taken (see p. 128).
+But foods with lots of grease or spices can make problems of the stomach or gut worse, whether or not any medicine is being taken (see [page 128](#page-128)).
 
-Certain medicines will cause bad reactions if a person drinks alcohol (see metronidazole, p. 368).
+Certain medicines will cause bad reactions if a person drinks alcohol (see metronidazole, [page 368](#page-368)).
 
 There are situations when, without a doubt, **it is best no to use** certain medicines:
 
 ## Pregnant women
 
-1. Pregnant women or women who are breastfeeding should avoid all medicines that are not absolutely necessary. (However, they can take limited amounts of vitamins or iron pills without danger. Also, pregnant or breastfeeding women with HIV should take medicines to prevent spreading HIV to the baby, see p. 398.)
+1. Pregnant women or women who are breastfeeding should avoid all medicines that are not absolutely necessary. (However, they can take limited amounts of vitamins or iron pills without danger. Also, pregnant or breastfeeding women with HIV should take medicines to prevent spreading HIV to the baby, see [page 398](#page-398).)
 
 ## Newborn children
 
@@ -171,20 +171,20 @@ There are situations when, without a doubt, **it is best no to use** certain med
 
 ## A person who's allergic
 
-3. A person who has ever had any sort of allergic reaction ,  hives, itching, etc. ,  after taking penicillin, ampicillin, a sulfonamide, or other medicines, **should never use that medicine again for the rest of his life** because it would be dangerous (see Dangerous reactions from injections of certain medicines, p. 70).
+3. A person who has ever had any sort of allergic reaction ,  hives, itching, etc. ,  after taking penicillin, ampicillin, a sulfonamide, or other medicines, **should never use that medicine again for the rest of his life** because it would be dangerous (see Dangerous reactions from injections of certain medicines, [page 70](#page-70)).
 
 ## Persons who have stomach ulcers or heartburn
 
-4. Persons who have stomach ulcers or heartburn should avoid medicines that contain aspirin. Most painkillers, and all steroids (see p. 51) make ulcers and acid indigestion worse. One painkiller that does not irritate the stomach is acetaminophen (paracetamol, see p. 379).
+4. Persons who have stomach ulcers or heartburn should avoid medicines that contain aspirin. Most painkillers, and all steroids (see [page 51](#page-51)) make ulcers and acid indigestion worse. One painkiller that does not irritate the stomach is acetaminophen (paracetamol, see [page 379](#page-379)).
 
 ## Persons who have specific illness
 
 5. There are some medicines that are harmful or dangerous to take when you have a specific illness.
 
-For example, persons with hepatitis should not be treated with certain antibiotics or other strong medicines, because their liver is damaged, and the medicines are more likely to poison the body (see p. 172).
+For example, persons with hepatitis should not be treated with certain antibiotics or other strong medicines, because their liver is damaged, and the medicines are more likely to poison the body (see [page 172](#page-172)).
 
 ## Persons who are dehydrated or have disease of the kidneys
 
 6. Persons who are dehydrated or have disease of the kidneys should be especially careful with medicines they take. Do not give more than one does of a medicine that could poison the body unless (or until) the person is urinating normally.
 
-For example, if a child has high fever and is dehydrated (see p. 76), do not give him more than one dose of acetaminophen or aspirin until he begins to urinate. **Never give sulfa to a person who is dehydrated.**
+For example, if a child has high fever and is dehydrated (see [page 76](#page-76)), do not give him more than one dose of acetaminophen or aspirin until he begins to urinate. **Never give sulfa to a person who is dehydrated.**

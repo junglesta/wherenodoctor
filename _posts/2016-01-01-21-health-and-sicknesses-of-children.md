@@ -67,7 +67,7 @@ Vaccinations protect children against many of the most dangerous diseases of chi
 
 Children should be given the different vaccinations at different ages, as shown on page 147. Polio vaccines should be first given if possible at birth, but no later than 2 months of age, because the risk of developing infantile paralysis (polio) is highest in babies under 1 year old.
 
-Tetanus of the newborn can be prevented by vaccinating mothers against tetanus during pregnancy (see p. 250).
+Tetanus of the newborn can be prevented by vaccinating mothers against tetanus during pregnancy (see [page 250](#page-250)).
 
 >Be sure your children get all the vaccinations they need.
 
@@ -86,7 +86,7 @@ A good way to check whether a child is healthy and is getting enough nutritious 
 
 When used well, the charts tell mothers and health workers when a child is not growing normally, so they can take early action. They can make sure the child gets more to eat, and can check for and treat any illness the child may have.
 
-On the next page is a typical Child Health Chart showing the ‘road to health’. This chart can be cut out and copied. Or larger, ready-made cards can be obtained (in English, Spanish, Portuguese, or Zulu) from Teaching Aids at Low Cost (TALC, see p. 431 for address). Similar charts are produced in local languages by the Health Departments in many countries.
+On the next page is a typical Child Health Chart showing the ‘road to health’. This chart can be cut out and copied. Or larger, ready-made cards can be obtained (in English, Spanish, Portuguese, or Zulu) from Teaching Aids at Low Cost (TALC, see [page 431](#page-431) for address). Similar charts are produced in local languages by the Health Departments in many countries.
 
 It is a good idea for every mother to keep a Child Health Chart for each of her children under 5 years of age. If there is a health center or ‘under-fives clinic’ nearby, she should take her children, with their charts, to be weighed and to have a ‘check-up’ each month. The health worker can help explain the Chart and its use. To protect the Chart, keep it in a plastic envelope.
 
@@ -113,7 +113,7 @@ You can make a beam scale of dry wood or bamboo. Place all hooks as shown and ha
 
 **DIRECT RECORDING SCALE**
 
-Available from TALC (see p. 431)
+Available from TALC (see [page 431](#page-431))
 
 The growth chart slips in behind the scales so you can mark the child’s weight directly onto the chart.
 
@@ -314,7 +314,7 @@ Child Health Charts are important. **When used correctly, they help mothers know
 
 Many of the sicknesses discussed in other chapters of this book are found in children. Here some of the more frequent problems are reviewed in brief. For more information on each problem, see the pages indicated.
 
-For special care and problems of newborn babies, see p. 270 to 275, and p. 405.
+For special care and problems of newborn babies, see [page 270](#page-270) to 275, and [page 405](#page-405).
 
 **Remember:** In children, sicknesses often become serious very quickly. An illness that takes days or weeks to severely harm or kill an adult may kill a small child in hours. So, it is important to **notice early signs of sickness and attend to them right away.**
 
@@ -322,7 +322,7 @@ For special care and problems of newborn babies, see p. 270 to 275, and p. 405.
 
 Many children are malnourished because they do not get enough to eat. Or if they eat mainly foods with a lot of water and fiber in them, like cassava, taro root, or maize gruel, their bellies may get full before they get enough energy food for their bodies’ needs.
 
-Also, some children may lack certain things in their food, like Vitamin A (see p. 226) or iodine (see p. 130). For a fuller discussion of the foods children need, read Chapter 11, especially pages 120 to 122.
+Also, some children may lack certain things in their food, like Vitamin A (see [page 226](#page-226)) or iodine (see [page 130](#page-130)). For a fuller discussion of the foods children need, read Chapter 11, especially pages 120 to 122.
 
 
 
@@ -370,9 +370,9 @@ Malnutrition may cause many different problems in children, including:
 
   • ‘dry eyes’ (xerophthalmia)
 
-  • blindness (p. 226)
+  • blindness ([page 226](#page-226))
 
-Severe forms of general malnutrition are ‘dry malnutrition’ or marasmus, and ‘wet malnutrition’ or kwashiorkor. Their causes and prevention are discussed on p. 112 and 113.
+Severe forms of general malnutrition are ‘dry malnutrition’ or marasmus, and ‘wet malnutrition’ or kwashiorkor. Their causes and prevention are discussed on [page 112](#page-112) and 113.
 
 Signs of malnutrition are often first seen after an acute illness like diarrhea or measles. A child who is sick, or who is getting well after a sickness, has an even greater need for enough good food than a child who is well.
 
@@ -380,15 +380,15 @@ Signs of malnutrition are often first seen after an acute illness like diarrhea 
 
 ## Diarrhea and Dysentery
 
-(For more complete information see p. 153 to 160.)
+(For more complete information see [page 153](#page-153) to 160.)
 
 The greatest danger to children with diarrhea is **dehydration**, or losing too much liquid from the body. The danger is even greater if the child is also vomiting. Give [**Rehydration Drink**](#page-152). If the child is breastfeeding, continue giving breast milk, but give Rehydration Drink also.
 
 The second big danger to children with diarrhea is malnutrition. Give the child nutritious food as soon as he will eat.
 
-## Fever (see p. 75)
+## Fever (see [page 75](#page-75))
 
-In small children, high fever (over 39°) can easily cause seizures. To lower fever, take the clothes off the child. If she is crying and seems unhappy, give her acetaminophen (paracetamol) or ibuprofen in the right dosage (see p. 379), and give her lots of liquids. If she is very hot and shaky, wet her with cool (not cold) water and fan her. Also try to find the cause of the fever and treat it.
+In small children, high fever (over 39°) can easily cause seizures. To lower fever, take the clothes off the child. If she is crying and seems unhappy, give her acetaminophen (paracetamol) or ibuprofen in the right dosage (see [page 379](#page-379)), and give her lots of liquids. If she is very hot and shaky, wet her with cool (not cold) water and fan her. Also try to find the cause of the fever and treat it.
 
 
 
@@ -399,17 +399,17 @@ In small children, high fever (over 39°) can easily cause seizures. To lower fe
 
 
 
-## Seizures (Fits, Convulsions) (see p. 178)
+## Seizures (Fits, Convulsions) (see [page 178](#page-178))
 
 Common causes of seizures or convulsions
-in children are high fever, dehydration, epilepsy, malaria, and meningitis. If fever is high, lower it rapidly (see p. 76). Check for signs of dehydration (p. 151), malaria (p. 186), and meningitis (p. 185).
-Seizures that come suddenly without fever or other signs are probably epilepsy (p. 178), especially if the child seems well between them. Seizures or spasms in which first the jaw and then the whole body become stiff may be tetanus (p. 182).
+in children are high fever, dehydration, epilepsy, malaria, and meningitis. If fever is high, lower it rapidly (see [page 76](#page-76)). Check for signs of dehydration ([page 151](#page-151)), malaria ([page 186](#page-186)), and meningitis ([page 185](#page-185)).
+Seizures that come suddenly without fever or other signs are probably epilepsy ([page 178](#page-178)), especially if the child seems well between them. Seizures or spasms in which first the jaw and then the whole body become stiff may be tetanus ([page 182](#page-182)).
 
-## Meningitis (see p. 185)
+## Meningitis (see [page 185](#page-185))
 
 This dangerous disease may come as a complication of measles, mumps, or another serious illness. Children of mothers who have tuberculosis may get tubercular meningitis. A very sick child who lies with his head tilted way back, whose neck is too stiff to bend forward, and whose body makes strange movements (seizures) may have meningitis.
 
-## Anemia (see p. 124)
+## Anemia (see [page 124](#page-124))
 
 **Common signs in children:**
 
@@ -421,13 +421,13 @@ This dangerous disease may come as a complication of measles, mumps, or another 
 
 **Common causes:**
 
-  • diet poor in iron (p. 124)
+  • diet poor in iron ([page 124](#page-124))
 
-  • chronic gut infections (p. 145)
+  • chronic gut infections ([page 145](#page-145))
 
-  • hookworm (p. 142)
+  • hookworm ([page 142](#page-142))
 
-  • malaria (p. 186)
+  • malaria ([page 186](#page-186))
 
 **Prevention and Treatment:**
 
@@ -440,7 +440,7 @@ This dangerous disease may come as a complication of measles, mumps, or another 
   stools under a microscope. If hookworm eggs are found, treat for hookworm
   (pages 373 to 375).
 
-  ♦ If necessary, give iron salts by mouth (ferrous sulfate, p. 392).
+  ♦ If necessary, give iron salts by mouth (ferrous sulfate, [page 392](#page-392)).
 
 >CAUTION: Do not give iron tablets to a baby or small child. They could poison her. Instead, give iron as a liquid.  
 Or crush a tablet into powder and mix it with food.
@@ -451,12 +451,12 @@ Or crush a tablet into powder and mix it with food.
 {:.no_toc}
 
 
-## Worms and Other Parasites of the Gut (see p. 140)
+## Worms and Other Parasites of the Gut (see [page 140](#page-140))
 
 If one child in the family has worms, all the family should be treated. To prevent worm infections, children should:
 
 
-  ♦ Observe the Guidelines of Cleanliness (p. 133).
+  ♦ Observe the Guidelines of Cleanliness ([page 133](#page-133)).
 
   ♦ Use latrines.
 
@@ -470,13 +470,13 @@ If one child in the family has worms, all the family should be treated. To preve
 
 **Those most common in children include:**
 
-  • scabies (p. 199)
+  • scabies ([page 199](#page-199))
 
   • infected sores and impetigo (pages 201 and 202)
 
-  • ringworm and other fungus infections (p. 205)
+  • ringworm and other fungus infections ([page 205](#page-205))
 
-**To prevent skin problems, observe the Guidelines of Cleanliness (p. 133).**
+**To prevent skin problems, observe the Guidelines of Cleanliness ([page 133](#page-133)).**
 
   ♦ Bathe and delouse children often.
 
@@ -485,19 +485,19 @@ If one child in the family has worms, all the family should be treated. To preve
   ♦ Do not let children with scabies, lice, ringworm, or
   infected sores play or sleep together with other children. Treat them early.
 
-## Pink Eye (Conjunctivitis) (see p. 219)
+## Pink Eye (Conjunctivitis) (see [page 219](#page-219))
 
-Wipe the eyelids clean with a clean wet cloth several times a day. Put an antibiotic eye ointment (p. 378) inside the eyelids 3 or 4 times a day. Do not let a child with pink eye play or sleep with others. If he does not get well in a few days, see a health worker.
+Wipe the eyelids clean with a clean wet cloth several times a day. Put an antibiotic eye ointment ([page 378](#page-378)) inside the eyelids 3 or 4 times a day. Do not let a child with pink eye play or sleep with others. If he does not get well in a few days, see a health worker.
 
-## Colds and the ‘Flu’ (see p. 163)
+## Colds and the ‘Flu’ (see [page 163](#page-163))
 
 The common cold, with runny nose, mild fever, cough, often sore throat, and sometimes diarrhea is a frequent but not a serious problem in children.
 
-Treat with lots of liquids. Give acetaminophen (see p. 379). Let children who want to stay in bed do so. Good food and lots of fruit help children avoid colds and get well quickly.
+Treat with lots of liquids. Give acetaminophen (see [page 379](#page-379)). Let children who want to stay in bed do so. Good food and lots of fruit help children avoid colds and get well quickly.
 
 Penicillin, tetracycline, and other antibiotics do no good for the common cold or ‘flu’. Injections are not needed for colds.
 
-If a child with a cold becomes very ill, with high fever and shallow, rapid breathing, he may be getting pneumonia (see p. 171), and antibiotics should be given. Also watch for an ear infection (next page) or ‘strep throat’ (p. 310).
+If a child with a cold becomes very ill, with high fever and shallow, rapid breathing, he may be getting pneumonia (see [page 171](#page-171)), and antibiotics should be given. Also watch for an ear infection (next page) or ‘strep throat’ ([page 310](#page-310)).
 
 
 # [309](#page-309)
@@ -512,9 +512,9 @@ Ear infections are common in small children. The infection often begins after a 
 **Treatment:**
 
 
-  ♦ An ear infection may be very painful. But if the child is generally healthy, the infection usually goes away on its own. Give acetaminophen (p. 379) for pain.
+  ♦ An ear infection may be very painful. But if the child is generally healthy, the infection usually goes away on its own. Give acetaminophen ([page 379](#page-379)) for pain.
 
-  ♦ If the child is already in poor health, or if the ear infection does not go away after a few days, or if there is pus or blood, give amoxicillin (p. 352) or erythromycin (p. 354). Always give antibiotics to a baby 6 months or younger with an ear infection.
+  ♦ If the child is already in poor health, or if the ear infection does not go away after a few days, or if there is pus or blood, give amoxicillin ([page 352](#page-352)) or erythromycin ([page 354](#page-354)). Always give antibiotics to a baby 6 months or younger with an ear infection.
 
   ♦ Carefully clean pus out of the ear with cotton, but do not plug the ear with cotton, a stick, leaves, or anything else. Children with pus coming from an ear should bathe regularly but should not swim for at least 2 weeks after they are well.
 
@@ -525,7 +525,7 @@ Ear infections are common in small children. The infection often begins after a 
   ♦ Do not bottle feed babies, or if you do, do not let baby feed lying on his back,
   as the milk can go up his nose and lead to an ear infection.
 
-  ♦ When children’s noses are plugged up, use salt drops and suck the mucus out of the nose as described on p. 164.
+  ♦ When children’s noses are plugged up, use salt drops and suck the mucus out of the nose as described on [page 164](#page-164).
 
 **Infection in the ear canal:**
 
@@ -557,7 +557,7 @@ For the sore throat that often comes with the common cold or flu, antibiotics sh
 
 However, one kind of sore throat, called **strep throat**, should be treated with penicillin. It is most common in children and young adults. It usually begins suddenly with severe sore throat and high fever, often without signs of a cold or cough. The back of the mouth and tonsils become very red, and the lymph nodes under the jaw or in the neck may become swollen and tender.
 
-Give penicillin (p. 350) for 10 days. If penicillin is given early and continued for 10 days, there is less danger of getting rheumatic fever. A child with strep throat should eat and sleep far apart from others, to prevent their getting it also.
+Give penicillin ([page 350](#page-350)) for 10 days. If penicillin is given early and continued for 10 days, there is less danger of getting rheumatic fever. A child with strep throat should eat and sleep far apart from others, to prevent their getting it also.
 
 ## Rheumatic Fever
 
@@ -580,9 +580,9 @@ This is a disease of children and young adults. It usually begins 1 to 3 weeks a
   ♦ If you suspect rheumatic fever, see a health worker. There is a risk that the heart may become damaged.
 
 
-  ♦ Give penicillin (see p. 350).
+  ♦ Give penicillin (see [page 350](#page-350)).
 
-  ♦ Take aspirin in large doses (p. 378). A 12-year-old can take up to 2 tablets of 300 mg. 4 times a day. Take them together with milk or food to avoid stomach pain. If the ears begin to ring, take less.
+  ♦ Take aspirin in large doses ([page 378](#page-378)). A 12-year-old can take up to 2 tablets of 300 mg. 4 times a day. Take them together with milk or food to avoid stomach pain. If the ears begin to ring, take less.
 
 **Prevention:**
 
@@ -590,7 +590,7 @@ This is a disease of children and young adults. It usually begins 1 to 3 weeks a
   early with penicillin, for 10 days.
 
   ♦ To prevent return of rheumatic fever, and added
-  heart damage, a child who has once had rheumatic fever should take penicillin for 10 days at the first sign of a sore throat. If he already shows signs of heart damage, he should take penicillin on a regular basis or have monthly injections of benzathine penicillin (p. 351) perhaps for the rest of his life. Follow the advice of an experienced health worker or doctor.
+  heart damage, a child who has once had rheumatic fever should take penicillin for 10 days at the first sign of a sore throat. If he already shows signs of heart damage, he should take penicillin on a regular basis or have monthly injections of benzathine penicillin ([page 351](#page-351)) perhaps for the rest of his life. Follow the advice of an experienced health worker or doctor.
 
 
 # [311](#page-311)
@@ -622,18 +622,18 @@ After the rash appears, the child usually begins to get better. The rash lasts a
 
 **Treatment:**
 
-  ♦ The child should stay in bed, drink lots of liquids, and be given nutritious food. If she cannot swallow solid food, give her liquids like soup. If a baby cannot breastfeed, give breast milk in a spoon (see p. 120).
+  ♦ The child should stay in bed, drink lots of liquids, and be given nutritious food. If she cannot swallow solid food, give her liquids like soup. If a baby cannot breastfeed, give breast milk in a spoon (see [page 120](#page-120)).
 
-  ♦ If possible, give vitamin A to prevent eye damage (p. 391).
+  ♦ If possible, give vitamin A to prevent eye damage ([page 391](#page-391)).
 
   ♦ For fever and discomfort, give acetaminophen (or ibuprofen).
 
-  ♦ If earache develops, give an antibiotic (p. 350).
+  ♦ If earache develops, give an antibiotic ([page 350](#page-350)).
 
   ♦ If signs of pneumonia, meningitis, or severe pain in the ear or stomach
   develop, get medical help.
 
-  ♦ If the child has diarrhea, give Rehydration Drink (p. 152).
+  ♦ If the child has diarrhea, give Rehydration Drink ([page 152](#page-152)).
 
 
 
@@ -669,7 +669,7 @@ The swelling goes away by itself in about 10 days, without need for medicine. Ac
 
 In adults and children over 11 years of age, after the first week there may be pain in the belly or a painful swelling of the testicles in men. Persons with such swelling should stay quiet and put ice packs or cold wet cloths on the swollen parts to help reduce the pain and swelling.
 
-If signs of meningitis or hearing problems appear, get medical help (p. 185).
+If signs of meningitis or hearing problems appear, get medical help ([page 185](#page-185)).
 
 
 
@@ -690,9 +690,9 @@ Whooping cough is **especially dangerous in babies** under 1 year of age, so vac
 
 **Treatment:**
 
-  ♦ Antibiotics are helpful only in the early stage of whooping cough, before the whoop begins. It is especially important to treat babies under 6 months at the first sign. Use erythromycin (p. 354). If you do not have erythromycin, try cotrimoxazole (p. 357), but only use cotrimoxazole for children over 8 weeks old.
+  ♦ Antibiotics are helpful only in the early stage of whooping cough, before the whoop begins. It is especially important to treat babies under 6 months at the first sign. Use erythromycin ([page 354](#page-354)). If you do not have erythromycin, try cotrimoxazole ([page 357](#page-357)), but only use cotrimoxazole for children over 8 weeks old.
 
-  ♦ If the cough causes convulsions, phenobarbital (p. 389) may help.
+  ♦ If the cough causes convulsions, phenobarbital ([page 389](#page-389)) may help.
 
   ♦ If the baby stops breathing after a cough, turn her over and pull the sticky
   mucus from her mouth with your finger. Then slap her on the back with the flat
@@ -703,7 +703,7 @@ Whooping cough is **especially dangerous in babies** under 1 year of age, so vac
 
 **Complications:**
 
-A bright red hemorrhage (bleeding) inside the white of the eyes may be caused by the coughing. No treatment is necessary (see p. 225). If seizures or signs of pneumonia develop (p. 171), get medical help.
+A bright red hemorrhage (bleeding) inside the white of the eyes may be caused by the coughing. No treatment is necessary (see [page 225](#page-225)). If seizures or signs of pneumonia develop ([page 171](#page-171)), get medical help.
 
 
 >Protect all children against whooping cough. See that they are vaccinated at 2, 4, 6, and 18 months of age.
@@ -723,11 +723,11 @@ This begins like a cold with fever, sore throat, and hoarse voice. A yellow-gray
 
   ♦ Get medical help quickly. There is special antitoxin for diphtheria.
 
-  ♦ Give procaine penicillin by injection (p. 352) or give erythromycin (p. 354).
+  ♦ Give procaine penicillin by injection ([page 352](#page-352)) or give erythromycin ([page 354](#page-354)).
 
   ♦ Have him gargle warm water with a little salt.
 
-  ♦ Have him breathe hot water vapors often or continually (p. 168).
+  ♦ Have him breathe hot water vapors often or continually ([page 168](#page-168)).
 
   ♦ Have him sip liquids often, even if it hurts to swallow.
 
@@ -747,7 +747,7 @@ do not help. For early treatment, calm the pain with acetaminophen or ibuprofen 
 
 **Prevention:**
 
-  ♦ Vaccination against polio is the best protection (see p. 147).
+  ♦ Vaccination against polio is the best protection (see [page 147](#page-147)).
 
   ♦ Do not give injections of any medicine to a child if you think his signs of a cold or fever might be caused by the polio virus. Although it happens only rarely, the irritation caused by an injection could turn a mild case of polio without paralysis into a severe case, with paralysis. Never inject children with any medicine unless it is absolutely necessary.
 
@@ -829,12 +829,12 @@ A hydrocele usually goes away in time, without treatment. If it lasts more than 
 
 If light does not shine through, and if the swelling gets bigger when the baby coughs or cries, it is a **hernia.**
 
-A hernia needs surgery (see p. 177).
+A hernia needs surgery (see [page 177](#page-177)).
 
 Sometimes the **hernia** causes a swelling here in either a boy or a girl.
 
 You can tell this from a swollen lymph node
-(p. 88) because the hernia swells when the baby cries or is held upright and disappears when he lies quietly.
+([page 88](#page-88)) because the hernia swells when the baby cries or is held upright and disappears when he lies quietly.
 
 
 
@@ -850,15 +850,15 @@ Sometimes parents will have a child who is born deaf, mentally slow (retarded), 
 However, certain things greatly increase the chance of birth defects. **A baby is less likely to have something wrong if parents take certain precautions.**
 
 1. Lack of nutritious food during pregnancy can cause mental slowness or birth defects in babies.
-**To have healthy babies, pregnant women must eat enough nutritious food** (see p. 110).
+**To have healthy babies, pregnant women must eat enough nutritious food** (see [page 110](#page-110)).
 
 2. Lack of iodine in a pregnant woman’s diet can cause hypothyroidism in her baby. The baby’s face is puffy, and he looks dull. His skin and eyes may remain yellow (jaundiced) for a long time after he is born. His tongue hangs out, and his forehead may be hairy. He is weak, feeds poorly, cries little, and sleeps a lot. He is mentally slow, may be deaf, and usually has an umbilical hernia. He will begin to walk and talk later than normal babies.
 
-**To help prevent hypothyroidism, pregnant women should use iodized salt instead of ordinary salt** (see p. 130).
+**To help prevent hypothyroidism, pregnant women should use iodized salt instead of ordinary salt** (see [page 130](#page-130)).
 
 If you suspect your baby may have hypothyroidism, take him to a health worker or doctor at once. The sooner he gets special medicine (thyroid) the more normal he will be.
 
-3. **Smoking or drinking of alcoholic** drinks during pregnancy causes babies to be born small or to have other problems (see p. 149). Do not drink or smoke, especially during pregnancy.
+3. **Smoking or drinking of alcoholic** drinks during pregnancy causes babies to be born small or to have other problems (see [page 149](#page-149)). Do not drink or smoke, especially during pregnancy.
 
 
 4. **After age 35**, there is more chance that a mother will have a child with defects. Down syndrome, which looks somewhat like hypothyroidism, is more likely to occur in babies of older mothers..
@@ -881,7 +881,7 @@ To lower the chance of these and other problems, do not marry a close relative. 
 
 If your child is born with a birth defect, take him to a health center. Often something can be done.
 
-  ♦ For cross-eyes, see p. 223.
+  ♦ For cross-eyes, see [page 223](#page-223).
 
   ♦ If an extra finger or toe is very small with no bone in it, tie a string around it very tightly.
   It will dry up and fall off. If it is larger or has bone in it, either leave it or have it taken off by surgery.
@@ -892,7 +892,7 @@ If your child is born with a birth defect, take him to a health center. Often so
 
   ♦ If a baby’s lip or the top of his mouth (palate) is divided (cleft), he may have trouble breastfeeding and need to be fed with a spoon or dropper. With surgery, his lip and palate can be made to look almost normal. The best age for surgery is usually at 4 to 6 months for the lip, and at 18 months for the palate.
 
-8. **Difficulties before and during birth** sometimes result in brain damage that causes a child to be spastic or have seizures (fits). The chance of damage is greater if at birth the baby is slow to breathe, or if the midwife injected the mother with medicine to speed up the birth or to ‘give force’ to the mother (p. 266) before the baby was born.
+8. **Difficulties before and during birth** sometimes result in brain damage that causes a child to be spastic or have seizures (fits). The chance of damage is greater if at birth the baby is slow to breathe, or if the midwife injected the mother with medicine to speed up the birth or to ‘give force’ to the mother ([page 266](#page-266)) before the baby was born.
 
 **Be careful in your choice of a midwife, and do not let your midwife use medicines to speed up the birth.**
 
@@ -913,7 +913,7 @@ The brain damage that causes cerebral palsy often results from brain damage at b
 
 There are no medicines that cure the brain damage that makes a child spastic. But the child needs special care. To help prevent tightening of muscles in the legs or in a foot, straighten and bend them **very slowly** several times a day.
 
-Help the child learn to roll over, sit, stand, and if possible to walk (as on p. 314). Encourage him to use both his mind and body as much as he can (see p. 322). Even if he has trouble with speaking he may have a good mind and be able to learn many skills if given a chance. **Help him to help himself.**
+Help the child learn to roll over, sit, stand, and if possible to walk (as on [page 314](#page-314)). Encourage him to use both his mind and body as much as he can (see [page 322](#page-322)). Even if he has trouble with speaking he may have a good mind and be able to learn many skills if given a chance. **Help him to help himself.**
 
 For more information on cerebral palsy, see Disabled Village Children, Chapter 9.
 
@@ -926,7 +926,7 @@ For more information on cerebral palsy, see Disabled Village Children, Chapter 9
 
 3. Use iodized salt instead of regular salt, especially during pregnancy.
 
-4. Do not smoke or drink during pregnancy (see p. 149).
+4. Do not smoke or drink during pregnancy (see [page 149](#page-149)).
 
 5. While pregnant, avoid medicines whenever possible, use only those known to be safe.
 
@@ -934,9 +934,9 @@ For more information on cerebral palsy, see Disabled Village Children, Chapter 9
 
 7. While pregnant, keep away from persons with German measles.
 
-8. Be careful in the selection of a midwife, and do not let the midwife use medicines to speed up the birth or ‘give strength’ to the mother (see p. 266).
+8. Be careful in the selection of a midwife, and do not let the midwife use medicines to speed up the birth or ‘give strength’ to the mother (see [page 266](#page-266)).
 
-9. Do not have more children if you have more than one child with the same birth defect (see Family Planning, p. 283).
+9. Do not have more children if you have more than one child with the same birth defect (see Family Planning, [page 283](#page-283)).
 
 10. Consider not having more children after age 35.
 
@@ -949,7 +949,7 @@ For more information on cerebral palsy, see Disabled Village Children, Chapter 9
 
 Some children who are born healthy do not grow well. Their minds and bodies are slow to develop because they do not eat enough nutritious food. During the first few months of life the brain develops more rapidly than at any other time. For this reason the nutrition of the newborn is of great importance.
 
-Breast milk is the best food for a baby (see The Best Diet for Babies, p. 120).
+Breast milk is the best food for a baby (see The Best Diet for Babies, [page 120](#page-120)).
 
 ## Sickle Cell Disease (Sickle Cell Anemia)
 
@@ -977,9 +977,9 @@ Malaria or other infections can bring on a ‘sickle cell crisis’ with high fe
 
 There is no way to change the weakness in the blood. Protect the child from malaria and other diseases and infections that can bring on a ‘crisis’. Take the child for regular monthly visits to a health worker for an examination and medicines.
 
-  ♦ **Malaria.** In areas where malaria is common, the child should have regular malaria medicines to help prevent the disease (see p. 363). Add to this a daily dose of folic acid (p. 392) to help build up the blood. Iron medicine (ferrous sulfate) is not usually necessary.
+  ♦ **Malaria.** In areas where malaria is common, the child should have regular malaria medicines to help prevent the disease (see [page 363](#page-363)). Add to this a daily dose of folic acid ([page 392](#page-392)) to help build up the blood. Iron medicine (ferrous sulfate) is not usually necessary.
 
-  ♦ **Infections.** The child should be vaccinated against measles, whooping cough, and tuberculosis at the earliest recommended time. If the child shows signs of fever, cough, diarrhea, passing urine too often, or pains in the belly, legs or arms, take him to a health worker as soon as possible. Antibiotics may be necessary. Give plenty of water to drink, and acetaminophen (p. 379) for pain in the bones.
+  ♦ **Infections.** The child should be vaccinated against measles, whooping cough, and tuberculosis at the earliest recommended time. If the child shows signs of fever, cough, diarrhea, passing urine too often, or pains in the belly, legs or arms, take him to a health worker as soon as possible. Antibiotics may be necessary. Give plenty of water to drink, and acetaminophen ([page 379](#page-379)) for pain in the bones.
 
   ♦ **Avoid exposure to cold.** Keep warm with a blanket at night when necessary. Use a foam mattress if possible.
 

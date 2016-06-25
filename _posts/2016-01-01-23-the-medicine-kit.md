@@ -9,8 +9,8 @@ bookpage: 331
 
 Every family and every village should have certain medical supplies ready in case of emergency:
 
-  - The family should have a HOME MEDICINE KIT (see p. 334) with the necessary medicines for first aid, simple infections, and the most common health problems.
-  - The village should have a more complete medical kit (see VILLAGE MEDICINE KIT, p. 336) with supplies necessary to care for day-to-day problems as well as to meet a serious illness or an emergency. A responsible person should be in charge of it, a health worker, teacher, parent, storekeeper, or anyone who can be trusted by the community. If possible, all members of the village should take part in setting up and paying for the medical kit. Those who can afford more should contribute more. But everyone should understand that the medicine kit is for the benefit of all, those who can pay and those who cannot.
+  - The family should have a HOME MEDICINE KIT (see [page 334](#page-334)) with the necessary medicines for first aid, simple infections, and the most common health problems.
+  - The village should have a more complete medical kit (see VILLAGE MEDICINE KIT, [page 336](#page-336)) with supplies necessary to care for day-to-day problems as well as to meet a serious illness or an emergency. A responsible person should be in charge of it, a health worker, teacher, parent, storekeeper, or anyone who can be trusted by the community. If possible, all members of the village should take part in setting up and paying for the medical kit. Those who can afford more should contribute more. But everyone should understand that the medicine kit is for the benefit of all, those who can pay and those who cannot.
 
 On the following pages you will find suggestions for what the medicine kits might contain. You will want to change these lists to best meet the needs and resources
 in your area. Although the list includes mostly modern medicines, important home remedies known to be safe and to work well can also be included.
@@ -195,7 +195,7 @@ Whether these and other medicines are included in the village medical supplies w
 
 # VACCINES
 
-Vaccines have not been included in the Village Medicine Kit because they are usually provided by the Health Department. However, a great effort should be made to see that all children are vaccinated as soon as they are old enough for the different vaccines (see p. 147).
+Vaccines have not been included in the Village Medicine Kit because they are usually provided by the Health Department. However, a great effort should be made to see that all children are vaccinated as soon as they are old enough for the different vaccines (see [page 147](#page-147)).
 
 Therefore, if refrigeration is available, vaccines should be part of the village medical supplies—especially the DPT, polio, tuberculosis, and measles vaccines.
 

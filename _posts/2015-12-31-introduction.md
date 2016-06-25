@@ -6,7 +6,7 @@ style: blue
 bookpage: i0
 ---
 
-This handbook has been written primarily for those who live far from medical centers, in places _Where There Is No Doctor_ .
+This handbook has been written primarily for those who live far from medical centers, in places _Where There Is No Doctor_.
 
 But even where there are doctors, people can and should take the lead in their own health care. So this book is for everyone who cares.
 
@@ -79,9 +79,9 @@ Let us hope that through a more generous sharing of knowledge, and through learn
 
 # Note about this New Edition
 
-In this revised edition of _Where There Is No Doctor_ , we have added new information and updated old information, based on the latest scientific knowledge. Health care specialists from many parts of the world have generously given advice and suggestions.
+In this revised edition of _Where There Is No Doctor_, we have added new information and updated old information, based on the latest scientific knowledge. Health care specialists from many parts of the world have generously given advice and suggestions.
 
-When it would fit without having to change page numbers, we have added new information to the main part of the book. (This way, the numbering stays the same, so that page references in our other books, such as _[_Helping Health Workers Learn_](#addresses-for-teaching-materials)_, will still be correct.)
+When it would fit without having to change page numbers, we have added new information to the main part of the book. (This way, the numbering stays the same, so that page references in our other books, such as _[Helping Health Workers Learn](#addresses-for-teaching-materials)_, will still be correct.)
 
 The **[Additional Information](#page-399)** section at the end of the book (page 399) has information about health problems of growing or special concern: HIV and AIDS, sores on the genitals, leishmaniasis, complications from abortion, guinea worm, and others.
 
@@ -93,7 +93,7 @@ New ideas and information can be found throughout the book—medical knowledge i
 
 • Advice for treatment of **[stomach ulcer](#page-129)** is different nowadays. For years doctors recommended drinking lots of milk. But according to recent studies, it is better to drink lots of water, not milk.
 
-• Knowledge about **s[pecial drinks for diarrhea](#page-152)** (oral rehydration therapy) has also changed. Not long ago experts thought that drinks made with sugar were best. But we now know that drinks made with cereals do more to prevent water loss, slow down diarrhea, and combat malnutrition than do sugar-based drinks or “ORS” packets.
+• Knowledge about **[special drinks for diarrhea](#page-152)** (oral rehydration therapy) has also changed. Not long ago experts thought that drinks made with sugar were best. But we now know that drinks made with cereals do more to prevent water loss, slow down diarrhea, and combat malnutrition than do sugar-based drinks or “ORS” packets.
 
 • A section has been added on **[sterilizing equipment](#page-74)**. This is important to prevent the spread of certain diseases, such as HIV.
 

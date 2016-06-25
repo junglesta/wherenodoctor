@@ -36,7 +36,7 @@ bookpage: 233
   - anus: end of the intestine
   - clitoris: a very sensitive spot that can give sexual pleasure when touched
   - urinary opening: hole where urine comes out
-  - opening to the vagina or birth canal. (For inside view, see p. 280.)
+  - opening to the vagina or birth canal. (For inside view, see [page 280](#page-280).)
 
 
 # PROBLEMS OF THE URINARY TRACT
@@ -96,8 +96,8 @@ Many women suffer from urinary infections. In men they are much less common. Som
 
 ♦ Drink a lot of water. Many minor urinary infections can be cured by simply drinking a lot of water, without the need for medicine. Drink at least 1 glass every 30 minutes for 3 to 4 hours, and get into the habit of drinking lots of water. (But if the person cannot urinate or has swelling of the hands and face, she should not drink much water.)
 
-♦ If the person does not get better by drinking a lot of water, or if she has a fever, she should take cotrimoxazole (p. 357) or amoxicillin (p. 352). Pay careful attention to dosage and precautions. To completely control the infection it
-may be necessary to take the medicine for 10 days. If the infection moves into the kidneys or if these medicines do not work, try ciprofloxacin (p. 358). It is important to drink a lot of water while taking these medicines.
+♦ If the person does not get better by drinking a lot of water, or if she has a fever, she should take cotrimoxazole ([page 357](#page-357)) or amoxicillin ([page 352](#page-352)). Pay careful attention to dosage and precautions. To completely control the infection it
+may be necessary to take the medicine for 10 days. If the infection moves into the kidneys or if these medicines do not work, try ciprofloxacin ([page 358](#page-358)). It is important to drink a lot of water while taking these medicines.
 
 ♦ If the person does not get better quickly, seek medical advice.
 
@@ -115,7 +115,7 @@ may be necessary to take the medicine for 10 days. If the infection moves into t
 
   ♦ The same as for the urinary infections described above.
 
-  ♦ Also give aspirin or another painkiller and an antispasmodic (see p. 380).
+  ♦ Also give aspirin or another painkiller and an antispasmodic (see [page 380](#page-380)).
 
   ♦ If you cannot pass urine, try to do it lying down. This sometimes allows a stone in the bladder to roll back and free the opening to the urinary tube.
 
@@ -136,9 +136,9 @@ This condition is most common in men over 40 years old. It is caused by a swelli
 **Treatment for an enlarged prostate:**
 
 ♦ If the person cannot urinate, he should try sitting in a tub of hot water, like this:
-If this does not work, a catheter may be needed (p. 239).
+If this does not work, a catheter may be needed ([page 239](#page-239)).
 
-♦ If he has a fever, use an antibiotic such as ampicillin (p. 352) or tetracycline (p. 355).
+♦ If he has a fever, use an antibiotic such as ampicillin ([page 352](#page-352)) or tetracycline ([page 355](#page-355)).
 
 ♦ Get medical help. Serious or chronic cases may require surgery.
 Note: Both prostate trouble and gonorrhea (or chlamydia) can also make it hard to pass urine. In older men it is more likely to be an enlarged prostate. However, a younger man, especially one who has recently had sex with a person with gonorrhea or chlamydia, probably has gonorrhea or chlamydia.
@@ -147,7 +147,7 @@ Note: Both prostate trouble and gonorrhea (or chlamydia) can also make it hard t
 
 On the following pages, we discuss some common infections spread by sexual contact (STIs): **gonorrhea**, **chlamydia**, **syphilis**, and **bubos**.
 
-For information on HIV and AIDS and some sexually transmitted infections that cause sores on the genitals (**genital herpes**, **genital warts**, and **chancroid**) see Additional Information, p. 399 to 403.
+For information on HIV and AIDS and some sexually transmitted infections that cause sores on the genitals (**genital herpes**, **genital warts**, and **chancroid**) see Additional Information, [page 399](#page-399) to 403.
 
 # Gonorrhea (clap, VD, the drip) and Chlamydia
 
@@ -155,7 +155,7 @@ For information on HIV and AIDS and some sexually transmitted infections that ca
 
 Gonorrhea and chlamydia can have the same signs, though gonorrhea usually starts sooner and is more painful. Both men and women can have gonorrhea and chlamydia at the same time so it is best to treat for both. If not treated, either gonorrhea or chlamydia can make a man or a woman sterile (unable to have a baby).
 
-If a pregnant woman with gonorrhea or chlamydia is not treated before giving birth, the infection may get in the baby’s eyes and make him blind (see p. 221).
+If a pregnant woman with gonorrhea or chlamydia is not treated before giving birth, the infection may get in the baby’s eyes and make him blind (see [page 221](#page-221)).
 
 _**Signs in the man:**_
 
@@ -165,7 +165,7 @@ _**Signs in the man:**_
 _**Signs in the woman:**_
 
   • Yellow or green discharge from the vagina or anus
-  • Pain in the lower belly (pelvic inflammatory disease, p. 243)
+  • Pain in the lower belly (pelvic inflammatory disease, [page 243](#page-243))
   • Fever
   • Pain during sex
 
@@ -187,20 +187,20 @@ In a man, the first signs begin 2 to 5 days (or up to 3 weeks or more) after sex
 
 **Treatment:**
 
-♦ In the past, gonorrhea was usually treated with penicillin. But now in many areas the disease has become resistant to penicillin, so other antibiotics must be used. It is best to seek local advice about which medicines are effective, available, and affordable in your area. Medicines used to treat gonorrhea and chlamydia are listed on p. 359. If the drip and pain have not gone away in 2 or 3 days after trying a treatment, the gonorrhea could be resistant to the medicine, or the person could have chlamydia.
+♦ In the past, gonorrhea was usually treated with penicillin. But now in many areas the disease has become resistant to penicillin, so other antibiotics must be used. It is best to seek local advice about which medicines are effective, available, and affordable in your area. Medicines used to treat gonorrhea and chlamydia are listed on [page 359](#page-359). If the drip and pain have not gone away in 2 or 3 days after trying a treatment, the gonorrhea could be resistant to the medicine, or the person could have chlamydia.
 
-♦ If a woman has gonorrhea or chlamydia and also has fever and pain in the lower belly, she may have pelvic inflammatory disease (see p. 243).
+♦ If a woman has gonorrhea or chlamydia and also has fever and pain in the lower belly, she may have pelvic inflammatory disease (see [page 243](#page-243)).
 
 ♦ Everyone who has had sex with a person known to have gonorrhea or chlamydia should also be treated, especially wives of men who are infected. Even if the wife shows no signs, she is probably infected.
 If she is not treated at the same time, she will give the disease back to her husband again.
 
-♦ Protect the eyes of all newborn babies from chlamydia and especially gonorrhea, which can cause blindness (see p. 221).
+♦ Protect the eyes of all newborn babies from chlamydia and especially gonorrhea, which can cause blindness (see [page 221](#page-221)).
 
 CAUTION:
 
 A person with gonorrhea or chlamydia may also have syphilis without knowing it. Sometimes it is best to go ahead and give the full treatment for syphilis, because the gonorrhea or chlamydia treatment may prevent the first syphilis symptoms, but may not cure the disease.
 
-For prevention of these and other sexually transmitted infections, see p. 239.
+For prevention of these and other sexually transmitted infections, see [page 239](#page-239).
 
 # Syphilis
 
@@ -208,7 +208,7 @@ Syphilis is a common and dangerous infection that is spread from person to perso
 
 **Signs:**
 
-• The first sign is usually a sore, called a chancre. It appears 2 to 5 weeks after sexual contact with a person who has syphilis. The chancre may look like a pimple, a blister, or an open sore. It usually appears in the genital area of the man or woman (or less commonly on the lips, fingers, anus, or mouth). This sore is full of germs, which are easily passed on to another person. **The sore is usually painless, and if it is inside the vagina, a woman may not know she has it but it can easily spread to other people.** If the sore is painful, it may be chancroid (see p. 403).
+• The first sign is usually a sore, called a chancre. It appears 2 to 5 weeks after sexual contact with a person who has syphilis. The chancre may look like a pimple, a blister, or an open sore. It usually appears in the genital area of the man or woman (or less commonly on the lips, fingers, anus, or mouth). This sore is full of germs, which are easily passed on to another person. **The sore is usually painless, and if it is inside the vagina, a woman may not know she has it but it can easily spread to other people.** If the sore is painful, it may be chancroid (see [page 403](#page-403)).
 
 • The sore lasts only a few days and then goes away by itself without treatment. **But the disease continues spreading through the body.**
 
@@ -219,13 +219,13 @@ Syphilis is a common and dangerous infection that is spread from person to perso
 
 All of these signs usually go away by themselves, making the person think he is well,  but the disease continues. **Without adequate treatment, syphilis can invade any part of the body, causing heart disease, paralysis, insanity, and many other problems.**
 
-**Note:** Yaws shares many of the same signs as syphilis (see p. 202).
+**Note:** Yaws shares many of the same signs as syphilis (see [page 202](#page-202)).
 
 CAUTION: If any strange rash or skin condition shows up days or weeks after a pimple or sore appears on the genitals, it may be syphilis. Get medical advice.
 
 _Treatment for syphilis:_ **(For complete cure, the full treatment is essential.)**
 
-♦ **If signs have been present less than 2 years**, inject 2.4 million units of benzathine penicillin all at once, half the dose in each buttock (see p. 352). If allergic to penicillin, take tetracycline or erythromycin by mouth, 500 mg, 4 times a day for 15 days.
+♦ **If signs have been present less than 2 years**, inject 2.4 million units of benzathine penicillin all at once, half the dose in each buttock (see [page 352](#page-352)). If allergic to penicillin, take tetracycline or erythromycin by mouth, 500 mg, 4 times a day for 15 days.
 
 ♦ **If signs have been present more than 2 years**, inject 2.4 million units of benzathine penicillin, half in each buttock, once a week for 3 weeks, for a total of 7.2 million units. If allergic to penicillin, take either tetracycline or erythromycin, 500 mg, 4 times each day for 30 days.
 
@@ -233,7 +233,7 @@ _Treatment for syphilis:_ **(For complete cure, the full treatment is essential.
 
 ♦ Everyone who has had sexual contact with a person known to have syphilis should also be treated, especially husbands or wives of those known to be infected.
 
-**Note:** Pregnant or breastfeeding women who are allergic to penicillin can take erythromycin in the same dosage as tetracycline (see p. 355).
+**Note:** Pregnant or breastfeeding women who are allergic to penicillin can take erythromycin in the same dosage as tetracycline (see [page 355](#page-355)).
 
 To prevent syphilis, see the next page.
 
@@ -253,7 +253,7 @@ To prevent syphilis, see the next page.
 
   ♦ Avoid sex until the sores are completely healed.
 
-**Note:** Bubos in the groin can also be a sign of chancroid (see p. 403).
+**Note:** Bubos in the groin can also be a sign of chancroid (see [page 403](#page-403)).
 
 
 
@@ -266,7 +266,7 @@ To prevent syphilis, see the next page.
 
 1. **Be careful with whom you have sex**: Someone who has sex with many different persons is more likely to catch these infections. That is why prostitutes are more likely to get an infection and then pass it on. To avoid infection, **always use a condom** or have sex with only one faithful partner.
 
-2. **Get treatment right away:** It is very important that all persons infected with a sexually transmitted infection get treatment at once so that they do not infect other people. Having one STI also makes it easier to become infected with HIV or other STIs. Do not have sex with anyone until 3 days after treatment is finished. (Unfortunately there is still no cure for HIV. See p. 397.)
+2. **Get treatment right away:** It is very important that all persons infected with a sexually transmitted infection get treatment at once so that they do not infect other people. Having one STI also makes it easier to become infected with HIV or other STIs. Do not have sex with anyone until 3 days after treatment is finished. (Unfortunately there is still no cure for HIV. See [page 397](#page-397).)
 
 3. **Tell other people if they need treatment**: When a person finds out that he or she has a sexually transmitted infection, he should tell everyone with whom he has had sex, so that they can get treatment, too. It is especially important that a man tell a woman, because without knowing she has the disease she can pass it on to other people, her babies may become infected or blind, and in time she may become sterile or very ill herself.
 
@@ -282,7 +282,7 @@ To prevent syphilis, see the next page.
 
 • If any urine is coming out at all, do not use the catheter.
 
-• If the person cannot urinate, first have him try to urinate while sitting in a tub of warm water (p. 236). Begin the recommended medicine (for gonorrhea or prostate trouble) at once.
+• If the person cannot urinate, first have him try to urinate while sitting in a tub of warm water ([page 236](#page-236)). Begin the recommended medicine (for gonorrhea or prostate trouble) at once.
 
 • If the person has a very full, painful bladder and cannot urinate,
 or if he or she begins to show signs of poisoning from urine, then and only then use a catheter.
@@ -338,7 +338,7 @@ For more information on catheter use, see _Disabled Village Children_, Chapter 2
 
 All women normally have a small amount of vaginal discharge, which is clear, milky, or slightly yellow. If there is no itching or bad smell, there is probably no problem.
 
-But many women, especially during pregnancy, suffer from a discharge often with itching in the vagina. This discharge may be caused by various infections. Most of them are bothersome, but not dangerous. However, an infection caused by gonorrhea or chlamydia can harm a baby at birth (see p. 221).
+But many women, especially during pregnancy, suffer from a discharge often with itching in the vagina. This discharge may be caused by various infections. Most of them are bothersome, but not dangerous. However, an infection caused by gonorrhea or chlamydia can harm a baby at birth (see [page 221](#page-221)).
 
 1. **A thin and foamy, greenish-yellow or whitish, foul-smelling discharge with itching**. This is probably an infection of Trichomonas. It may burn to urinate. Sometimes the genitals hurt or are swollen. The discharge may contain blood.
 
@@ -366,15 +366,15 @@ For the douche, use 6 teaspoons of vinegar in 1 liter of boiled, cooled water.
 **IMPORTANT**: Let water enter slowly during about 3 minutes. Do not put the tube more than 3 inches into the vagina.
 
 
-2. **White discharge that looks like cottage cheese or buttermilk, and smells like mold, mildew, or baking bread.** This could be a yeast infection (Candida). Itching may be severe. The lips of the vagina often look bright red and hurt. It may burn to urinate. This infection is especially common in pregnant women or in those who are sick, diabetic (p. 127), have HIV, or have been taking antibiotics or birth control pills.
+2. **White discharge that looks like cottage cheese or buttermilk, and smells like mold, mildew, or baking bread.** This could be a yeast infection (Candida). Itching may be severe. The lips of the vagina often look bright red and hurt. It may burn to urinate. This infection is especially common in pregnant women or in those who are sick, diabetic ([page 127](#page-127)), have HIV, or have been taking antibiotics or birth control pills.
 
 **Treatment:**
 
-Douche with vinegar-water (see p. 241) or dilute gentian violet, 2 parts gentian violet to 100 parts water (2 teaspoons to a half liter). Or use nystatin vaginal tablets or other vaginal inserts for Candida, like nystatin or miconazole. For dosage and instructions see page 372. Putting unsweetened yogurt in the vagina is said to be a useful home remedy to help control yeast infections. **Never use antibiotics for a yeast infection. They can make it worse.**
+Douche with vinegar-water (see [page 241](#page-241)) or dilute gentian violet, 2 parts gentian violet to 100 parts water (2 teaspoons to a half liter). Or use nystatin vaginal tablets or other vaginal inserts for Candida, like nystatin or miconazole. For dosage and instructions see page 372. Putting unsweetened yogurt in the vagina is said to be a useful home remedy to help control yeast infections. **Never use antibiotics for a yeast infection. They can make it worse.**
 
-3. **Thick, milky discharge with a rancid smell.** This could be an infection caused by bacteria. Special tests may be needed to tell this from a Trichomonas infection. Douche with vinegar-water (p. 241), or with povidone-iodine (Betadine: 6 teaspoons in 1 liter of water). Also, you can try inserting a clove of garlic every night for 2 weeks (see p. 241). If none of these treatments works, try metronidazole (see p. 368).
+3. **Thick, milky discharge with a rancid smell.** This could be an infection caused by bacteria. Special tests may be needed to tell this from a Trichomonas infection. Douche with vinegar-water ([page 241](#page-241)), or with povidone-iodine (Betadine: 6 teaspoons in 1 liter of water). Also, you can try inserting a clove of garlic every night for 2 weeks (see [page 241](#page-241)). If none of these treatments works, try metronidazole (see [page 368](#page-368)).
 
-4. **Watery, brown, or gray discharge, streaked with blood; bad smell; pain in the lower belly.** These are signs of more serious infections, or possibly cancer (p. 280). If there is fever, use antibiotics (see page 276). Get medical help right away.
+4. **Watery, brown, or gray discharge, streaked with blood; bad smell; pain in the lower belly.** These are signs of more serious infections, or possibly cancer ([page 280](#page-280)). If there is fever, use antibiotics (see page 276). Get medical help right away.
 IMPORTANT: If any discharge lasts a long time, or does not get better with treatment, see a health worker.
 
 # How a Woman Can Avoid Many Infections:
@@ -398,20 +398,20 @@ This can come from many different causes, which are discussed in different parts
 
 Possible causes of pain in the lower belly are:
 
-  1. **Menstrual discomfort** (p. 246). Is it worse shortly before or during the period?
+  1. **Menstrual discomfort** ([page 246](#page-246)). Is it worse shortly before or during the period?
 
-  2. **A bladder infection** (p. 234). One of the most common low mid-belly pains. Is urination very frequent or painful?
+  2. **A bladder infection** ([page 234](#page-234)). One of the most common low mid-belly pains. Is urination very frequent or painful?
 
-  3. **Pelvic inflammatory disease (PID)**. This infection causes pain in the lower belly and fever. It can happen after birth, abortion, miscarriage, or inserting an IUD. Gonorrhea or chlamydia that have gone untreated can also lead to PID (p. 236). Treat for gonorrhea and chlamydia (p. 359). If the woman is using an intrauterine device (IUD), it may need to be removed. See a health worker.
+  3. **Pelvic inflammatory disease (PID)**. This infection causes pain in the lower belly and fever. It can happen after birth, abortion, miscarriage, or inserting an IUD. Gonorrhea or chlamydia that have gone untreated can also lead to PID ([page 236](#page-236)). Treat for gonorrhea and chlamydia ([page 359](#page-359)). If the woman is using an intrauterine device (IUD), it may need to be removed. See a health worker.
 
   4. **Problems that are related to a lump or mass in the lower part of the belly**. These are discussed briefly on page 280 and include ovarian cyst and cancer.
   A special exam is needed, done by a trained health worker.
 
-  5. **Ectopic pregnancy** (when the baby begins to develop outside the womb (p. 280). Usually there is severe pain with irregular bleeding. The woman often has signs of early pregnancy (see p. 247), and feels dizzy and weak. **Get medical help immediately; her life is in danger.**
+  5. **Ectopic pregnancy** (when the baby begins to develop outside the womb ([page 280](#page-280)). Usually there is severe pain with irregular bleeding. The woman often has signs of early pregnancy (see [page 247](#page-247)), and feels dizzy and weak. **Get medical help immediately; her life is in danger.**
 
-  6. **Complications from an abortion** (p. 414). There may be fever, bleeding from the vagina with clots, belly pain, difficulty urinating, and shock. Start giving antibiotics as for childbirth fever (p. 276), and **get the woman to a hospital at once. Her life is in danger.**
+  6. **Complications from an abortion** ([page 414](#page-414)). There may be fever, bleeding from the vagina with clots, belly pain, difficulty urinating, and shock. Start giving antibiotics as for childbirth fever ([page 276](#page-276)), and **get the woman to a hospital at once. Her life is in danger.**
 
-  7. **An infection or other problem of the gut or rectum** (p. 145). Is the pain related to eating or to bowel movements?
+  7. **An infection or other problem of the gut or rectum** ([page 145](#page-145)). Is the pain related to eating or to bowel movements?
 
 Some of the above problems are not serious. Others are dangerous. They are not always easy to tell apart. Special tests or examinations may be needed. **If you are unsure what is causing the pain, or if it does not get better soon, seek medical help**. For more information on treating women’s health problems, see _Where Women Have No Doctor_.
 
@@ -431,11 +431,11 @@ Sometimes a man and woman try to have children but the woman does not become pre
 
   1. **Sterility**. The person’s body is such that he or she can never have children. Some men and women are born sterile.
 
-  2. **Weaknesses or a nutritional lack**. In some women severe anemia, poor nutrition, or lack of iodine may lower the chance of becoming pregnant. Or it may cause the unformed baby (embryo) to die, perhaps before the mother even knows she is pregnant (see Miscarriage, p. 281). A woman who is not able to become pregnant, or has had only miscarriages, should get enough nutritious food, use iodized salt, and if she is severely anemic, take iron pills (p. 247). These may increase her chance of becoming pregnant and having a healthy baby.
+  2. **Weaknesses or a nutritional lack**. In some women severe anemia, poor nutrition, or lack of iodine may lower the chance of becoming pregnant. Or it may cause the unformed baby (embryo) to die, perhaps before the mother even knows she is pregnant (see Miscarriage, [page 281](#page-281)). A woman who is not able to become pregnant, or has had only miscarriages, should get enough nutritious food, use iodized salt, and if she is severely anemic, take iron pills ([page 247](#page-247)). These may increase her chance of becoming pregnant and having a healthy baby.
 
-  3. **Chronic infection**, especially pelvic inflammatory disease (see p. 243) due to gonorrhea or chlamydia, is a common cause of infertility in women. Treatment may help, if the disease has not gone too far. Prevention and early treatment of gonorrhea and chlamydia mean fewer sterile women.
+  3. **Chronic infection**, especially pelvic inflammatory disease (see [page 243](#page-243)) due to gonorrhea or chlamydia, is a common cause of infertility in women. Treatment may help, if the disease has not gone too far. Prevention and early treatment of gonorrhea and chlamydia mean fewer sterile women.
 
-  4. **Men** are sometimes unable to make women pregnant because they have fewer sperm than is normal. It may help for the man to wait, without having sex, for several days before the woman enters her ‘fertile days’ each month, midway between her last menstrual period and the next (see Counting Days Method and Mucus Method, p. 291 and 292). This way he will give her his full amount of sperm when they have sex on days when she is able to become pregnant.
+  4. **Men** are sometimes unable to make women pregnant because they have fewer sperm than is normal. It may help for the man to wait, without having sex, for several days before the woman enters her ‘fertile days’ each month, midway between her last menstrual period and the next (see Counting Days Method and Mucus Method, [page 291](#page-291) and [page 292](#page-292)). This way he will give her his full amount of sperm when they have sex on days when she is able to become pregnant.
 
 **WARNING**:
 

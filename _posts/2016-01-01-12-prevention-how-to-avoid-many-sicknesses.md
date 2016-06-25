@@ -63,7 +63,7 @@ If the family had taken any of the following precautions, the spread of the sick
   - if they had not let the child play where the pig had been,
   - if the mother had washed her hands after touching the child and before preparing food.
 
-If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see p. 154 and Chapter 11).
+If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see [page 154](#page-154)and Chapter 11).
 
 
 # [133](#page-132)
@@ -77,9 +77,9 @@ If there are many cases of diarrhea, worms, and other intestinal parasites in yo
 
 2. Bathe often every day when the weather is hot. Bathe after working hard or sweating. Frequent bathing helps prevent skin infections, dandruff, pimples, itching, and rashes. Sick persons, including babies, should be bathed daily.
 
-3. In areas where hookworm is common, do not go barefoot or allow children to do so. Hookworm infection causes severe anemia. These worms enter the body through the soles of the feet (see p. 142).
+3. In areas where hookworm is common, do not go barefoot or allow children to do so. Hookworm infection causes severe anemia. These worms enter the body through the soles of the feet (see [page 142](#page-142)).
 
-4. Brush your teeth every day and after each time you eat sweets. If you do not have a toothbrush and toothpaste, rub your teeth with salt and baking soda (see p. 230). For more information about the care of teeth, see Chapter 17.
+4. Brush your teeth every day and after each time you eat sweets. If you do not have a toothbrush and toothpaste, rub your teeth with salt and baking soda (see [page 230](#page-230)). For more information about the care of teeth, see Chapter 17.
 
 
 # [134](#page-134)
@@ -93,9 +93,9 @@ If there are many cases of diarrhea, worms, and other intestinal parasites in yo
 
 3. If children or animals have a bowel movement near the house, clean it up at once. Teach children to use a latrine or at least to go farther from the house.
 
-4. Hang or spread sheets and blankets in the sun often. If there are bedbugs, pour boiling water on the cots and wash the sheets and blanketsall on the same day (see p. 200).
+4. Hang or spread sheets and blankets in the sun often. If there are bedbugs, pour boiling water on the cots and wash the sheets and blanketsall on the same day (see [page 200](#page-200)).
 
-5. De-louse the whole family often (see p. 200). Lice and fleas carry many diseases. Dogs and other animals that carry fleas should not come into the house.
+5. De-louse the whole family often (see [page 200](#page-200)). Lice and fleas carry many diseases. Dogs and other animals that carry fleas should not come into the house.
 
 6. Do not spit on the floor. Spit can spread disease. When you cough or sneeze, cover your mouth with your hand or a cloth or handkerchief.
 
@@ -276,7 +276,7 @@ Once the eggs are swallowed, young worms hatch and enter the bloodstream;
 
 this may cause general itching. The young worms then travel to the lungs, sometimes causing a dry cough or at worst, pneumonia with coughing of blood. The young worms are coughed up, swallowed, and reach the intestines, where they grow to full size.
 
-Many roundworms in the intestines may cause discomfort, indigestion, and weakness. Children with many roundworms often have very large, swollen bellies. Rarely, roundworms may cause asthma, or a dangerous obstruction or blockage in the gut (see p. 94). Especially when the child has a fever, the worms sometimes come out in the stools or crawl out through the mouth or nose. Occasionally they crawl into the airway and cause gagging.
+Many roundworms in the intestines may cause discomfort, indigestion, and weakness. Children with many roundworms often have very large, swollen bellies. Rarely, roundworms may cause asthma, or a dangerous obstruction or blockage in the gut (see [page 94](#page-94)). Especially when the child has a fever, the worms sometimes come out in the stools or crawl out through the mouth or nose. Occasionally they crawl into the airway and cause gagging.
 
 
 
@@ -286,7 +286,7 @@ _Where There Is No Doctor_  2015 141 Use latrines, wash hands before eating or h
 
 **Treatment:**
 
-Mebendazole will usually get rid of roundworms. For dosage see p. 373. Piperazine also works (see p. 374). Some home remedies work fairly well. For a home remedy using papaya see page 13.
+Mebendazole will usually get rid of roundworms. For dosage see [page 373](#page-373). Piperazine also works (see [page 374](#page-374)). Some home remedies work fairly well. For a home remedy using papaya see page 13.
 WARNING: Do not use thiabendazole for roundworms. It often makes the worms move up to the nose or mouth and can cause gagging.
 
 
@@ -371,7 +371,7 @@ A stool analysis is needed to prove that they are there.
 
  **Treatment:**
 
- Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages 373 to 375. Treat anemia by eating foods rich in iron and if necessary by taking iron pills (p. 124).
+ Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages 373 to 375. Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
 
  >Prevent hookworm: **Build and use latrines. Do not let children go barefoot.**
 
@@ -410,7 +410,7 @@ The greatest danger exists when the cysts (small sacs containing baby worms) get
 
 **Treatment:**
 
-Take niclosamide (Yomesan, p. 375), or praziquantel (p. 375). Follow instructions carefully.
+Take niclosamide (Yomesan, [page 375](#page-375)), or praziquantel ([page 375](#page-375)). Follow instructions carefully.
 
 
 # [144](#page-144)
@@ -474,7 +474,7 @@ Many healthy people have amebas without becoming sick. However, amebas are a com
 
   • if there is fever, it means there may also be a bacterial infection
 
-Diarrhea with blood may be caused by either amebas or bacteria. However, bacterial dysentery (Shigella) begins more suddenly, the stools are more watery, and there is almost always fever (p. 158). As a general rule:
+Diarrhea with blood may be caused by either amebas or bacteria. However, bacterial dysentery (Shigella) begins more suddenly, the stools are more watery, and there is almost always fever ([page 158](#page-158)). As a general rule:
 
 
  >Diarrhea + blood + fever = bacterial infection (Shigella)
@@ -485,7 +485,7 @@ Occasionally bloody diarrhea has other causes. To be sure of the cause, a stool 
 
 Sometimes amebas get into the liver and form an abscess or pocket of pus. This causes tenderness or pain in the right upper belly.
 
-Pain may extend into the right chest and is worse when the person walks. (Compare this with gallbladder pain, p. 329; hepatitis, p. 172; and cirrhosis, p. 328.)
+Pain may extend into the right chest and is worse when the person walks. (Compare this with gallbladder pain, [page 329](#page-329); hepatitis, [page 172](#page-172); and cirrhosis, [page 328](#page-328).)
 
 If the person with these signs begins to cough up a brown liquid, an amebic abscess is draining into his lung.
 
@@ -493,9 +493,9 @@ If the person with these signs begins to cough up a brown liquid, an amebic absc
 
   ♦ If possible get medical help and a stool analysis.
 
-  ♦ Amebic dysentery can be treated with metronidazole, if possible followed by diloxanide furoate. For dosage, length of treatment, and precautions, see p. 368.
+  ♦ Amebic dysentery can be treated with metronidazole, if possible followed by diloxanide furoate. For dosage, length of treatment, and precautions, see [page 368](#page-368).
 
-  ♦ For amebic abscess, treat as for amebic dysentery. Be sure to take both metronidazole and diloxanide furoate (p. 368).
+  ♦ For amebic abscess, treat as for amebic dysentery. Be sure to take both metronidazole and diloxanide furoate ([page 368](#page-368)).
 
 **Prevention:**
 
@@ -511,7 +511,7 @@ The giardia, like the ameba, is a microscopic parasite that lives in the gut and
 The belly is swollen with gas and uncomfortable, there are mild intestinal cramps, and the person farts and burps a lot. The burps have a bad taste, like sulfur. There is usually no fever.
 
 
-Giardia infections sometimes clear up by themselves. Good nutrition helps. Severe cases are best treated with metronidazole (see p. 368). Quinacrine (Atabrine, p. 369) is cheaper and often works well, but causes worse side effects.
+Giardia infections sometimes clear up by themselves. Good nutrition helps. Severe cases are best treated with metronidazole (see [page 368](#page-368)). Quinacrine (Atabrine, [page 369](#page-369)) is cheaper and often works well, but causes worse side effects.
 
 
 # [146](#page-146)
@@ -537,7 +537,7 @@ In areas where these diseases are known to occur, any person who has blood in hi
 
 **Treatment:**
 
-See a health worker. Praziquantel works for all types of blood flukes. Oxamniquine works for some kinds of blood flukes (see p. 376).
+See a health worker. Praziquantel works for all types of blood flukes. Oxamniquine works for some kinds of blood flukes (see [page 376](#page-376)).
 
 **Prevention:**
 
@@ -553,7 +553,7 @@ Blood flukes spread like this:
 
 To prevent schistosomiasis, cooperate with programs to kill snails and treat infected persons. But most important: Everyone should learn to use latrines and NEVER URINATE OR DEFECATE IN OR NEAR WATER.
 
-For information on guinea worm, which is also spread in water, see p. 406 to p. 407.
+For information on guinea worm, which is also spread in water, see [page 406](#page-406)to [page 407](#page-407).
 
 
 # [147](#page-147)
@@ -576,7 +576,7 @@ Vaccines protect against many dangerous diseases. Each country has a schedule of
 
 6. Hib (for Haemophilus influenza type b, which is a germ that causes meningitis and pneumonia in young children). Generally this vaccine is given in a series of 3 injections together with the first 3 DPT injections.
 
-7. Td or TT (Tetanus toxoid), for tetanus (lockjaw) for adults and children over 12 years old. Throughout the world, tetanus vaccination is recommended with 1 injection every 10 years. In some countries a Td injection is given between 9 and 11 years of age (5 years after the last DPT vaccination), and then every 10 years. Pregnant women should be vaccinated during each pregnancy so that their babies will be protected against tetanus of the newborn (see p. 182 and 250).
+7. Td or TT (Tetanus toxoid), for tetanus (lockjaw) for adults and children over 12 years old. Throughout the world, tetanus vaccination is recommended with 1 injection every 10 years. In some countries a Td injection is given between 9 and 11 years of age (5 years after the last DPT vaccination), and then every 10 years. Pregnant women should be vaccinated during each pregnancy so that their babies will be protected against tetanus of the newborn (see [page 182](#page-182) and [page 250](#page-250)).
 
 8. Rotavirus. Give the oral vaccine 2 or 3 times (depending on the manufacturer) at 2 months, 4 months, and (if needed) 6 months old. It prevents this diarrhea disease, a leading cause of death for young children.
 
@@ -616,13 +616,13 @@ Some of the habits that people have not only damage their own health but in one 
 
 If alcohol has brought much joy, it has also brought much sufferingespecially to the families of those who drink. A little alcohol now and then may do no harm. But too often a little leads to a lot. In much of the world, heavy or excessive drinking is one of the underlying causes of major health problemseven for those who do not drink.
 
-Not only can drunkenness harm the health of those who drink (through diseases such as cirrhosis of the liver, p. 328, and hepatitis, p. 172), but it also hurts the family and community in many ways. Through the loss of judgment when drunkand of self respect when soberit leads to much unhappiness, waste, and violence, often affecting those who are loved most.
+Not only can drunkenness harm the health of those who drink (through diseases such as cirrhosis of the liver, [page 328](#page-328), and hepatitis, [page 172](#page-172)), but it also hurts the family and community in many ways. Through the loss of judgment when drunkand of self respect when soberit leads to much unhappiness, waste, and violence, often affecting those who are loved most.
 
 How many fathers have spent their last money on drink when their children were hungry? How many sicknesses result because a man spends the little bit of extra money he earns on drink rather than on improving his family’s living conditions? How many persons, hating themselves because they have hurt those they love, take another drinkto forget?
 
 Once a person realizes that alcohol is harming the health and happiness of those around him, what can he do? First, he must admit that his drinking is a problem. He must be honest with himself and with others. Some individuals are able to simply decide to stop drinking. More often people need help and supportfrom family, friends, and others who understand how hard it may be to give up this habit.
 
-People who have been heavy drinkers and have stopped are often the best persons to help others do the same. In many areas Alcoholics Anonymous (AA) groups exist where recovering alcoholics help one another to stop drinking (see p. 429).
+People who have been heavy drinkers and have stopped are often the best persons to help others do the same. In many areas Alcoholics Anonymous (AA) groups exist where recovering alcoholics help one another to stop drinking (see [page 429](#page-429)).
 
 Drinking is not so much a problem of individuals as of a whole community. A community that recognizes this can do much to encourage those who are willing to make changes. If you are concerned about the misuse of alcohol in your community, help organize a meeting to discuss these problems and decide what actions to take.
 

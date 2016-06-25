@@ -17,7 +17,7 @@ For example, all the medicines used to treat infections caused by worms are list
 
 If you want information on a medicine, look for the name of that medicine in the LIST OF MEDICINES beginning on [page 341](#page-341).
 
-Or look for the medicine in the [INDEX OF MEDICINES](#page-345) beginning on page 345.
+Or look for the medicine in the [INDEX OF MEDICINES](#page-345) beginning on [page 345](#page-345).
 
 When you find the name you are looking for, turn to the page number shown.
 
@@ -44,8 +44,8 @@ For example, if the cheapest or only available form of tetracycline in your area
 
 Because different medicines are available in different countries, information has sometimes been given for a number of medicines that do the same job.
 
-However, it is wise to
->**KEEP AND USE ONLY A SMALL NUMBER OF MEDICINES**
+>However, it is wise to  
+**KEEP AND USE ONLY A SMALL NUMBER OF MEDICINES**
 
 
 # [340](#page-340)
@@ -834,153 +834,153 @@ Hyper-tet (tetanus immune globulin) 388
 
 # J
 
-Jadelle (contraceptive implant) 396
+Jadelle (contraceptive implant) [396](#page-396)
 
 # K
 
-Kaopectate 383
+Kaopectate [383](#page-383)
 
-Koromex (contraceptive gel) 395
+Koromex (contraceptive gel) [395](#page-395)
 
 # L
 
-Lamivudine 397
+Lamivudine [397](#page-397)
 
-Lamprene (clofazimine)363
+Lamprene (clofazimine) [363](#page-363)
 
-Lariam (mefloquine) 365
+Lariam (mefloquine) [365](#page-365)
 
-Laxatives .382 Lempko (contraceptive foam) 395
+Laxatives .382 Lempko (contraceptive foam) [395](#page-395)
 
-Leprosy, medicines for 362
+Leprosy, medicines for [362](#page-362)
 
-Lice, medicines for 372
+Lice, medicines for [372](#page-372)
 
-Lidocaine 379
+Lidocaine [379](#page-379)
 
-Lo-Femenal (birth control pills) 393
+Lo-Femenal (birth control pills) [393](#page-393)
 
-Logynon (birth control pills) 393
+Logynon (birth control pills) [393](#page-393)
 
-Lo/Ovral (birth control pills) 393
+Lo/Ovral (birth control pills) [393](#page-393)
 
-Luminal (phenobarbital) 389
+Luminal (phenobarbital) [389](#page-389)
 
-Lunelle (contraceptive injection) 396
+Lunelle (contraceptive injection) [396](#page-396)
 
 # M
 
-Magnesium hydroxide.382 Magnesium sulfate 382, 390
+Magnesium hydroxide.382 Magnesium sulfate [382](#page-382), [390](#page-390)
 
-Malaria, medicines for  363
+Malaria, medicines for  [363](#page-363)
 
-Mansil (oxamniquine) 376
+Mansil (oxamniquine) [376](#page-376)
 
-Mebendazole373
+Mebendazole [373](#page-373)
 
-Mectizan (ivermectin) 377
+Mectizan (ivermectin) [377](#page-377)
 
-Mefloquine 365
+Mefloquine [365](#page-365)
 
-Mepacrine 369
+Mepacrine [369](#page-369)
 
-Methergine (methylergonovine maleate) 390
+Methergine (methylergonovine maleate) [390](#page-390)
 
-Methicillin 350
+Methicillin [350](#page-350)
 
-Metronidazole 368
+Metronidazole [368](#page-368)
 
-Miconazole 369
-
-
-
-Microgynon (birth control pills) 393
-
-Microlut (birth control pills) 394
-
-Microvlar (birth control pills) 393
+Miconazole [369](#page-369)
 
 
 
-Micronor (birth control pills) 394
+Microgynon (birth control pills) [393](#page-393)
 
-Micronovum (birth control pills) 394
+Microlut (birth control pills) [394](#page-394)
 
-Microval (birth control pills) 393
+Microvlar (birth control pills) [393](#page-393)
 
 
 
-Mifepristone 391
+Micronor (birth control pills) [394](#page-394)
 
-Milk of magnesia  380, 382
+Micronovum (birth control pills) [394](#page-394)
 
-Milk, powdered 391
+Microval (birth control pills) [393](#page-393)
 
-Mineral oil 382
 
-Minipill 394
 
-Misoprostol 391
+Mifepristone [391](#page-391)
 
-Myambutol (ethambutol) 361
+Milk of magnesia  [380](#page-380), [382](#page-382)
+
+Milk, powdered [391](#page-391)
+
+Mineral oil [382](#page-382)
+
+Minipill [394](#page-394)
+
+Misoprostol [391](#page-391)
+
+Myambutol (ethambutol) [361](#page-361)
 
 # N
 
-Nafcillin 350
+Nafcillin [350](#page-350)
 
-Naphuride (suramin) 377
+Naphuride (suramin) [377](#page-377)
 
-Neogest (birth control pills) 394
+Neogest (birth control pills) [394](#page-394)
 
-Neomycin 370
+Neomycin [370](#page-370)
 
-Neosporin (antibiotic ointment) 370
+Neosporin (antibiotic ointment) [370](#page-370)
 
-Neo-Synephrine (phenylephrine) 383
+Neo-Synephrine (phenylephrine) [383](#page-383)
 
-Net-En (injectable contraceptive) 396
+Net-En (injectable contraceptive) [396](#page-396)
 
-Niclosamide 375
+Niclosamide [375](#page-375)
 
-Nivembin 369
+Nivembin [369](#page-369)
 
 
 
-Nordette (birth control pills) 393
+Nordette (birth control pills) [393](#page-393)
 
-Norinyl (birth control pills) 393
+Norinyl (birth control pills) [393](#page-393)
 
-Noristerat (injectable contraceptive) 396
+Noristerat (injectable contraceptive) [396](#page-396)
 
-Norplant (contraceptive implant) 396
+Norplant (contraceptive implant) [396](#page-396)
 
-Nose, medicines for 383
+Nose, medicines for [383](#page-383)
 
-Nystatin 372
+Nystatin [372](#page-372)
 
 # O
 
-Omeprazole 381
+Omeprazole [381](#page-381)
 
-Onchocerciasis, medicines for 377
+Onchocerciasis, medicines for [377](#page-377)
 
-Oral contraceptives 393
+Oral contraceptives [393](#page-393)
 
-Oral rehydration salts 381
+Oral rehydration salts [381](#page-381)
 
-Ortho-Novum (birth control pills 393
+Ortho-Novum (birth control pills [393](#page-393)
 
-Ovrette (birth control pills) 394
+Ovrette (birth control pills) [394](#page-394)
 
-Ovysmen (birth control pills) 393
+Ovysmen (birth control pills) [393](#page-393)
 
-Oxacillin 350
+Oxacillin [350](#page-350)
 
-Oxamniquine 376
+Oxamniquine [376](#page-376)
 
 Oxytetracycline355
 
-Oxytocin 390
+Oxytocin [390](#page-390)
 
 
 # [347](#page-347)
@@ -988,289 +988,291 @@ Oxytocin 390
 
 # P
 
-Pain, medicines for378
+Pain, medicines for [378](#page-378)
 
-Paludrine (proguanil) 367
+Paludrine (proguanil) [367](#page-367)
 
-Paracetamol 379
+Paracetamol [379](#page-379)
 
-Penicillins 350
+Penicillins [350](#page-350)
 
-Amoxicillin 352
+Amoxicillin [352](#page-352)
 
-Ampicillin  352
+Ampicillin  [352](#page-352)
 
-Benzathine 352
+Benzathine [352](#page-352)
 
-Benzylpenicillin (penicillin G) 351
+Benzylpenicillin (penicillin G) [351](#page-351)
 
-Crystalline 352
+Crystalline [352](#page-352)
 
-Phenoxymethyl (penicillin V) 351
+Phenoxymethyl (penicillin V) [351](#page-351)
 
-Procaine 352
+Procaine [352](#page-352)
 
-Resistance to penicillin 350
+Resistance to penicillin [350](#page-350)
 
-Pepto-Bismol 383
+Pepto-Bismol [383](#page-383)
 
-Permethrin 372
+Permethrin [372](#page-372)
 
-Petroleum jelly (petrolatum, Vaseline) 370
+Petroleum jelly (petrolatum, Vaseline) [370](#page-370)
 
-Phenergan (promethazine) 386
+Phenergan (promethazine) [386](#page-386)
 
-Phenobarbital 389
+Phenobarbital [389](#page-389)
 
-Phenobarbitone 389
+Phenobarbitone [389](#page-389)
 
-Phenoxymethyl penicillin 351
+Phenoxymethyl penicillin [351](#page-351)
 
-Phenytoin 389
+Phenytoin [389](#page-389)
 
-Phytomenadione (vitamin K) 392
+Phytomenadione (vitamin K) [392](#page-392)
 
-Phytonadione 392
+Phytonadione [392](#page-392)
 
-Pink Bismuth 383
+Pink Bismuth [383](#page-383)
 
-Piperazine 374
+Piperazine [374](#page-374)
 
-Pitocin (oxytocin) 390
+Pitocin (oxytocin) [390](#page-390)
 
-Podophyllin 373
+Podophyllin [373](#page-373)
 
-Poisoning, medicines for 388
+Poisoning, medicines for [388](#page-388)
 
-Polymyxin 370
+Polymyxin [370](#page-370)
 
-Polysporin (polymyxin) 370
+Polysporin (polymyxin) [370](#page-370)
 
-Polyvalent Crotalid Antivenin (for snakebites) 387
+Polyvalent Crotalid Antivenin (for snakebites) [387](#page-387)
 
-Povidone iodine 370
+Povidone iodine [370](#page-370)
 
-Powdered charcoal 388
+Powdered charcoal [388](#page-388)
 
-Praziquantel for schistosomiasis 376
+Praziquantel for schistosomiasis [376](#page-376)
 
-Praziquantel for tapeworm 375
+Praziquantel for tapeworm [375](#page-375)
 
-Prednisolone 385
+Prednisolone [385](#page-385)
 
-Prednisone 385
+Prednisone [385](#page-385)
 
-Prilosec (omeprazole) 381
+Prilosec (omeprazole) [381](#page-381)
 
-Primaquine 367
+Primaquine [367](#page-367)
 
-Proguanil 367
+Proguanil [367](#page-367)
 
-Promethazine 386
+Promethazine [386](#page-386)
 
-Pyrantel 375
+Pyrantel [375](#page-375)
 
-Pyrazinamide 361
+Pyrazinamide [361](#page-361)
 
-Pyrethrins with piperonyl 372
+Pyrethrins with piperonyl [372](#page-372)
 
-Pyridoxine (vitamin B6) 393
+Pyridoxine (vitamin B6) [393](#page-393)
 
-Pyrimethamine with sulfadoxine 364
+Pyrimethamine with sulfadoxine [364](#page-364)
 
 
 # Q
 
-Qlaira (birth control pills) 393
+Qlaira (birth control pills) [393](#page-393)
 
-Quinacrine 369
+Quinacrine [369](#page-369)
 
-Quinine 365
+Quinine [365](#page-365)
 
-Quogyl 369
+Quogyl [369](#page-369)
 
 # R
 
-Ranitidine 381
+Ranitidine [381](#page-381)
 
-Rehydration Drink 381
+Rehydration Drink [381](#page-381)
 
-Retinol 391
+Retinol [391](#page-391)
 
-RID (pyrethrins with piperonyl) 372
+RID (pyrethrins with piperonyl) [372](#page-372)
 
-Rifampicin for TB 360
+Rifampicin for TB [360](#page-360)
 
-Rifampicin for leprosy 362
+Rifampicin for leprosy [362](#page-362)
 
-Ringworm, medicines for.371 River blindness, medicines for377
+Ringworm, medicines for [371](#page-371)
+
+River blindness, medicines for377
 
 # S
 
-Salbutamol 384
+Salbutamol [384](#page-384)
 
-Salicylic acid 371
+Salicylic acid [371](#page-371)
 
-Scabies, medicines for 372
+Scabies, medicines for [372](#page-372)
 
-Scorpion sting, antivenoms for 387
+Scorpion sting, antivenoms for [387](#page-387)
 
-Seizures (fits), medicines for 388
+Seizures (fits), medicines for [388](#page-388)
 
-Selenium sulfide 371
+Selenium sulfide [371](#page-371)
 
-Selsun (selenium sulfide)  371
+Selsun (selenium sulfide)  [371](#page-371)
 
-Septra (cotrimoxazole) 357
+Septra (cotrimoxazole) [357](#page-357)
 
-Shingles, medicines for 373
+Shingles, medicines for [373](#page-373)
 
-Silver nitrate.378
+Silver nitrate [378](#page-378)
 
-Simethicone 380
+Simethicone [380](#page-380)
 
-Skin problems, medicines for370
+Skin problems, medicines for [370](#page-370)
 
-Snakebite, antivenoms for387
+Snakebite, antivenoms for [387](#page-387)
 
-Soaps 370
+Soaps [370](#page-370)
 
-Sodium bicarbonate 380
+Sodium bicarbonate [380](#page-380)
 
-Sodium thiosulfate 371
+Sodium thiosulfate [371](#page-371)
 
-Spectinomycin 359
+Spectinomycin [359](#page-359)
 
-Stavudine 397
+Stavudine [397](#page-397)
 
-Streptomycin 361
+Streptomycin [361](#page-361)
 
-Suero Anticrotalico (snakebite antivenom) 387
+Suero Anticrotalico (snakebite antivenom) [387](#page-387)
 
-Sulfas (sulfonamides) 356
+Sulfas (sulfonamides) [356](#page-356)
 
-Cotrimoxazole 357
+Cotrimoxazole [357](#page-357)
 
-Sulfadoxine 356
+Sulfadoxine [356](#page-356)
 
-Sulfamethoxazole 356
+Sulfamethoxazole [356](#page-356)
 
-Sulfisoxazole 356
+Sulfisoxazole [356](#page-356)
 
-Trimethoprim with sulfamethoxazole (cotrimoxazole) 357
+Trimethoprim with sulfamethoxazole (cotrimoxazole) [357](#page-357)
 
-Sulfones (dapsone, DDS) 362
+Sulfones (dapsone, DDS) [362](#page-362)
 
-Sulfur 370
+Sulfur [370](#page-370)
 
-Suramin 377
+Suramin [377](#page-377)
 
-Synphase (birth control pills) 393
+Synphase (birth control pills) [393](#page-393)
 
 # [348](#page-348)
 {:.no_toc}
 
 # T
 
-TDF (tenofovir) 397
+TDF (tenofovir) [397](#page-397)
 
-Tenofovir 397
+Tenofovir [397](#page-397)
 
-Terramycin(tetracycline) 355
+Terramycin(tetracycline) [355](#page-355)
 
-Tetanus immune globulin 388
+Tetanus immune globulin [388](#page-388)
 
-Tetracycline 355
+Tetracycline [355](#page-355)
 
-Doxycycline  355
+Doxycycline  [355](#page-355)
 
-Oxytetracycline 355
+Oxytetracycline [355](#page-355)
 
-Tetracycline HCI 355
+Tetracycline HCI [355](#page-355)
 
-Thiabendazole 374
+Thiabendazole [374](#page-374)
 
-Tinactin (tolnaftate) 371
+Tinactin (tolnaftate) [371](#page-371)
 
-Tolnaftate 371
+Tolnaftate [371](#page-371)
 
-Trichloracetic acid 373
+Trichloracetic acid [373](#page-373)
 
-Trinordiol (birth control pills) 393
+Trinordiol (birth control pills) [393](#page-393)
 
 Trinovum (birth control pills)393
 
-Triphasil (birth control pills) 393
+Triphasil (birth control pills) [393](#page-393)
 
-Triquilar (birth control pills) 393
+Triquilar (birth control pills) [393](#page-393)
 
-Tuberculosis, medicines for 359
+Tuberculosis, medicines for [359](#page-359)
 
-Typhoid, medicines for 356
+Typhoid, medicines for [356](#page-356)
 
 # U
 
-Ulcers, medicines for 380
+Ulcers, medicines for [380](#page-380)
 
-Undecylenic acid 371
+Undecylenic acid [371](#page-371)
 
 # V
 
-Vaginal infections, medicines for 369
+Vaginal infections, medicines for [369](#page-369)
 
-Valium (diazepam) 389
+Valium (diazepam) [389](#page-389)
 
 Vansi I (oxamniquine)376
 
-Vaseline (petroleum jelly) 370
+Vaseline (petroleum jelly) [370](#page-370)
 
-Vermox (mebendazole) 373
+Vermox (mebendazole) [373](#page-373)
 
-Vibramycin (doxycycline) 355
+Vibramycin (doxycycline) [355](#page-355)
 
-Vinegar 371
+Vinegar [371](#page-371)
 
-Vitamins 391, 392
+Vitamins [391](#page-391), [392](#page-392)
 
-Vomiting, medicines for 385
+Vomiting, medicines for [385](#page-385)
 
 
 # W
 
-Warts on the genitals, medicines for 373
+Warts on the genitals, medicines for [373](#page-373)
 
-Water as a medicine 383
+Water as a medicine [383](#page-383)
 
-White vinegar 369
+White vinegar [369](#page-369)
 
 
-Whitfield’s Ointment 371
+Whitfield’s Ointment [371](#page-371)
 
-Worms, medicines for 373
+Worms, medicines for [373](#page-373)
 
 # X
 
-Xylocaine (lidocaine) 379
+Xylocaine (lidocaine) [379](#page-379)
 
-Xerophthalmia, vitamins for 391
+Xerophthalmia, vitamins for [391](#page-391)
 
 # Y
 
-Yomesan (niclosamide) 375
+Yomesan (niclosamide) [375](#page-375)
 
 # Z
 
-Zentel (albendazole) 374
+Zentel (albendazole) [374](#page-374)
 
-Zantac (ranitidine) 381
+Zantac (ranitidine) [381](#page-381)
 
-ZDV (zidovudine) 397
+ZDV (zidovudine) [397](#page-397)
 
-Zidovudine 397
+Zidovudine [397](#page-397)
 
-Zinc 381
+Zinc [381](#page-381)
 
-Zovirax (acyclovir) 373
+Zovirax (acyclovir) [373](#page-373)
 
 # [349](#page-349)
 {:.no_toc}
@@ -1302,7 +1304,7 @@ Penicillin is one of the most useful antibiotics.
 It fights certain kinds of infections, including many that produce pus.
 
 
-It does no good for diarrhea, most urinary infections, backache, bruises, the common cold, chickenpox, or other virus infections (see p.18 and 19).
+It does no good for diarrhea, most urinary infections, backache, bruises, the common cold, chickenpox, or other virus infections (see [page 18](#page-18) and [19](#page-19)).
 
 
 Penicillin is measured in milligrams (mg.) or units (U).
@@ -1328,11 +1330,11 @@ Mild allergic reactions include itchy raised spots or rashes.
 
 Often these come several hours or days after taking penicillin and may last for days.
 
-Antihistamines (p. 385) help calm the itching.
+Antihistamines ([page 385](#page-385)) help calm the itching.
 
 Rarely, penicillin causes a dangerous reaction called allergic shock.
 
-Soon after penicillin is injected (or swallowed), the person suddenly gets pale, has trouble breathing, and goes into the state of shock (see p.70).
+Soon after penicillin is injected (or swallowed), the person suddenly gets pale, has trouble breathing, and goes into the state of shock (see [page 70](#page-70)).
 
 Epinephrine (Adrenalin) must be injected at once.
 
@@ -1352,7 +1354,7 @@ Injected forms of penicillin are more dangerous than those taken by mouth.
 
 Use injectable penicillin only for severe or dangerous infections.
 
-Before injecting penicillin or any medicine that contains it, take the precautions given on page 71.
+Before injecting penicillin or any medicine that contains it, take the precautions given on [page 71](#page-71).
 
 
 ### resistance to penicillin
@@ -1369,7 +1371,7 @@ Or special forms of penicillin, (methicillin, nafcillin, oxacillin, cloxacillin,
 
 Consult a health worker for dosage and precautions.
 
-In many parts of the world, gonorrhea and other sexually transmitted infections are now resistant to penicillin; see p. 359  for other antibiotics.
+In many parts of the world, gonorrhea and other sexually transmitted infections are now resistant to penicillin; [See page 359](#page-359)  for other antibiotics.
 
 
 Pneumonia is also sometimes resistant to penicillin—try cotrimoxazole (p. 357) or erythromycin (p. 354).
@@ -1544,11 +1546,11 @@ For mild infections, 1 injection may be enough.
 
 For strep throat, give one injection of the above dose.
 
-To prevent return infection in persons who have had rheumatic fever, give the above dose every 4 weeks (see p.310).
+To prevent return infection in persons who have had rheumatic fever, give the above dose every 4 weeks (see [page 310](#page-310)).
 
 For treatment of syphilis, benzathine benzylpenicillin is best.
 
-For dosage, see page 238.
+For dosage, see [page 238](#page-238).
 
 ### AMPICILLIN and AMOXICILLIN: broad-spectrum penicillins
 
@@ -1696,7 +1698,7 @@ For more serious infections: double the above dosage.
 
 For cholera: (where erythromycin works for cholera): give the same doses listed above, but only for 3 days.
 
-For use in the eyes: see page 378.
+For use in the eyes: see [page 378](#page-378).
 
 For newborn eye infection: Give 30 to 50 mg per kg each day, divided into 3 doses a day.
 
@@ -1794,7 +1796,7 @@ In severe cases, and for infections like chlamydia, pelvic inflammatory disease,
 
 For cholera: (where tetracycline works for cholera): give the same doses listed above, but only for 3 days.
 
-For use in the eyes: see p.378.
+For use in the eyes: see [page 378](#page-378).
 
 Doxycycline
 (familiar brand name: Vibramycin)
@@ -2049,7 +2051,7 @@ For meningitis: Inject 100 mg per kg per day, divided into 2 doses (give 1 dose 
 
 Give with ampicillin.
 
-See page 185.
+See [page 185](#page-185).
 
 For gonorrhea eye infection in the newborn 7 days or older: Inject 50 mg per kg, 1 time only.
 
@@ -2093,7 +2095,7 @@ Clindamycin is a strong antibiotic of the lincosamide family that is used to tre
 Clindamycin is especially useful for treating infections that have become resistant
 to penicillin, such as bone infections.
 
-It can also be used with quinine to treat malaria in pregnant women (see p.366 for dosage).
+It can also be used with quinine to treat malaria in pregnant women (see [page 366](#page-366) for dosage).
 
 **RISKS AND PRECAUTIONS:**
 
@@ -2135,11 +2137,11 @@ Give with ampicillin (p. 353).
 
 ## FOR GONORRHEA AND CHLAMYDIA
 
-These diseases have the same early signs, and often occur together (see p.236).
+These diseases have the same early signs, and often occur together (see [page 236](#page-236)).
 
 Since it may be difficult or expensive to get a laboratory test for chlamydia, it is best to treat both infections at the same time.
 
-You may also want to treat for trichomonas (see p.367).
+You may also want to treat for trichomonas (see [page 367](#page-367)).
 
 For gonorrhea, use one of the following:
 ceftriaxone, one injection of 250 mg, one time only
@@ -2515,7 +2517,7 @@ Often comes in: tablets or capsules of 150 and 300 mg
 
 Rifampicin is a very expensive medicine, but only a small amount is needed to treat leprosy, so the total cost is not great.
 
-See p. 360 for side effects and risks.
+[See page 360](#page-360) for side effects and risks.
 
 Take rifampicin only with the advice of an experienced health worker or doctor:
 Dosage of rifampicin for leprosy (10 to 20 mg/kg)— using tablets of 300 mg
@@ -2561,7 +2563,7 @@ It is also used by persons visting a malaria area who have no defenses against t
 
 Medicines are usually given weekly.
 
-To prevent malaria, also be sure to follow the advice on p. 187 to avoid mosquito bites.
+To prevent malaria, also be sure to follow the advice on [page 187](#page-187) to avoid mosquito bites.
 
 Certain malaria medicines are used only to treat attacks of malaria, while some only work for prevention.
 
@@ -2848,7 +2850,7 @@ WHEN TO INJECT QUININE:
 Injections of quinine should be given only rarely, in cases of great emergency.
 
 If a person who shows signs of malaria, or lives in an area where there is a lot of malaria, is vomiting, having seizures (convulsions), or showing other signs
-of meningitis (see p.185), he may have cerebral malaria (malaria in the brain).
+of meningitis (see [page 185](#page-185)), he may have cerebral malaria (malaria in the brain).
 
 Inject quinine at once.
 
@@ -3222,19 +3224,19 @@ Specific medicines are also listed below.
 
 White vinegar for vaginal douches (washes): Mix 2 or 3 tablespoons of white vinegar in a liter of boiled water.
 
-As shown on page 241, give 1 to 3 douches a day for a week, then 1 every other day.
+As shown on [page 241](#page-241), give 1 to 3 douches a day for a week, then 1 every other day.
 
 This works especially well for bacterial infections of the vagina.
 
-Metronidazole, tablets to be taken by mouth and vaginal inserts (see p.368):
+Metronidazole, tablets to be taken by mouth and vaginal inserts (see [page 368](#page-368)):
 For trichomonas and bacteria, infections of the vagina.
 
 (Only use metronidazole for bacterial infections if vinegar and water douches do not work.)
 
-Nystatin or Miconazole, tablets, cream, and vaginal inserts (see p.372):
+Nystatin or Miconazole, tablets, cream, and vaginal inserts (see [page 372](#page-372)):
 For yeast infection of the vagina.
 
-Gentian violet (crystal violet) (see p.370): For treatment of yeast and other infections of the vulva and vagina.
+Gentian violet (crystal violet) (see [page 370](#page-370)): For treatment of yeast and other infections of the vulva and vagina.
 
 Quinacrine (mepacrine)(familiar brand name: Atabrine)
 
@@ -3278,7 +3280,7 @@ These medicines were commonly used in the past to treat diarrhea.
 
 Do not use these dangerous medicines.
 
-(see p.51.)
+(see [page 51](#page-51).)
 
 
 # [370](#page-370)
@@ -3292,7 +3294,7 @@ For treatment of bacterial infections of the vagina.
 
 Mix 2 tablespoons of povidone iodine in a liter of warm water that has been boiled.
 
-As shown on page 242, give 1 douche a day for 10 to 14 days.
+As shown on [page 242](#page-242), give 1 douche a day for 10 to 14 days.
 
 Povidone iodine can also be used to prevent goiter if there is no iodized salt.
 
@@ -3328,9 +3330,9 @@ Sulfur is useful for many skin problems:
 
   2. To help treat scabies, burrowing fleas, mites, and tiny ticks in or on the skin.
 
-  Make an ointment: Mix 1 part of sulfur with 10 parts of petrolatum (Vaseline) or lard, and smear this on the skin (see p.199).
+  Make an ointment: Mix 1 part of sulfur with 10 parts of petrolatum (Vaseline) or lard, and smear this on the skin (see [page 199](#page-199)).
 
-  3. For ringworm, tinea, and other fungus infections, use the same ointment, 3 or 4 times a day, or a lotion of sulfur and vinegar (see p.205).
+  3. For ringworm, tinea, and other fungus infections, use the same ointment, 3 or 4 times a day, or a lotion of sulfur and vinegar (see [page 205](#page-205)).
 
   4. For cradle cap (seborrhea) and severe dandruff, the same ointment can be used, or the scalp can be dusted with sulfur.
 
@@ -3371,7 +3373,7 @@ Cortico-steroid ointments or lotions
 
 These can be used for ‘weeping’ or severely itchy skin irritations caused by insect bites, by touching certain ‘poisonous’ plants, and other things.
 
-They are also useful in treating severe eczema (see p.216) and psoriasis (p. 216).
+They are also useful in treating severe eczema (see [page 216](#page-216)) and psoriasis (p. 216).
 
 Use 3 or 4 times a day.
 
@@ -3379,7 +3381,7 @@ Avoid using for long periods of time, or on large areas of skin.
 
 Petroleum jelly (petrolatum, Vaseline)
 
-Useful for preparing ointments or dressings in the treatment of: scabies (see p.199 and 372), ringworm (p. 371), itching from pinworm (p. 141), burns (p. 96 and 97), chest wounds (p. 91).
+Useful for preparing ointments or dressings in the treatment of: scabies (see [page 199](#page-199) and 372), ringworm (p. 371), itching from pinworm (p. 141), burns ([page 96](#page-96) and 97), chest wounds (p. 91).
 
 
 
@@ -3422,7 +3424,7 @@ Also, an ointment can be made using 1 part sulfur to 10 parts of lard.
 Sodium thiosulfate (‘hypo’)
 Often comes as white crystals, sold in photographic supply stores as ‘hypo’.
 
-Used for tinea versicolor infections of the skin (see p.206).
+Used for tinea versicolor infections of the skin (see [page 206](#page-206)).
 
 Dissolve a tablespoon of ‘hypo’ in 1⁄2 cup of water and spread it on the skin with a piece of cotton or cloth.
 
@@ -3480,7 +3482,7 @@ Give once a day for at least a month.
 
 - children under 3 years: 125 mg (1⁄2 capsule)
 
-Gentian violet—for yeast infections (see p.370)
+Gentian violet—for yeast infections (see [page 370](#page-370))
 
 # [372](#page-372)
 {:.no_toc}
@@ -3579,7 +3581,7 @@ at this time as well.
 
 Resistance is developing to Crotamiton, so it does not always work.
 
-Ivermectin (see p.377)
+Ivermectin (see [page 377](#page-377))
 
 Sulfur in petroleum jelly (Vaseline) or lard
 
@@ -4158,7 +4160,7 @@ These eye ointments can be used for ‘pink eye’ caused by bacteria and for tr
 
 For complete cure of trachoma, tetracycline (p. 355) or erythromycin (p. 354) should be taken by mouth also.
 
-Eye ointment can also be used to prevent sties and treat corneal ulcers (see p.224).
+Eye ointment can also be used to prevent sties and treat corneal ulcers (see [page 224](#page-224)).
 
 For an eye ointment to do any good, it must be put inside the eyelid, not outside.
 
@@ -4166,7 +4168,7 @@ Use it 3 or 4 times a day.
 
 Use 1% tetracycline or erythromycin 0.5% to 1% ointment to protect newborn babies’ eyes from gonorrhea and chlamydia.
 
-(see p.221 for information about how to treat these diseases in the newborn.) If antibiotic eye ointments are not available, you can use 1 drop of 2.5% solution
+(see [page 221](#page-221) for information about how to treat these diseases in the newborn.) If antibiotic eye ointments are not available, you can use 1 drop of 2.5% solution
 of povidone-iodine or 1 drop of 1% solution of silver nitrate in each eye.
 
 Silver nitrate (or other “silver” eye medicines) stops gonorrhea blindness, but does not stop the blindness that comes from chlamydia.
@@ -4325,7 +4327,7 @@ Inject both into and under the skin at points about 1 cm.
 
 apart.
 
-Be sure to pull back on the plunger before injecting (see p.73).
+Be sure to pull back on the plunger before injecting (see [page 73](#page-73)).
 
 Inject slowly.
 
@@ -4435,7 +4437,7 @@ As an occasional antacid, mix 1⁄2 teaspoon of sodium bicarbonate with water an
 
 Do not use often.
 
-For cleaning teeth, baking soda or a mixture of ‘soda’ and salt can be used instead of toothpaste (see p.230).
+For cleaning teeth, baking soda or a mixture of ‘soda’ and salt can be used instead of toothpaste (see [page 230](#page-230)).
 
 WARNING: Persons with certain heart problems (failure) or with swelling of the feet or face should not take sodium bicarbonate or other products high in sodium (like salt).
 
@@ -4472,7 +4474,7 @@ Omeprazole can calm pain and help an ulcer heal.
 
 But to kill the bacteria that cause the ulcer, use omeprazole with 2 antibiotics: either amoxicillin or tetracycline; and metronidazole.
 
-Be sure to follow the advice on p. 128 and 129 to treat and prevent ulcers.
+Be sure to follow the advice on [page 128](#page-128) and 129 to treat and prevent ulcers.
 
 Dosage of omeprazole for treatment of ulcers: 40 mg once a day for 10 to 14 days
 Ranitidine (Zantac)
@@ -4484,18 +4486,18 @@ Ranitidine can calm pain and help an ulcer to heal.
 
 But to kill the bacteria that cause the ulcer, use ranitidine with 2 antibiotics: either amoxicillin or tetracycline; and metronidazole.
 
-But be sure to also follow the advice on p. 128 and 129 to treat and prevent ulcers.
+But be sure to also follow the advice on [page 128](#page-128) and 129 to treat and prevent ulcers.
 
 Dosage of ranitidine for treatment of ulcers:
 150 mg twice a day, or 300 mg at dinnertime,
 for 1 week.
 
 FOR SEVERE DIARRHEA AND DEHYDRATION: REHYDRATION DRINKS, ‘ORS’, AND ZINC
-Instructions for making Rehydration Drink with cereal or ordinary sugar are on page 152.
+Instructions for making Rehydration Drink with cereal or ordinary sugar are on [page 152](#page-152).
 
 In some countries packets of a simple sugar (glucose) and salts for making a rehydration drink are sold in stores or are available at health posts.
 
-While these packets are sometimes convenient, a homemade mix using cereal or sugar and a little salt, as described on page 152, combats diarrhea as well or better.
+While these packets are sometimes convenient, a homemade mix using cereal or sugar and a little salt, as described on [page 152](#page-152), combats diarrhea as well or better.
 
 It is better to make a home mix and spend the money you save on more and better food.
 
@@ -4550,7 +4552,7 @@ children over 6 months: 20 mg babies under 6 months:10 mg
 {:.no_toc}
 
 FOR HARD STOOLS (CONSTIPATION): LAXATIVES
-A discussion of the use and misuse of different laxatives and purges is found on page 15.
+A discussion of the use and misuse of different laxatives and purges is found on [page 15](#page-15).
 
 Laxatives are used far too much.
 
@@ -4660,7 +4662,7 @@ Do not give to children under 12.
 FOR STUFFY NOSE
 To help open a stuffy nose, often all that
 is needed is to sniff water with a little salt in
-it, as described on page 164.
+it, as described on [page 164](#page-164).
 
 Occasionally, decongestant drops may be used, as follows:
 Nose drops with ephedrine or phenylephrine (Neo-Synephrine)
@@ -4671,7 +4673,7 @@ These may be used for stuffy or ‘runny’ nose, especially if a person has (or
 
 Dosage for decongestant nose drops:
 Put 1 or 2 drops in each nostril as shown on
-page 164.
+[page 164](#page-164).
 
 Do this 4 times a day.
 
@@ -4699,9 +4701,9 @@ The best and most important cough medicine is water.
 
 Drinking a lot of water and breathing hot water vapors loosen mucus and help calm cough far better than most cough syrups.
 
-For instructions, see page 168.
+For instructions, see [page 168](#page-168).
 
-Also, instructions for a homemade cough syrup are given on page 169.
+Also, instructions for a homemade cough syrup are given on [page 169](#page-169).
 
 Cough-calmers (cough suppressants): codeine
 
@@ -4722,7 +4724,7 @@ Less is needed to calm cough than to control pain.
 
 To calm cough in adults, 7 to 15 mg of codeine is usually enough.
 
-Children should be given less, according to age or weight (see p.62).
+Children should be given less, according to age or weight (see [page 62](#page-62)).
 
 For severe pain, adults can take 30 to 60 mg of codeine every 4 hours.
 
@@ -4738,7 +4740,7 @@ Use only for a few days.
 
 FOR ASTHMA
 
-To help prevent and manage asthma correctly, see page 167.
+To help prevent and manage asthma correctly, see [page 167](#page-167).
 
 Persons who suffer from asthma should keep asthma medicines at home.
 
@@ -4808,7 +4810,7 @@ If you are pregnant, it is better to control and treat your asthma than to have 
 
 Beclomethasone can be used while breastfeeding, but use the minimum amount you can.
 
-If you get thrush in the mouth (see p.232), treat it with nystatin or miconozole (see p.372).
+If you get thrush in the mouth (see [page 232](#page-232)), treat it with nystatin or miconozole (see [page 372](#page-372)).
 
 Remember to rinse your mouth after each treatment.
 
@@ -4870,7 +4872,7 @@ breathing and other medicines are not available.
 2.
 
 severe allergic reactions or allergic shock due
-to penicillin injections, tetanus antitoxin, or other antitoxins made from horse serum (see p.70).
+to penicillin injections, tetanus antitoxin, or other antitoxins made from horse serum (see [page 70](#page-70)).
 
 Dosage of epinephrine for asthma—using ampules of 1 mg in 1 ml of liquid—
 First count the pulse.
@@ -5179,7 +5181,7 @@ Often 2 or more vials are necessary.
 To be most helpful, antivenom should be injected as soon as possible after the bite.
 
 
-Be sure to take the necessary precautions to avoid allergic shock (see p.70).
+Be sure to take the necessary precautions to avoid allergic shock (see [page 70](#page-70)).
 
 
 Antitetanus immunoglobulin
@@ -5191,7 +5193,7 @@ In areas where there are people who have not been vaccinated against tetanus, ma
 Do not give tetanus antitoxin made from horse serum, which should only be used in livestock, not people.
 
 
-If a person who is not fully vaccinated against tetanus has a severe wound likely to cause tetanus (see p.89), before he develops the signs of tetanus, inject 250 U (1 vial) of antitetanus immunoglobulin.
+If a person who is not fully vaccinated against tetanus has a severe wound likely to cause tetanus (see [page 89](#page-89)), before he develops the signs of tetanus, inject 250 U (1 vial) of antitetanus immunoglobulin.
 
 
 If a person develops the signs of tetanus, inject 5,000 U of antitetanus immunoglobulin.
@@ -5282,7 +5284,7 @@ For children 12 years old or younger, give 1 dose by mouth at night, either all 
 
 We do not give the dosage for preparing an injectable solution of phenobarbital here because these injections are very dangerous.
 
-They should only be given by a person who has experience preparing the solution and giving injections into a vein (see p.178).
+They should only be given by a person who has experience preparing the solution and giving injections into a vein (see [page 178](#page-178)).
 
 
 Phenytoin (diphenylhydantoin, Dilantin)
@@ -5448,7 +5450,7 @@ Be careful not to give too much! Do not give to women with kidney problems.
 
 ## FOR SEVERE BLEEDING AFTER BIRTH (POSTPARTUM HEMORRHAGE)
 
-For information on the right and wrong use of medicines to control bleeding after birth, see page 266.
+For information on the right and wrong use of medicines to control bleeding after birth, see [page 266](#page-266).
 
 Oxytocin, misoprostol, and ergometrine should only be used to control bleeding after the bay is born.
 
@@ -5461,7 +5463,7 @@ But do not use ergonovine or ergometrine before the afterbirth comes out, as thi
 Pituitrin is similar to oxytocin, but more dangerous, and should never be used except in a case of emergency bleeding when oxytocin, misoprostol, and ergometrine are not available.
 
 
-For bleeding in the newborn child, use vitamin K (see p.392).
+For bleeding in the newborn child, use vitamin K (see [page 392](#page-392)).
 
 Vitamin K is of no use for bleeding of the woman from childbirth, miscarriage, or abortion.
 
@@ -5552,7 +5554,7 @@ a cortico-steroid.
 
 Special ointments are also available.
 
-Diets to soften stools are important (see p.126).
+Diets to soften stools are important (see [page 126](#page-126)).
 
 
 Dosage:
@@ -5569,7 +5571,7 @@ It is rich in body-building vitamins and minerals.
 
 When breast milk is not available, other milk products—including powdered milk—can be used.
 
-To allow a baby to make full use of its food value, mix the powdered milk with some sugar and cooking oil (see p.120).
+To allow a baby to make full use of its food value, mix the powdered milk with some sugar and cooking oil (see [page 120](#page-120)).
 
 
 In 1 cup of boiled water, put:
@@ -5599,7 +5601,7 @@ If additional vitamins are needed, use vitamin tablets.
 
 In some cases of poor nutrition added vitamins may help, and multivitamins can be helpful for people with HIV.
 
-Be sure the tablets used contain all the important vitamins (see p.118).
+Be sure the tablets used contain all the important vitamins (see [page 118](#page-118)).
 
 
 Using standard tablets of mixed vitamins, 1 tablet daily is usually enough.
@@ -5832,11 +5834,11 @@ The amounts of each hormone are the same in all 21 hormone pills in each pack.
 
 ### oral contraceptives (birth control pills)
 
-Information about the use, risks, and precautions for birth control pills can be found on page 289.
+Information about the use, risks, and precautions for birth control pills can be found on [page 289](#page-289).
 
 Most birth control pills contain 1 or 2 hormones similar to hormones that a woman’s body normally makes during her menstrual cycle (see pages 245 and 291).
 
-These hormones are called estrogen and progestin (see p.288).
+These hormones are called estrogen and progestin (see [page 288](#page-288)).
 
 Each type of pill comes in different strengths of each hormone and is sold under many different brand names.
 
@@ -6124,20 +6126,20 @@ In addition to helping prevent pregnancy, condoms can also help prevent the spre
 
 Many people use condoms along with another form of birth control.
 
-See p. 287 for use and care of condoms.
+[See page 287](#page-287) for use and care of condoms.
 
 **Diaphragm**
 
 The diaphragm is most effective when used with a spermicide cream or jelly.
 
-Put some inside the diaphragm, and also spread some on the rim before putting it in the vagina (see p.291).
+Put some inside the diaphragm, and also spread some on the rim before putting it in the vagina (see [page 291](#page-291)).
 
 Name of jelly or cream:
 
 Spermicides (Well-known brands: Emko, Koromex, Delfen, Gynol II, VCF )
 
 
-Spermicides come in different forms to put in the vagina just before having sex, or to use with a condom or diaphragm (see page 290).
+Spermicides come in different forms to put in the vagina just before having sex, or to use with a condom or diaphragm (see [page 290](#page-290)).
 
 Do not douche or wash the spermicide out of the vagina for at least 6 hours after sex.
 
@@ -6179,7 +6181,7 @@ Or it may happen because the health worker did not put in the IUD under clean co
 
 If a woman with an IUD has any signs of infection, she should see a trained health worker right away.
 
-See page 243.
+See [page 243](#page-243).
 
 
 **Injectable contraceptives**
@@ -6193,7 +6195,7 @@ The hormones also make the mucus at the opening of the womb very thick, which he
 
 Progestin-only injections, such as Depo- Provera and Noristerat, contain only the hormone progestin.
 
-These are especially good for women who should not use estrogen, but should not be used by women who should not take any type of oral contraceptive (see p.289).
+These are especially good for women who should not use estrogen, but should not be used by women who should not take any type of oral contraceptive (see [page 289](#page-289)).
 
 Progestin-only injections almost always cause changes in the monthly bleeding.
 
@@ -6208,7 +6210,7 @@ Combined injections, such as Mesigyna or Cyclofem, contain both estrogen and pro
 
 These injections are good for women who want to have regular monthly bleeding.
 
-Women who are breastfeeding or who should not use combination pills should not use combined injections (see p.289).
+Women who are breastfeeding or who should not use combination pills should not use combined injections (see [page 289](#page-289)).
 
 Combined injections are given every month and are more expensive than progestin-only injections.
 
@@ -6229,7 +6231,7 @@ Implants work by preventing the woman’s ovaries from releasing an egg.
 
 The hormone also makes the mucus at the opening of the womb very thick, which helps stop the sperm from getting inside the womb.
 
-Implants can be used by women who are breastfeeding, but should not be used by women who should not use any type of oral contraceptive (see p.289).
+Implants can be used by women who are breastfeeding, but should not be used by women who should not use any type of oral contraceptive (see [page 289](#page-289)).
 
 Jadelle has 2 tubes and prevents pregnancy for 5 years.
 
@@ -6259,7 +6261,7 @@ No medicine can cure HIV yet, but medicines called antiretrovirals can help peop
 
 Taken daily as a combination of at least 3 medicines, this is called Antiretroviral Therapy, or ART.
 
-The medicine cotrimoxazole (see p.357) can prevent many infections in people with HIV.
+The medicine cotrimoxazole (see [page 357](#page-357)) can prevent many infections in people with HIV.
 
 
 
@@ -6275,7 +6277,7 @@ As soon as you have a positive HIV test, try to find an HIV care program where h
 
 **When is ART needed?**
 
-• People who test positive for HIV need ART, especially if they are becoming less able to fight illnesses well (see p.400).
+• People who test positive for HIV need ART, especially if they are becoming less able to fight illnesses well (see [page 400](#page-400)).
 
 A blood test called a CD4 cell count can measure how well the body is able to fight illnesses.
 
@@ -6360,7 +6362,7 @@ This is called Post-Exposure Prophylaxis, or PEP.
 
 
 
-If you may have been exposed to HIV (see p.399 for how HIV is spread), start PEP as soon as possible.
+If you may have been exposed to HIV (see [page 399](#page-399) for how HIV is spread), start PEP as soon as possible.
 
 The decision about whether to take PEP can be complicated—talk with a health worker you trust.
 

@@ -103,7 +103,7 @@ _Inject these medicines:_ antihistamines, for example, [promethazine](#page-385)
 
 _Sicknesses:_ [Severe allergic reaction and allergic shock](#page-70)
 
-_Inject these medicines:_  epinephrine [Adrenalin](#page-385) (p. 70) and, if possible, diphenhydramine ([Benadryl](#page-386))
+_Inject these medicines:_  epinephrine [Adrenalin](#page-385) ([page 70](#page-70)) and, if possible, diphenhydramine ([Benadryl](#page-386))
 
 •
 {:.center.spacer}
@@ -155,17 +155,17 @@ NEVER inject a medicine unless you know and take all the recommended precautions
 
 In general, it is better **never to inject** the following:
 
-1. Vitamins. Rarely are injected vitamins any better than vitamins taken by mouth. Injections are more expensive and more dangerous. Use vitamin pills or syrups rather than injections. Better still, eat foods rich in vitamins (see p. 111).
+1. Vitamins. Rarely are injected vitamins any better than vitamins taken by mouth. Injections are more expensive and more dangerous. Use vitamin pills or syrups rather than injections. Better still, eat foods rich in vitamins (see [page 111](#page-111)).
 
-2. Liver extract, vitamin B12, and iron injections (such as Imferon). Injecting these can cause abscesses or dangerous reactions (shock, p. 70). Ferrous sulfate pills will do more good for almost all cases of anemia (p. 392).
+2. Liver extract, vitamin B12, and iron injections (such as Imferon). Injecting these can cause abscesses or dangerous reactions (shock, [page 70](#page-70)). Ferrous sulfate pills will do more good for almost all cases of anemia ([page 392](#page-392)).
 
 3. Calcium. Injected into a vein calcium is extremely dangerous, if not given very slowly. An injection in the buttock may cause a large abscess. Untrained people should never inject calcium.
 
 4. Penicillin. Nearly all infections that require penicillin can be effectively treated with penicillin taken by mouth. Penicillin is more dangerous when injected. Use injectable penicillin only for dangerous infections.
 
-5. Chloramphenicol or tetracycline. These medicines do as much or more good when taken by mouth. Use capsules or syrups rather than injections (pages 355 and 356).
+5. Chloramphenicol or tetracycline. These medicines do as much or more good when taken by mouth. Use capsules or syrups rather than injections ([page 355](#page-355)and [page 356](#page-356)).
 
-6. Intravenous (I.V.) solutions. These should be used only for severe dehydration and given only by someone who is well trained. When not given correctly they can cause dangerous infections or death (p. 53).
+6. Intravenous (I.V.) solutions. These should be used only for severe dehydration and given only by someone who is well trained. When not given correctly they can cause dangerous infections or death ([page 53](#page-53)).
 
 7. Intravenous medicines. There is so much danger in injecting any medicine in the vein that only well trained health workers should do it. However, never inject into a muscle (the buttock) medicine that says ‘for intravenous use only’. Also, never inject in the vein medicine that says ‘for intramuscular use only’.
 
@@ -194,7 +194,7 @@ If any of the following signs of allergic or poisonous reaction appear, never gi
 
 • difficulty breathing
 
-• signs of shock (see p. 70)
+• signs of shock (see [page 70](#page-70))
 
 • dizzy spells with nausea (wanting to vomit)
 
@@ -208,7 +208,7 @@ If any of the following signs of allergic or poisonous reaction appear, never gi
 
 An abscess like this one comes from injecting with a needle that has not been well boiled and is not sterile (completely clean and germ free).
 
-Hives, or a rash with itching, can appear a few hours or up to several days after getting an injection. If the same medicine is given to the person again, it may cause a very severe reaction or even death (see p. 70).
+Hives, or a rash with itching, can appear a few hours or up to several days after getting an injection. If the same medicine is given to the person again, it may cause a very severe reaction or even death (see [page 70](#page-70)).
 
 This child was injected with a needle that was not sterile (boiled and completely free of germs).
 
@@ -258,11 +258,11 @@ To prevent a serious reaction from an injection:
 
 1. Use injections only when absolutely necessary.
 
-2. Before injecting one of the medicines listed above, always have ready 2 ampules of epinephrine (Adrenalin, p. 385) and an ampule of an antihistamine like promethazine (Phenergan, p. 385) or diphenhydramine (Benadryl, p. 386).
+2. Before injecting one of the medicines listed above, always have ready 2 ampules of epinephrine (Adrenalin, [page 385](#page-385)) and an ampule of an antihistamine like promethazine (Phenergan, [page 385](#page-385)) or diphenhydramine (Benadryl, [page 386](#page-386)).
 
 3. Before injecting, always ask if at any other time a similar injection caused itching or other reactions. If the person says yes, do not use this medicine or any other medicine of the same group, either injected or taken by mouth.
 
-4. In very serious cases, like scorpion or snakebite, if there is a good chance that the antitoxin might produce an allergic reaction (if the person suffers from allergies or asthma or has had horse serum before), inject promethazine or diphenhydramine 15 minutes before giving the antitoxin: adults, 25 to 50 mg; children, 10 to 25 mg, depending on their size (see p. 386).
+4. In very serious cases, like scorpion or snakebite, if there is a good chance that the antitoxin might produce an allergic reaction (if the person suffers from allergies or asthma or has had horse serum before), inject promethazine or diphenhydramine 15 minutes before giving the antitoxin: adults, 25 to 50 mg; children, 10 to 25 mg, depending on their size (see [page 386](#page-386)).
 
 5. After injecting any medicine, always stay with the person for 30 minutes to watch for any of the following signs of ALLERGIC SHOCK:
 
@@ -274,7 +274,7 @@ To prevent a serious reaction from an injection:
 
   • loss of consciousness
 
-6. If these signs appear, immediately inject epinephrine (Adrenalin): adults, 1/2 ml; children, 1/3 to 1/4 ml, depending on their size. Treat the person for SHOCK (see p. 77). Follow by giving an antihistamine in double the normal dose.
+6. If these signs appear, immediately inject epinephrine (Adrenalin): adults, 1/2 ml; children, 1/3 to 1/4 ml, depending on their size. Treat the person for SHOCK (see [page 77](#page-77)). Follow by giving an antihistamine in double the normal dose.
 
 # [71](#page-71)
 {:.no_toc}
@@ -287,7 +287,7 @@ To prevent a serious reaction from an injection:
 
 “Have you ever had a rash, itching, swelling, or trouble breathing after getting an injection of penicillin?”
 
-If the answer is yes, do not use penicillin, ampicillin, or amoxicillin. Use another antibiotic like erythromycin (p. 354) or a sulfonamide (p. 356).
+If the answer is yes, do not use penicillin, ampicillin, or amoxicillin. Use another antibiotic like erythromycin ([page 354](#page-354)) or a sulfonamide ([page 356](#page-356)).
 
 3. Before injecting penicillin:
 always have ampules of EPINEPHRINE (Adrenalin) ready.
@@ -373,7 +373,7 @@ For ideas on teaching people about the danger of unnecessary injections, see [_H
 
 # HOW TO CLEAN (STERILIZE) EQUIPMENT
 
-Many infectious diseases, such as HIV (see p. 399), hepatitis (see p. 172), and tetanus (see p. 182), can spread from a sick person to a healthy person through the use of syringes, needles, and other instruments that are not sterile (this includes the instruments used for piercing ears, acupuncture, tattoos, or circumcision). Many skin infections and abscesses also start because of this. Any time the skin is cut or pierced, it should be done only with equipment that has been sterilized.
+Many infectious diseases, such as HIV (see [page 399](#page-399)), hepatitis (see [page 172](#page-172)), and tetanus (see [page 182](#page-182)), can spread from a sick person to a healthy person through the use of syringes, needles, and other instruments that are not sterile (this includes the instruments used for piercing ears, acupuncture, tattoos, or circumcision). Many skin infections and abscesses also start because of this. Any time the skin is cut or pierced, it should be done only with equipment that has been sterilized.
 
 ## Here are some ways to sterilize equipment:
 

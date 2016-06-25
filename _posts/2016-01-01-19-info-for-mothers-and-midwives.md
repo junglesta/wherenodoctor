@@ -23,7 +23,7 @@ Irregular or painful periods are common in adolescent (teenage) girls. This does
 
  - or to take hot drinks, or put your feet in hot water.
 
-If it is very painful, it may help to take aspirin (p. 378) or ibuprofen (p. 379) and to lie down and put warm compresses on the belly.
+If it is very painful, it may help to take aspirin ([page 378](#page-378)) or ibuprofen ([page 379](#page-379)) and to lie down and put warm compresses on the belly.
 
 During the period, as at all times, a woman should take care to keep clean, get enough sleep, and eat a well balanced diet. She can eat everything she normally eats and can continue to do her usual work. It is not harmful to have sex during the menstrual period. (However, if one of the partners has HIV, the risk of infecting the other partner may be higher.)
 
@@ -37,7 +37,7 @@ During the period, as at all times, a woman should take care to keep clean, get 
 
 • If a period does not come when it should, this may be a sign of pregnancy. But for many girls who have recently begun to menstruate, and for women over 40, it is often normal to miss or have irregular periods. Worry or emotional upset may also cause a woman to miss her period.
 
-• If the bleeding comes later than expected, is more severe, and lasts longer, it may be a miscarriage (see p. 281).
+• If the bleeding comes later than expected, is more severe, and lasts longer, it may be a miscarriage (see [page 281](#page-281)).
 
 • If the menstrual period lasts more than 6 days, results in unusually heavy bleeding, or comes more than once a month, seek medical advice.
 
@@ -53,9 +53,9 @@ And when she bleeds again after 3 or 4 months, she may think she is having a mis
 
 During menopause, it is normal to feel many discomforts, anxiety, distress, ‘hot flashes’ (suddenly feeling uncomfortably hot), pains that travel all over the body, sadness, etc. After menopause is over, most women feel better again.
 
-Women who have severe bleeding or a lot of pain in the belly during menopause, or who begin to bleed again after the bleeding has stopped for months or years, should seek medical help. An examination is needed to make sure they do not have cancer or another serious problem (see p. 280).
+Women who have severe bleeding or a lot of pain in the belly during menopause, or who begin to bleed again after the bleeding has stopped for months or years, should seek medical help. An examination is needed to make sure they do not have cancer or another serious problem (see [page 280](#page-280)).
 
-After menopause, a woman’s bones may become weaker and break more easily. To prevent this, it helps to eat foods with calcium (see p. 116).
+After menopause, a woman’s bones may become weaker and break more easily. To prevent this, it helps to eat foods with calcium (see [page 116](#page-116)).
 
 Because she will not have any more children, a woman may be more free now to spend time with her grandchildren or to become more active in the community. Some become midwives or health workers at this time in their lives.
 
@@ -96,11 +96,11 @@ the mother at 9 months.
 
 ♦ In the last month of pregnancy, do not use a vaginal douche.
 
-♦ Avoid taking medicines. Some medicines can harm the developing baby. As a rule, only take medicines recommended by a health worker or doctor. (If a health worker is going to prescribe a medicine, and you think that you might be pregnant, tell her so.) You can take acetaminophen, or antacids once in a while if you need them. Vitamin and iron pills are often helpful and do no harm when taken in the right dosage. Get tested for HIV. Medicines that fight HIV can prevent the spread of HIV to the developing baby (see p. 398).
+♦ Avoid taking medicines. Some medicines can harm the developing baby. As a rule, only take medicines recommended by a health worker or doctor. (If a health worker is going to prescribe a medicine, and you think that you might be pregnant, tell her so.) You can take acetaminophen, or antacids once in a while if you need them. Vitamin and iron pills are often helpful and do no harm when taken in the right dosage. Get tested for HIV. Medicines that fight HIV can prevent the spread of HIV to the developing baby (see [page 398](#page-398)).
 
 ♦ Do not smoke or drink during pregnancy. Smoking and drinking are bad for the mother and harm the developing baby.
 
-♦ Stay far away from children with measles, especially German measles (see Rubella, p. 312).
+♦ Stay far away from children with measles, especially German measles (see Rubella, [page 312](#page-312)).
 
 ♦ Try to rest more, but also get some exercise.
 
@@ -112,21 +112,21 @@ the mother at 9 months.
 
 ## Minor Problems during Pregnancy
 
-1. Nausea or vomiting: Normally, this is worse in the morning, during the second or third month of pregnancy. It helps to eat something dry, like crackers or dry bread, before you go to bed at night and before you get out of bed in the morning. Do not eat large meals but rather smaller amounts of food several times a day. Avoid greasy foods. Tea made from mint leaves also helps. In severe cases, take an antihistamine (see p. 385) when you go to bed and when you get up in the morning.
+1. Nausea or vomiting: Normally, this is worse in the morning, during the second or third month of pregnancy. It helps to eat something dry, like crackers or dry bread, before you go to bed at night and before you get out of bed in the morning. Do not eat large meals but rather smaller amounts of food several times a day. Avoid greasy foods. Tea made from mint leaves also helps. In severe cases, take an antihistamine (see [page 385](#page-385)) when you go to bed and when you get up in the morning.
 
-2. Burning or pain in the pit of the stomach or chest (acid indigestion and heartburn, see p. 128): Eat only small amounts of food at one time and drink water often. Antacids can help, especially those with calcium carbonate (see p. 381). It may also help to suck hard candy. Try to sleep with the chest and head lifted up some with pillows or blankets.
+2. Burning or pain in the pit of the stomach or chest (acid indigestion and heartburn, see [page 128](#page-128)): Eat only small amounts of food at one time and drink water often. Antacids can help, especially those with calcium carbonate (see [page 381](#page-381)). It may also help to suck hard candy. Try to sleep with the chest and head lifted up some with pillows or blankets.
 
-3. Swelling of the feet: Rest at different times during the day with your feet up (see p. 176). Eat less salt and avoid salty foods. Tea made from maize silk (corn silk) may help (see p. 12). If the feet are very swollen, and the hands and face also swell, seek medical advice. Swelling of the feet usually comes from the pressure of the child in the womb during the last months. It is worse in women who are anemic or malnourished. So eat plenty of nutritious food.
+3. Swelling of the feet: Rest at different times during the day with your feet up (see [page 176](#page-176)). Eat less salt and avoid salty foods. Tea made from maize silk (corn silk) may help (see [page 12](#page-12)). If the feet are very swollen, and the hands and face also swell, seek medical advice. Swelling of the feet usually comes from the pressure of the child in the womb during the last months. It is worse in women who are anemic or malnourished. So eat plenty of nutritious food.
 
-4. Low back pain: This is common in pregnancy. It can be helped by exercise and taking care to stand and sit with the back straight (p. 174).
+4. Low back pain: This is common in pregnancy. It can be helped by exercise and taking care to stand and sit with the back straight ([page 174](#page-174)).
 
-5. Anemia and malnutrition: Many women in rural areas are anemic even before they are pregnant, and become more anemic during pregnancy. To make a healthy baby, a woman needs to eat well. If she is very pale and weak or has other signs of anemia and malnutrition (see p. 107 and 124), she needs to eat more protein and food with iron. Beans, groundnuts, chicken, milk, cheese, eggs, meat, fish, and dark green leafy vegetables are good choices. She should also take iron pills (p. 392), especially if it is hard to get enough nutritious foods. This way she will strengthen her blood to resist dangerous bleeding after childbirth. If possible, iron pills should also contain some folic acid and vitamin C. (Vitamin C helps the body make better use of the iron.)
+5. Anemia and malnutrition: Many women in rural areas are anemic even before they are pregnant, and become more anemic during pregnancy. To make a healthy baby, a woman needs to eat well. If she is very pale and weak or has other signs of anemia and malnutrition (see [page 107](#page-107) and 124), she needs to eat more protein and food with iron. Beans, groundnuts, chicken, milk, cheese, eggs, meat, fish, and dark green leafy vegetables are good choices. She should also take iron pills ([page 392](#page-392)), especially if it is hard to get enough nutritious foods. This way she will strengthen her blood to resist dangerous bleeding after childbirth. If possible, iron pills should also contain some folic acid and vitamin C. (Vitamin C helps the body make better use of the iron.)
 
-6. Swollen veins (varicose veins): These are common in pregnancy, due to the weight of the baby pressing on the veins that come from the legs. Put your feet up often, as high as you can (see p. 175). If the veins get very big or hurt, wrap them like this with an elastic bandage, or use elastic stockings. Take off the bandage or stockings at night.
+6. Swollen veins (varicose veins): These are common in pregnancy, due to the weight of the baby pressing on the veins that come from the legs. Put your feet up often, as high as you can (see [page 175](#page-175)). If the veins get very big or hurt, wrap them like this with an elastic bandage, or use elastic stockings. Take off the bandage or stockings at night.
 
 7. Piles (hemorrhoids): These are varicose veins in the anus. They result from the weight of the baby in the womb.
 To relieve the pain, kneel with the buttocks in the air like this:
-Or sit in a warm bath. Also see p. 175.
+Or sit in a warm bath. Also see [page 175](#page-175).
 
 8. Constipation: Drink plenty of water. Eat fruits and food with a lot of natural fiber, like cassava or bran. Get plenty of exercise. Do not take strong laxatives.
 
@@ -137,16 +137,16 @@ Or sit in a warm bath. Also see p. 175.
 
 ## Danger Signs in Pregnancy
 
-1. Bleeding: If a woman begins to bleed during pregnancy, even a little, this is a danger sign. She could be having a miscarriage (losing the baby, p. 281) or the baby could be developing outside the womb (ectopic pregnancy, see p. 280). The woman should lie quietly and send for a health worker.
+1. Bleeding: If a woman begins to bleed during pregnancy, even a little, this is a danger sign. She could be having a miscarriage (losing the baby, [page 281](#page-281)) or the baby could be developing outside the womb (ectopic pregnancy, see [page 280](#page-280)). The woman should lie quietly and send for a health worker.
 
 Bleeding late in pregnancy (after 6 months) may mean the placenta (afterbirth) is blocking the birth opening (placenta previa). Without expert help, the woman could quickly bleed to death. Do not do a vaginal exam or put anything inside her vagina. Try to get her to a hospital at once.
 
-2. Severe anemia: The woman is weak, tired, and has pale or transparent skin (see The Signs of Anemia, p. 124). If not treated, she might die from blood loss at childbirth. If anemia is severe, a good diet is not enough to correct the condition in time. See a health worker and get iron sulfate pills (see p. 392). If possible, she should have her baby in a hospital, in case extra blood is needed.
+2. Severe anemia: The woman is weak, tired, and has pale or transparent skin (see The Signs of Anemia, [page 124](#page-124)). If not treated, she might die from blood loss at childbirth. If anemia is severe, a good diet is not enough to correct the condition in time. See a health worker and get iron sulfate pills (see [page 392](#page-392)). If possible, she should have her baby in a hospital, in case extra blood is needed.
 
 3. High blood pressure or other signs of pre-eclampsia: Blood pressure
 of 140/90 or greater can be a sign of a serious problem called pre-eclampsia (toxemia). A lot of protein in the urine, sudden weight gain, and swelling are other important signs. Pre-eclampsia can lead to seizures (convulsions, fits) and even death.
 
-If a woman has high blood pressure, ask her to lie down and rest more often. Help her get plenty of good foods and to eat a lot of protein (p. 110). She should avoid salty packaged foods and snacks. Re-check her blood pressure in a few days.
+If a woman has high blood pressure, ask her to lie down and rest more often. Help her get plenty of good foods and to eat a lot of protein ([page 110](#page-110)). She should avoid salty packaged foods and snacks. Re-check her blood pressure in a few days.
 
 If you cannot check for high blood pressure or protein in the urine, watch for these other signs of pre-eclampsia:
 
@@ -160,11 +160,11 @@ If you cannot check for high blood pressure or protein in the urine, watch for t
 
 • Pain high in the belly
 
-If her blood pressure keeps going up (to 160/110 or higher) or if she shows any of these signs ,  get medical help fast! If she is already having seizures, see p. 178.
+If her blood pressure keeps going up (to 160/110 or higher) or if she shows any of these signs ,  get medical help fast! If she is already having seizures, see [page 178](#page-178).
 
 ## HIV and Pregnancy
 
-If the mother has HIV, HIV can spread to her baby while it is still in her womb or during birth. Medicines can help prevent the baby from getting HIV. Talk to a health worker who has experience working with people who have HIV, and see p. 398 for more information.
+If the mother has HIV, HIV can spread to her baby while it is still in her womb or during birth. Medicines can help prevent the baby from getting HIV. Talk to a health worker who has experience working with people who have HIV, and see [page 398](#page-398) for more information.
 
 
 # [250](#page-250)
@@ -185,11 +185,11 @@ she has had, when she had her last baby, and any problems she may have had durin
 
 ♦ **Eating right**. Encourage her to eat enough energy foods, and also foods rich in protein, vitamins, iron, and calcium (see Chapter 11).
 
-♦ **Good hygiene** (Chapter 12 and p. 242).
+♦ **Good hygiene** (Chapter 12 and [page 242](#page-242)).
 
-♦ The importance of taking **few or no medicines** (p. 54)
+♦ The importance of taking **few or no medicines** ([page 54](#page-54))
 
-♦ The importance of **not smoking** (p. 149), **not drinking alcoholic drinks** (p. 148), and **not using drugs** (pages 416 and 417).
+♦ The importance of **not smoking** ([page 149](#page-149)), **not drinking alcoholic drinks** ([page 148](#page-148)), and **not using drugs** (pages 416 and 417).
 
 ♦ Getting enough **exercise and rest.**
 
@@ -197,7 +197,7 @@ she has had, when she had her last baby, and any problems she may have had durin
 
 2. **Nutrition**
 
-Does the mother look well nourished? Is she anemic? If so, discuss ways of eating better. If possible, see that she gets iron pills preferably with folic acid and vitamin C. Advise her about how to handle morning sickness (p. 248) and heartburn (p. 128).
+Does the mother look well nourished? Is she anemic? If so, discuss ways of eating better. If possible, see that she gets iron pills preferably with folic acid and vitamin C. Advise her about how to handle morning sickness ([page 248](#page-248)) and heartburn ([page 128](#page-128)).
 
 Is she gaining weight normally? If possible, weigh her each visit. Normally she should gain 8 to 10 kilograms during the nine months of pregnancy. If she stops gaining weight, this is a bad sign. Sudden weight gain in the last months is a sign of pre-eclampsia. If you do not have scales, try to judge if she is gaining weight by how she looks.
 
@@ -212,13 +212,13 @@ _Where There Is No Doctor_  2015 251 Ask the mother if she has any of the common
 
 
 3. **Minor problems**
-that they are not serious, and give what advice you can (see p. 248).
+that they are not serious, and give what advice you can (see [page 248](#page-248)).
 
 4. **Signs of danger and special risk**
-Check for each of the danger signs on p. 249. Take the mother’s pulse each visit.
-This will let you know what is normal for her in case she has problems later (for example, shock from pre-eclampsia or severe bleeding). If you have a blood pressure cuff, take her blood pressure (see p. 410). And weigh her.
+Check for each of the danger signs on [page 249](#page-249). Take the mother’s pulse each visit.
+This will let you know what is normal for her in case she has problems later (for example, shock from pre-eclampsia or severe bleeding). If you have a blood pressure cuff, take her blood pressure (see [page 410](#page-410)). And weigh her.
 
-Watch out especially for the following danger signs of pre-eclampsia: (p. 249)
+Watch out especially for the following danger signs of pre-eclampsia: ([page 249](#page-249))
 
   • high blood pressure (140/90 or greater)
 
@@ -234,7 +234,7 @@ Watch out especially for the following danger signs of pre-eclampsia: (p. 249)
 
   • pain high in the belly
 
-Some midwives may have paper ‘dip sticks’ or other methods for measuring the protein and sugar in the urine. High protein may be a sign of pre-eclampsia. High sugar could be a sign of diabetes (p. 127).
+Some midwives may have paper ‘dip sticks’ or other methods for measuring the protein and sugar in the urine. High protein may be a sign of pre-eclampsia. High sugar could be a sign of diabetes ([page 127](#page-127)).
 
 If any of the danger signs appear, see that the woman gets medical help as soon as possible. Also, check for signs of special risk, page 256. If any are present, it is safer if the mother gives birth in a hospital.
 
@@ -332,7 +332,7 @@ Make a table and annotate:
 
  - ANEMIA (how severe?)
 
- - DANGER SIGNS (see p. 249)
+ - DANGER SIGNS (see [page 249](#page-249))
 
  - SWELLING (where? how much?)
 
@@ -401,18 +401,18 @@ Sterile syringe and needles.
 
 Several injections of oxytocin or ergonovine, or tablets of misoprostol (see pages 390 and 391).
 
-HIV medicines for mother and baby if mother or father has HIV (see p. 398).
+HIV medicines for mother and baby if mother or father has HIV (see [page 398](#page-398)).
 
 Fetoscope, or fetal stethoscope, for listening to the baby’s heartbeat through the mother’s belly.
 
 Blunt-tipped scissors for cutting the cord before the baby is all the way born (extreme emergency only).
 
 Two clamps (hemostats) for clamping the umbilical cord or clamping bleeding veins from tears of birth opening.
-Rubber or plastic gloves (that can be sterilized by boiling, see p. 74) to wear while examining the woman, while the baby is coming out, when sewing tears in the birth opening, and for catching and examining afterbirth.
+Rubber or plastic gloves (that can be sterilized by boiling, see [page 74](#page-74)) to wear while examining the woman, while the baby is coming out, when sewing tears in the birth opening, and for catching and examining afterbirth.
 
 Sterile needle and gut thread for sewing tears in the birth opening.
 
-Tetracycline or erythromycin eye ointment for the baby’s eyes to prevent dangerous infection (see p. 221).
+Tetracycline or erythromycin eye ointment for the baby’s eyes to prevent dangerous infection (see [page 221](#page-221)).
 
 
 
@@ -435,7 +435,7 @@ Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife At
 
 • If the woman begins to bleed before labor.
 
-• If there are signs of pre-eclampsia (see p. 249).
+• If there are signs of pre-eclampsia (see [page 249](#page-249)).
 
 • If the woman is suffering from a chronic or acute illness.
 
@@ -446,7 +446,7 @@ Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife At
 
 • If she has had more than 5 or 6 babies.
 
-• If she is especially short or has narrow hips (p. 267).
+• If she is especially short or has narrow hips ([page 267](#page-267)).
 
 • If she has had serious trouble or severe bleeding with other births.
 
@@ -454,7 +454,7 @@ Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife At
 
 • If she has a hernia.
 
-• If it looks like she will have twins (see p. 269).
+• If it looks like she will have twins (see [page 269](#page-269)).
 
 • If it seems the baby is not in a good position (head down) in the womb.
 
@@ -505,7 +505,7 @@ If the baby’s head is down, his birth is likely to go well.
 
 If the head is up, the birth may be more difficult (a breech birth), and it is safer for the mother give birth in or near a hospital.
 
-If the baby is sideways, the mother should have her baby in a hospital. She and the baby are in danger (see p. 267).
+If the baby is sideways, the mother should have her baby in a hospital. She and the baby are in danger (see [page 267](#page-267)).
 
 
 
@@ -592,7 +592,7 @@ THE SECOND STAGE OF LABOR, in which the child is born: Sometimes this begins whe
 
 To bear down, the mother should take a deep breath and push hard with her stomach muscles, as if she were having a bowel movement. If the child comes slowly after the bag of waters breaks, the mother can double her knees like this, while squatting, sitting propped up, kneeling, or lying down.
 
-When the birth opening of the mother stretches, and the baby’s head begins to show, the midwife or helper should have everything ready for the birth of the baby. At this time the mother should try not to push hard, so that the head comes out more slowly. This helps prevent tearing of the opening (see p. 269 for more details).
+When the birth opening of the mother stretches, and the baby’s head begins to show, the midwife or helper should have everything ready for the birth of the baby. At this time the mother should try not to push hard, so that the head comes out more slowly. This helps prevent tearing of the opening (see [page 269](#page-269) for more details).
 
 In a normal birth, the midwife NEVER needs to put her hand or finger inside the mother. This is the most common cause of dangerous infections of the mother after the birth.
 
@@ -609,8 +609,8 @@ Normally the baby is born head first like this:
 
   Now push hard.
 
-Now try not to push hard. Take many short, fast breaths. This helps prevent tearing the opening (see p. 269).
-The head usually comes out face down. If the baby has feces (shit) in her mouth and nose, clean it out immediately (see p. 262).
+Now try not to push hard. Take many short, fast breaths. This helps prevent tearing the opening (see [page 269](#page-269)).
+The head usually comes out face down. If the baby has feces (shit) in her mouth and nose, clean it out immediately (see [page 262](#page-262)).
 
 Then the baby’s body turns to one side so the shoulders can come out.
 
@@ -625,7 +625,7 @@ All the force must come from the mother. The midwife should never pull on the he
 # [262](#page-262)
 {:.no_toc}
 
-THE THIRD STAGE OF LABOR begins when the baby has been born and lasts until the placenta (afterbirth) comes out. Usually, the placenta comes out by itself 5 minutes to an hour after the baby. In the meantime, care for the baby. If there is a lot of bleeding (see p. 265) or if the placenta does not come out within 1 hour, seek medical help.
+THE THIRD STAGE OF LABOR begins when the baby has been born and lasts until the placenta (afterbirth) comes out. Usually, the placenta comes out by itself 5 minutes to an hour after the baby. In the meantime, care for the baby. If there is a lot of bleeding (see [page 265](#page-265)) or if the placenta does not come out within 1 hour, seek medical help.
 
 # CARE OF THE BABY AT BIRTH
 
@@ -639,7 +639,7 @@ Immediately after the baby comes out:
 
 ♦ If he still does not breathe, clean the mucus out of his nose and mouth with a clean cloth wrapped around your finger.
 
-♦ If the baby has not begun to breathe within one minute after birth, start MOUTH-TO-MOUTH BREATHING at once (see p. 80).
+♦ If the baby has not begun to breathe within one minute after birth, start MOUTH-TO-MOUTH BREATHING at once (see [page 80](#page-80)).
 
 ♦ Wrap the baby in a clean cloth. It is very important not to let him get cold, especially if he is premature (born too early).
 
@@ -651,7 +651,7 @@ After a while, the cord becomes thin and white. It stops pulsing. Now tie it in 
 
 
 IMPORTANT: Cut the cord with a clean, unused razor blade. Before unwrapping it, wash your hands very well. Or wear clean rubber or plastic gloves. If you do not have a new razor blade, use freshly boiled scissors.
-Always cut the cord close to the body of the newborn baby. Leave only about 2 centimeters attached to the baby. These precautions help prevent tetanus (see p. 182).
+Always cut the cord close to the body of the newborn baby. Leave only about 2 centimeters attached to the baby. These precautions help prevent tetanus (see [page 182](#page-182)).
 
 
 
@@ -664,7 +664,7 @@ If the stump or belly button becomes dirty or caked with dried blood, clean with
 
 If the baby is wearing diapers, keep the diaper folded below the cord.
 
-If the cord or the area around the cord gets red, drains pus, or smells bad, it is probably infected. Clean it well and give the baby amoxicillin (p. 353).
+If the cord or the area around the cord gets red, drains pus, or smells bad, it is probably infected. Clean it well and give the baby amoxicillin ([page 353](#page-353)).
 
 The cord stump usually falls off 5 to 7 days after birth. There may be a few drops of blood or smooth mucus when the cord falls off.
 
@@ -712,7 +712,7 @@ If the placenta still does not come out, and the bleeding continues, give medici
 
 When the placenta comes out, there is always a brief flow of blood. It normally lasts only a few minutes and not more than a quarter of a liter (1 cup) of blood is lost. (A little bleeding may continue for several days and is usually not serious.)
 
-WARNING: Sometimes a woman may be bleeding severely inside without much blood coming out. Feel her belly from time to time. If it seems to be getting bigger, it may be filling with blood. Check her pulse often and watch for signs of shock (p. 77).
+WARNING: Sometimes a woman may be bleeding severely inside without much blood coming out. Feel her belly from time to time. If it seems to be getting bigger, it may be filling with blood. Check her pulse often and watch for signs of shock ([page 77](#page-77)).
 
 
 
@@ -725,7 +725,7 @@ WARNING: Sometimes a woman may be bleeding severely inside without much blood co
 
 ♦ To help prevent or control heavy bleeding, let the baby suck the mother’s breast. If the baby will not suck, have someone else suck or gently pull and massage the mother’s nipples. This will cause her to produce a hormone that helps control bleeding.
 
-♦ The mother should drink a lot of liquid (water, fruit juices, tea, soup, or Rehydration Drink, p. 152). If she grows faint or has a fast, weak pulse or shows other signs of shock, put her legs up and her head down (see p. 77).
+♦ The mother should drink a lot of liquid (water, fruit juices, tea, soup, or Rehydration Drink, [page 152](#page-152)). If she grows faint or has a fast, weak pulse or shows other signs of shock, put her legs up and her head down (see [page 77](#page-77)).
 
 If heavy bleeding continues, or if the mother is losing a great deal of blood through a slow trickle, do the following:
 
@@ -748,15 +748,15 @@ Note: Although some doctors use it, vitamin K does not help stop bleeding relate
 
 Oxytocin, misoprostol, and ergometrine (ergonovine) are medicines that cause the uterus and its blood vessels to contract. They are important but dangerous drugs. Used the wrong way, or before the baby is born, they can cause the death of the mother or the child in her womb. Used correctly, they can save lives. These are their lifesaving uses:
 
-1. To control heavy bleeding before the placenta comes out. Inject 10 units of oxytocin in the buttock or thigh muscle one time only (p. 390). If there is no oxytocin, you can use misoprostol instead. Give 800 mcg to dissolve under the tongue (p. 391).
+1. To control heavy bleeding before the placenta comes out. Inject 10 units of oxytocin in the buttock or thigh muscle one time only ([page 390](#page-390)). If there is no oxytocin, you can use misoprostol instead. Give 800 mcg to dissolve under the tongue ([page 391](#page-391)).
 
-2. If the bleeding starts after the placenta comes out. Inject 10 units of oxytocin in the buttock or thigh muscle. You can give this dose again in 20 minutes if bleeding does not stop. Or, give the woman 800 mcg of misoprostol to dissolve under the tongue (p. 391). Or, you can give ergometrine (p. 390), but do not use ergometrine for a woman who has hypertension or before the placenta is out.
+2. If the bleeding starts after the placenta comes out. Inject 10 units of oxytocin in the buttock or thigh muscle. You can give this dose again in 20 minutes if bleeding does not stop. Or, give the woman 800 mcg of misoprostol to dissolve under the tongue ([page 391](#page-391)). Or, you can give ergometrine ([page 390](#page-390)), but do not use ergometrine for a woman who has hypertension or before the placenta is out.
 
 IMPORTANT: Midwives and other health workers who help women deliver should carry enough medicines to stop heavy bleeding if it happens. Too many mothers bleed to death who could be saved.
 
 3. To help prevent heavy bleeding after birth. Some authorities now recommend giving all women a single dose of oxytocin, misoprostol, or ergometrine to prevent heavy bleeding after birth. This will prevent some dangerous bleeding, but also treats many women with medicine when they do not need it. A midwife who only has a little medicine may choose to save the medicine she has for emergencies.
 
-4. To control the bleeding of a miscarriage (p. 281). If the woman is rapidly losing blood and medical help is far away, use oyxtocin, misoprostol, or ergometrine as suggested above.
+4. To control the bleeding of a miscarriage ([page 281](#page-281)). If the woman is rapidly losing blood and medical help is far away, use oyxtocin, misoprostol, or ergometrine as suggested above.
 
 WARNING: The use of oxytocin, misoprostol, or ergometrine to hasten childbirth or give strength to the mother’s labor is very dangerous for both her and the child. These medicines are rarely needed before the baby is born, and then only a highly trained birth attendant should use them.
 
@@ -765,9 +765,9 @@ WARNING: The use of oxytocin, misoprostol, or ergometrine to hasten childbirth o
 
 There is no safe medicine to give strength to the mother or to make the birth quicker or easier.
 
-If you want the woman to have enough strength for childbirth, have her eat plenty of nutritious foods, especially during the 9 months of pregnancy (see p. 107).
+If you want the woman to have enough strength for childbirth, have her eat plenty of nutritious foods, especially during the 9 months of pregnancy (see [page 107](#page-107)).
 
-Also encourage her to space a few years between her pregnancies so her body can regain its full strength (see Family Planning, p. 283).
+Also encourage her to space a few years between her pregnancies so her body can regain its full strength (see Family Planning, [page 283](#page-283)).
 
 
 
@@ -796,7 +796,7 @@ Drink or other liquids after each contraction.
 {:.no_toc}
 
 
-2. BREECH DELIVERY (the buttocks come out first). Sometimes the midwife can tell if the baby is in the breech position by feeling the mother’s belly (p. 257) and listening to the baby’s heartbeat (p. 252).
+2. BREECH DELIVERY (the buttocks come out first). Sometimes the midwife can tell if the baby is in the breech position by feeling the mother’s belly ([page 257](#page-257)) and listening to the baby’s heartbeat ([page 252](#page-252)).
 
 A breech birth may be easier in this position:
 
@@ -829,7 +829,7 @@ Because with twins labor often begins early, the mother should be within easy re
 
 Signs that a woman is likely to have twins:
 
-• The belly grows faster and the womb is larger than usual, especially in the last months (see p. 251)
+• The belly grows faster and the womb is larger than usual, especially in the last months (see [page 251](#page-251))
 
 • If the woman gains weight faster than normal, or the common problems of pregnancy (morning sickness, backache, varicose veins, piles, swelling, and difficult breathing) are worse than usual, be sure to check for twins.
 
@@ -852,7 +852,7 @@ The mother should try to stop pushing when the baby’s head is coming out. This
 When the birth opening is stretching, the midwife can support it with one hand and with the other hand gently keep the head from coming too fast, like this:
 It may also help to put warm compresses against the skin below the birth opening. Start when it begins to stretch. You can also massage the stretched skin with oil.
 
-If a tear does happen, someone who knows how should carefully sew it shut after the placenta comes out (see p. 86 and 379).
+If a tear does happen, someone who knows how should carefully sew it shut after the placenta comes out (see [page 86](#page-86) and 379).
 
 
 # [270](#page-270)
@@ -867,20 +867,20 @@ To prevent the freshly cut cord from becoming infected, it should be kept clean 
 
 The Eyes
 
-To protect a newborn baby’s eyes from dangerous conjunctivitis, put a line of 1% tetracycline or erythromycin 0.5% to 1% ointment in each eye within the first 2 hours (p. 221 and 378). This is especially important if either parent has ever had signs of gonorrhea or chlamydia (p. 236).
+To protect a newborn baby’s eyes from dangerous conjunctivitis, put a line of 1% tetracycline or erythromycin 0.5% to 1% ointment in each eye within the first 2 hours ([page 221](#page-221) and 378). This is especially important if either parent has ever had signs of gonorrhea or chlamydia ([page 236](#page-236)).
 
 Keeping the Baby Warm, but Not Too Warm
 
 Protect the baby from cold, but also from too much heat. Dress him as warmly as you feel like dressing yourself.
 
-To keep a baby just warm enough, keep him close to his mother’s body. This is especially important for a baby that is born early or very small. See ‘Special Care for Small, Early, and Underweight Babies’, p. 405.
+To keep a baby just warm enough, keep him close to his mother’s body. This is especially important for a baby that is born early or very small. See ‘Special Care for Small, Early, and Underweight Babies’, [page 405](#page-405).
 
 Cleanliness
 
 It is important to follow the Guidelines of Cleanliness as discussed in Chapter 12. Take special care with the following:
 
 ♦ Change the baby’s diapers (nappy) or bedding each time he wets or dirties them. If the skin gets red, change the diaper more often, or better, leave it off!
-(See p. 215.)
+(See [page 215](#page-215).)
 
 ♦ After the cord drops off, bathe the baby daily with mild soap and warm water.
 
@@ -900,7 +900,7 @@ LEAVE HIM NAKED.
 {:.no_toc}
 
 
-(Also see “The Best Diet for Small Children,” p. 120.)
+(Also see “The Best Diet for Small Children,” [page 120](#page-120).)
 
 Breast milk is by far the best food for a baby. Babies who nurse on breast milk are healthier, grow stronger, and are less likely to die. This is why:
 
@@ -914,7 +914,7 @@ Breast milk is by far the best food for a baby. Babies who nurse on breast milk 
 
 The mother should give her breast to the baby as soon as he is born. For the first few days the mother’s breasts usually produce very little milk. This is normal. She should continue to nurse her baby often, at least every two hours. The baby’s sucking will help her produce more milk. If the baby seems healthy, gains weight, and wets her diaper (nappy) regularly, the mother is producing enough milk.
 
-It is best for the baby if the mother gives him only breast milk for the first 6 months. After that, she should continue to breastfeed her baby, but should begin to give him other nourishing foods also (see p. 122). Mothers with HIV should
+It is best for the baby if the mother gives him only breast milk for the first 6 months. After that, she should continue to breastfeed her baby, but should begin to give him other nourishing foods also (see [page 122](#page-122)). Mothers with HIV should
 stop breastfeeding when the baby is 12 months old if they can give enough other nutritious foods.
 
 ## how a mother can produce more breast milk:
@@ -923,7 +923,7 @@ She should...
 
 ♦ drink plenty of liquids,
 
-♦ eat as well as possible, especially food with a lot of calcium (like milk products) and body building foods (see p. 110),
+♦ eat as well as possible, especially food with a lot of calcium (like milk products) and body building foods (see [page 110](#page-110)),
 
 ♦ get plenty of sleep and avoid getting very tired or upset,
 
@@ -946,13 +946,13 @@ Many medicines are dangerous for the newborn. Use only medicines you are sure ar
 
 Chloramphenicol, for example, is dangerous to newborns, especially if the baby is premature or underweight (less than 2 kilograms).
 
-Sometimes it is important to give medicines to a newborn. For example, giving cotrimoxazole to a baby whose mother has HIV can protect the baby’s health. See p. 357.
+Sometimes it is important to give medicines to a newborn. For example, giving cotrimoxazole to a baby whose mother has HIV can protect the baby’s health. See [page 357](#page-357).
 
 ## illnesses of the newborn
 
 It is very important to notice any problem or illness a baby may have and to act quickly.
 
-Problems the Baby Is Born With (Also see p. 316)
+Problems the Baby Is Born With (Also see [page 316](#page-316))
 
 These may result from something that went wrong with the development of the baby in the womb or from damage to the baby while he was being born. Examine the baby carefully immediately after birth. If he shows any of the following signs, something is probably seriously wrong with him:
 
@@ -967,12 +967,12 @@ pinch them.
 
 • If he grunts or has difficulty breathing after the first 15 minutes.
 
-Some of these problems may be caused by brain damage at birth. They are almost never caused by infection (unless the water broke more than 12 hours before birth). Common medicines probably will not help. Keep the baby warm, but not too warm (see p. 270). Try to get medical help.
-If the newborn baby vomits or shits blood, or develops many bruises, she may need vitamin K (see p. 392).
+Some of these problems may be caused by brain damage at birth. They are almost never caused by infection (unless the water broke more than 12 hours before birth). Common medicines probably will not help. Keep the baby warm, but not too warm (see [page 270](#page-270)). Try to get medical help.
+If the newborn baby vomits or shits blood, or develops many bruises, she may need vitamin K (see [page 392](#page-392)).
 If the baby does not urinate or have a bowel movement in the first 2 days, also seek medical help.
 Problems that Result After the Baby Is Born (in the first days or weeks)
 
-1. Pus or a bad smell from the navel or cord is a dangerous sign. Watch for early signs of tetanus (p. 182) or bacterial infection of the blood (p. 275). Clean the cord carefully with soap and cool boiled water, and leave it open to the air. If the skin around the cord becomes hot and red, give the child amoxicillin (p. 352).
+1. Pus or a bad smell from the navel or cord is a dangerous sign. Watch for early signs of tetanus ([page 182](#page-182)) or bacterial infection of the blood ([page 275](#page-275)). Clean the cord carefully with soap and cool boiled water, and leave it open to the air. If the skin around the cord becomes hot and red, give the child amoxicillin ([page 352](#page-352)).
 
 Diseases that take days or weeks to kill adults can kill a baby in a matter of hours.
 
@@ -981,9 +981,9 @@ Diseases that take days or weeks to kill adults can kill a baby in a matter of h
 {:.no_toc}
 
 
-2. Either low temperature (below 35° C) or high fever can be a sign of infection. High fever (above 39° C) is dangerous for the newborn. Take off all clothing and sponge the baby with cool (not cold) water as shown on page 76. Also look for signs of dehydration (see p. 151). If you find these signs, give the baby breast milk and also Rehydration Drink (p. 152).
+2. Either low temperature (below 35° C) or high fever can be a sign of infection. High fever (above 39° C) is dangerous for the newborn. Take off all clothing and sponge the baby with cool (not cold) water as shown on page 76. Also look for signs of dehydration (see [page 151](#page-151)). If you find these signs, give the baby breast milk and also Rehydration Drink ([page 152](#page-152)).
 
-3. Seizures (fits, convulsions, see p. 178). If the baby also has fever, treat it as just described. Be sure to check for dehydration. Seizures that begin the day of birth could be caused by brain damage at birth. If seizures begin several days later, look carefully for signs of tetanus (p. 182) or meningitis (p. 185).
+3. Seizures (fits, convulsions, see [page 178](#page-178)). If the baby also has fever, treat it as just described. Be sure to check for dehydration. Seizures that begin the day of birth could be caused by brain damage at birth. If seizures begin several days later, look carefully for signs of tetanus ([page 182](#page-182)) or meningitis ([page 185](#page-185)).
 
 4. The baby does not gain weight. During the first days of life, most babies lose a little weight. This is normal. After the first week, a healthy baby should gain about 200 g., a week. By two weeks the healthy baby should weigh as much as he did at birth. If he does not gain weight, or loses weight, something is wrong. Did the baby seem healthy at birth? Does he feed well? Examine the baby carefully for signs of infection or other problems. If you cannot find out the cause of the problem and correct it, get medical help.
 
@@ -993,11 +993,11 @@ air they have swallowed while feeding), sometimes a little milk comes up too. Th
 If a baby vomits when you lay him down after nursing, try sitting him upright for a while after each feeding.
 A baby who vomits violently, or so much and so often
 that he begins to lose weight or become dehydrated, is
-ill. If the baby also has diarrhea, he probably has a gut infection (p. 157). Bacterial infection of the blood (see the next pages), meningitis (p. 185), and other infections may also cause vomiting.
+ill. If the baby also has diarrhea, he probably has a gut infection ([page 157](#page-157)). Bacterial infection of the blood (see the next pages), meningitis ([page 185](#page-185)), and other infections may also cause vomiting.
 
-If the vomit is yellow or green, there may be a gut obstruction (p. 94), especially if the belly is very swollen or the baby has not been having bowel movements. Take the baby to a health center at once.
+If the vomit is yellow or green, there may be a gut obstruction ([page 94](#page-94)), especially if the belly is very swollen or the baby has not been having bowel movements. Take the baby to a health center at once.
 
-6. The baby stops sucking well. If more than 4 hours pass and the baby still will not nurse, this is a danger sign, especially if the baby seems very sleepy or ill, or if he cries or moves differently from normal. Many illnesses can cause these signs, but the most common and dangerous causes in the first 2 weeks of life are a bacterial infection of the blood (see next 2 pages) and tetanus (p. 182).
+6. The baby stops sucking well. If more than 4 hours pass and the baby still will not nurse, this is a danger sign, especially if the baby seems very sleepy or ill, or if he cries or moves differently from normal. Many illnesses can cause these signs, but the most common and dangerous causes in the first 2 weeks of life are a bacterial infection of the blood (see next 2 pages) and tetanus ([page 182](#page-182)).
 
 ## burp your baby after feeding.
 
@@ -1012,7 +1012,7 @@ If a Baby Stops Sucking Well or Seems Ill
 
 Examine him carefully and completely as described in Chapter 3. Be sure to check the following:
 
-• Notice if the baby has difficulty breathing. If the nose is stuffed up, suck out the mucus as shown on page 164. Fast breathing (60 or more breaths a minute), blue color, grunting, and sucking in of the skin between the ribs with each breath are signs of pneumonia (p. 171). Small babies with pneumonia often do not cough; sometimes none of the common signs are present. If you suspect pneumonia, treat as for a bacterial infection of the blood (see the next page).
+• Notice if the baby has difficulty breathing. If the nose is stuffed up, suck out the mucus as shown on page 164. Fast breathing (60 or more breaths a minute), blue color, grunting, and sucking in of the skin between the ribs with each breath are signs of pneumonia ([page 171](#page-171)). Small babies with pneumonia often do not cough; sometimes none of the common signs are present. If you suspect pneumonia, treat as for a bacterial infection of the blood (see the next page).
 
 • Look at the baby’s skin color.
 
@@ -1020,14 +1020,14 @@ If the lips and face are blue, consider pneumonia (or a heart defect or other pr
 
 If the face and whites of the eyes begin to get yellow (jaundiced) in the first day of life or after the fifth day, this is serious. Get medical help. Some yellow color between the second and fifth day of life is usually not serious. Give plenty of breast milk by spoon if necessary. Take off all the baby’s clothes and put him in bright light near a window (but not direct sunlight).
 
-• Feel the soft spot on top of the head (fontanel). See p. 9.
+• Feel the soft spot on top of the head (fontanel). See [page 9](#page-9).
 
 IMPORTANT:
 
-If a baby has meningitis and dehydration at the same time, the soft spot may feel normal. Be sure to check for other signs of both dehydration (see p. 151) and meningitis (see p. 185).
+If a baby has meningitis and dehydration at the same time, the soft spot may feel normal. Be sure to check for other signs of both dehydration (see [page 151](#page-151)) and meningitis (see [page 185](#page-185)).
 
 • Watch the baby’s movements and expression on his face.
-Stiffness of the body or strange movements may be signs of tetanus, meningitis, or brain damage from birth. If, when the baby is touched or moved, the muscles of his face and body suddenly tighten, this could be tetanus. See if his jaw will open and check his knee reflexes (p. 183).
+Stiffness of the body or strange movements may be signs of tetanus, meningitis, or brain damage from birth. If, when the baby is touched or moved, the muscles of his face and body suddenly tighten, this could be tetanus. See if his jaw will open and check his knee reflexes ([page 183](#page-183)).
 
 If the soft spot is SUNKEN, the baby may be DEHYDRATED.
 
@@ -1039,7 +1039,7 @@ If the soft spot is SWOLLEN, the baby may have MENINGITIS.
 {:.no_toc}
 
 
-If the baby’s eyes roll back or flutter when he makes sudden or violent movements, he probably does not have tetanus. Such seizures may be caused by meningitis, but dehydration and high fever are more common causes. Can you put the baby’s head between his knees? If the baby is too stiff for this or cries out in pain, it is probably meningitis (see p. 185).
+If the baby’s eyes roll back or flutter when he makes sudden or violent movements, he probably does not have tetanus. Such seizures may be caused by meningitis, but dehydration and high fever are more common causes. Can you put the baby’s head between his knees? If the baby is too stiff for this or cries out in pain, it is probably meningitis (see [page 185](#page-185)).
 
 • Look for signs of a bacterial infection in the blood.
 
@@ -1077,11 +1077,11 @@ Newborn babies do not always have a fever when they have a serious infection. Th
 
 Treatment when you suspect septicemia in the newborn:
 
-♦ Inject 50 mg. of ampicillin (p. 352) for each kilogram the baby weighs, 2 times a day for a baby less than 1 week old or 3 times a day if the baby is older than 1 week. If you cannot calculate the dosage, inject the average dose of 150 mg. of ampicillin.
+♦ Inject 50 mg. of ampicillin ([page 352](#page-352)) for each kilogram the baby weighs, 2 times a day for a baby less than 1 week old or 3 times a day if the baby is older than 1 week. If you cannot calculate the dosage, inject the average dose of 150 mg. of ampicillin.
 
 ♦ Also inject 5 mg. of gentamicin for each kilogram the baby weighs. Only give gentamicin once a day. If you cannot calculate the dosage, inject the average dose of 15 mg. of gentamicin for a baby less than 1 week old, or 20 mg. if the baby is older than 1 week.
 
-♦ Be sure the baby has enough liquids. Spoon feed breast milk and Rehydration Drink, if necessary (see p. 152).
+♦ Be sure the baby has enough liquids. Spoon feed breast milk and Rehydration Drink, if necessary (see [page 152](#page-152)).
 
 ♦ Try to get medical help.
   Infections in newborn babies are sometimes hard to recognize. Often there is no fever. If possible, get medical help. If not, treat with ampicillin and gentamicin as described above. Ampicillin is one of the safest and most useful antibiotics for babies.
@@ -1195,9 +1195,9 @@ cold compresses on the sore breast between feedings to reduce pain.
 
 ♦ Gently massage the sore breast while the baby is nursing.
 
-♦ Take acetaminophen (p. 379) for pain.
+♦ Take acetaminophen ([page 379](#page-379)) for pain.
 
-♦ Use an antibiotic. Dicloxacillin is the best antibiotic to use (p. 350). Take 500 mg. by mouth, 4 times each day, for a full 7 days. Erythromycin (p. 354) or cotrimoxazole (p. 357) can also be used.
+♦ Use an antibiotic. Dicloxacillin is the best antibiotic to use ([page 350](#page-350)). Take 500 mg. by mouth, 4 times each day, for a full 7 days. Erythromycin ([page 354](#page-354)) or cotrimoxazole ([page 357](#page-357)) can also be used.
 
 **Prevention:**
 
@@ -1314,7 +1314,7 @@ A miscarriage is like a birth in that the embryo (the beginning of the baby) and
 
 **Treatment:**
 
-The woman should rest and take ibuprofen (p. 379) or codeine (p. 383) for pain. If heavy bleeding continues for many days:
+The woman should rest and take ibuprofen ([page 379](#page-379)) or codeine ([page 383](#page-383)) for pain. If heavy bleeding continues for many days:
 
 ♦ Get medical help. A simple operation may be needed to clean out the womb (dilatation and curettage, or D and C, or suction).
 
@@ -1322,7 +1322,7 @@ The woman should rest and take ibuprofen (p. 379) or codeine (p. 383) for pain. 
 
 ♦ If the bleeding is extreme, follow the instructions on page 266.
 
-♦ If fever or other signs of infection develop, treat as for Childbirth Fever (see p. 276)
+♦ If fever or other signs of infection develop, treat as for Childbirth Fever (see [page 276](#page-276))
 
 ♦ A woman may continue to bleed a little for several days after the miscarriage. It will be similar to her menstrual flow (period).
 

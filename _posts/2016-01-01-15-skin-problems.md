@@ -292,9 +292,9 @@ whole body vigorously with soap and hot water. Then rub the cream into the whole
 on children under 3 years old.
 
 ♦ Or you can try using sulfur powder mixed with lard, Vaseline or body oil – use
-1 part sulfur to 10 parts lard or oil. Do not use on children under 1 year old. Apply to whole body (except face) 3 times a day for 3 days. Stop using immediately if rash worsens or other signs of allergic reaction develop (see p. 166).
+1 part sulfur to 10 parts lard or oil. Do not use on children under 1 year old. Apply to whole body (except face) 3 times a day for 3 days. Stop using immediately if rash worsens or other signs of allergic reaction develop (see [page 166](#page-166)).
 
-♦ If none of these treatments work, you can try giving a dose of ivermectin (see p. 377), and then repeat the dose after 10 to 14 days. This is the best method for a person with HIV.
+♦ If none of these treatments work, you can try giving a dose of ivermectin (see [page 377](#page-377)), and then repeat the dose after 10 to 14 days. This is the best method for a person with HIV.
 
 The itching and rash may last for up to two weeks after treatment. If they last longer, it is possible that the person has been re-infected or that the treatment did not work. If after 2 weeks the signs have not gone away, repeat the treatment again or try a different treatment. Remember to repeat the prevention actions as well.
 
@@ -350,7 +350,7 @@ When removing a tick that is firmly attached, take care that its head does not r
 To remove a tick with tweezers, grasp the tick as close
 as possible to its mouth, the part sticking into the skin. (Try not to squeeze its swollen belly.) Pull the tick out gently but firmly. Do not touch the removed tick. To kill the removed tick, burn it, or hold a lit match near it, or put some alcohol on it.
 
-To remove very small ticks or chiggers, use one of the remedies recommended for scabies (see p. 199). To relieve itching or pain caused by tick or chigger bites, take aspirin and follow the instructions for treatment of itching on p. 203.
+To remove very small ticks or chiggers, use one of the remedies recommended for scabies (see [page 199](#page-199)). To relieve itching or pain caused by tick or chigger bites, take aspirin and follow the instructions for treatment of itching on [page 203](#page-203).
 
 To help prevent chiggers and ticks from biting you, dust sulfur powder on your body before going into the fields or forests. Especially dust ankles, wrists, waist, and underarms.
 
@@ -365,7 +365,7 @@ Treatment and Prevention:
 
 ♦ Leave small sores open to the air. Bandage large sores and change the bandage frequently.
 
-♦ If the skin around a sore is red and hot, or if the person has a fever, red lines coming from the sore, or swollen lymph nodes, use an antibiotic, such as penicillin tablets (p. 351) or sulfa tablets (p. 356).
+♦ If the skin around a sore is red and hot, or if the person has a fever, red lines coming from the sore, or swollen lymph nodes, use an antibiotic, such as penicillin tablets ([page 351](#page-351)) or sulfa tablets ([page 356](#page-356)).
 
 ♦ Do not scratch. This makes the sores worse and can spread infection to other parts of the body. Cut the fingernails of small children very short. Or put gloves or socks over their hands so they cannot scratch.
 
@@ -386,14 +386,14 @@ Treatment:
 
 ♦ Wash the affected part with soap and cooled, boiled water 3 to 4 times each day, gently soaking off the crusts.
 
-♦ After each washing, paint the sores with gentian violet (p. 370) or spread on an antibiotic cream containing bacitracin such as Polysporin (p. 370).
+♦ After each washing, paint the sores with gentian violet ([page 370](#page-370)) or spread on an antibiotic cream containing bacitracin such as Polysporin ([page 370](#page-370)).
 
-♦ If the infection is spread over a large area or causes fever, give cloxacillin or dicloxacillin (p. 350). If the person is allergic to medicines of the penicillin family or if these medicines do not seem to be helping, try doxycycline (p. 355) or cotrimoxazole
-(p. 357).
+♦ If the infection is spread over a large area or causes fever, give cloxacillin or dicloxacillin ([page 350](#page-350)). If the person is allergic to medicines of the penicillin family or if these medicines do not seem to be helping, try doxycycline ([page 355](#page-355)) or cotrimoxazole
+([page 357](#page-357)).
 
 Prevention:
 
-♦ Follow the Guidelines of Personal Cleanliness (p. 133). Bathe children daily and protect them from bedbugs and biting flies. If a child gets scabies, treat him as soon as possible.
+♦ Follow the Guidelines of Personal Cleanliness ([page 133](#page-133)). Bathe children daily and protect them from bedbugs and biting flies. If a child gets scabies, treat him as soon as possible.
 
 ♦ Do not let a child with impetigo sleep with other children or play with them. Begin treatment at the first sign.
 
@@ -414,23 +414,23 @@ A boil, or abscess, is an infection that forms a sac of pus under the skin, This
 # [203](#page-203)
 {:.no_toc}
 
-♦ Put hot compresses over the boil several times a day (see p. 195).
+♦ Put hot compresses over the boil several times a day (see [page 195](#page-195)).
 
 ♦ Let the boil break open by itself. After it opens, keep using hot compresses. Allow the pus to drain, but never press or squeeze the boil, since this can cause the infection to spread to other parts of the body.
 
 ♦ If the abscess is very painful and does not open after 2 or 3 days of hot soaks, it may help to have it cut open so the pus can drain out. This will quickly reduce the pain. If possible, get medical help.
 
-♦ If the boil causes swollen nodes or fever, take penicillin tablets (p. 351) or erythromycin (p. 354) or dicloxacillin (p. 350), take 500 mg by mouth, 4 times a day for 7 days.
+♦ If the boil causes swollen nodes or fever, take penicillin tablets ([page 351](#page-351)) or erythromycin ([page 354](#page-354)) or dicloxacillin ([page 350](#page-350)), take 500 mg by mouth, 4 times a day for 7 days.
 
 # ITCHING RASH, WELTS, OR HIVES (ALLERGIC REACTIONS IN THE SKIN)
 
-Touching, eating, injecting, or breathing certain things can cause an itching rash or hives in allergic persons. For more details, see Allergic Reactions, p. 166.
+Touching, eating, injecting, or breathing certain things can cause an itching rash or hives in allergic persons. For more details, see Allergic Reactions, [page 166](#page-166).
 
 Hives are thick, raised spots or patches that look like bee stings and itch like mad. They may come and go rapidly or move from one spot to another.
 
 Be on the watch for any reaction caused by certain medicines, especially injections of penicillin and antivenoms or antitoxins made from horse serum. A rash or hives may appear from a few minutes up to 10 days after the medicine has been injected.
 
-Medicines used by people with HIV may cause a rash, especially cotrimoxazole (p. 357) and nevirapine (p. 397). Sometimes the rash can be avoided by starting with a small amount of medicine and slowly increasing the amount to the full dose.
+Medicines used by people with HIV may cause a rash, especially cotrimoxazole ([page 357](#page-357)) and nevirapine ([page 397](#page-397)). Sometimes the rash can be avoided by starting with a small amount of medicine and slowly increasing the amount to the full dose.
 
 Treatment of itching:
 
@@ -438,7 +438,7 @@ Treatment of itching:
 
 ♦ Compresses of cool oatmeal water also calm itching. Boil the oatmeal in water, strain it, and use the water when cool. (Starch can be used instead of oats.)
 
-♦ If itching is severe, take an antihistamine like chlorpheniramine (p. 386).
+♦ If itching is severe, take an antihistamine like chlorpheniramine ([page 386](#page-386)).
 
 ♦ To protect a baby from scratching himself, cut his fingernails very short, or put gloves or socks over his hands.
 
@@ -446,7 +446,7 @@ Treatment:
 
   If you get an itching rash, hives, or any other allergic reaction after taking or being injected with any medicine, stop using it and never use that medicine again in your life!
 
-This is very important to prevent the danger of ALLERGIC SHOCK (see p. 70).
+This is very important to prevent the danger of ALLERGIC SHOCK (see [page 70](#page-70)).
 
 
 # [204](#page-204)
@@ -462,7 +462,7 @@ face creams, perfumes, or soaps may cause such problems.
 
 Treatment:
 
-All these irritations go away by themselves when the things that cause them no longer touch the skin. A paste of oatmeal and cool water helps calm the itching. Aspirin or antihistamines (p. 385) may also help. In severe cases, you can use a cream that contains cortisone or a cortico-steroid (see p. 370) To prevent infection, keep the irritated areas clean.
+All these irritations go away by themselves when the things that cause them no longer touch the skin. A paste of oatmeal and cool water helps calm the itching. Aspirin or antihistamines ([page 385](#page-385)) may also help. In severe cases, you can use a cream that contains cortisone or a cortico-steroid (see [page 370](#page-370)) To prevent infection, keep the irritated areas clean.
 
 # SHINGLES (HERPES ZOSTER)
 
@@ -470,13 +470,13 @@ Signs:
 
 A line or patch of painful blisters that suddenly appears on one side of the body is probably shingles. It is most common on the back, chest, neck, or face. The blisters usually last 2 or 3 weeks, then go away by themselves. Sometimes the pain continues or returns long after the blisters are gone.
 
-Shingles is caused by the virus that causes chickenpox and usually affects persons who have had chickenpox before. It is not dangerous, but it can be painful. It is sometimes the first sign of some other more serious problem, perhaps cancer or HIV infection (see p. 399).
+Shingles is caused by the virus that causes chickenpox and usually affects persons who have had chickenpox before. It is not dangerous, but it can be painful. It is sometimes the first sign of some other more serious problem, perhaps cancer or HIV infection (see [page 399](#page-399)).
 
 Treatment:
 
 ♦ Put light bandages over the rash so that clothes do not rub against it.
 
-♦ Take aspirin for the pain. Acyclovir can help keep herpes blisters from spreading (see p. 373). Antibiotics do not help.
+♦ Take aspirin for the pain. Acyclovir can help keep herpes blisters from spreading (see [page 373](#page-373)). Antibiotics do not help.
 
 
 # [205](#page-205)
@@ -500,13 +500,13 @@ Treatment:
 ♦ Use a cream of sulfur and lard (1 part sulfur to 10 parts lard).
 
 ♦ Creams and powders with salicylic or undecylenic acid, or tolnaftate
-(Tinactin, p. 371) help cure the fungus between the fingers, toes and groin.
+(Tinactin, [page 371](#page-371)) help cure the fungus between the fingers, toes and groin.
 
-♦ For severe tinea of the scalp, or any fungus infection that is widespread or does not get better with the above treatments, take griseofulvin, 1 gram a day for adults and half a gram a day for children (p. 371). It may be necessary to keep taking it for weeks or even months to completely control the infection.
+♦ For severe tinea of the scalp, or any fungus infection that is widespread or does not get better with the above treatments, take griseofulvin, 1 gram a day for adults and half a gram a day for children ([page 371](#page-371)). It may be necessary to keep taking it for weeks or even months to completely control the infection.
 
 But pregnant women should not take griseofulvin.
 
-♦ Many tineas of the scalp clear up when a child reaches puberty (11 to 14 years old). Severe infections forming large swollen patches with pus should be treated with compresses of warm water (p. 195). It is important to pull out all of the hair from the infected part. Use griseofulvin, if possible.
+♦ Many tineas of the scalp clear up when a child reaches puberty (11 to 14 years old). Severe infections forming large swollen patches with pus should be treated with compresses of warm water ([page 195](#page-195)). It is important to pull out all of the hair from the infected part. Use griseofulvin, if possible.
 
 
 # [206](#page-206)
@@ -529,14 +529,14 @@ Tinea versicolor is a mild fungus infection that causes small dark or light spot
 
 Treatment:
 
-♦ Make a cream with sulfur and lard (1 part sulfur to 10 parts lard) and apply it to the whole body every day until they disappear. Or use an anti-fungal cream (p. 371).
+♦ Make a cream with sulfur and lard (1 part sulfur to 10 parts lard) and apply it to the whole body every day until they disappear. Or use an anti-fungal cream ([page 371](#page-371)).
 
 ♦ Sodium thiosulfate works better. This is the ‘hypo’ photographers use when developing
 film. Dissolve a tablespoon of sodium thiosulfate in a glass of water and apply it to the whole upper body. Then rub the skin with a piece of cotton dipped in vinegar.
 
 ♦ To prevent the spots from returning, it is often necessary to repeat this treatment every 2 weeks.
 
-♦ Selenium sulfide (p. 371) or Whitfield’s ointment may also help.
+♦ Selenium sulfide ([page 371](#page-371)) or Whitfield’s ointment may also help.
 
 There is another kind of small whitish spot that is common on the cheeks of dark-skinned children who spend a lot of time in the sun.
 
@@ -544,7 +544,7 @@ The border is less clear than in tinea versicolor. These spots are not an infect
 
 Contrary to popular opinion, none of these types of white spots is a sign of anemia. They will not go away with tonics or vitamins. The spots that are only on the cheeks do not need any treatment.
 
-CAUTION: Sometimes pale spots are early signs of leprosy (see p. 191). Leprosy spots are never completely white and may have reduced feeling when pricked by a pin. If leprosy is common in your area, have the child checked.
+CAUTION: Sometimes pale spots are early signs of leprosy (see [page 191](#page-191)). Leprosy spots are never completely white and may have reduced feeling when pricked by a pin. If leprosy is common in your area, have the child checked.
 
 
 # [207](#page-207)
@@ -563,7 +563,7 @@ Treatment of pinta is 2.4 million units of benzathine penicillin injected into t
 
 Some fungus infections also cause whitish spots (see tinea versicolor, on the opposite page).
 
-General or patchy, partial loss of skin and hair color in children may be caused by severe malnutrition (kwashiorkor, p. 113; or pellagra, p. 208).
+General or patchy, partial loss of skin and hair color in children may be caused by severe malnutrition (kwashiorkor, [page 113](#page-113); or pellagra, [page 208](#page-208)).
 
 # MASK OF PREGNANCY
 
@@ -578,14 +578,14 @@ They are completely normal and do not indicate weakness or sickness. No treatmen
 
 # PELLAGRA AND OTHER SKIN PROBLEMS DUE TO MALNUTRITION
 
-Pellagra is a form of malnutrition that affects the skin and sometimes the digestive and nervous systems. It is found in places where people eat a lot of maize (corn) or other starchy foods and not enough beans, meat, fish, eggs, vegetables, and other body-building and protective foods (see p. 110).
+Pellagra is a form of malnutrition that affects the skin and sometimes the digestive and nervous systems. It is found in places where people eat a lot of maize (corn) or other starchy foods and not enough beans, meat, fish, eggs, vegetables, and other body-building and protective foods (see [page 110](#page-110)).
 
 Skin signs in malnutrition (see the pictures on the following page):
 
 In adults with pellagra the skin is dry and cracked; it peels like sunburn on the parts where the sun hits it, especially:
 on the arms
 
-In malnourished children, the skin of the legs (and sometimes arms) may have dark marks, like bruises, or even peeling sores; the ankles and feet may be swollen (see p. 113).
+In malnourished children, the skin of the legs (and sometimes arms) may have dark marks, like bruises, or even peeling sores; the ankles and feet may be swollen (see [page 113](#page-113)).
 
   on the nape of the neck
 
@@ -612,11 +612,11 @@ After eating well
 
 >The swelling and dark spots on this boy’s legs and feet are the result of poor nutrition. He was eating mostly maize (corn) without any foods rich in proteins and vitamins.
 
->The ‘burnt’ skin on the legs of this woman is a sign of pellagra, which results from not eating well (see p. 208).
+>The ‘burnt’ skin on the legs of this woman is a sign of pellagra, which results from not eating well (see [page 208](#page-208)).
 
 >One week after he began to eat beans and eggs along with the maize, the swelling was gone and the spots had almost disappeared.
 
->The white spots on the legs of this woman are due to an infectious disease called pinta (see p. 207).
+>The white spots on the legs of this woman are due to an infectious disease called pinta (see [page 207](#page-207)).
 
 
 
@@ -636,7 +636,7 @@ Treatment:
 
 ♦ Painful plantar warts sometimes can be removed by a health worker.
 
-♦ For warts on the penis, vagina, or around the anus, see p. 402.
+♦ For warts on the penis, vagina, or around the anus, see [page 402](#page-402).
 
 # CORNS
 
@@ -718,7 +718,7 @@ Treatment:
 
 # TUBERCULOSIS OF THE LYMPH NODES, OR SCROFULA
 
-In the case of any chronic sore, ulcer, or swollen lymph nodes, it is best to seek medical advice. Tests may be needed to learn the cause. Tuberculosis of the skin is treated the same as tuberculosis of the lungs (see p. 180). To keep the infection from returning, the medicines must be taken for many months after the skin looks well.
+In the case of any chronic sore, ulcer, or swollen lymph nodes, it is best to seek medical advice. Tests may be needed to learn the cause. Tuberculosis of the skin is treated the same as tuberculosis of the lungs (see [page 180](#page-180)). To keep the infection from returning, the medicines must be taken for many months after the skin looks well.
 
 # ERYSIPELAS AND CELLULITIS
 
@@ -730,7 +730,7 @@ Cellulitis is also a very painful, acute infection of the skin that can appear a
 Treatment:
 
 For both erysipelas and cellulitis, begin treatment as soon as possible. Use
-an antibiotic: penicillin tablets, 400,000 units, 4 times a day, in serious cases, injectable procaine penicillin, 800,000 units daily (see p. 352). Continue using the antibiotic for 2 days after all signs of infection are gone. Also use hot compresses,  and aspirin for pain.
+an antibiotic: penicillin tablets, 400,000 units, 4 times a day, in serious cases, injectable procaine penicillin, 800,000 units daily (see [page 352](#page-352)). Continue using the antibiotic for 2 days after all signs of infection are gone. Also use hot compresses,  and aspirin for pain.
 
 
 # [213](#page-213)
@@ -751,7 +751,7 @@ Treatment:
 
 # ULCERS OF THE SKIN CAUSED BY POOR CIRCULATION
 
-Skin ulcers, or large, open sores, have many causes (see p. 20). However, chronic ulcers on the ankles of older persons, especially in
+Skin ulcers, or large, open sores, have many causes (see [page 20](#page-20)). However, chronic ulcers on the ankles of older persons, especially in
 women with varicose veins, usually come from poor circulation.
 
 The blood is not moved fast enough through the legs. Such
@@ -766,11 +766,11 @@ Treatment:
 ♦ Support the varicose veins with elastic stockings
 or bandages. Continue to use these and to keep the feet up after the ulcer heals. Take great care not to scratch or injure the delicate scar.
 
-♦ Treating the ulcers with honey or sugar may help (see p. 214).
+♦ Treating the ulcers with honey or sugar may help (see [page 214](#page-214)).
 
 
 
-Prevent skin ulcers, care for varicose veins early (see p. 175).
+Prevent skin ulcers, care for varicose veins early (see [page 175](#page-175)).
 
 
 
@@ -795,7 +795,7 @@ How to prevent bed sores:
 ♦ Put cushions under the person in such a way that the bony parts rub less.
 
 ♦ Feed the sick person as well as possible. If he does not eat well, extra vitamins and
- iron may help (see p. 118).
+ iron may help (see [page 118](#page-118)).
 
 ♦ A child who has a severe chronic illness should be held often on his mother’s lap.
 
@@ -841,7 +841,7 @@ Dandruff is an oily, yellow to white crust that usually forms in patches on the 
 
 Treatment:
 
-♦ Wash the head daily. A medicated soap can help, but usually regular soap and water are enough (see p. 370).
+♦ Wash the head daily. A medicated soap can help, but usually regular soap and water are enough (see [page 370](#page-370)).
 
 ♦ Gently clean off all the dandruff and crust. To loosen the scales and crust, first wrap the head with towels soaked in lukewarm water.
 
@@ -851,7 +851,7 @@ NO YES
 
 ♦ Keep the head uncovered, open to the air and sunlight.
 
-♦ If there are signs of infection, treat as for impetigo (see p. 202).
+♦ If there are signs of infection, treat as for impetigo (see [page 202](#page-202)).
 
 BARE IS BEST
 
@@ -874,12 +874,12 @@ Treatment:
 
 ♦ Put cold compresses on the rash.
 
-♦ If signs of infection develop (p. 88), treat as for
-impetigo (p. 202).
+♦ If signs of infection develop ([page 88](#page-88)), treat as for
+impetigo ([page 202](#page-202)).
 
 ♦ Let the sunlight fall on the patches.
 
-♦ In difficult cases, use a cortisone or cortico-steroid cream (see p. 370). Or coal tar may help. Seek medical advice.
+♦ In difficult cases, use a cortisone or cortico-steroid cream (see [page 370](#page-370)). Or coal tar may help. Seek medical advice.
 
 # PSORIASIS
 

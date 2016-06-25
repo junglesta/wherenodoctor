@@ -521,11 +521,11 @@ Different illnesses that are sometimes called la congestión are:
 
 • Any sudden upset of the stomach or gut: see diarrhea ([see page 153](#section-153){:id="#section-153"}), vomiting ([see page 161](#section-161){:id="#section-1161"}), and acute abdomen ([see page 93](#section-93){:id="#section-93"}).
 
-• Sudden or severe difficulty breathing: caused by asthma (p. 167), pneumonia (p. 171), or something stuck in the throat (p. 79).
+• Sudden or severe difficulty breathing: caused by asthma ([page 167](#page-167)), pneumonia ([page 171](#page-171)), or something stuck in the throat ([page 79](#page-79)).
 
-• Illnesses that cause seizures (fits) or paralysis: see seizures (p. 178), tetanus (p. 182), meningitis (p. 185), polio (p. 314), and stroke (p. 327).
+• Illnesses that cause seizures (fits) or paralysis: see seizures ([page 178](#page-178)), tetanus ([page 182](#page-182)), meningitis ([page 185](#page-185)), polio ([page 314](#page-314)), and stroke ([page 327](#page-327)).
 
-• Heart attacks: mostly in older persons (p. 325).
+• Heart attacks: mostly in older persons ([page 325](#page-325)).
 
 ---
 
@@ -538,26 +538,26 @@ Spanish Name: LA CONGESTIÓN (CONGESTION)
 Any sudden upset or illness that causes great distress is called la congestión by Mexican villagers. People speak of congestión of:
 
 the head, the chest, the stomach, or the whole body.
-It is said that la congestión strikes persons who break ‘the diet’ (see p. 123), by eating foods that are forbidden or taboo after childbirth, while taking a medicine, or when they have a cold or cough. Although these foods usually cause no harm and are sometimes just what their bodies need, many people will not touch them because they are so afraid of getting la congestión.
+It is said that la congestión strikes persons who break ‘the diet’ (see [page 123](#page-123)), by eating foods that are forbidden or taboo after childbirth, while taking a medicine, or when they have a cold or cough. Although these foods usually cause no harm and are sometimes just what their bodies need, many people will not touch them because they are so afraid of getting la congestión.
 Different illnesses that are sometimes called la congestión are:
 
-• Food poisoning, from eating spoiled food: causes sudden vomiting followed by diarrhea, cramps, and weakness (see p. 135).
+• Food poisoning, from eating spoiled food: causes sudden vomiting followed by diarrhea, cramps, and weakness (see [page 135](#page-135)).
 
-• A severe allergic reaction, in allergic persons after they eat certain foods (shellfish, chocolate, etc,), take certain medicines, or are injected with penicillin. May cause vomiting, diarrhea, cold sweat, breathing trouble, itchy rash, and severe distress (see p. 166).
+• A severe allergic reaction, in allergic persons after they eat certain foods (shellfish, chocolate, etc,), take certain medicines, or are injected with penicillin. May cause vomiting, diarrhea, cold sweat, breathing trouble, itchy rash, and severe distress (see [page 166](#page-166)).
 
-• Any sudden upset of the stomach or gut: see diarrhea (p. 153), vomiting (p. 161), and acute abdomen (p. 93).
+• Any sudden upset of the stomach or gut: see diarrhea ([page 153](#page-153)), vomiting ([page 161](#page-161)), and acute abdomen ([page 93](#page-93)).
 
-• Sudden or severe difficulty breathing: caused by asthma (p. 167), pneumonia (p. 171), or something stuck in the throat (p. 79).
+• Sudden or severe difficulty breathing: caused by asthma ([page 167](#page-167)), pneumonia ([page 171](#page-171)), or something stuck in the throat ([page 79](#page-79)).
 
-• Illnesses that cause seizures (fits) or paralysis: see seizures (p. 178), tetanus (p. 182), meningitis (p. 185), polio (p. 314), and stroke (p. 327).
+• Illnesses that cause seizures (fits) or paralysis: see seizures ([page 178](#page-178)), tetanus ([page 182](#page-182)), meningitis ([page 185](#page-185)), polio ([page 314](#page-314)), and stroke ([page 327](#page-327)).
 
-• Heart attacks: mostly in older persons (p. 325).
+• Heart attacks: mostly in older persons ([page 325](#page-325)).
 
 ---
 
 Spanish Name: LATIDO (PULSING)
 
-Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit of the stomach. It is really the pulse of the aorta or big blood vessel coming from the heart. This pulse can be seen and felt on a person who is very thin and hungry. Latido is often a sign of malnutrition (p. 112), or hunger! Eating enough good food is the only real treatment (see p. 110 and 111).
+Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit of the stomach. It is really the pulse of the aorta or big blood vessel coming from the heart. This pulse can be seen and felt on a person who is very thin and hungry. Latido is often a sign of malnutrition ([page 112](#page-112)), or hunger! Eating enough good food is the only real treatment (see [page 110](#page-110) and [page 111](#page-111)).
 
 ---
 
@@ -573,10 +573,10 @@ According to Mexican villagers, susto is caused by a sudden fright a person has 
 
 Possible medical explanations for susto:
 
-1. In many people, susto is a state of fear or hysteria, perhaps caused by the ‘power of belief’ (see p. 4). For example, a woman who is afraid someone will hex her becomes nervous and does not eat or sleep well. She begins to grow weak and lose weight. She takes this as a sign she has been hexed, so she becomes still more nervous and frightened. Her susto gets worse and worse.
+1. In many people, susto is a state of fear or hysteria, perhaps caused by the ‘power of belief’ (see [page 4](#page-4)). For example, a woman who is afraid someone will hex her becomes nervous and does not eat or sleep well. She begins to grow weak and lose weight. She takes this as a sign she has been hexed, so she becomes still more nervous and frightened. Her susto gets worse and worse.
 
-2. In babies or small children, susto is usually very different. Bad dreams may cause a child to cry out in his sleep or wake up frightened. High fevers from any illness can cause very strange speech and behavior (delirium). A child that often looks and acts worried may be malnourished (p. 112). Sometimes early signs of tetanus
-(p. 182) or meningitis (p. 185) are also called susto.
+2. In babies or small children, susto is usually very different. Bad dreams may cause a child to cry out in his sleep or wake up frightened. High fevers from any illness can cause very strange speech and behavior (delirium). A child that often looks and acts worried may be malnourished ([page 112](#page-112)). Sometimes early signs of tetanus
+([page 182](#page-182)) or meningitis ([page 185](#page-185)) are also called susto.
 
 Treatment:
 
@@ -623,7 +623,7 @@ This page shows 2 examples of misunderstandings that can result when certain nam
 
 Spanish Name: CÁNCER (CANCER)
 
-Mexican villagers use the word cáncer for any severe infection of the skin, especially badly infected wounds (p. 88) or gangrene (p. 213).
+Mexican villagers use the word cáncer for any severe infection of the skin, especially badly infected wounds ([page 88](#page-88)) or gangrene ([page 213](#page-213)).
 
 In modern medical language, cancer is not an infection, but an abnormal growth or lump in any part of the body. Common types of cancer that you should watch out for are:
 
@@ -635,17 +635,17 @@ Any hard, painless, slowly growing lump in any part of your body may be cancer. 
 
 Spanish Name: LEPRA (LEPROSY)
 
-Mexican villagers call any open spreading sore lepra. This leads to confusion, because medical workers use this term only for true leprosy (Hansen’s disease, p. 191). Sores commonly called lepra are:
+Mexican villagers call any open spreading sore lepra. This leads to confusion, because medical workers use this term only for true leprosy (Hansen’s disease, [page 191](#page-191)). Sores commonly called lepra are:
 
-• impetigo and other skin infections (p. 202)
+• impetigo and other skin infections ([page 202](#page-202))
 
-• sores that come from insect bites or scabies (p. 199)
+• sores that come from insect bites or scabies ([page 199](#page-199))
 
-• chronic sores or skin ulcers such as those caused by poor circulation (p. 213)
+• chronic sores or skin ulcers such as those caused by poor circulation ([page 213](#page-213))
 
-• skin cancer (p. 211)
+• skin cancer ([page 211](#page-211))
 
-• less commonly, leprosy (p. 191) or tuberculosis of the skin (p. 212)
+• less commonly, leprosy ([page 191](#page-191)) or tuberculosis of the skin ([page 212](#page-212))
 
 
 
@@ -662,19 +662,19 @@ To prevent or treat these diseases successfully, it is important to know how to 
 
 Here are some of the important acute illnesses in which fever is an outstanding sign. The drawings show the fever pattern (rise and fall of temperature) that is typical for each disease.
 
-Malaria: (see p. 186)
+Malaria: (see [page 186](#page-186))
 
 Begins with weakness, chills and fever. Fever may come and go for a few days, with shivering (chills) as the temperature rises, and sweating as it falls. Then, fever may come for a few hours every second or third day. On other days, the person may feel more or less well.
 
-Typhoid: (see p. 188)
+Typhoid: (see [page 188](#page-188))
 
 Begins like a cold. Temperature goes up a little more each day. Pulse relatively slow. Sometimes diarrhea and dehydration. Trembling or delirium (mind wanders). Person very ill.
 
-Typhus: (see p. 190)
+Typhus: (see [page 190](#page-190))
 
 Similar to typhoid. Rash similar to that of measles, with tiny bruises.
 
-Hepatitis: (see p. 172)
+Hepatitis: (see [page 172](#page-172))
 
 Person loses appetite. Does not wish to eat or smoke. Wants to vomit (nausea). Eyes and skin turn yellow; urine orange or brown; stools whitish. Sometimes liver becomes large, tender. Mild fever. Person very weak.
 
@@ -684,20 +684,20 @@ Person loses appetite. Does not wish to eat or smoke. Wants to vomit (nausea). E
 # [27](#page-27)
 {:.no_toc}
 
-Pneumonia: (see p. 171)
+Pneumonia: (see [page 171](#page-171))
 
 Fast, shallow breathing. Temperature rises quickly. Cough with green, yellow, or bloody mucus. May be pain in chest. Person very ill.
 
-Rheumatic fever: (see p. 310)
+Rheumatic fever: (see [page 310](#page-310))
 
 Most common in children and teenagers. Pain in joints. High fever. Often comes after a sore throat. May be pain in the chest with shortness of breath. Or uncontrolled movements of arms and legs.
 
-Brucellosis (undulant fever, Malta fever): (see p. 188)
+Brucellosis (undulant fever, Malta fever): (see [page 188](#page-188))
 
 Begins slowly with tiredness, headache, and pains in the bones. Fever and sweating most common at night. Fever disappears for a few days only to come back again. This may go on for months or years.
 
-Childbirth fever: (see p. 276)
+Childbirth fever: (see [page 276](#page-276))
 
 Begins a day or more after giving birth. Starts with a slight fever, which often rises later. Foul-smelling vaginal discharge. Pain and sometimes bleeding.
 
-All of these illnesses can be dangerous. In addition to those shown here, there are many other diseases that may cause similar signs and fever. For example, fevers that last for more than 1 month, or night sweats, may be caused by HIV infection (see p. 399). When possible, seek medical help.
+All of these illnesses can be dangerous. In addition to those shown here, there are many other diseases that may cause similar signs and fever. For example, fevers that last for more than 1 month, or night sweats, may be caused by HIV infection (see [page 399](#page-399)). When possible, seek medical help.

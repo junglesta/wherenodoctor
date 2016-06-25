@@ -32,7 +32,7 @@ It is important that everyone, especially mothers, know the signs of dehydration
   - loss of elasticity or stretchiness of the skin
 
 
-Very severe dehydration may cause rapid, weak pulse (see Shock, p. 77), fast, deep breathing, fever, or seizures (fits, convulsions, p. 178).
+Very severe dehydration may cause rapid, weak pulse (see Shock, [page 77](#page-77)), fast, deep breathing, fever, or seizures (fits, convulsions, [page 178](#page-178)).
 
 When a person has watery diarrhea, or diarrhea and vomiting, do not wait for signs of dehydration. **Act quickly** ,  read on.
 
@@ -84,9 +84,9 @@ Give the dehydrated person sips of this Drink every 5 minutes, day and night, un
 
 A small child usually needs at least 1 liter a day, or 1 glass for each watery stool. Keep giving the Drink often in small sips, even if the person vomits. Not all of the Drink will be vomited.
 
-**_WARNING:_** If dehydration gets worse or other danger signs appear, go for medical help (see p. 159). It may be necessary to give liquid in a vein (intravenous solution).
+**_WARNING:_** If dehydration gets worse or other danger signs appear, go for medical help (see [page 159](#page-159)). It may be necessary to give liquid in a vein (intravenous solution).
 
-**_Note:_** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see p. 381). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
+**_Note:_** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
 
 
 
@@ -109,19 +109,19 @@ Occasionally, special treatment is needed. However, most diarrhea can be treated
 
 # THE MAIN CAUSES OF DIARRHEA
 
-  - poor nutrition (p. 154) weakens the child and makes diarrhea from other causes more frequent and worse
+  - poor nutrition ([page 154](#page-154)) weakens the child and makes diarrhea from other causes more frequent and worse
   - shortage of water and unclean conditions (no latrines) spread the germs that cause diarrhea
   - virus infection or ‘intestinal flu’
-  - an infection of the gut caused by bacteria (p. 131), amebas (p. 144), or giardia (p. 145)
-  - worm infections (p. 140 to 144) (most worm infections do not cause diarrhea)
-  - infections outside the gut (ear infections, p. 309; tonsillitis, p. 309; measles, p. 311; urinary infections, p. 234)
-  - malaria (falciparum type, in parts of Africa, Asia, the Paci c, Latin America and the Caribbean, p. 186)
-  - food poisoning (spoiled food, p. 135)
-  - HIV (long-lasting diarrhea may be an early sign of AIDS, p. 399)
+  - an infection of the gut caused by bacteria ([page 131](#page-131)), amebas ([page 144](#page-144)), or giardia ([page 145](#page-145))
+  - worm infections ([page 140](#page-140) to 144) (most worm infections do not cause diarrhea)
+  - infections outside the gut (ear infections, [page 309](#page-309); tonsillitis, [page 309](#page-309); measles, [page 311](#page-311); urinary infections, [page 234](#page-234))
+  - malaria (falciparum type, in parts of Africa, Asia, the Paci c, Latin America and the Caribbean, [page 186](#page-186))
+  - food poisoning (spoiled food, [page 135](#page-135))
+  - HIV (long-lasting diarrhea may be an early sign of AIDS, [page 399](#page-399))
   - inability to digest milk (mainly in severely malnourished children and certain adults)
-  - difficulties babies have digesting foods that are new to them (p. 154)
-  - allergies to certain foods (seafood, cray sh, etc., p. 166); occasionally babies are allergic to cow’s milk or other milks
-  - side effects produced by certain medicines, such as ampicillin or tetracycline (p. 58)
+  - difficulties babies have digesting foods that are new to them ([page 154](#page-154))
+  - allergies to certain foods (seafood, cray sh, etc., [page 166](#page-166)); occasionally babies are allergic to cow’s milk or other milks
+  - side effects produced by certain medicines, such as ampicillin or tetracycline ([page 58](#page-58))
   - laxatives, purges, irritating or poisonous plants, certain poisons
   - eating too much unripe fruit or heavy, greasy foods
 
@@ -135,7 +135,7 @@ Occasionally, special treatment is needed. However, most diarrhea can be treated
 
 Although diarrhea has many different causes, the most common are infection and poor nutrition. With good hygiene and good food, most diarrhea could be prevented. And if treated correctly by giving lots of drink and food, fewer children who get diarrhea would die.
 
-Diarrhea is also very dangerous for people with HIV, especially children. Using cotrimoxazole can prevent diarrhea in persons with HIV (see p. 357).
+Diarrhea is also very dangerous for people with HIV, especially children. Using cotrimoxazole can prevent diarrhea in persons with HIV (see [page 357](#page-357)).
 
 Children who are poorly nourished get diarrhea and die from it far more often than those who are well nourished. Yet diarrhea itself can be part of the cause of malnutrition.
 
@@ -177,7 +177,7 @@ No matter what the cause of diarrhea, always take care with the following:
 1 - PREVENT OR CONTROL DEHYDRATION.
 
 
-A person with diarrhea must drink a lot of liquids. If diarrhea is severe or there are signs of dehydration, give him Rehydration Drink (p. 152). Even if he does not want to drink, gently insist that he do so. Have him take several swallows every few minutes.
+A person with diarrhea must drink a lot of liquids. If diarrhea is severe or there are signs of dehydration, give him Rehydration Drink ([page 152](#page-152)). Even if he does not want to drink, gently insist that he do so. Have him take several swallows every few minutes.
 
 
 2 - MEET NUTRITIONAL NEEDS.  
@@ -193,7 +193,7 @@ A person with diarrhea must drink a lot of liquids. If diarrhea is severe or the
 
   ♦ If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more often, at least 5 or 6 meals each day. Often no other treatment is needed.
 
-  ♦ If possible, give zinc supplements to a baby or child with diarrhea (see p. 381).
+  ♦ If possible, give zinc supplements to a baby or child with diarrhea (see [page 381](#page-381)).
 
 
 ## FOODS FOR A PERSON WITH DIARRHEA
@@ -273,14 +273,14 @@ For most cases of diarrhea no medicines are needed. But in certain cases, using 
 
 GENERALLY IT IS BETTER NOT TO USE THE FOLLOWING MEDICINES IN THE TREATMENT OF DIARRHEA:
 
-‘Anti diarrhea’ medicines with bismuth subsalicylate (such as Pepto-Bismol or Kaopectate, p. 383) make diarrhea thicker and less frequent. But they do not correct dehydration or control infection. Some anti diarrhea medicines, like loperamide (Imodium) or diphenoxylate (Lomotil) may even cause harm or make infections last longer.
+‘Anti diarrhea’ medicines with bismuth subsalicylate (such as Pepto-Bismol or Kaopectate, [page 383](#page-383)) make diarrhea thicker and less frequent. But they do not correct dehydration or control infection. Some anti diarrhea medicines, like loperamide (Imodium) or diphenoxylate (Lomotil) may even cause harm or make infections last longer.
 
 ‘ANTI DIARRHEA MEDICINES’ ACT LIKE PLUGS. THEY KEEP IN THE INFECTED MATERIAL THAT NEEDS TO COME OUT.
 
 ‘Anti-diarrhea’ mixtures containing neomycin or streptomycin should not be used. They irritate the gut and often do more harm than good.
-Antibiotics like ampicillin and tetracycline are useful only in some cases of diarrhea (see p. 158). But they themselves sometimes cause diarrhea, especially in small children. If, after taking these antibiotics for more than 2 or 3 days, diarrhea gets worse rather than better, stop taking themthe antibiotics may be the cause.
+Antibiotics like ampicillin and tetracycline are useful only in some cases of diarrhea (see [page 158](#page-158)). But they themselves sometimes cause diarrhea, especially in small children. If, after taking these antibiotics for more than 2 or 3 days, diarrhea gets worse rather than better, stop taking themthe antibiotics may be the cause.
 
-Chloramphenicol (p. 356) should never be used for diarrhea
+Chloramphenicol ([page 356](#page-356)) should never be used for diarrhea
 
 Laxatives and purges should never be given to persons with diarrhea. They will make it worse and increase the danger of dehydration.
 
@@ -301,13 +301,13 @@ In certain difficult cases of diarrhea, analysis of the stools or other tests ma
 
 1. Sudden, mild diarrhea. No fever. (Upset stomach? ‘Intestinal flu’?)
 
-♦ Drink lots of liquids. Usually no special treatment is needed. It is usually best not to use‘anti-diarrhea’ medicines such as bismuth subsalicylate (Kaopectate, p. 383) or diphenoxylate (Lomotil).
+♦ Drink lots of liquids. Usually no special treatment is needed. It is usually best not to use‘anti-diarrhea’ medicines such as bismuth subsalicylate (Kaopectate, [page 383](#page-383)) or diphenoxylate (Lomotil).
 
 They are never necessary and do not help either to correct dehydration or get rid of infection so why waste money buying them? Never give them to persons who are very ill, or to small children.
 
 2. Diarrhea with vomiting. (Many causes)
 
-♦ If a person with diarrhea is also vomiting, the danger of dehydration is greater, especially in small children. It is very important to give the Rehydration Drink (p. 152), tea, soup, or whatever liquids he will take.
+♦ If a person with diarrhea is also vomiting, the danger of dehydration is greater, especially in small children. It is very important to give the Rehydration Drink ([page 152](#page-152)), tea, soup, or whatever liquids he will take.
 
 Keep giving the Drink, even if the person vomits it out again. Some will stay inside. Give sips every 5 to 10 minutes.
 
@@ -315,7 +315,7 @@ Keep giving the Drink, even if the person vomits it out again. Some will stay in
 
 3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, see pages 144 to 145.)
 
-♦ Use metronidazole (p. 368). Take the medicine according to the recommended dose. If the diarrhea continues after treatment, seek medical advice.
+♦ Use metronidazole ([page 368](#page-368)). Take the medicine according to the recommended dose. If the diarrhea continues after treatment, seek medical advice.
 
 
 # [158](#page-158)
@@ -323,38 +323,38 @@ Keep giving the Drink, even if the person vomits it out again. Some will stay in
 
 4. Severe diarrhea with blood, with fever. (Bacterial dysentery caused by Shigella)
 
-♦ Give ceftriaxone or ciprofloxacin (see p. 358). Pregnant women and children under 18 years old should not use ciprofloxacin. (For children under 8 weeks old, seek medical help.)
+♦ Give ceftriaxone or ciprofloxacin (see [page 358](#page-358)). Pregnant women and children under 18 years old should not use ciprofloxacin. (For children under 8 weeks old, seek medical help.)
 
-Shigella is often resistant to ampicillin (p. 352), co-trimoxazole (p. 357), and azithromycin, but they are still being used.
+Shigella is often resistant to ampicillin ([page 352](#page-352)), co-trimoxazole ([page 357](#page-357)), and azithromycin, but they are still being used.
 
 If the first medicine you try does not bring improvement within 2 days, try another or seek medical help.
 
-Women in the first 3 months of pregnancy should not use co-trimoxazole (see p. 357). Azithromycin is safe during pregnancy and for children. For adults, give 1 g (1000 mg) by mouth once a day for 3 days. For children’s doses, see a health worker.
+Women in the first 3 months of pregnancy should not use co-trimoxazole (see [page 357](#page-357)). Azithromycin is safe during pregnancy and for children. For adults, give 1 g (1000 mg) by mouth once a day for 3 days. For children’s doses, see a health worker.
 
 ♦ Also give zinc, 20 mg once a day, for 14 days. 5. Severe diarrhea with fever, usually no blood.
 
-♦ Fever may be partly caused by dehydration. Give lots of Rehydration Drink (p. 152). If the person is very ill and does not improve within 6 hours after beginning Rehydration Drink, seek medical help.
+♦ Fever may be partly caused by dehydration. Give lots of Rehydration Drink ([page 152](#page-152)). If the person is very ill and does not improve within 6 hours after beginning Rehydration Drink, seek medical help.
 
-♦ Check for signs of typhoid fever. If present, treat for typhoid (see p. 188).
+♦ Check for signs of typhoid fever. If present, treat for typhoid (see [page 188](#page-188)).
 
-♦ In areas where falciparum malaria is common, also treat persons with diarrhea and fever for malaria (see p. 186), especially if they have an enlarged spleen.
+♦ In areas where falciparum malaria is common, also treat persons with diarrhea and fever for malaria (see [page 186](#page-186)), especially if they have an enlarged spleen.
 
 
 6. Yellow, bad smelling diarrhea with bubbles or froth, without blood or mucus. Often a lot of gas in the belly, and burps that taste bad, like sulfur.
 
-♦ This may be caused by parasites called giardia (see p. 145) or perhaps by malnutrition. In either case, plenty of liquid, nutritious food, and rest are often the best treatment.
+♦ This may be caused by parasites called giardia (see [page 145](#page-145)) or perhaps by malnutrition. In either case, plenty of liquid, nutritious food, and rest are often the best treatment.
 
-Severe giardia infections can be treated with metronidazole (p. 368). Quinacrine (Atabrine) is cheaper, but has worse side effects (p. 369).
+Severe giardia infections can be treated with metronidazole ([page 368](#page-368)). Quinacrine (Atabrine) is cheaper, but has worse side effects ([page 369](#page-369)).
 
 7. Chronic diarrhea (diarrhea that lasts a long time or keeps coming back).
 
-♦ This can be in part caused by malnutrition, or by a chronic infection such as that caused by amebas or giardia. See that the child eats more nutritious food more times a day (p. 110). If the diarrhea still continues, seek medical help.
+♦ This can be in part caused by malnutrition, or by a chronic infection such as that caused by amebas or giardia. See that the child eats more nutritious food more times a day ([page 110](#page-110)). If the diarrhea still continues, seek medical help.
 
 8. Diarrhea like rice water. (Cholera)
 
 ♦ ‘Rice water’ stools in very large quantities may be a sign of cholera. In countries where this dangerous disease occurs, cholera often comes in epidemics (striking many people at once) and is usually worse in older children and adults.
 
-Severe dehydration can develop quickly, especially if there is vomiting also. It is important to treat the dehydration continuously with rehydration drink and other liquids (see p. 152).
+Severe dehydration can develop quickly, especially if there is vomiting also. It is important to treat the dehydration continuously with rehydration drink and other liquids (see [page 152](#page-152)).
 
 Cholera should be reported to the health authorities. Seek medical help.
 
@@ -372,15 +372,15 @@ Diarrhea is especially dangerous in babies and small children. Often no medicine
 
 ♦ Continue breastfeeding and also give sips of Rehydration Drink.
 
-♦ If vomiting is a problem, give breast milk often, but only a little at a time. Also give Rehydration Drink in small sips every 5 to 10 minutes (see Vomiting, p. 161).
+♦ If vomiting is a problem, give breast milk often, but only a little at a time. Also give Rehydration Drink in small sips every 5 to 10 minutes (see Vomiting, [page 161](#page-161)).
 
 ♦ If there is no breast milk, try giving frequent small feedings of some other milk or milk substitute (like milk made from soybeans) mixed to half normal strength with boiled water. If milk seems to make the diarrhea worse, give some other protein (mashed chicken, eggs, lean meat, or skinned mashed beans, mixed with sugar or well-cooked rice or another carbohydrate, and boiled water).
 
-♦ If possible, give zinc supplements (see p. 381).
+♦ If possible, give zinc supplements (see [page 381](#page-381)).
 
 GIVE HIM BREAST MILK
 
-♦ If the child is younger than 1 month, try to find a health worker before giving any medicine. If there is no health worker and the child is very sick, give him an ‘infant syrup’ that contains ampicillin: half a teaspoon 4 times daily (see p. 352). It is better not to use other antibiotics.
+♦ If the child is younger than 1 month, try to find a health worker before giving any medicine. If there is no health worker and the child is very sick, give him an ‘infant syrup’ that contains ampicillin: half a teaspoon 4 times daily (see [page 352](#page-352)). It is better not to use other antibiotics.
 
 When to Seek Medical Help in Cases of Diarrhea
 
@@ -398,7 +398,7 @@ In the following situations you should get medical help:
 
 • if the person was very sick, weak, or malnourished before the diarrhea began (especially a little child or a very old person)
 
-• if there is much blood in the stools. This can be dangerous even if there is only very little diarrhea (see gut obstruction, p. 94).
+• if there is much blood in the stools. This can be dangerous even if there is only very little diarrhea (see gut obstruction, [page 94](#page-94)).
 
 
 # [160](#page-160)
@@ -409,7 +409,7 @@ In the following situations you should get medical help:
 
 No better Cured
 
-Continue to give cotrimoxazole, ampicillin, or chloramphenicol for 2 weeks. (see p. 356)
+Continue to give cotrimoxazole, ampicillin, or chloramphenicol for 2 weeks. (see [page 356](#page-356))
 
 NO
 
@@ -417,9 +417,9 @@ Diarrhea with blood or mucus?
 
 YES
 
-Give metronidazole for amebas. (see p. 369)
+Give metronidazole for amebas. (see [page 369](#page-369))
 
-Give ampicillin (p. 352) or cotrimoxazole (see p. 358).
+Give ampicillin ([page 352](#page-352)) or cotrimoxazole (see [page 358](#page-358)).
 NO Diarrhea yellow and very frothy?
 
 YES
@@ -434,11 +434,11 @@ Give no medicine.
 
 Continue giving Rehydration Drink and food.
 
-Give metronidazole or quinacrine for giardia. (see p. 369)
+Give metronidazole or quinacrine for giardia. (see [page 369](#page-369))
 
 NO
 
-Are there signs of typhoid fever? (temperature rises every day, slow pulse, very ill, etc., see p. 188)
+Are there signs of typhoid fever? (temperature rises every day, slow pulse, very ill, etc., see [page 188](#page-188))
 
 NO
 
@@ -453,7 +453,7 @@ Give food as soon as the person will eat. Bland, well-mashed foods are besta lot
 
 Control the dehydration:
 
-Drink lots of liquids and REHYDRATION DRINK. (see p. 152)
+Drink lots of liquids and REHYDRATION DRINK. (see [page 152](#page-152))
 
 NO
 Is there fever that lasts more than 6 hours after starting to treat the dehydration?
@@ -467,22 +467,22 @@ ES
 VOMITING
 Many people, especially children, have an occasional ‘stomach upset’ with vomiting. Often no cause can be found. There may be mild stomach or gut ache or fever. This kind of simple vomiting usually is not serious and clears up by itself.
 Vomiting is one of the signs of many different problems, some minor and some quite serious, so it is important to examine the person carefully. Vomiting often comes from a problem in the stomach or guts, such
-as: an infection (see diarrhea, p. 153), poisoning from spoiled food (p. 135), or ‘acute abdomen’ (for example, appendicitis or something blocking the gut, p. 94). Also, almost any sickness with high fever or severe pain may cause vomiting, especially malaria (p. 186), hepatitis
-(p. 172), tonsillitis (p. 309), earache (p. 309), meningitis (p. 185), urinary infection (p. 234), gallbladder pain
-(p. 329) or migraine headache (p. 162).
+as: an infection (see diarrhea, [page 153](#page-153)), poisoning from spoiled food ([page 135](#page-135)), or ‘acute abdomen’ (for example, appendicitis or something blocking the gut, [page 94](#page-94)). Also, almost any sickness with high fever or severe pain may cause vomiting, especially malaria ([page 186](#page-186)), hepatitis
+([page 172](#page-172)), tonsillitis ([page 309](#page-309)), earache ([page 309](#page-309)), meningitis ([page 185](#page-185)), urinary infection ([page 234](#page-234)), gallbladder pain
+([page 329](#page-329)) or migraine headache ([page 162](#page-162)).
 Danger signs with vomitingseek medical help quickly!
-• dehydration that increases and that you cannot control (p. 152)
+• dehydration that increases and that you cannot control ([page 152](#page-152))
 • severe vomiting that lasts more than 24 hours
-• violent vomiting, especially if vomit is dark green, brown, or smells like shit (signs of obstruction, p. 94)
+• violent vomiting, especially if vomit is dark green, brown, or smells like shit (signs of obstruction, [page 94](#page-94))
 • constant pain in the gut, especially if the person cannot defecate (shit)
-or if you cannot hear gurgles when you put your ear to the belly (see acute abdomen: obstruction, appendicitis, p. 94)
-• vomiting of blood (ulcer, p. 128; cirrhosis, p. 328)
+or if you cannot hear gurgles when you put your ear to the belly (see acute abdomen: obstruction, appendicitis, [page 94](#page-94))
+• vomiting of blood (ulcer, [page 128](#page-128); cirrhosis, [page 328](#page-328))
 To help control simple vomiting:
 ♦ Eat nothing while vomiting is severe.
 ♦ Sip a cola drink or ginger ale. Some herbal teas, like camomile,
 may also help.
-♦ For dehydration give small frequent sips of cola, tea, or Rehydration Drink (p. 152).
-♦ If vomiting does not stop soon, use a vomit control medicine like promethazine (p. 385) or diphenhydramine (p. 386). But do not give these medicines to children under 2 years old.
+♦ For dehydration give small frequent sips of cola, tea, or Rehydration Drink ([page 152](#page-152)).
+♦ If vomiting does not stop soon, use a vomit control medicine like promethazine ([page 385](#page-385)) or diphenhydramine ([page 386](#page-386)). But do not give these medicines to children under 2 years old.
 Most of these come in pills, syrups, injections, and suppositories (soft pills you push up the anus). Tablets or syrup can also be put up the anus. Grind up the tablet in a little water. Put it in with an enema set or syringe without a needle.
 When taken by mouth, the medicine should be swallowed with very little water and nothing else should be swallowed for 5 minutes. Never give more than the recommended dose. Do not give a second dose until dehydration has been corrected and the person has begun to urinate. If severe vomiting and diarrhea make medication by mouth or anus impossible, give an injection of one of the vomit-control medicines. Promethazine may work best. Take care not to give too much.
 
@@ -498,7 +498,7 @@ folk cure
 aspirin
  and shoulders gently. Some other home remedies also seem to help.
 Headache is common with
-any sickness that causes fever. If headache is severe, check for signs of meningitis (p. 185).
+any sickness that causes fever. If headache is severe, check for signs of meningitis ([page 185](#page-185)).
 Headaches that keep coming back may be a sign of a chronic illness, poor nutrition, or chemicals at work or in
 the environment. It is important to eat well and get enough sleep. If you think that chemicals could be causing the headaches or if they do not go away, talk with a health worker.
 A MIGRAINE is a severe throbbing
@@ -510,7 +510,7 @@ TO STOP A MIGRAINE, DO THE FOLLOWING AT THE FIRST SIGN:
 ♦ Lie down in a dark, quiet place. Do your best to relax. Try not to think about your problems.
 ♦ For especially bad migraine headaches, take aspirin, if possible with codeine,
 or with another sedative. Or obtain pills of ergotamine with caffeine (Cafergot,
-p. 379). Take 2 pills at first and 1 pill every 30 minutes until the pain goes away. Do not take more than 6 pills in 1 day.
+[page 379](#page-379)). Take 2 pills at first and 1 pill every 30 minutes until the pain goes away. Do not take more than 6 pills in 1 day.
 WARNING: Do not use Cafergot during pregnancy.
 
 # [163](#page-163)
@@ -520,18 +520,18 @@ COLDS AND THE FLU
 Colds and the flu are common virus infections that may cause runny nose, cough, sore throat, and sometimes fever or pain in the joints. There may be mild diarrhea, especially in young children.
 Colds and the flu almost always go away without medicine. Do not use penicillin, tetracycline, or other antibiotics, as they will not help at all and may cause harm.
 ♦ Drink plenty of water and get enough rest.
-♦ Aspirin (p. 378) or acetaminophen (p. 379) helps lower temperature and relieve body aches and headaches. More expensive ‘cold tablets’ are no better than aspirin. So why waste your money?
+♦ Aspirin ([page 378](#page-378)) or acetaminophen ([page 379](#page-379)) helps lower temperature and relieve body aches and headaches. More expensive ‘cold tablets’ are no better than aspirin. So why waste your money?
 ♦ No special diet is needed. However, fruit juices, especially orange juice or lemonade, are helpful.
 For treating coughs and stuffy noses that come with colds, see the next pages.
 WARNING: Do not give any kind of antibiotic or injections to a child with a simple cold. They will not help and may cause harm.
 If a cold or the flu lasts more than a week, or if the person has fever, coughs up
-a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages 170 and 171). An antibiotic may be called for. The danger of a cold turning into pneumonia is greater in old people, in those who have lung problems like chronic bronchitis, in people who cannot move much, and in people with HIV. People with HIV can take cotrimoxazole daily to prevent pneumonia and other infections (see p. 357).
-Sore throat is often part of a cold. No special medicine is needed, but it may help to gargle with warm water. However, if the sore throat begins suddenly, with high fever, it could be a strep throat. Special treatment is needed (see p. 310).
+a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages 170 and 171). An antibiotic may be called for. The danger of a cold turning into pneumonia is greater in old people, in those who have lung problems like chronic bronchitis, in people who cannot move much, and in people with HIV. People with HIV can take cotrimoxazole daily to prevent pneumonia and other infections (see [page 357](#page-357)).
+Sore throat is often part of a cold. No special medicine is needed, but it may help to gargle with warm water. However, if the sore throat begins suddenly, with high fever, it could be a strep throat. Special treatment is needed (see [page 310](#page-310)).
 Prevention of colds:
 ♦ Getting enough sleep and eating well helps prevent colds. Eating oranges, tomatoes, and other fruit containing vitamin C may help. Washing hands oftenespecially before touching your face, nose, mouth, or anything you put into your mouthis also good prevention.
 ♦ Contrary to popular belief, colds do not come from getting cold or wet (although getting very cold, wet, or tired can make a cold worse). A cold is ‘caught’ from others who have the infection and sneeze the virus into the air.
 ♦ To keep from giving his cold to others, the sick person should eat and sleep separatelyand take special care to keep far away from small babies. He should cover his nose and mouth when he coughs or sneezes, and wash his hands often if possible.
-♦ To prevent a cold from leading to earache (p. 309), try not to blow your nosejust wipe it. Teach children to do the same.
+♦ To prevent a cold from leading to earache ([page 309](#page-309)), try not to blow your nosejust wipe it. Teach children to do the same.
 
 # [164](#page-164)
 {:.no_toc}
@@ -543,7 +543,7 @@ To help clear a stuffy nose, do the following:
 2. Older children and adults can put a little salt water into their hand and sniff it into the nose. This helps to loosen the mucus.The water should not be too salty. 1/4 teaspoon of salt mixed in a cup of water is enough.
 3. Breathing hot water vapor as described on page 168 helps clear a stuffy nose.
 4. Wipe a runny or stuffy nose, but try not to blow it. Blowing the nose may lead to earache and sinus infections.
-5. Persons who often get earaches or sinus trouble after a cold can help prevent these problems by using decongestant nose drops with phenylephrine or ephedrine (p. 383). After sniffing a little salt water, put the drops in the nose like this:
+5. Persons who often get earaches or sinus trouble after a cold can help prevent these problems by using decongestant nose drops with phenylephrine or ephedrine ([page 383](#page-383)). After sniffing a little salt water, put the drops in the nose like this:
 With the head sideways, put 2 or 3 drops in the lower nostril. Wait a couple of minutes and then do the other side.
 CAUTION: Use decongestant drops no more than 3 times a day, for no more than 3 days.
 A decongestant syrup (with phenylephrine or something similar) may also help.
@@ -562,11 +562,11 @@ Signs:
 • Certain teeth may hurt.
 Treatment:
 ♦ Drink a lot of water.
-♦ Sniff a little salt water into the nose (see p. 164), or breathe steam from hot
-water to clear the nose (see p. 168).
+♦ Sniff a little salt water into the nose (see [page 164](#page-164)), or breathe steam from hot
+water to clear the nose (see [page 168](#page-168)).
 ♦ Put hot compresses on the face.
-♦ Use decongestant nose drops such as phenylephrine (Neo-synephrine, p. 383).
-♦ Use an antibiotic such as tetracycline (p. 355), ampicillin (p. 352), or penicillin (p. 351).
+♦ Use decongestant nose drops such as phenylephrine (Neo-synephrine, [page 383](#page-383)).
+♦ Use an antibiotic such as tetracycline ([page 355](#page-355)), ampicillin ([page 352](#page-352)), or penicillin ([page 351](#page-351)).
 ♦ If the person does not get better, seek medical help. Prevention:
 When you get a cold and a stuffy nose, try to keep your nose clear. Follow the instructions on page 164.
 HAY FEVER (ALLERGIC RHINITIS)
@@ -574,7 +574,7 @@ Runny nose and itchy eyes can be caused by an allergic reaction to something in 
 
 Treatment:
 
-Use an antihistamine such as chlorpheniramine (p. 386). Dimenhydrinate (Dramamine, p. 386), usually sold for motion sickness, also works.
+Use an antihistamine such as chlorpheniramine ([page 386](#page-386)). Dimenhydrinate (Dramamine, [page 386](#page-386)), usually sold for motion sickness, also works.
 
 Prevention:
 
@@ -597,13 +597,13 @@ An allergy is a disturbance or reaction that affects only certain persons when t
 
 Allergic reactions, which can be mild or very serious, include:
 
-• itching rashes, lumpy patches, or hives (p. 203)
+• itching rashes, lumpy patches, or hives ([page 203](#page-203))
 
-• runny nose and itching or burning eyes (hay fever, p. 165)
+• runny nose and itching or burning eyes (hay fever, [page 165](#page-165))
 
-• irritation in the throat, difficulty breathing, or asthma (see next page) • allergic shock (p. 70)
+• irritation in the throat, difficulty breathing, or asthma (see next page) • allergic shock ([page 70](#page-70))
 
-• diarrhea (in children allergic to milka rare cause of diarrhea, p. 156)
+• diarrhea (in children allergic to milka rare cause of diarrhea, [page 156](#page-156))
 
 An allergy is not an infection and cannot be passed from one person to another. However, children of allergic parents also tend to have allergies.
 
@@ -623,7 +623,7 @@ Common causes of allergic reactions are:
 
 - hair from cats and other animals
 
-- certain medicines, especially injections of penicillin or antitoxins made from horse serum (see p. 70)
+- certain medicines, especially injections of penicillin or antitoxins made from horse serum (see [page 70](#page-70))
 
 - kapok or feather pillows
 
@@ -647,13 +647,13 @@ sitting up to breathe
 
 ♦ Strong coffee or black tea can help relieve an asthma attack if you do not have any medicines.
 
-♦ For attacks, treat with the rescue inhaler salbutamol (albuterol, see p. 384) as often as needed. This is a spray medicine that you want to breathe in as deeply as possible. See p. 384 to learn how to make a spacer for your inhaler.
+♦ For attacks, treat with the rescue inhaler salbutamol (albuterol, see [page 384](#page-384)) as often as needed. This is a spray medicine that you want to breathe in as deeply as possible. See [page 384](#page-384) to learn how to make a spacer for your inhaler.
 
-♦ For frequent attacks, or asthma that makes you gasp for breath while walking or during mild exercise, also use the controller inhaler (beclomethasone, see p. 384). Using a controller medicine can prevent attacks, save you money, and make you feel better than always responding to an asthma emergency. Using a “spacer” with your inhaler allows more medicine to get to the lungs.
+♦ For frequent attacks, or asthma that makes you gasp for breath while walking or during mild exercise, also use the controller inhaler (beclomethasone, see [page 384](#page-384)). Using a controller medicine can prevent attacks, save you money, and make you feel better than always responding to an asthma emergency. Using a “spacer” with your inhaler allows more medicine to get to the lungs.
 
-♦ For severe asthma where you cannot get enough air and do not improve with salbutamol, use prednisolone by mouth right away, and then continue for 3 to 7 days (see p. 385). In emergencies if you have no other medicines you can inject epinephrine (adrenalin, see p. 385) under the skin.
+♦ For severe asthma where you cannot get enough air and do not improve with salbutamol, use prednisolone by mouth right away, and then continue for 3 to 7 days (see [page 385](#page-385)). In emergencies if you have no other medicines you can inject epinephrine (adrenalin, see [page 385](#page-385)) under the skin.
 
-♦ In rare cases, worms cause asthma. Try giving mebendazole (p. 373) to a child who starts having asthma if you think she has worms.
+♦ In rare cases, worms cause asthma. Try giving mebendazole ([page 373](#page-373)) to a child who starts having asthma if you think she has worms.
 
 ♦ If the person does not get better, seek medical help. Prevention:
 
@@ -664,7 +664,7 @@ Sometimes it helps to sleep outside in the open air. Drink at least 8 glasses of
 
 Asthma often begins in childhood and may be a problem for life. It is not contagious, but is more common in children with relatives who have asthma. It is generally worse during certain months of the year or at night.
 
-An asthma attack may be caused by eating or breathing things to which the person is allergic (see p. 166). In children asthma often starts with a cold. Nervousness or worry may bring on an asthma attack.
+An asthma attack may be caused by eating or breathing things to which the person is allergic (see [page 166](#page-166)). In children asthma often starts with a cold. Nervousness or worry may bring on an asthma attack.
 
 Asthma can also be caused by unclean air (air pollution), such as smoke from cigarettes, inside cooking fires, burning fields, or cars and trucks.
 
@@ -672,7 +672,7 @@ Treatment:
 
 ♦ If asthma gets worse inside the house, the person should go outside to a place where the air is cleanest. Remain calm and be gentle with the person. Reassure him.
 
-♦ Give a lot of liquids. This loosens mucus and makes breathing easier. Breathing water vapor may also help (see p. 168).
+♦ Give a lot of liquids. This loosens mucus and makes breathing easier. Breathing water vapor may also help (see [page 168](#page-168)).
 
 If you have asthma do not smokesmoking damages your lungs even more
 
@@ -685,57 +685,57 @@ Coughing is not a sickness in itself, but is a sign of many different sicknesses
 
 ## DRY COUGH WITH LITTLE OR NO PHLEGM:
 
-cold or  u (p. 163)
+cold or  u ([page 163](#page-163))
 
-wormswhen passing through the lungs (p. 140)
+wormswhen passing through the lungs ([page 140](#page-140))
 
-measles (p. 311)
+measles ([page 311](#page-311))
 
-smoker’s cough (smoking, p. 149)
+smoker’s cough (smoking, [page 149](#page-149))
 
 ## COUGH WITH MUCH OR LITTLE PHLEGM:
 
-bronchitis (p. 170)
+bronchitis ([page 170](#page-170))
 
-pneumonia (p. 171)
+pneumonia ([page 171](#page-171))
 
-asthma (p. 167)
+asthma ([page 167](#page-167))
 
-smoker’s cough, especially when getting up in the morning (p. 149)
+smoker’s cough, especially when getting up in the morning ([page 149](#page-149))
 
 ## COUGH WITH A WHEEZE OR WHOOP AND TROUBLE BREATHING:
 
-asthma (p. 167)
+asthma ([page 167](#page-167))
 
-whooping cough (p. 313)
+whooping cough ([page 313](#page-313))
 
-diphtheria (p. 313)
+diphtheria ([page 313](#page-313))
 
-heart trouble (p. 325)
+heart trouble ([page 325](#page-325))
 
-something stuck in the throat (p. 79)
+something stuck in the throat ([page 79](#page-79))
 
 ## CHRONIC OR PERSISTENT COUGH:
 
-tuberculosis (p. 179)
+tuberculosis ([page 179](#page-179))
 
-smoker’s or miner’s cough (p. 149)
+smoker’s or miner’s cough ([page 149](#page-149))
 
-asthma (repeated attacks, p. 167)
+asthma (repeated attacks, [page 167](#page-167))
 
-chronic bronchitis (p. 170)
+chronic bronchitis ([page 170](#page-170))
 
-emphysema (p. 170)
+emphysema ([page 170](#page-170))
 
 ## COUGHING UP BLOOD:
 
-tuberculosis (p. 179)
+tuberculosis ([page 179](#page-179))
 
-pneumonia (yellow, green, or blood-streaked phlegm, p. 171)
+pneumonia (yellow, green, or blood-streaked phlegm, [page 171](#page-171))
 
-severe worm infection (p. 140)
+severe worm infection ([page 140](#page-140))
 
-cancer of the lungs or throat (p. 149)
+cancer of the lungs or throat ([page 149](#page-149))
 
 Coughing is the body’s way of cleaning the breathing system and getting rid of phlegm (mucus with pus) and germs in the throat or lungs. So when a cough produces phlegm, do not take medicine to stop the cough, but rather do something to help loosen and bring up the phlegm.
 
@@ -757,9 +757,9 @@ Mix: 1 part honey 1 part lemon juice + Take a teaspoonful every 2 or 3 hours.
 
 WARNING: Do not give honey to babies under 1 year. Make the syrup with sugar instead of honey.
 
-3. For a severe dry cough that does not let you sleep, you can take a syrup with codeine (p. 383). Tablets of aspirin with codeine (or even aspirin alone) also help. If there is a lot of phlegm or wheezing, do not use codeine.
+3. For a severe dry cough that does not let you sleep, you can take a syrup with codeine ([page 383](#page-383)). Tablets of aspirin with codeine (or even aspirin alone) also help. If there is a lot of phlegm or wheezing, do not use codeine.
 
-4. For a cough with wheezing (difficult, noisy breathing), see Asthma (p. 167), Chronic Bronchitis (p. 170), and Heart Trouble (p. 325).
+4. For a cough with wheezing (difficult, noisy breathing), see Asthma ([page 167](#page-167)), Chronic Bronchitis ([page 170](#page-170)), and Heart Trouble ([page 325](#page-325)).
 
 5. Try to find out what sickness is causing the cough and treat that. If the cough lasts a long time, if there is blood, pus, or smelly phlegm in it, or if the person is losing weight or has continual difficulty breathing, see a health worker.
 
@@ -801,13 +801,13 @@ Use antibiotics only if the bronchitis lasts more than a week and is not getting
 
 ♦ Stop smoking.
 
-♦ Take an anti-asthma medicine with salbutamol (p. 384).
+♦ Take an anti-asthma medicine with salbutamol ([page 384](#page-384)).
 
 ‘barrel chest’
 
 ♦ Persons with chronic bronchitis should use cotrimoxazole or amoxicillin every time they have a cold or ‘flu’ with a fever.
 
-♦ If the person has trouble coughing up sticky phlegm, have him breathe hot water vapors (p. 168) and then help him with postural drainage (see p. 169).
+♦ If the person has trouble coughing up sticky phlegm, have him breathe hot water vapors ([page 168](#page-168)) and then help him with postural drainage (see [page 169](#page-169)).
 
 Emphysema can result from chronic asthma, chronic bronchitis, or smoking.
 
@@ -836,21 +836,21 @@ Pneumonia is an acute infection of the lungs. It often occurs after another resp
 
 • The person looks very ill.
 
-• Cold sores often appear on the face or lips (p. 232).
+• Cold sores often appear on the face or lips ([page 232](#page-232)).
 
-A very sick child with fast, shallow breathing probably has pneumonia. For a newborn baby, fast breathing means more than 60 breaths a minute. For a baby between 2 months and 1 year, fast breathing is more than 50 breaths a minute, and for a child between 1 and 5 years old, 40 breaths a minute. (If breathing is rapid and deep, check for dehydration, p. 151, or hyperventilation, p. 24.) Do not count the breaths while the child is crying or just after she has stopped.
+A very sick child with fast, shallow breathing probably has pneumonia. For a newborn baby, fast breathing means more than 60 breaths a minute. For a baby between 2 months and 1 year, fast breathing is more than 50 breaths a minute, and for a child between 1 and 5 years old, 40 breaths a minute. (If breathing is rapid and deep, check for dehydration, [page 151](#page-151), or hyperventilation, [page 24](#page-24).) Do not count the breaths while the child is crying or just after she has stopped.
 
 **Treatment:**
 
-♦ For pneumonia, treatment with antibiotics can make the difference between life and death. Give benzylpenicillin (p. 351), cotrimoxazole (p. 357), or erythromycin (p. 354). In serious cases, inject procaine penicillin (p. 352), adults: 1,000,000 units (1 g) a day, or give amoxicillin by mouth (pages 352 to 353), 500 mg, 3 times a day. Give small children 1⁄4 to 1⁄2 the adult dose. For children under 6, amoxicillin is usually best.
+♦ For pneumonia, treatment with antibiotics can make the difference between life and death. Give benzylpenicillin ([page 351](#page-351)), cotrimoxazole ([page 357](#page-357)), or erythromycin ([page 354](#page-354)). In serious cases, inject procaine penicillin ([page 352](#page-352)), adults: 1,000,000 units (1 g) a day, or give amoxicillin by mouth (pages 352 to 353), 500 mg, 3 times a day. Give small children 1⁄4 to 1⁄2 the adult dose. For children under 6, amoxicillin is usually best.
 
-♦ Give aspirin (p. 378) or acetaminophen (p. 379) to lower the temperature and lessen the pain. Acetaminophen is safer for children under 12.
+♦ Give aspirin ([page 378](#page-378)) or acetaminophen ([page 379](#page-379)) to lower the temperature and lessen the pain. Acetaminophen is safer for children under 12.
 
-♦ Give plenty of liquids. If the person will not eat, give him liquid foods or Rehydration Drink (see p. 152).
+♦ Give plenty of liquids. If the person will not eat, give him liquid foods or Rehydration Drink (see [page 152](#page-152)).
 
-♦ Ease the cough and loosen the mucus by giving the person plenty of water and having him breathe hot water vapors (see p. 168). Postural drainage may also help (see p. 169).
+♦ Ease the cough and loosen the mucus by giving the person plenty of water and having him breathe hot water vapors (see [page 168](#page-168)). Postural drainage may also help (see [page 169](#page-169)).
 
-♦ If the person is wheezing, an anti-asthma medicine may help (see p. 384).
+♦ If the person is wheezing, an anti-asthma medicine may help (see [page 384](#page-384)).
 
 
 # [172](#page-172)
@@ -859,7 +859,7 @@ A very sick child with fast, shallow breathing probably has pneumonia. For a new
 
 # HEPATITIS
 
-Hepatitis is an inflammation of the liver usually caused by a virus, but also by bacteria, alcohol, or chemical poisoning. There are 3 major types of hepatitis (A, B, and C) and it can spread from person to person whether or not there are signs of the disease. Even though in some places people call it ‘the fever’ (see p. 26), hepatitis often causes little or no rise in temperature.
+Hepatitis is an inflammation of the liver usually caused by a virus, but also by bacteria, alcohol, or chemical poisoning. There are 3 major types of hepatitis (A, B, and C) and it can spread from person to person whether or not there are signs of the disease. Even though in some places people call it ‘the fever’ (see [page 26](#page-26)), hepatitis often causes little or no rise in temperature.
 
 A person with Hepatitis A or Hepatitis B is often very sick for 2 to 3 weeks, weak for 1 to 4 months after, and then usually gets better.
 Hepatitis A is usually mild in small children, but more serious in older persons and in pregnant women.
@@ -885,7 +885,7 @@ Hepatitis B is more serious and can lead to permanent scarring of the liver (cir
 
 ♦ Antibiotics do not work against hepatitis. In fact some medicines such as acetaminophen will cause added damage to the sick liver. Do not use medicines.
 
-♦ The sick person should rest and drink lots of liquids. If he refuses most food, give him orange juice, papaya, and other fruit plus broth or vegetable soup. It may help to take vitamins. To control vomiting, see p. 161.
+♦ The sick person should rest and drink lots of liquids. If he refuses most food, give him orange juice, papaya, and other fruit plus broth or vegetable soup. It may help to take vitamins. To control vomiting, see [page 161](#page-161).
 
 ♦ When the sick person can eat, give a balanced meal. Vegetables and fruit are good, with some protein (pages 110 to 111). But do not give a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard. Avoid lard and fatty foods. Do not drink any alcohol for at least 6 months.
 
@@ -895,11 +895,11 @@ Hepatitis B is more serious and can lead to permanent scarring of the liver (cir
 
 ♦ The Hepatitis A virus passes from the stool of one person to the mouth of another by way of contaminated water or food. To prevent others from getting sick, bury the sick person’s stools. The sick person, his family and caregivers must try to stay clean and wash their hands often.
 
-♦ The Hepatitis B and Hepatitis C viruses can pass from person to person through sex, injections with unsterile needles, transfusions of infected blood and from mother to baby at birth. Take steps to prevent passing hepatitis to others: use a condom during sex (see p. 287), follow the HIV prevention suggestions on p. 401, and always boil needles and syringes before each use (see p. 74).
+♦ The Hepatitis B and Hepatitis C viruses can pass from person to person through sex, injections with unsterile needles, transfusions of infected blood and from mother to baby at birth. Take steps to prevent passing hepatitis to others: use a condom during sex (see [page 287](#page-287)), follow the HIV prevention suggestions on [page 401](#page-401), and always boil needles and syringes before each use (see [page 74](#page-74)).
 
 ♦ Vaccines now exist for Hepatitis A and Hepatitis B but they may be expensive or not be available everywhere. Hepatitis B is dangerous and there is no cure, so if the vaccine is accessible all children should be vaccinated. There is a new medicine for Hepatitis C, but it is very expensive and not widely available.
 
-**WARNING:** Hepatitis can also be transmitted by giving injections with unsterile needles: Always boil needles and syringes before each use (see p. 74).
+**WARNING:** Hepatitis can also be transmitted by giving injections with unsterile needles: Always boil needles and syringes before each use (see [page 74](#page-74)).
 
 # [173](#page-173)
 {:.no_toc}
@@ -911,20 +911,20 @@ Most chronic joint pain, or arthritis, in older people cannot be cured completel
 
 ♦ Rest. If possible, avoid hard work and heavy exercise that bother the painful joints. If the arthritis causes some fever, it helps to take naps during the day.
 
-♦ Place cloths soaked in hot water on the painful joints (see p. 195).
+♦ Place cloths soaked in hot water on the painful joints (see [page 195](#page-195)).
 
 ♦ Aspirin helps relieve pain; the dose for arthritis is higher than that for calming other pain. Adults should take 3 tablets, 4 times a day. If your ears begin to ring, take less. To avoid stomach problems caused by aspirin, always take it with food, or a large glass of water. If stomach pain continues, take the aspirin not only with food and lots of water, but also with a spoonful of an antacid such as Maalox or Gelusil.
 
 ♦ It is important to do simple exercises to help maintain or increase the range of motion in the painful joints.
 
-If only one joint is swollen and feels hot, it may be infectedespecially if there is fever. Use an antibiotic such as penicillin (see p. 350) and if possible see a health worker.
+If only one joint is swollen and feels hot, it may be infectedespecially if there is fever. Use an antibiotic such as penicillin (see [page 350](#page-350)) and if possible see a health worker.
 
-Painful joints in young people and children may be a sign of other serious illness, such as rheumatic fever (p. 310) or tuberculosis (p. 179). For more information on joint pain, see Disabled Village Children, Chapters 15 and 16.
+Painful joints in young people and children may be a sign of other serious illness, such as rheumatic fever ([page 310](#page-310)) or tuberculosis ([page 179](#page-179)). For more information on joint pain, see Disabled Village Children, Chapters 15 and 16.
 
 # BACK PAIN
 
 Back pain has many causes. Here are some:
-Chronic upper back pain with cough and weight loss may be TB of the lungs (p. 179).
+Chronic upper back pain with cough and weight loss may be TB of the lungs ([page 179](#page-179)).
 
 Mid back pain in a child may be TB of the spine, especially if the backbone has a hump or lump.
 
@@ -935,10 +935,10 @@ Severe low back pain that  rst comes suddenly when lifting or twisting may be a 
 Standing or sitting with the shoulder drooped is a common cause of backache.
 
 In older people, chronic back pain is often arthritis.
-Pain in the upper right back may be from a gallbladder problem (p. 329).
+Pain in the upper right back may be from a gallbladder problem ([page 329](#page-329)).
 
-Acute (or chronic) pain here may be a urinary problem (p. 234).
-Low backache is normal for some women during menstrual periods or pregnancy (p. 248).
+Acute (or chronic) pain here may be a urinary problem ([page 234](#page-234)).
+Low backache is normal for some women during menstrual periods or pregnancy ([page 248](#page-248)).
 
 Very low back pain sometimes comes from problems in the uterus, ovaries, or rectum.
 
@@ -966,7 +966,7 @@ not like this
 
 back-bending exercises (done very slowly)
 
-♦ Aspirin and hot soaks (p. 195) help calm most kinds of back pain.
+♦ Aspirin and hot soaks ([page 195](#page-195)) help calm most kinds of back pain.
 
 ♦ For sudden, severe, low back pain that comes from twisting, lifting, bending, or straining, quick relief can sometimes be brought like this:
 
@@ -999,13 +999,13 @@ There is no medicine for varicose veins. But the following will help:
 
 ♦ Use elastic stockings (support hose) or elastic bandages to help hold in the veins. Be sure to take them off at night.
 
-♦ Taking care of your veins in this way will help prevent chronic sores or varicose ulcers on the ankles (p. 213).
+♦ Taking care of your veins in this way will help prevent chronic sores or varicose ulcers on the ankles ([page 213](#page-213)).
 
 # PILES (HEMORRHOIDS)
 
 Piles or hemorrhoids are varicose veins of the anus or rectum, which feel like little lumps or balls. They may be painful, but are not dangerous. They frequently appear during pregnancy and may go away afterwards.
 
-♦ Certain bitter plant juices (witch hazel, cactus, etc.) dabbed on hemorrhoids help shrink them. So do hemorrhoid suppositories (p. 391).
+♦ Certain bitter plant juices (witch hazel, cactus, etc.) dabbed on hemorrhoids help shrink them. So do hemorrhoid suppositories ([page 391](#page-391)).
 
 ♦ Sitting in a bath of warm water can help the hemorrhoid heal.
 
@@ -1034,15 +1034,15 @@ Swelling of the feet may be caused by a number of different problems, some minor
 
 Women’s feet sometimes swell during the last three months of pregnancy. This is usually not serious. It is caused by the weight of the child that presses on the veins coming from the legs in a way that limits the flow of blood.
 
-However, if the woman also has high blood pressure, swollen face, a lot of protein in her urine, or sudden weight gain, she may be suffering from pre-eclampsia (see p. 249). Seek medical help fast.
+However, if the woman also has high blood pressure, swollen face, a lot of protein in her urine, or sudden weight gain, she may be suffering from pre-eclampsia (see [page 249](#page-249)). Seek medical help fast.
 
-Old people who spend a lot of time sitting or standing in one place often get swollen feet because of poor circulation. However, swollen feet in older persons may also be due to heart trouble (p. 325) or, less commonly, kidney disease (p. 234).
+Old people who spend a lot of time sitting or standing in one place often get swollen feet because of poor circulation. However, swollen feet in older persons may also be due to heart trouble ([page 325](#page-325)) or, less commonly, kidney disease ([page 234](#page-234)).
 
-Swelling of the feet in small children may result from anemia (p. 124) or malnutrition (p. 107). In severe cases of malnutrition the face and hands may also become swollen (see Kwashiorkor, p. 113).
+Swelling of the feet in small children may result from anemia ([page 124](#page-124)) or malnutrition ([page 107](#page-107)). In severe cases of malnutrition the face and hands may also become swollen (see Kwashiorkor, [page 113](#page-113)).
 
 **Treatment:**
 
-To reduce swelling, treat the sickness that causes it. Use little or no salt in food. Herbal teas that make people urinate a lot usually help (see corn silk, p. 12). Also do the following:
+To reduce swelling, treat the sickness that causes it. Use little or no salt in food. Herbal teas that make people urinate a lot usually help (see corn silk, [page 12](#page-12)). Also do the following:
 
 **WHEN YOUR FEET ARE SWOLLEN:**
 
@@ -1062,7 +1062,7 @@ Also sleep with your feet raised.
 
 # HERNIA (RUPTURE)
 
-A hernia is an opening or tear in the muscles covering the belly. This permits a loop of gut to push through and form a lump under the skin. Hernias usually come from lifting something heavy, or straining (as during childbirth). Some babies are born with a hernia (see p. 317). In men, hernias are common in the groin. Swollen lymph nodes (p. 88) may also cause lumps in the groin. However . . .
+A hernia is an opening or tear in the muscles covering the belly. This permits a loop of gut to push through and form a lump under the skin. Hernias usually come from lifting something heavy, or straining (as during childbirth). Some babies are born with a hernia (see [page 317](#page-317)). In men, hernias are common in the groin. Swollen lymph nodes ([page 88](#page-88)) may also cause lumps in the groin. However . . .
 
 A hernia is usually here, and you can feel it with a finger, like this.
 
@@ -1090,7 +1090,7 @@ If a hernia suddenly becomes large or painful, try to make it go back in by lyin
 
 If the hernia becomes very painful and causes vomiting, and the person cannot have a bowel movement, this can be very dangerous.
 
-Surgery may be necessary. Seek medical help fast. In the meantime, treat as for Appendicitis (p. 95).
+Surgery may be necessary. Seek medical help fast. In the meantime, treat as for Appendicitis ([page 95](#page-95)).
 
 
 # [178](#page-178)
@@ -1099,19 +1099,19 @@ Surgery may be necessary. Seek medical help fast. In the meantime, treat as for 
 
 # SEIZURES (FITS, CONVULSIONS)
 
-We say a person has a seizure when he suddenly loses consciousness and makes strange, jerking movements (convulsions). Seizures come from a problem in the brain. In small children, common causes of seizures are high fever and severe dehydration. In very ill persons, the cause may be meningitis, malaria of the brain (cerebral malaria), or poisoning. In pregnant women, it may be eclampsia (see p. 249). A person who often has seizures may have epilepsy.
+We say a person has a seizure when he suddenly loses consciousness and makes strange, jerking movements (convulsions). Seizures come from a problem in the brain. In small children, common causes of seizures are high fever and severe dehydration. In very ill persons, the cause may be meningitis, malaria of the brain (cerebral malaria), or poisoning. In pregnant women, it may be eclampsia (see [page 249](#page-249)). A person who often has seizures may have epilepsy.
 
 ♦ Try to figure out the cause of a seizure and treat it, if possible.
 
-♦ If the child has a high fever, lower it with cool water (see p. 76).
+♦ If the child has a high fever, lower it with cool water (see [page 76](#page-76)).
 
 ♦ If the child is dehydrated, give an enema of Rehydration Drink slowly. Send for medical help. Give nothing by mouth during a seizure.
 
-♦ If there are signs of meningitis (p. 185), begin treatment at once. Seek medical help.
+♦ If there are signs of meningitis ([page 185](#page-185)), begin treatment at once. Seek medical help.
 
-♦ If you suspect cerebral malaria, inject quinine or artesunate (see p. 366).
+♦ If you suspect cerebral malaria, inject quinine or artesunate (see [page 366](#page-366)).
 
-♦ If you suspect eclampsia, give medicine (see p. 390).
+♦ If you suspect eclampsia, give medicine (see [page 390](#page-390)).
 
 # EPILEPSY
 
@@ -1119,16 +1119,16 @@ Epilepsy causes seizures (fits) in people who otherwise seem fairly healthy. Sei
 
 In mild types of epilepsy the person may suddenly ‘blank out’ a moment, make strange movements, or behave oddly. Epilepsy is more common in some families (inherited).
 
-Or it may come from brain damage at birth, high fever in infancy, or tapeworm cysts in the brain (p. 143). Epilepsy is not an infection and cannot be ‘caught’. It is often a life-long problem. However, babies sometimes get over it.
+Or it may come from brain damage at birth, high fever in infancy, or tapeworm cysts in the brain ([page 143](#page-143)). Epilepsy is not an infection and cannot be ‘caught’. It is often a life-long problem. However, babies sometimes get over it.
 
 **Medicines to prevent epileptic seizures:**
 
 Note: These do not ‘cure’ epilepsy; they help prevent seizures. Often the medicine must be taken for life.
 
-♦ Phenobarbital often controls epilepsy. It costs little (see p. 389).
+♦ Phenobarbital often controls epilepsy. It costs little (see [page 389](#page-389)).
 
 ♦ Phenytoin may work when phenobarbital does not. Use the lowest
-possible dose that prevents seizures (see p. 389).
+possible dose that prevents seizures (see [page 389](#page-389)).
 
 **When a person is having a seizure:**
 
@@ -1138,7 +1138,7 @@ possible dose that prevents seizures (see p. 389).
 
 ♦ After the seizure the person may be dull and sleepy. Let him sleep.
 
-♦ If a seizure lasts more than 15 minutes, put liquid diazepam in the rectum using a plastic syringe without a needle. For dosage see p. 389. Do not inject phenytoin, phenobarbital, or diazepam into the muscles. These medicines can be injected in the vein, but it is very dangerous if you have little experience. Only a person with experience giving injections into a vein should give injections of these medicines.
+♦ If a seizure lasts more than 15 minutes, put liquid diazepam in the rectum using a plastic syringe without a needle. For dosage see [page 389](#page-389). Do not inject phenytoin, phenobarbital, or diazepam into the muscles. These medicines can be injected in the vein, but it is very dangerous if you have little experience. Only a person with experience giving injections into a vein should give injections of these medicines.
 
 
 For more information on seizures, see Disabled Village Children, Chapter 29.

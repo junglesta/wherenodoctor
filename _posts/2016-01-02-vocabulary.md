@@ -722,7 +722,7 @@ Starches Energy foods like maize, rice, wheat, cassava, potatoes, and squash.
 
 **Stools** Shit. Bowel movement. See Feces.
 
-**Stroke** (apoplexy, cerebro-vascular accident) A sudden loss of consciousness, feeling, or ability to move, caused by bleeding or a clot inside the brain. Also see heat stroke (p. 81).
+**Stroke** (apoplexy, cerebro-vascular accident) A sudden loss of consciousness, feeling, or ability to move, caused by bleeding or a clot inside the brain. Also see heat stroke ([page 81](#page-81)).
 
 **Sty** A red, swollen lump on the eyelid, usually near the edge, caused by infection.
 
