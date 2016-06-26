@@ -22,12 +22,14 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # 2do
 
-- **search for a better [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
-- Using at the moment [jekyll, search](https://github.com/christian, fei/Simple, Jekyll, Search), but it just gets chapter titles! NOT ENOUGH! no way to make 'content' work...
+- [ ] use some [MDL](https://getmdl.io/started/) compenent (side nav for chapters,...)
+- [ ] **install [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
 - [ ] Make it easily translatable.
 - [ ] maybe make Patient Report (page 44) fillable and printable PDF.
 
 # Done
+
+- [X]  dumped [jekyll, search](https://github.com/christian, fei/Simple, Jekyll, Search), it just gets chapter titles! NOT ENOUGH! no way to make 'content' work...
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
 - [X] squeezed all chapters into one single page.
 - [X] mobile friendly version one pager.
@@ -40,6 +42,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 # Source:
 
 ## Where There Is No Doctor
+
 The most widely, used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
 
 
