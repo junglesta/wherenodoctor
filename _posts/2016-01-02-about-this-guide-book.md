@@ -76,7 +76,7 @@ For help updating this book, we thank Manisha Aryal, Elizabeth Babu, Kristen Cas
 
 Artwork for this book was created by David Werner, Kyle Craven, Susan Klein, Regina Doyle, Sandy Frank, Kathleen Tandy, Fiona Thomson, Lihua Wang, and Mary Ann Zapalac.
 
-We also thank the following persons and groups for permission to use their artwork: Dale Crosby, Carl Werner, Macmillan Publishers (for some of Felicity Shepherd’s drawings in the African edition of this book), the “New Internationalist” (for the picture of the VIP latrine), James Ogwang (for the drawings on page 417), and McGraw-Hill (for drawings appearing on pages 85 and 104 taken from Emergency Medical Guide by John Henderson, illustrated by Neil Hardy).
+We also thank the following persons and groups for permission to use their artwork: Dale Crosby, Carl Werner, Macmillan Publishers (for some of Felicity Shepherd’s drawings in the African edition of this book), the “New Internationalist” (for the picture of the VIP latrine), James Ogwang (for the drawings on page 417), and McGraw-Hill (for drawings appearing on pages [page 85](#page-85)and [page 104](#page-104)taken from Emergency Medical Guide by John Henderson, illustrated by Neil Hardy).
 
 The fine work of those who helped create the original version is still reflected on nearly every page.
 

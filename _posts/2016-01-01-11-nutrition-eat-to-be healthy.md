@@ -699,7 +699,7 @@ All these problems may also be caused by other diseases. Therefore, if a person 
 
 A BLOOD PRESSURE CUFF for measuring blood pressure is a bracelet that you slip up an arm.
 
-WARNING: High blood pressure at first causes no signs, and it should be lowered **before** danger signs develop. People who are overweight or suspect they might have high blood pressure should have their blood pressure checked regularly. For instructions on measuring blood pressure, see pages 410 and 411.
+WARNING: High blood pressure at first causes no signs, and it should be lowered **before** danger signs develop. People who are overweight or suspect they might have high blood pressure should have their blood pressure checked regularly. For instructions on measuring blood pressure, see pages [page 410](#page-410)and [page 411](#page-411).
 
 _What to do to prevent or care for high blood pressure:_
 

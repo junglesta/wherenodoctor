@@ -23,7 +23,7 @@ Cataracts (see [page 225](#page-225)) and ‘floaters’ before the eyes (tiny m
 
 ## Weakness, Tiredness, and Eating Habits
 
-Old people understandably have less energy and strength than when they were younger, but they will become even weaker if they do not eat well. Although older people often do not eat very much, they should eat some body building and protective foods every day (see pages 110 to 111).
+Old people understandably have less energy and strength than when they were younger, but they will become even weaker if they do not eat well. Although older people often do not eat very much, they should eat some body building and protective foods every day (see pages [page 110](#page-110)to [page 111](#page-111)).
 
 ## Swelling of the Feet
 

@@ -404,7 +404,7 @@ is when it can spread to other people. These signs will also disappear. But if i
 
 Treatment:
 
-♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (see pages 237 to 238).
+♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (see pages [page 237](#page-237)to [page 238](#page-238)).
 
 # BOILS AND ABSCESSES
 
@@ -592,7 +592,7 @@ In malnourished children, the skin of the legs (and sometimes arms) may have dar
 on the backs of the legs
 peeling sores and dark marks
 
-When these conditions exist, often there are also other signs of malnutrition: swollen belly; sores in the corners of the mouth; red, sore tongue; weakness; loss of appetite; failure to gain weight; etc. (see Chapter 11, pages 112 to 114).
+When these conditions exist, often there are also other signs of malnutrition: swollen belly; sores in the corners of the mouth; red, sore tongue; weakness; loss of appetite; failure to gain weight; etc. (see Chapter 11, pages [page $1](#page-$1)to [page 114](#page-114)).
 
 Treatment:
 
@@ -627,16 +627,15 @@ After eating well
 
 # WARTS (VERRUCAE)
 
-Most warts, especially those in children, last 3 to 5 years and go away by themselves. Flat, painful wart-like spots on the sole of the foot are often ‘plantar warts’.
-(Or they may be corns. See below.)
+Most warts, especially those in children, last 3 to 5 years and go away by themselves. Flat, painful wart-like spots on the sole of the foot are often ‘plantar warts’. (Or they may be corns. See below.)
 
 Treatment:
 
-♦ Magical or household cures often get rid of warts. But it is safer not to use strong acids or poisonous plants, as these may cause burns or sores much worse than the warts.
+  ♦ Magical or household cures often get rid of warts. But it is safer not to use strong acids or poisonous plants, as these may cause burns or sores much worse than the warts.
 
-♦ Painful plantar warts sometimes can be removed by a health worker.
+  ♦ Painful plantar warts sometimes can be removed by a health worker.
 
-♦ For warts on the penis, vagina, or around the anus, see [page 402](#page-402).
+  ♦ For warts on the penis, vagina, or around the anus, see [page 402](#page-402).
 
 # CORNS
 
@@ -664,23 +663,23 @@ Treatment:
 
 Young people sometimes get pimples on their face, chest, or back, especially if their skin has too much oil in it. Pimples are little lumps that form tiny white ‘heads’ of pus or blackheads of dirt. Sometimes they can become quite sore and large.
 
-Treatment:
+_Treatment:_
 
-♦ Wash the face twice a day with soap and hot water.
+  ♦ Wash the face twice a day with soap and hot water.
 
-♦ Wash the hair every 2 days, if possible.
+  ♦ Wash the hair every 2 days, if possible.
 
-♦ Sunshine helps clear pimples. Let the sunlight fall on the affected parts of the body.
+  ♦ Sunshine helps clear pimples. Let the sunlight fall on the affected parts of the body.
 
-♦ Eat as well as possible, drink a lot of water, and get enough sleep.
+  ♦ Eat as well as possible, drink a lot of water, and get enough sleep.
 
-♦ Do not use skin or hair lotions that are waxy, oily, or greasy.
+  ♦ Do not use skin or hair lotions that are waxy, oily, or greasy.
 
-♦ Before you go to bed, put a mixture of alcohol with a little sulfur on the face (10 parts alcohol to 1 part sulfur).
+  ♦ Before you go to bed, put a mixture of alcohol with a little sulfur on the face (10 parts alcohol to 1 part sulfur).
 
-♦ For serious cases forming lumps and pockets of pus, if these do not get better with the methods already described, tetracycline may help. Take 1 capsule
+  ♦ For serious cases forming lumps and pockets of pus, if these do not get better with the methods already described, tetracycline may help. Take 1 capsule
 
-4 times a day for 3 days and then 2 capsules daily. It may be necessary to take 1 or 2 capsules daily for months.
+  4 times a day for 3 days and then 2 capsules daily. It may be necessary to take 1 or 2 capsules daily for months.
 
 
 # CANCER OF THE SKIN
@@ -782,7 +781,7 @@ Prevent skin ulcers, care for varicose veins early (see [page 175](#page-175)).
 
 These chronic open sores appear in persons so ill they cannot roll over in bed, especially in sick old persons who are very thin and weak. The sores form over bony parts of the body where the skin is pressed against the bedding. They are most often seen on the buttocks, back, shoulders, elbows, or feet.
 
- For a more complete discussion of pressure sores, see Disabled Village Children, Chapter 24, or A Health Handbook for Women with Disabilities, pages 114 to 117.
+ For a more complete discussion of pressure sores, see Disabled Village Children, Chapter 24, or A Health Handbook for Women with Disabilities, pages [page 114](#page-114)to [page 117](#page-117).
 
 How to prevent bed sores:
 

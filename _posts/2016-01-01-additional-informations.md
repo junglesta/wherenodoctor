@@ -73,23 +73,23 @@ If a combination of these 3 signs appears and the person gets sick more and more
 
 **Treatment**
 
-There is still no medicine to cure HIV or AIDS. But medicines called “antiretrovirals” can help people with HIV stay healthy and live longer. Taken in combination, they are called Antiretroviral Therapy, or ART. ART is becoming less costly and more available in many countries. (See pages 396 to 398 for information on ART.)
+There is still no medicine to cure HIV or AIDS. But medicines called “antiretrovirals” can help people with HIV stay healthy and live longer. Taken in combination, they are called Antiretroviral Therapy, or ART. ART is becoming less costly and more available in many countries. (See pages [page 396](#page-396)to [page 398](#page-398)for information on ART.)
 
-Because people with HIV have difficulty fighting infections, many use cotrimoxazole daily to prevent infections (see page 357). Be sure to treat any problems that occur:
+Because people with HIV have difficulty fighting infections, many use cotrimoxazole daily to prevent infections (see page [page 357](#page-357)). Be sure to treat any problems that occur:
 
   - For diarrhea, use Rehydration Drink (see [page 152](#page-152)).
 
-  - For yeast infection in the mouth (thrush), use gentian violet, nystatin, or miconazole (see pages 232 and 372).
+  - For yeast infection in the mouth (thrush), use gentian violet, nystatin, or miconazole (see pages [page 232](#page-232)and [page 372](#page-372)).
 
-  - For warts, use trichloroacetic acid or podophyllin (see [page 373](#page-373) and 402).
+  - For warts, use trichloroacetic acid or podophyllin (see [page 373](#page-373) and [page 402](#page-402)).
 
-  - For fever, give lots of fluids, aspirin or acetaminophen, and lower high fever with a cool bath (see pages 75 and 76).
+  - For fever, give lots of fluids, aspirin or acetaminophen, and lower high fever with a cool bath (see pages [page 75](#page-75)and [page 76](#page-76)).
 
-  - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages 168 to 171). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages 179 and 180).
+  - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages [page 168](#page-168)to [page 171](#page-171)). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages [page 179](#page-179)and [page 180](#page-180)).
 
   - For itching and rashes, use antihistamines ([page 385](#page-385)) and treat infections ([page 202](#page-202)).
 
-  - Treat infected wounds and sores (see pages 88 and 89).
+  - Treat infected wounds and sores (see pages [page 88](#page-88)and [page 89](#page-89)).
 
   - For shingles, see [page 204](#page-204).
 
@@ -358,7 +358,7 @@ Guinea worm is spread from person to person, like this:
 
   - Attach a thread to the worm, or roll it round a thin stick, and pull gently, a little more each day. This may take a week or more. The worm can be more than a meter long! Try not to break it, because this can cause severe infection.
 
-  - Give metronidazole or thiabendazole to help reduce discomfort and make it easier to slowly pull out the worm. (The medicines do not kill the worms. For dosages and precautions, see pages 368 and 374.)
+  - Give metronidazole or thiabendazole to help reduce discomfort and make it easier to slowly pull out the worm. (The medicines do not kill the worms. For dosages and precautions, see pages [page 368](#page-368)and [page 374](#page-374).)
 
   - Give anti-tetanus vaccination ([page 147](#page-147)).
 
@@ -681,7 +681,7 @@ The use of harmful, habit-forming drugs is a growing problem in the world today.
 
 Although alcohol and tobacco are legal in most countries, both are habit-forming or ‘addictive’ drugs. They contribute to the poor health and death of many millions of people each year. Alcohol abuse causes enormous health, family, and social problems throughout the world. Cigarette smoking has for many years been a major cause of death in rich countries. and is now becoming an even bigger cause of death in poor countries. As more people in the rich countries stop smoking, the tobacco companies have turned to the ‘Third World’ as their new and easiest market.
 
-Health problems related to use of alcohol and tobacco are discussed on pages 148 to 149.
+Health problems related to use of alcohol and tobacco are discussed on pages [page 148](#page-148)to [page 149](#page-149).
 
 In addition to alcohol and tobacco, many people in different parts of the world are using drugs that may be illegal. These vary from place to place, and include marijuana (weed, pot, grass, sin semilla, mota, hashish, ganja), opium (heroin, morphine, smack), methamphetamine (speed) and cocaine (crack, snow, rock).
 

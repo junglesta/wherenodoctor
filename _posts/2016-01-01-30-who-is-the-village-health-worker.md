@@ -693,7 +693,7 @@ can make a doll for the baby. Pin a cloth cord to its belly. Experienced midwive
 
 Videos on tapes, DVDs, and on the internet are available on different health subjects for many parts of the world. Battery-operated projectors are also available. But technology can never take the place of a good educator.
 
-A list of addresses where you can send for teaching materials to use for health education in your village can be found on pages 429 to 432.
+A list of addresses where you can send for teaching materials to use for health education in your village can be found on pages [page 429](#page-429)to [page 432](#page-432).
 
 
 # [w23](#page-w23)
@@ -840,7 +840,7 @@ Take special care to give examples of how to look things up. Urge each person to
 
 Point out how important it is to prevent sickness before it starts.
 
-Encourage people to pay special attention to Chapters 11 and 12, which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
+Encourage people to pay special attention to Chapters [page 11](#page-11)and 12, which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
 
 Also show and mark the pages that tell about the most common problems in your area. For example, you can mark the pages on diarrhea and be sure mothers with small children understand about ‘special drink’ (oral rehydration, [page 152](#page-152)).
 

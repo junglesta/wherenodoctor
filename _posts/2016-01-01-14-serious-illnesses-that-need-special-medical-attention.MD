@@ -72,7 +72,7 @@ Seek medical help. At the first sign of tuberculosis, go to a health center wher
 
 It is very important to take the medicines as directed. Treatments may be different in different countries, but usually the treatment has 2 parts. You will take 4 medicines for 2 months and then test your sputum. If you are getting better, you will take 2 or 3 medicines for another 4 months. Then you will be tested again to make sure you are cured. **Do not stop taking the medicines, even if you feel better**. This can lead to the illness coming back and infecting you and other people, with a form of TB that is much harder to cure, multi-drug resistant tuberculosis (see [page 359](#page-359)). **To cure TB completely can take from 6 months to more than a year.**
 
-Eat as well as possible: plenty of energy foods and also foods rich in proteins and vitamins (pages 110 to 111). Rest is important. If possible, stop working and take
+Eat as well as possible: plenty of energy foods and also foods rich in proteins and vitamins (pages [page 110](#page-110)to [page 111](#page-111)). Rest is important. If possible, stop working and take
 it easy until you begin to get better. From then on, try not to work so hard that you become tired or breathe with difficulty. Try to always get enough rest and sleep.
 
 Tuberculosis in any other part of the body is treated
@@ -231,12 +231,12 @@ Tetanus is a deadly disease. Seek medical help at the first sign. If there is an
 
   - Inject 1 million units of procaine penicillin at once and repeat every 12 hours for 7 to 10 days ([page 352](#page-352)). (For newborn babies crystalline penicillin is better.) After using injected penicillin for 2 days, you can switch to penicillin by mouth (penicillin V, [page 351](#page-351)). If there is no penicillin, use another antibiotic, like tetracycline.
 
-  - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (see pages 70 and 388).
+  - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (see pages [page 70](#page-70)and [page 388](#page-388)).
 
   - As long as the person can swallow, give nutritious liquids in frequent small sips.
 
   - To control convulsions, give diazepam (Valium) by mouth or in the rectum (for
-  dosages see pages 388 to 390).
+  dosages see pages [page 388](#page-388)to [page 390](#page-390)).
 
   - Touch and move the person as little as possible. Avoid noise and bright light.
 
@@ -286,14 +286,19 @@ This is a very serious infection of the brain, more common in children. It may b
 Get medical help fast, every minute counts! If possible take the person to a hospital. Meanwhile:
 
   - Inject ampicillin every 6 hours, 500 mg for children or 1 g for adults (see [page 353](#page-353)). Also give ceftriaxone or gentamicin (see [page 358](#page-358)).
-  - If there is high fever (more than 40°), lower it with wet cloths and acetaminophen or aspirin (see pages 378 to 379).
+
+  - If there is high fever (more than 40°), lower it with wet cloths and acetaminophen or aspirin (see pages [page 378](#page-378)to [page 379](#page-379)).
+
   - If the mother has tuberculosis or if you have any other reason to suspect that the child has tubercular meningitis, inject him with 20 mg of streptomycin for each kg. he weighs and get medical help at once. Also, use ampicillin in case the meningitis is not from TB.
+
   - If you know the meningitis came from malaria, give an injection of artesunate or quinine at once (see [page 366](#page-366)).
 
 
 ### Prevention:
 
-For prevention of tubercular meningitis, newborn babies of mothers with tuberculosis should be vaccinated with B.C.G. at birth. Dose for the newborn is 0.05 ml (half the normal dose of 0.1 ml). For other suggestions on prevention of TB, see pages 179 to 180.
+For prevention of tubercular meningitis, newborn babies of mothers with tuberculosis should be vaccinated with B.C.G. at birth. Dose for the newborn is 0.05 ml (half the normal dose of 0.1 ml).
+
+For other suggestions on prevention of TB, see pages  [page $1](#page-$1) to 180.
 
 
 
@@ -327,7 +332,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 ## Analysis and treatment:
 
   - If you suspect malaria or have repeated fevers, if possible go to a health center for a blood test. In areas where an especially dangerous type of malaria called falciparum occurs, seek treatment immediately.
-  - In areas where malaria is common and blood tests are not available, treat any unexplained high fever as malaria. Take the malaria medicine known to work best in your area. (See pages 363 to 367 for dosages and information on malaria medicines.)
+  - In areas where malaria is common and blood tests are not available, treat any unexplained high fever as malaria. Take the malaria medicine known to work best in your area. (See pages [page 363](#page-363)to [page 367](#page-367)for dosages and information on malaria medicines.)
   - If you get better with the medicine, but after several days the fevers start again, you may need another medicine. Get advice from the nearest health center.
   - If a person who possibly has malaria begins to have seizures or other signs of meningitis ([page 185](#page-185)) he may have cerebral malaria. If possible, inject quinine or artesunate at once (see [page 366](#page-366)).
 
@@ -351,7 +356,7 @@ Malaria occurs more often during hot, rainy seasons. If everyone cooperates, it 
 
  4. **Destroy mosquitos and their young.** Mosquitos breed in water that is not flowing. Clear ponds, pits, old cans, or broken pots that collect water. Raise mosquito-eating fish in ponds or lakes. Fill the tops of bamboo posts with sand and keep water containers covered.
 
- 5. Malaria can also be prevented, or its effects greatly reduced, by taking anti-malaria medicines on a regular schedule. See pages 363 to 367.
+ 5. Malaria can also be prevented, or its effects greatly reduced, by taking anti-malaria medicines on a regular schedule. See pages [page 363](#page-363)to [page 367](#page-367).
 
 
 # DENGUE (BREAKBONE FEVER, DANDY FEVER)
@@ -576,7 +581,7 @@ paralysis
 and deformity of the hands and feet
 painless sores on hands or feet
 
-Treatment of leprosy: Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (see pages 362 to 363). If a ‘lepra reaction’ (fever, a rash, pain and perhaps swelling of hands and feet, or eye damage) occurs or gets worse while taking the medicine, keep taking it but get medical help.
+Treatment of leprosy: Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (see pages [page 362](#page-362)to [page 363](#page-363)). If a ‘lepra reaction’ (fever, a rash, pain and perhaps swelling of hands and feet, or eye damage) occurs or gets worse while taking the medicine, keep taking it but get medical help.
 
 
 Advanced sign may include:

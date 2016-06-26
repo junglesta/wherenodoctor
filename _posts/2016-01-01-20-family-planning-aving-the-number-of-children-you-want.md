@@ -39,7 +39,7 @@ Every year, half a million women die of problems from pregnancy, childbirth, and
   - too many. A woman with more than 4 children has a greater risk of death after
   childbirth from bleeding and other causes.
 
-Millions of women safely use the family planning methods described in this chapter and on pages 393 to 396.
+Millions of women safely use the family planning methods described in this chapter and on pages [page 393](#page-393)to [page 396](#page-396).
 
 ## Choosing a Family Planning Method
 
@@ -83,7 +83,7 @@ _Protection from STIs and HIV:_ None
 
 _How often:_  Every day
 
-_Other important information:_  Works best if taken at the same time every day. Women who have the health problems listed on page 289 should not use this method.
+_Other important information:_  Works best if taken at the same time every day. Women who have the health problems listed on page [page 289](#page-289)should not use this method.
 
 ## Birth control pill: Minipill
 
@@ -273,7 +273,7 @@ Birth control pills do not protect against HIV or other sexually transmitted inf
 
 ## COMBINATION PILLS
 
-Different brands of combination birth control pills have different doses of 2 hormones, estrogen and progestin. (For descriptions of the most common brands and how to take them, see pages 393 and 394).
+Different brands of combination birth control pills have different doses of 2 hormones, estrogen and progestin. (For descriptions of the most common brands and how to take them, see pages [page 393](#page-393)and [page 394](#page-394)).
 
 ## THE MINIPILL (progestin-only pills)
 
@@ -298,7 +298,7 @@ No. The chances are the same as for women who have not taken the pill.
 
 ## emergency contraception
 
-If you had sex without birth control or your condom broke, you can still prevent pregnancy with birth control pills. This is called emergency contraception and it works during the first 5 days after you had sex, the sooner you take it, the better it will work. See pages 394 and 395.
+If you had sex without birth control or your condom broke, you can still prevent pregnancy with birth control pills. This is called emergency contraception and it works during the first 5 days after you had sex, the sooner you take it, the better it will work. See pages [page 394](#page-394)and [page 395](#page-395).
 
 
 
@@ -386,7 +386,7 @@ Progestin-only injections, such as Depo Provera and Noristerat are given every 2
 
 ## The IUD
 
-An IUD (Intra-Uterine Device) is a small plastic, or plastic and copper, object put into the womb by a trained health worker. Some brands of IUD also contain progestin. The IUD prevents pregnancy in different ways by affecting the egg, sperm, or lining of the womb. See pages 395 and 396.
+An IUD (Intra-Uterine Device) is a small plastic, or plastic and copper, object put into the womb by a trained health worker. Some brands of IUD also contain progestin. The IUD prevents pregnancy in different ways by affecting the egg, sperm, or lining of the womb. See pages [page 395](#page-395)and [page 396](#page-396).
 
 **WHO SHOULD NOT USE AN IUD:**
 
