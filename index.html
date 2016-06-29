@@ -5,51 +5,52 @@
 
   {% include head.html %}
 
-  <body>
+  <body >
 
     {% include svg/defs.html %}
 
-    {% include cover.html %}
-
-    <div class="page-content">
+    <div class="mdl-layout mdl-js-layout">
 
       {% include nav.html %}
 
-      {% for page in site.posts reversed %}
-      {% capture id %}{{ page.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase  }}{% endcapture %}
+      <div class="mdl-layout__content">
 
-      <div id="{{id}}" class="{%if page.style%}addon {{page.style}}{%else%}chapter {% endif%}">
+        {% include cover.html %}
 
-        {% if page.bookpage %}
-          <div class="chapter_page_anchor" id="page-{{ page.bookpage }}"><a href="#page-{{ page.bookpage }}"></a></div>
-        {% endif %}
+        {% for page in site.posts reversed %}
+        {% capture id %}{{ page.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase  }}{% endcapture %}
 
-        {% include chapter_title.html %}
+        <div id="{{id}}" class="{%if page.style%}addon {{page.style}}{%else%}chapter {% endif%}">
 
-          <div class="chapter_content">
+          {% if page.bookpage %}
+            <div class="chapter_page_anchor" id="page-{{ page.bookpage }}"><a href="#page-{{ page.bookpage }}"></a></div>
+          {% endif %}
 
+          {% include chapter_title.html %}
 
+            <div class="chapter_content">
 
-            <div class="wrapper">
+              <div class="wrapper">
 
-              {{ page.content }}
+                {{ page.content }}
+
+              </div>
 
             </div>
 
           </div>
 
-        </div>
+        {% endfor %}
 
-      {% endfor %}
+        {% include footer.html %}
+
+      </div>
 
     </div>
-
-    {% include footer.html %}
 
     {% include script_blank.html %}
 
     {% include script_upup.html %}
-
 
   </body>
 

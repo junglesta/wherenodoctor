@@ -107,3 +107,9 @@ nav .nav_link {
     margin-top: $spacing_unit/2;
   }
 }
+
+.mdl-layout__drawer-button {
+  color: white;
+  background-color: $brand_color;
+  border-radius: 50%;
+}

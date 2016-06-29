@@ -2,13 +2,17 @@
 .wrapper {
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing_unit;
-    padding-left: $spacing_unit;
+    padding-left: $spacing_unit*2;
+    padding-right: $spacing_unit*2;
+    @include media( "screen", ">minWidth") {
+      padding-left: $spacing_unit*3;
+      padding-right: $spacing_unit*3;
+    }
 
     @extend %clearfix;
     max-width: 650px;
     .cover & {
-      padding-top: 0;
+      padding-top: $spacing_unit;
       padding-bottom: $spacing_unit;
     }
     .page-content & {padding-top:0;}

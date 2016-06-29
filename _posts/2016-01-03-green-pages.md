@@ -850,7 +850,9 @@ Lamprene (clofazimine) [363](#page-363)
 
 Lariam (mefloquine) [365](#page-365)
 
-Laxatives .382 Lempko (contraceptive foam) [395](#page-395)
+Laxatives [page 382](#page-382)
+
+Lempko (contraceptive foam) [395](#page-395)
 
 Leprosy, medicines for [362](#page-362)
 
@@ -870,7 +872,9 @@ Lunelle (contraceptive injection) [396](#page-396)
 
 # M
 
-Magnesium hydroxide.382 Magnesium sulfate [382](#page-382), [390](#page-390)
+Magnesium hydroxide [page 382](#page-382)
+
+Magnesium sulfate [382](#page-382), [390](#page-390)
 
 Malaria, medicines for  [363](#page-363)
 
@@ -1877,7 +1881,7 @@ Ampicillin usually works as well as or better than chloramphenicol, and is much 
 
 For life-threatening illnesses such as meningitis, peritonitis, deep gut wounds, septicemia, or severe childbirth fever, chloramphenicol may be used when less dangerous medicines (like cephalosporins) are not available.
 
-WARNING: Chloramphenicol harms the blood
+_WARNING:_  Chloramphenicol harms the blood
 of some persons.
 
 It is especially dangerous for newborn babies.
@@ -1928,7 +1932,7 @@ Not all the sulfas are used the same way or have the same dosage.
 
 Before using any sulfonamide, be sure of the correct use and dosage.
 
-WARNING:
+_WARNING:_
 
 It is important to drink lots of water, at least 8 glasses a day, when taking sulfa, to prevent harm to the kidneys.
 
@@ -1959,7 +1963,7 @@ Use half the number of tablets given below if the medicine you have is double st
 This combination medicine fights a wide range of bacteria, and is less expensive than ampicillin.
 
 
-WARNING:
+_WARNING:_
 
 Unless they have HIV, women in the last 3 months of pregnancy and babies less than 8 weeks old should not use cotrimoxazole.
 
@@ -2050,7 +2054,7 @@ Mix with 1% lidocaine if you know how.
 
 When injecting, put the needle deep in the muscle.
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
 Do not give to a baby less than 1 week old.
 
@@ -2298,7 +2302,7 @@ Never use streptomycin during pregnancy.
 
 Also give 50 mg. of vitamin B6 (pyridoxine) every day.
 
-Isoniazid (INH)
+**Isoniazid (INH)**
 
 _Often comes in:_  tablets of 100 or 300 mg
 
@@ -2310,7 +2314,7 @@ For prevention it can be given alone.
 
 Resistance to isoniazid is beginning to develop in some areas.
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
 Rarely, isoniazid causes anemia, nerve pains in the hands and feet, muscle twitching, or even seizures, especially in malnourished persons.
 
@@ -2335,7 +2339,7 @@ For children with severe TB, or persons with tubercular meningitis, double the a
 
 For prevention of TB in family members of persons with TB, and for persons with HIV, it is recommended to give the above dose of INH for 6 months to 3 years.
 
-Rifampicin
+**Rifampicin**
 
 _Often comes in:_  tablets or capsules of 150 or 300 mg
 This antibiotic is powerful in fighting TB.
@@ -2350,13 +2354,13 @@ It is important to keep taking rifampicin regularly, without interruption.
 
 Be sure to get more before your supply runs out.
 
-RISKS AND PRECAUTIONS:
-Rifampicin can cause serious damage to
-the liver.
+**RISKS AND PRECAUTIONS:**
+
+Rifampicin can cause serious damage to the liver.
 
 A person who has liver problems or is pregnant should take this medicine under medical supervision.
 
-Side effects: Urine, tears, feces, saliva, mucus from coughing (sputum), and sweat are colored red-orange by rifampicin.
+_Side effects:_ Urine, tears, feces, saliva, mucus from coughing (sputum), and sweat are colored red-orange by rifampicin.
 
 Rarely, rifampicin can cause fever, loss or increase of appetite, vomiting, nausea, confusion, skin rash, and menstrual problems.
 
@@ -2392,12 +2396,13 @@ In each dose give:
 
 _Often comes in:_  tablets of 400 mg.
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
+
 Because there is not enough information about how pyrazinamide affects pregnancy, pregnant women should use it only in areas where there is resistance to isoniazid.
 
 Talk to an experienced health worker.
 
-Side effects: May cause swollen and painful joints, loss of appetite, nausea and vomiting, painful urination, fatigue, and fever.
+_Side effects:_ May cause swollen and painful joints, loss of appetite, nausea and vomiting, painful urination, fatigue, and fever.
 
 
 _Dosage for_ pyrazinamide (25 mg/kg/day): using tablets of 400 mg
@@ -2418,7 +2423,7 @@ In each dose give:
 
 _Often comes in:_  tablets of 100 or 400 mg
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
 Ethambutol may cause eye pain or damage if taken in large doses for a long time.
 
@@ -2431,15 +2436,13 @@ _Dosage of_ ethambutol (15 mg/kg/day for adults; 15–25 mg/kg/day for children)
 
 In each dose give:
 
-- adults: 1200 mg (three 400 mg tablets or twelve 100 mg tablets)
+  - adults: 1200 mg (three 400 mg tablets or twelve 100 mg tablets)
 
-- children: Give 20 mg for each kg the child weighs.
+  - children: Give 20 mg for each kg the child weighs.
 
 But for tubercular meningitis give 25 mg for each kg the child weighs.
 
 **Streptomycin**
-
-
 
 _Often comes in:_ vials for injection with 1 g in each vial.
 
@@ -2447,7 +2450,7 @@ Streptomycin is a very useful medicine for treating tuberculosis.
 
 It should not be used to treat any other illnesses, because this could increase resistance and make it ineffective against TB.
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
 Great care must be taken not to give more than the correct dose.
 
@@ -2463,18 +2466,18 @@ For treatment of tuberculosis: Give 1 injection daily for 8 weeks.
 
 With each injection give:
 
-- adults: 1 g (or 2 ml)
+  - adults: 1 g (or 2 ml)
 
-- adults over age 50: 500 to 750 mg (1 to
-1.5 ml)
+  - adults over age 50: 500 to 750 mg (1 to
+  1.5 ml)
 
-- children 8 to 12 years: 750 mg (1.5 ml)
+  - children 8 to 12 years: 750 mg (1.5 ml)
 
-- children 3 to 7 years: 500 mg (1 ml)
+  - children 3 to 7 years: 500 mg (1 ml)
 
-- children under 3 years: 250 mg (0.5 ml)
+  - children under 3 years: 250 mg (0.5 ml)
 
-- newborn babies: give 20 mg for each kg of body weight; thus a 3 kg baby gets 60 mg (0.12 ml)
+  - newborn babies: give 20 mg for each kg of body weight; thus a 3 kg baby gets 60 mg (0.12 ml)
 
 
 
@@ -2528,7 +2531,7 @@ In case of a severe ‘lepra reaction’ (pain along the nerves, numbness or wea
 Seek experienced medical advice about this because the cortico-steroid can also cause serious problems.
 
 
-Dapsone (diaminodiphenylsulfone, DDS)
+**Dapsone (diaminodiphenylsulfone, DDS)**
 
 _Often comes in:_  tablets of 25, 50, and 100 mg
 
@@ -2538,7 +2541,7 @@ Avoid the sun.
 
 If severe skin peeling occurs, stop taking the medicine.
 
-WARNING: **DDS is a dangerous drug.**
+_WARNING:_  **DDS is a dangerous drug.**
 
 Keep it where children cannot reach it.
 
@@ -2552,8 +2555,6 @@ _Dosage for_ DDS (2 mg/kg/day): Take once a day.
 
 
 **Rifampicin**
-
-
 
 _Often comes in:_  tablets or capsules of 150 and 300 mg
 
@@ -2570,11 +2571,12 @@ For leprosy, give rifampicin once a month.
 It should be taken either 1 hour before or 2 hours after eating.
 
 In each monthly dose give:
-adults: 600 mg (two 300 mg tablets) children 10 to 12 years: 450 mg
-(one and a half 300 mg tablets) children under 10 years: 300 mg
-(one 300 mg tablet)
 
----
+  - adults: 600 mg (two 300 mg tablets)
+
+  - children 10 to 12 years: 450 mg (one and a half 300 mg tablets)
+
+  - children under 10 years: 300 mg (one 300 mg tablet)
 
 
 # [363](#page-363)
@@ -2654,11 +2656,11 @@ For falciparum malaria that has become resistant to many medicines, doxycycline 
 
 _Often comes in:_  capsules of 50 and 100 mg.
 
-Clofazimine is also an expensive medicine.
+**Clofazimine is also an expensive medicine.**
 
 Although it is less effective in killing leprosy bacteria than rifampicin, it has the advantage that it also helps to control lepra reaction to some extent, particularly in persons with MB (lepromatous) leprosy.
 
-Side effects: Causes the skin to become a red-purple color.
+_Side effects:_ Causes the skin to become a red-purple color.
 
 This is only temporary and will disappear 1 to 2 years after stopping the medicine.
 
@@ -2666,29 +2668,25 @@ May cause stomach or digestive problems.
 
 Not recommended for pregnant women.
 
-
-
 _Dosage for_ clofazimine (1 mg/kg/day) using capsules of 50 mg
 
 Give one regular dose of clofazimine at least twice a week, depending on age, and a second, larger dose once a month.
 
 In each regular dose give:
 
-adults: 50 mg (one 50 mg capsule)
-every day
+  - adults: 50 mg (one 50 mg capsule) every day
 
-children 10 to 12 years: 50 mg (one 50 mg
-capsule) every other day
-children under 10 years: 50 mg (one 50 mg
-capsule) twice a week
+  - children 10 to 12 years: 50 mg (one 50 mg capsule) every other day
+
+  - children under 10 years: 50 mg (one 50 mg capsule) twice a week
 
 In each monthly dose give:
 
-adults: 300 mg (six 50 mg capsules) children 10 to 12 years: 150 mg (three
-50 mg capsules)
+  - adults: 300 mg (six 50 mg capsules) children 10 to 12 years: 150 mg (three
+  50 mg capsules)
 
-children under 10 years: 100 mg (two 50 mg
-capsules)
+  - children under 10 years: 100 mg (two 50 mg
+  capsules)
 
 _Note:_ The larger dose of clofazimine, which can also be used daily to control lepra reaction, is best given with the advice of an experienced health worker or doctor.
 
@@ -2704,7 +2702,7 @@ In some places, even falciparum malaria can still be treated with chloroquine fo
 
 To prevent malaria, use doxycycline, mefloquine, proguanil, or chloroquine.
 
-Artesunate
+**Artesunate**
 
 _Often comes in:_  50 mg tablets
 
@@ -2722,7 +2720,7 @@ For children less than 5 years of age, 1 dose of artesunate in the rectum on the
 
 Give 10 mg/kg
 
-Side effects: Artesunate can cause dizziness and problems balancing.
+_Side effects:_ Artesunate can cause dizziness and problems balancing.
 
 
 
@@ -2747,7 +2745,7 @@ Also take a second anti-malaria medicine as part of ACT.
 To prepare artesunate injection in cases of emergency, see a health worker or doctor.
 
 
-Artemether with lumefantrine (Coartem)
+**Artemether with lumefantrine (Coartem)**
 
 _Often comes in:_  tablets of 20 mg of artemether with 120 mg of lumefantrine
 
@@ -2778,7 +2776,7 @@ _CAUTION:_  Women in the first 3 months of pregnancy should avoid using artemeth
 Instead of artemether with lumefantrine, if possible give quinine and clindamycin.
 
 
-Pyrimethamine with sulfadoxine (Fansidar)
+**Pyrimethamine with sulfadoxine (Fansidar)**
 
 
 _Often comes in:_  combination tablet with 25 mg pyrimethamine and 500 mg sulfadoxine
@@ -2793,20 +2791,26 @@ After 12 weeks, pregnant women can take 1 dose each month to prevent malaria unt
 
 If you are already taking cotrimoxazole to prevent HIV-related infections, do not use fansidar.
 
-WARNING: Fansidar should not be taken by anyone who has ever had a reaction to sulfa medicine.
+_WARNING:_  Fansidar should not be taken by anyone who has ever had a reaction to sulfa medicine.
 
-If
-the medicine causes a rash or itching, drink lots of water and do not take it again.
+If the medicine causes a rash or itching, drink lots of water and do not take it again.
 
-Dosage to treat falciparum malaria:
+Dosage to treat **falciparum malaria**:
+
 Give one time, on the first day of taking artesunate:
-adults: 3 tablets
-children 7 to 13 years: 2 tablets children 1 to 6 years: 1 tablet babies 5 months to 1 year: 1⁄2 tablet
+
+- adults: 3 tablets
+
+- children 7 to 13 years: 2 tablets
+
+- children 1 to 6 years: 1 tablet
+
+- babies 5 months to 1 year: 1⁄2 tablet
+
 Also give artesunate.
 
 
- GREEN PAGES
-Mefloquine (familiar brand name: Lariam)
+**Mefloquine (familiar brand name: Lariam)**
 
 
  _Often comes in:_  tablets of 250 mg
@@ -2814,7 +2818,7 @@ Mefloquine is used with artesunate to treat falciparum malaria.
 
 Mefloquine can also be used alone for malaria prevention.
 
-Precautions and side effects: Mefloquine should not be taken by persons with epilepsy
+Precautions and _Side effects:_ Mefloquine should not be taken by persons with epilepsy
 or mental illness.
 
 Pregnant women should take mefloquine only if they are not able to get another medicine.
@@ -2911,7 +2915,7 @@ For women in the first 3 months of pregnancy, quinine with clindamycin can be us
 
 If vomiting is a problem when giving quinine by mouth, a medicine such as promethazine may help.
 
-Side effects: Quinine sometimes causes sweaty skin, ringing of the ears or impaired hearing, blurred vision, dizziness, nausea and vomiting, and diarrhea.
+_Side effects:_ Quinine sometimes causes sweaty skin, ringing of the ears or impaired hearing, blurred vision, dizziness, nausea and vomiting, and diarrhea.
 
 
 _Dosage of_ quinine—using tablets of 300 mg for treating resistant falciparum malaria.
@@ -3123,7 +3127,7 @@ Primaquine does not work by itself for acute attacks.
 
 Primaquine is not safe for women who are pregnant or breastfeeding.
 
-Side effects: Primaquine causes anemia in people with a blood condition called G6PD deficiency, or favism.
+_Side effects:_ Primaquine causes anemia in people with a blood condition called G6PD deficiency, or favism.
 
 Seek local advice.
 
@@ -3216,7 +3220,7 @@ It can also help to treat the symptoms of guinea worm.
 
 _CAUTION:_  Do not drink alcohol when taking metronidazole, as this causes severe nausea.
 
-WARNING: Metronidazole may cause birth defects.
+_WARNING:_  Metronidazole may cause birth defects.
 
 Pregnant women should avoid using this medicine if possible, especially during the first 3 months of pregnancy.
 
@@ -3307,7 +3311,7 @@ _Often comes in:_
 - syrup with 125 mg in 5 ml
 
 
-Side effects: Occasionally causes gas, stomach pain, or nausea.
+_Side effects:_ Occasionally causes gas, stomach pain, or nausea.
 
 
 _Dosage for_ diloxanide furoate (20 mg/kg/day) — tablets of 500 mg
@@ -3796,7 +3800,7 @@ Take with lots of water.
 
 People with kidney damage should not take acyclovir.
 
-Side effects: Acyclovir may cause headache, dizziness, nausea, and vomiting.
+_Side effects:_ Acyclovir may cause headache, dizziness, nausea, and vomiting.
 
 Loss of memory and not being able to pass urine are signs of taking too much.
 
@@ -3825,7 +3829,7 @@ Guidelines of personal and public cleanliness must also be followed.
 
 When 1 person in the family has worms, it is wise to treat the whole family.
 
-Mebendazole (Vermox)
+**Mebendazole (Vermox)**
 
 for many different worm infections
 
@@ -3839,7 +3843,7 @@ It may do some good in cases of trichinosis.
 
 When treating heavy worm infections there may be some gut pain or diarrhea, but side effects are not common.
 
-WARNING: Do not give mebendazole to women in the first 3 months of pregnancy or children under 6 months old.
+_WARNING:_  Do not give mebendazole to women in the first 3 months of pregnancy or children under 6 months old.
 
 
 _Dosage of_ mebendazole—using 100 mg tablets
@@ -3857,7 +3861,7 @@ Give again in 2 weeks if there are still pinworms.
 # [374](#page-374)
 {:.no_toc}
 
-For roundworm (Ascaris), whipworm (Trichuris), hookworm, and Strongyloides:
+**For roundworm (Ascaris), whipworm (Trichuris), hookworm, and Strongyloides:**
 
 1 tablet twice a day (morning and evening) for
 3 days (6 tablets in all), or one 500 mg tablet 1 time only.
@@ -3869,7 +3873,9 @@ Then give 400–500 mg 3 times a day for another 10 days.
 In severe cases, cortico-steroids also help, but should be given by a health worker or doctor.
 
 
-Albendazole (Zentel)—for many different worm infections
+**Albendazole (Zentel)**
+
+for many different worm infections
 
 _Often comes in:_ tablets of 200 and 400 mg
 This medicine is similar to mebendazole, but often more expensive.
@@ -3879,7 +3885,7 @@ It works against hookworm, whipworm, Strongyloides, roundworm, and pinworm.
 Side effects are rare.
 
 
-WARNING: Do not give albendazole to women in the first 3 months of pregnancy or children under 1 year.
+_WARNING:_  Do not give albendazole to women in the first 3 months of pregnancy or children under 1 year.
 
 
 
@@ -3897,7 +3903,7 @@ For trichinosis: 400 mg 2 times a day for 8 to 14 days.
 
 In severe cases, cortico-steroids also help, but should be given by a health worker or doctor.
 
-Piperazine—for roundworm (Ascaris) and pinworm (threadworm, Enterobius)
+**Piperazine—for roundworm (Ascaris) and pinworm (threadworm, Enterobius)**
 
 Prepared as piperazine citrate, tartrate, hydrate, adipate, or phosphate
 
@@ -3938,7 +3944,7 @@ Give 2 doses daily for a week.
 
 - children under 3 years: 250 mg (1⁄2 tablet or 1⁄2 teaspoon)
 
-Thiabendazole—for many different worm infections
+**Thiabendazole for many different worm infections**
 
 _Often comes in:_ 500 mg tablets or mixture with 1 g in 5 ml
 
@@ -3956,7 +3962,7 @@ Thiabendazole may cause roundworm (Ascaris) to crawl up the throat. This can blo
 
 Therefore, if you suspect a person has roundworm in addition to other worms, it is wise to treat first with piperazine before giving thiabendazole.
 
-Side effects: Thiabendazole often causes tiredness, a sick feeling, and sometimes vomiting.
+_Side effects:_ Thiabendazole often causes tiredness, a sick feeling, and sometimes vomiting.
 
 
 _Dosage for__ thiabendazole (25 mg/kg/day) —500 mg tablets or mixture with 1 g in 5 ml.
@@ -3975,7 +3981,7 @@ In each dose give:
 
 - children under 3 years: 250 mg  (1⁄2 tablet or 1⁄4 teaspoon)
 
-Pyrantel (Antiminth, Cobantril, Helmex, Pin-X)
+**Pyrantel (Antiminth, Cobantril, Helmex, Pin-X)**
 
 Comes as pamoate or embonate
 
@@ -4009,7 +4015,7 @@ In each dose give:
 
 There are several types of tapeworms.
 
-Niclosamide and pranziquantel are both effective for treating most types.
+**Niclosamide** and **pranziquantel** are both effective for treating most types.
 
 Niclosamide is less expensive.
 
@@ -4042,8 +4048,7 @@ Giving a purge 2 hours after taking niclosamide may help get rid of the tapeworm
 
 - children under 2 years: 500 mg (1 tablet)
 
-To treat dwarf tapeworm, repeat the above
-_Dosage for_ 7 days.
+To treat dwarf tapeworm, repeat the above dosage for 7 days.
 
 **Praziquantel (Biltricide, Droncit)**
 
@@ -4051,11 +4056,11 @@ _Often comes in:_ tablets of 150 mg and 600 mg
 
 Praziquantel is effective in treating most types of tapeworms, but is more expensive than niclosamide.
 
-WARNING: Pregnant women and children under 4 years old should avoid taking praziquantel if possible.
+_WARNING:_  Pregnant women and children under 4 years old should avoid taking praziquantel if possible.
 
 Women who are breastfeeding should stop giving their babies breast milk while taking praziquantel and for 72 hours after taking it (squeeze out the milk and throw it away).
 
-Side effects: Praziquantel may cause tiredness, dizziness, headache, and loss of appetite, but these side effects are rare at the low dosages used to treat tapeworm.
+_Side effects:_ Praziquantel may cause tiredness, dizziness, headache, and loss of appetite, but these side effects are rare at the low dosages used to treat tapeworm.
 
 
 _Dosage of_ praziquantel for most kinds of tapeworm, including beef and pork tapeworm (10 to 20 mg/kg)—using 600 mg tablets
@@ -4102,11 +4107,11 @@ Medicines should be given under direction of an experienced health worker.
 
 _Often comes in:_ tablets of 150 or 600 mg
 
-WARNING: Pregnant women and children under 4 should avoid taking praziquantel if possible.
+_WARNING:_  Pregnant women and children under 4 should avoid taking praziquantel if possible.
 
 Women who are breastfeeding should stop giving their babies breast milk while taking praziquantel and for 72 hours after taking it (squeeze out the milk and throw it away).
 
-Side effects: Praziquantel frequently causes tiredness, headache, dizziness, and loss of appetite, but treatment need not be stopped if these side effects occur.
+_Side effects:_ Praziquantel frequently causes tiredness, headache, dizziness, and loss of appetite, but treatment need not be stopped if these side effects occur.
 
 To lessen side effects, praziquantel is best taken with a large meal.
 
@@ -4152,7 +4157,7 @@ Oxamniquine is used to treat schistosomiasis causing blood in the stools in Sout
 
 (To treat S. mansoni found in Africa, larger doses than those given here are needed. Seek local advice.) This medicine is best taken after a meal.
 
-WARNING: Pregnant women should not take oxamniquine.
+_WARNING:_  Pregnant women should not take oxamniquine.
 
 This medicine may cause dizziness, drowsiness, and, rarely, seizures.
 
@@ -4260,7 +4265,7 @@ Take the medicine like this:
 
 Diethylcarbamazine may cause severe allergic reactions, which can partly be controlled with antihistamines—or cortico-steroids, given by a health worker.
 
-Side effects: Diethylcarbamazine sometimes causes headache, tiredness, weakness, loss of appetite, stomach upset, cough, chest pains, muscle or joint pain, fever and rash.
+_Side effects:_ Diethylcarbamazine sometimes causes headache, tiredness, weakness, loss of appetite, stomach upset, cough, chest pains, muscle or joint pain, fever and rash.
 
 **Suramin (Naphuride, Bayer 205, Antrypol. Germanin)**
 
@@ -4312,7 +4317,7 @@ of povidone-iodine or 1 drop of 1% solution of silver nitrate in each eye.
 
 Silver nitrate (or other “silver” eye medicines) stops gonorrhea blindness, but does not stop the blindness that comes from chlamydia.
 
-WARNING: Do not use silver nitrate drops that may have become too concentrated because of evaporation—they can burn babies’ eyes.
+_WARNING:_  Do not use silver nitrate drops that may have become too concentrated because of evaporation—they can burn babies’ eyes.
 
 
 ## FOR PAIN: analgesics
@@ -4341,7 +4346,7 @@ For children under 12, acetaminophen is safer.
 
 Many different medicines sold for pain, arthritis, or colds contain aspirin, but they are more expensive and often do not do any more good than aspirin alone.
 
-RISKS AND PRECAUTIONS:
+**RISKS AND PRECAUTIONS:**
 
   1. Do not use aspirin for stomach pain or indigestion.
 
@@ -4423,7 +4428,7 @@ Ibuprofen works for muscle swelling and pain, joint pain from arthritis, menstru
 
 It is more expensive than aspirin.
 
-WARNING: Ibuprofen should not be taken by persons who are allergic to aspirin.
+_WARNING:_  Ibuprofen should not be taken by persons who are allergic to aspirin.
 
 Pregnant women should not use ibuprofen.
 
@@ -4455,7 +4460,7 @@ _Dosage of_ ergotamine with caffeine for migraine: adults: Take 2 tablets at the
 
 But do not take more than 6 tablets in 24 hours or 10 tablets per week.
 
-WARNING: Do not take this medicine often.
+_WARNING:_  Do not take this medicine often.
 
 Do not take when pregnant.
 
@@ -4529,7 +4534,7 @@ a day
 children 5 to 7 years: 1⁄2 tablet, 2 or 3 times
 a day
 do not give to children under 5 years
-WARNING: These medicines are poisonous if too much is taken.
+_WARNING:_  These medicines are poisonous if too much is taken.
 
 Keep out of reach of children.
 
@@ -4585,7 +4590,7 @@ Do not use often.
 
 For cleaning teeth, baking soda or a mixture of ‘soda’ and salt can be used instead of toothpaste (see [page 230](#page-230)).
 
-WARNING: Persons with certain heart problems (failure) or with swelling of the feet or face should not take sodium bicarbonate or other products high in sodium (like salt).
+_WARNING:_  Persons with certain heart problems (failure) or with swelling of the feet or face should not take sodium bicarbonate or other products high in sodium (like salt).
 
 
 # [381](#page-381)
@@ -4661,7 +4666,7 @@ food together with rehydration drink combats dehydration more effectively and pr
 
 Giving zinc in addition to rehydration drink can also help children with severe diarrhea get better more quickly (see below).
 
-WARNING: In some countries, packets of ‘ORS’ (oral rehydration salts) are sold in a variety of preparations, which require different amounts of water for correct preparation.
+_WARNING:_  In some countries, packets of ‘ORS’ (oral rehydration salts) are sold in a variety of preparations, which require different amounts of water for correct preparation.
 
 If you use ORS packets, be sure you know how much water to mix with it.
 
@@ -4734,15 +4739,16 @@ As an antacid:
 
 As a mild laxative give 1 dose at bedtime:
 
-- adultsand children over 12 years: 2 to
-4 tablespoons
-children 6 to 11 years: 1 to 2 tablespoons children 2 to 5 years: 1⁄3 to 1 tablespoon do not give to children under 2 years old
+- adults and children over 12 years: 2 to 4 tablespoons
+
+- children 6 to 11 years: 1 to 2 tablespoons
+
+- children 2 to 5 years: 1⁄3 to 1 tablespoon
+
+- **do not give to children under 2 years old**
 
 
-GREEN PAGES
-
-
-Epsom salts (magnesium sulfate)—as a laxative and for itching
+**Epsom salts (magnesium sulfate)—as a laxative and for itching**
 
 Often comes in white powder or crystals
 
@@ -4761,7 +4767,7 @@ As a mild laxative—mix the following amount of Epsom salts in a glass of water
 
 To help stop itching—mix 8 teaspoons of Epsom salts in a liter of water and put on itching skin as cool soaks or compresses.
 
-Mineral oil—as a laxative
+**Mineral oil—as a laxative**
 
 
 This is sometimes taken by persons with piles (hemorrhoids) who have hard, painful stools.
@@ -4779,9 +4785,7 @@ Do not take with meals because the oil will rob some of the vitamins from the fo
 
 _CAUTION:_  Do not give to children under 12 years old, women who are pregnant or breastfeeding, to persons who cannot get out of bed, or to persons who have trouble swallowing.
 
-Glycerine suppositories
-
-
+**Glycerine suppositories**
 
 These are bullet-shaped pills that are pushed into the rectum.
 
@@ -4790,7 +4794,7 @@ They stimulate the bowel and cause it to push out the stool (shit).
 
 _Dosage for_ glycerin suppositories:
 
-- adultsand children over 12 years:
+- adults and children over 12 years:
 push 1 suppository well inside the rectum and let it stay there for 15 to 30 minutes (it helps to lie down).
 
 The longer you let the suppository stay inside the rectum, the better it will work.
@@ -4803,7 +4807,7 @@ The longer you let the suppository stay inside the rectum, the better it will wo
 
 ## FOR MILD DIARRHEA: anti-diarrhea medicine
 
-Bismuth Subsalicylate (Pepto-Bismol, Pink Bismuth, Kaopectate)
+**Bismuth Subsalicylate (Pepto-Bismol, Pink Bismuth, Kaopectate)**
 
 
 _Often comes as_ pink tablets or liquid
@@ -4845,13 +4849,10 @@ Occasionally, decongestant drops may be used, as follows:
 Nose drops with ephedrine or phenylephrine (Neo-Synephrine)
 
 
-
 These may be used for stuffy or ‘runny’ nose, especially if a person has (or often gets) infection of the inner ear.
 
 
-_Dosage for_ decongestant nose drops:
-Put 1 or 2 drops in each nostril as shown on
-[page 164](#page-164).
+_Dosage for_ decongestant nose drops: Put 1 or 2 drops in each nostril as shown on [page 164](#page-164).
 
 Do this 4 times a day.
 
@@ -4872,11 +4873,11 @@ be used only for irritating, dry coughs that do not let a person sleep.
 
 There are other medicines, called cough-helpers (or expectorants), that are supposed to make it easier to cough up the mucus.
 
-In truth, both kinds of cough syrups (cough- calmers and cough-helpers) are used far more than they need to be.
+In truth, both kinds of cough syrups (cough-calmers and cough-helpers) are used far more than they need to be.
 
 Most popular cough syrups do little or no good and are a waste of money.
 
-The best and most important cough medicine is water.
+**The best and most important cough medicine is water.**
 
 Drinking a lot of water and breathing hot water vapors loosen mucus and help calm cough far better than most cough syrups.
 
@@ -4905,7 +4906,7 @@ Children should be given less, according to age or weight (see [page 62](#page-6
 
 For severe pain, adults can take 30 to 60 mg of codeine every 4 hours.
 
-WARNING: Codeine is habit-forming (narcotic).
+_WARNING:_  Codeine is habit-forming (narcotic).
 
 Use only for a few days.
 
@@ -4923,7 +4924,7 @@ Persons who suffer from asthma should keep asthma medicines at home.
 
 Start using them at the first sign of wheeze or chest tightness.
 
-Salbutamol (Albuterol)
+**Salbutamol (Albuterol)**
 
 
 
@@ -4933,22 +4934,24 @@ _Often comes in:_ “Rescue” inhaler for breathing (100 mcg in each puff); syr
 
 
 _Dosage for_ salbutamol inhaler:
-For mild wheezing, use 1 to 2 inhalations,
-every 4 to 6 hours until the wheezing
-stops.
+
+For mild wheezing, use 1 to 2 inhalations, every 4 to 6 hours until the wheezing stops.
 
 Use more if the wheezing is worse.
 
-For exercise for people with asthma,
-starting 1⁄2 hour before, use 2 puffs every
-15 to 30 minutes.
+For exercise for people with asthma, starting 1⁄2 hour before, use 2 puffs every 5 to 30 minutes.
 
-For an emergency, use 2 to 4 puffs every
-20 minutes.
+For an emergency, use 2 to 4 puffs every 20 minutes.
 
 
-_Dosage for_ liquid oral salbutamol: 2 mg in 5 ml adults: 10 ml 3 times a day
-children: 1 to 12 years: 5 ml 3 times a day babies: 2 1⁄2 ml 3 times a day
+_Dosage for_ liquid oral salbutamol: 2 mg in 5 ml
+
+  - adults: 10 ml 3 times a day
+
+  - children: 1 to 12 years: 5 ml 3 times a day
+
+  - babies: 2 1⁄2 ml 3 times a day
+
 If you use salbutamol very often, your body will get used to it, you will need to use more and it will not work as well.
 
 For people with chronic asthma, it is important to use a controller inhaler (beclomethasone) regularly and use salbutamol less.
@@ -4963,10 +4966,7 @@ The liquid form can cause stomach aches and vomiting.
 
 If you have asthma and heart problems, do not take “Beta Blocker” drugs like Atenolol, Metoprolol, Propranolol or other “olol” ending heart medicines without consulting a doctor.
 
-GREEN PAGES
-
-
-Beclomethasone
+**Beclomethasone**
 
 
 
@@ -5212,16 +5212,11 @@ In each dose insert:
 Diphenhydramine (Benadryl)
 
 
-
 _Often comes in_:
 
 - Capsules of 25 mg and 50 mg
 
 - injections: ampules with 10 mg or 50 mg in 1 ml.
-
-
-
-GREEN PAGES
 
 
 _CAUTION:_  Do not give diphenhydramine to newborn babies or to women who are breastfeeding.
@@ -5295,7 +5290,7 @@ In each dose give:
 
 **ANTITOXINS**
 
-WARNING:
+_WARNING:_
 
 Many antitoxins are made from horse serum, such as the antivenoms for snakebite and scorpion sting.
 
@@ -5436,7 +5431,6 @@ The other measures of treatment described on pages [page 183](#page-183)and [pag
 
 Begin treatment at once and get medical help fast.
 
-GREEN PAGES
 
 ## FOR SWALLOWED POISONS
 
@@ -5484,18 +5478,14 @@ Diazepam can be given to stop a long-lasting epileptic seizure or a seizure duri
 
 Magnesium sulfate can also be given to stop eclampsia.
 
-GREEN PAGES
 
-Phenobarbital (phenobarbitone, Luminal)
+**Phenobarbital (phenobarbitone, Luminal)**
 
+_Often comes in:_
 
+- tablets of 15 mg, 30 mg, 60 mg and 100 mg
 
-Often comes in:
-tablets of 15 mg, 30 mg, 60 mg and 100 mg
-
-
-syrup of 15 mg in 5 ml
-
+- syrup of 15 mg in 5 ml
 
 Phenobarbital can be taken by mouth to help prevent seizures (epilepsy).
 
@@ -5504,7 +5494,7 @@ For epilepsy, it is often necessary to continue the medicine for life.
 The lowest dose that prevents seizures should be used.
 
 
-WARNING: Too much phenobarbital can slow down or stop breathing.
+_WARNING:_  Too much phenobarbital can slow down or stop breathing.
 
 Its action begins slowly and lasts a long time (up to 24 hours, or longer if the person is not urinating).
 
@@ -5529,7 +5519,7 @@ We do not give the dosage for preparing an injectable solution of phenobarbital 
 They should only be given by a person who has experience preparing the solution and giving injections into a vein (see [page 178](#page-178)).
 
 
-Phenytoin (diphenylhydantoin, Dilantin)
+**Phenytoin (diphenylhydantoin, Dilantin)**
 
 _Often comes in:_
 
@@ -5545,7 +5535,7 @@ The medicine must often be taken for life.
 The lowest dosage that prevents seizures should be used.
 
 
-Side effects: Swelling and abnormal growth of the gums often occur with long-time use of phenytoin.
+_Side effects:_ Swelling and abnormal growth of the gums often occur with long-time use of phenytoin.
 
 If this is severe, another medicine should be used instead.
 
@@ -5628,7 +5618,7 @@ Do not repeat more than once.
 # [390](#page-390)
 {:.no_toc}
 
-WARNING:
+_WARNING:_
 
 1.
 
@@ -5683,7 +5673,7 @@ Dosage to stop a seizure in a woman with eclampsia: Inject 5 g of 50% solution i
 
 Repeat after 4 hours if needed.
 
-WARNING: Too much magnesium sulfate can slow down or stop breathing.
+_WARNING:_  Too much magnesium sulfate can slow down or stop breathing.
 
 Be careful not to give too much! Do not give to women with kidney problems.
 
@@ -5857,7 +5847,7 @@ Often comes as:
 
 
 
-WARNING:
+_WARNING:_
 
 Do not give too much Vitamin A, and keep out of the reach of children.
 
@@ -5926,7 +5916,7 @@ Also, it can cause constipation, and it may make the stools (feces) look black.
 For children under 3 years, a piece of a tablet can be ground up very fine and mixed with the food.
 
 
-WARNING:
+_WARNING:_
 
 Be sure the dose is right.
 

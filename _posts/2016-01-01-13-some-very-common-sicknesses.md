@@ -478,8 +478,7 @@ _To help control simple vomiting:_
 
   ♦ Eat nothing while vomiting is severe.
 
-  ♦ Sip a cola drink or ginger ale. Some herbal teas, like camomile,
-  may also help.
+  ♦ Sip a cola drink or ginger ale. Some herbal teas, like camomile, may also help.
 
   ♦ For dehydration give small frequent sips of cola, tea, or Rehydration Drink ([page 152](#page-152)).
 

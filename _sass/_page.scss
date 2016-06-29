@@ -1,10 +1,7 @@
-
-/**
- * Page content
- */
+// SPA content
 .page-content {
     overflow-x: hidden;
-    padding: $spacing_unit 0 0 0;
+    padding: 0 0 0 0;
 
     .addon.yellow {
       background-color: lighten($color_yellow, 40%);
@@ -45,4 +42,8 @@
 .post-link {
     display: block;
     font-size: 24px;
+}
+
+#contents .site_logo {
+  display: none;
 }
