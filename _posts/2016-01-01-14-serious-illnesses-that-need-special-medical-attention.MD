@@ -12,7 +12,7 @@ bookpage: 179
 >THE SOONER HE GETS MEDICAL HELP, THE BETTER HIS CHANCE OF GETTING WELL.
 
 
-CAUTION: Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, [page 42](#page-42).
+_CAUTION:_  Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, [page 42](#page-42).
 
 
 # TUBERCULOSIS (TB, CONSUMPTION)
@@ -327,7 +327,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
   - Chronic malaria often causes a large spleen and anemia (see [page 124](#page-124)). For people with HIV ([page 399](#page-399)) it can cause them to get sick faster.
 
   - In young children, anemia and paleness can begin within a day or two. In children with malaria affecting the brain (cerebral malaria), seizures (fits) may be followed
-  by periods of unconsciousness. Also, the palms may show a blue gray color, and breathing may be rapid and deep. (Note: Children who have not been breastfed are more likely to get malaria.)
+  by periods of unconsciousness. Also, the palms may show a blue gray color, and breathing may be rapid and deep. (_Note:_ Children who have not been breastfed are more likely to get malaria.)
 
 ## Analysis and treatment:
 

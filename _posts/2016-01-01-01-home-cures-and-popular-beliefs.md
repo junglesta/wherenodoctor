@@ -236,7 +236,7 @@ Treatment:
 
 2. If necessary, treat the causes of the diarrhea and vomiting ([see page 152](#page-152) to [page 161](#page-161)). For most diarrheas, medicine is not needed, and may do more harm than good.
 
-Note: If the soft spot is swollen or bulges upward, this may be a sign of meningitis. Begin treatment at once ([see page 185](#page-185)), and get medical help.
+_Note:_ If the soft spot is swollen or bulges upward, this may be a sign of meningitis. Begin treatment at once ([see page 185](#page-185)), and get medical help.
 
 
 
@@ -309,7 +309,7 @@ Many plants have curative powers. Some of the best modern medicines are made fro
 
 Nevertheless, not all ‘curative herbs’ people use have medical value... and those that have are sometimes used the wrong way. Try to learn about the herbs in your area and find out which ones are worthwhile.
 
-**CAUTION:** Some medicinal herbs are very poisonous if taken in more than the recommended dose. For this reason it is often safer to use modern medicine, since the dosage is easier to control.
+**_CAUTION:_ ** Some medicinal herbs are very poisonous if taken in more than the recommended dose. For this reason it is often safer to use modern medicine, since the dosage is easier to control.
 
 Here are a few examples of plants that can be useful if used correctly:
 

@@ -22,7 +22,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # 2do
 
-- [ ] use some [MDL](https://getmdl.io/started/) compenent (side nav for chapters,...)
+- [ ] use some [customized](https://getmdl.io/customize/index.html) [MDL](https://getmdl.io/started/) components(side nav for chapters,...) or maybe the whole framework...
 - [ ] **install [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
 - [ ] Make it easily translatable.
 - [ ] maybe make Patient Report (page 44) fillable and printable PDF.

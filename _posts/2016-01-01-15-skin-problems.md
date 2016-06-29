@@ -544,7 +544,7 @@ The border is less clear than in tinea versicolor. These spots are not an infect
 
 Contrary to popular opinion, none of these types of white spots is a sign of anemia. They will not go away with tonics or vitamins. The spots that are only on the cheeks do not need any treatment.
 
-CAUTION: Sometimes pale spots are early signs of leprosy (see [page 191](#page-191)). Leprosy spots are never completely white and may have reduced feeling when pricked by a pin. If leprosy is common in your area, have the child checked.
+_CAUTION:_  Sometimes pale spots are early signs of leprosy (see [page 191](#page-191)). Leprosy spots are never completely white and may have reduced feeling when pricked by a pin. If leprosy is common in your area, have the child checked.
 
 
 # [207](#page-207)

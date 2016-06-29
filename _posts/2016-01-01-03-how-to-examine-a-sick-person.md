@@ -119,7 +119,7 @@ How to read the thermometer (using one marked in degrees centigrade, °C):
 
  5. Wash the thermometer well with soap and water.
 
-_Note:_ In newborn babies a temperature that is unusually high or unusually low (below 36° C) may mean a serious infection (see [page 275](#page-275)).
+_Note:_  In newborn babies a temperature that is unusually high or unusually low (below 36° C) may mean a serious infection (see [page 275](#page-275)).
 
 ♦ To learn about other fever patterns, see [page 26](#page-26) to [page 27](#page-27).
 
@@ -307,7 +307,7 @@ Ectopic pregnancy
 (see [page 280](#page-280))
 pain on one side or both, sometimes with pain in the shoulder or neck
 
-_Note:_ For different causes of back pain, see [page 173](#page-173)
+_Note:_  For different causes of back pain, see [page 173](#page-173)
 
 
 # [37](#page-37)

@@ -41,7 +41,9 @@ bookpage: 233
 
 # PROBLEMS OF THE URINARY TRACT
 
-There are many different problems of the urinary tract. They are not always easy to tell apart. And the same illness can show itself differently in men and women. Some of these problems are not serious, while others can be very dangerous. A dangerous illness may begin with only mild signs. It is often difficult to identify these problems correctly by simply using a book like this one. Special knowledge and tests may be needed. When possible, seek advice from a health worker.
+There are many different problems of the urinary tract. They are not always easy to tell apart. And the same illness can show itself differently in men and women. Some of these problems are not serious, while others can be very dangerous.
+
+A dangerous illness may begin with only mild signs. It is often difficult to identify these problems correctly by simply using a book like this one. Special knowledge and tests may be needed. When possible, seek advice from a health worker.
 
 ### Common problems with urinating include:
 
@@ -94,12 +96,12 @@ Many women suffer from urinary infections. In men they are much less common. Som
 
 **Treatment:**
 
-♦ Drink a lot of water. Many minor urinary infections can be cured by simply drinking a lot of water, without the need for medicine. Drink at least 1 glass every 30 minutes for 3 to 4 hours, and get into the habit of drinking lots of water. (But if the person cannot urinate or has swelling of the hands and face, she should not drink much water.)
+  ♦ Drink a lot of water. Many minor urinary infections can be cured by simply drinking a lot of water, without the need for medicine. Drink at least 1 glass every 30 minutes for 3 to 4 hours, and get into the habit of drinking lots of water. (But if the person cannot urinate or has swelling of the hands and face, she should not drink much water.)
 
-♦ If the person does not get better by drinking a lot of water, or if she has a fever, she should take cotrimoxazole ([page 357](#page-357)) or amoxicillin ([page 352](#page-352)). Pay careful attention to dosage and precautions. To completely control the infection it
-may be necessary to take the medicine for 10 days. If the infection moves into the kidneys or if these medicines do not work, try ciprofloxacin ([page 358](#page-358)). It is important to drink a lot of water while taking these medicines.
+  ♦ If the person does not get better by drinking a lot of water, or if she has a fever, she should take cotrimoxazole ([page 357](#page-357)) or amoxicillin ([page 352](#page-352)). Pay careful attention to dosage and precautions. To completely control the infection it
+  may be necessary to take the medicine for 10 days. If the infection moves into the kidneys or if these medicines do not work, try ciprofloxacin ([page 358](#page-358)). It is important to drink a lot of water while taking these medicines.
 
-♦ If the person does not get better quickly, seek medical advice.
+  ♦ If the person does not get better quickly, seek medical advice.
 
 # Kidney or Bladder Stones
 
@@ -141,7 +143,8 @@ If this does not work, a catheter may be needed ([page 239](#page-239)).
 ♦ If he has a fever, use an antibiotic such as ampicillin ([page 352](#page-352)) or tetracycline ([page 355](#page-355)).
 
 ♦ Get medical help. Serious or chronic cases may require surgery.
-Note: Both prostate trouble and gonorrhea (or chlamydia) can also make it hard to pass urine. In older men it is more likely to be an enlarged prostate. However, a younger man, especially one who has recently had sex with a person with gonorrhea or chlamydia, probably has gonorrhea or chlamydia.
+
+_Note:_  Both prostate trouble and gonorrhea (or chlamydia) can also make it hard to pass urine. In older men it is more likely to be an enlarged prostate. However, a younger man, especially one who has recently had sex with a person with gonorrhea or chlamydia, probably has gonorrhea or chlamydia.
 
 # INFECTIONS SPREAD BY SEX (SEXUALLY TRANSMITTED INFECTIONS)
 
@@ -187,16 +190,16 @@ In a man, the first signs begin 2 to 5 days (or up to 3 weeks or more) after sex
 
 **Treatment:**
 
-♦ In the past, gonorrhea was usually treated with penicillin. But now in many areas the disease has become resistant to penicillin, so other antibiotics must be used. It is best to seek local advice about which medicines are effective, available, and affordable in your area. Medicines used to treat gonorrhea and chlamydia are listed on [page 359](#page-359). If the drip and pain have not gone away in 2 or 3 days after trying a treatment, the gonorrhea could be resistant to the medicine, or the person could have chlamydia.
+  ♦ In the past, gonorrhea was usually treated with penicillin. But now in many areas the disease has become resistant to penicillin, so other antibiotics must be used. It is best to seek local advice about which medicines are effective, available, and affordable in your area. Medicines used to treat gonorrhea and chlamydia are listed on [page 359](#page-359). If the drip and pain have not gone away in 2 or 3 days after trying a treatment, the gonorrhea could be resistant to the medicine, or the person could have chlamydia.
 
-♦ If a woman has gonorrhea or chlamydia and also has fever and pain in the lower belly, she may have pelvic inflammatory disease (see [page 243](#page-243)).
+  ♦ If a woman has gonorrhea or chlamydia and also has fever and pain in the lower belly, she may have pelvic inflammatory disease (see [page 243](#page-243)).
 
-♦ Everyone who has had sex with a person known to have gonorrhea or chlamydia should also be treated, especially wives of men who are infected. Even if the wife shows no signs, she is probably infected.
-If she is not treated at the same time, she will give the disease back to her husband again.
+  ♦ Everyone who has had sex with a person known to have gonorrhea or chlamydia should also be treated, especially wives of men who are infected. Even if the wife shows no signs, she is probably infected.
+  If she is not treated at the same time, she will give the disease back to her husband again.
 
-♦ Protect the eyes of all newborn babies from chlamydia and especially gonorrhea, which can cause blindness (see [page 221](#page-221)).
+  ♦ Protect the eyes of all newborn babies from chlamydia and especially gonorrhea, which can cause blindness (see [page 221](#page-221)).
 
-CAUTION:
+__CAUTION:_ _
 
 A person with gonorrhea or chlamydia may also have syphilis without knowing it. Sometimes it is best to go ahead and give the full treatment for syphilis, because the gonorrhea or chlamydia treatment may prevent the first syphilis symptoms, but may not cure the disease.
 
@@ -221,7 +224,7 @@ All of these signs usually go away by themselves, making the person think he is 
 
 **Note:** Yaws shares many of the same signs as syphilis (see [page 202](#page-202)).
 
-CAUTION: If any strange rash or skin condition shows up days or weeks after a pimple or sore appears on the genitals, it may be syphilis. Get medical advice.
+_CAUTION:_  If any strange rash or skin condition shows up days or weeks after a pimple or sore appears on the genitals, it may be syphilis. Get medical advice.
 
 _Treatment for syphilis:_ **(For complete cure, the full treatment is essential.)**
 
@@ -319,7 +322,7 @@ or if he or she begins to show signs of poisoning from urine, then and only then
 
 9. Push the catheter in until urine starts coming out. For a man, then push it in 3 cm more.
 
-Note: A woman’s urinary tube is much shorter than a man’s.
+_Note:_ A woman’s urinary tube is much shorter than a man’s.
 
 **IMPORTANT**: If the person shows signs of urine poisoning, or if the bladder has been over-full and stretched, do not let the urine come out all at once: instead, let it out very slowly (by pinching or plugging the catheter), little by little over an hour or 2.
 

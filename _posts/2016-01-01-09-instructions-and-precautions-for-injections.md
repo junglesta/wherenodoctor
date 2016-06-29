@@ -218,7 +218,7 @@ This child was injected for a cold. It would have been far better to give him no
 
 
 
->**CAUTION: If possible, always give medicine by mouth instead of by injection especially to children.**
+>**_CAUTION:_  If possible, always give medicine by mouth instead of by injection especially to children.**
 
 
 # [69](#page-69)

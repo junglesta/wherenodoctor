@@ -198,7 +198,7 @@ There is no medicine that cures herpes, but it can be controlled with acyclovir 
 
 Always wash hands with soap and water after touching the sores. Be very careful not to touch the eyes. A herpes infection in the eyes can cause blindness.
 
-_CAUTION:_ If a woman has herpes sores when she gives birth, her baby can get it. This is very dangerous. Let your health worker or midwife know if you have ever had genital herpes.
+__CAUTION:_ _ If a woman has herpes sores when she gives birth, her baby can get it. This is very dangerous. Let your health worker or midwife know if you have ever had genital herpes.
 
 # Chancroid
 
@@ -455,7 +455,7 @@ If the skin still feels soft when touched, the person probably has ‘mild frost
 
 **Treatment of severe frostbite:**
 
-CAUTION: Do not start treatment for severe frostbite until you are in a place where the person’s whole body can be kept warm during and after treatment. It is better to let a hand or foot stay frozen for several hours than to let it get warm and then freeze again. When you get to a warm, protected place:
+_CAUTION:_  Do not start treatment for severe frostbite until you are in a place where the person’s whole body can be kept warm during and after treatment. It is better to let a hand or foot stay frozen for several hours than to let it get warm and then freeze again. When you get to a warm, protected place:
 
   ♦ Fill a large container with warm water **(not hot)** that feels comfortable when you hold your hand in it.
 
@@ -596,7 +596,7 @@ WARNING: If you use any pesticide, take the following precautions:
 
   - clothes that cover arms and legs boots (not sandals)
 
->CAUTION: Make sure that children, and women who are pregnant or breastfeeding, stay away from all pesticides.
+>_CAUTION:_  Make sure that children, and women who are pregnant or breastfeeding, stay away from all pesticides.
 
 
 

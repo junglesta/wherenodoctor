@@ -29,7 +29,7 @@ Some medicines are much more dangerous than others. Unfortunately, people someti
 4. If the medicine does not help, or causes problems, stop using it.
 5. When in doubt, seek the advice of a health worker.
 
-_Note:_ Some health workers and many doctors give medicines when none is needed, often because they think patients expect medicine and will not be satisfied until they get some. Tell your doctor or health worker you only want medicine if it is definitely needed. This will save you money and be safer for your health.
+_Note:_  Some health workers and many doctors give medicines when none is needed, often because they think patients expect medicine and will not be satisfied until they get some. Tell your doctor or health worker you only want medicine if it is definitely needed. This will save you money and be safer for your health.
 
 >_Only use a medicine when you are sure it is needed and when you are sure how to use it._
 
@@ -131,7 +131,7 @@ Injecting calcium into a vein can be extremely dangerous. It can quickly kill so
 
 >**Never inject calcium without first seeking medical advice!**
 
-Note: In Mexico and other countries where people eat a lot of corn tortillas or other foods prepared with lime (“cal”, not the fruit), it is foolish to use calcium injections or tonics (as is often done to ‘give strength’ or ‘help children grow’). The body gets all the calcium it needs from the lime.
+_Note:_ In Mexico and other countries where people eat a lot of corn tortillas or other foods prepared with lime (“cal”, not the fruit), it is foolish to use calcium injections or tonics (as is often done to ‘give strength’ or ‘help children grow’). The body gets all the calcium it needs from the lime.
 
 ## 14. ‘Feeding’ through the veins (Intravenous or ‘I.V.’ solutions)
 

@@ -171,7 +171,7 @@ Examples:
 - **Oil seeds** (pumpkin, melon, sesame, sunflower)
 - **Sugars** (sugar, honey, molasses, sugar cane, jaggery)
 
-* Note: Nuts and oil seeds are also valuable as body-building helpers.
+* _Note:_ Nuts and oil seeds are also valuable as body-building helpers.
 
 
 ## MAIN FOODS
@@ -182,7 +182,7 @@ Examples:
 - **Starchy roots**** (cassava, potatoes, taro)
 - **Starchy fruits** (banana, plantain, breadfruit)
 
-* Note: Main foods are cheap sources of energy. The cereals also provide some protein, iron, and vitamins, at low cost.
+_Note:_ Main foods are cheap sources of energy. The cereals also provide some protein, iron, and vitamins, at low cost.
 
 
 ## GROW FOODS
@@ -364,7 +364,7 @@ Try to eat a variety of plant foods. Different plants supply the body with diffe
 
   5. Dark green leafy vegetables have some iron, a lot of vitamin A, and some protein. The leaves of sweet potatoes, beans and peas, pumpkins and squash, and baobab are especially nutritious. They can be dried, powdered, and mixed with babies’ gruel.
 
-  Note: Light green vegetables like cabbage and lettuce have less nutritional value. It is better to grow ones with dark colored leaves.
+  _Note:_ Light green vegetables like cabbage and lettuce have less nutritional value. It is better to grow ones with dark colored leaves.
 
   6. Cassava (manioc) leaves contain 7 times as much protein and more vitamins than the root. If eaten together with the root, they add food value, at no additional cost. The young leaves are best.
 
@@ -372,7 +372,7 @@ Try to eat a variety of plant foods. Different plants supply the body with diffe
 
   8. Rice, wheat, and other grains are more nutritious if their outer skins are not removed during milling. Moderately milled rice and whole wheat contain more proteins, vitamins, and minerals than the white, over milled product.
 
-  NOTE: The protein in wheat, rice, maize, and other grains can be better used by the body when they are eaten with beans or lentils.
+  _Note:_ The protein in wheat, rice, maize, and other grains can be better used by the body when they are eaten with beans or lentils.
 
   9. Cook vegetables, rice, and other foods in little water. And do not overcook. This way fewer vitamins and proteins are lost. Be sure to drink the leftover water, or use it for soups or in other foods.
 
@@ -547,7 +547,7 @@ Remember, a young child’s stomach is small and cannot hold much food at one ti
 A spoonful of cooking oil added to a child’s food means he has to eat only 3/4 as much of the local main food in order to meet his energy needs. The added oil helps make sure he gets enough energy (calories) by the time his belly is full.
 
 
->CAUTION: The time when a child is most likely to become malnourished is from 6 months to 2 years old. This is because breast milk by itself does not provide enough energy for a baby after 6 months of age. Other foods are needed, but often the foods given do not contain enough energy either. If the mother also stops breastfeeding, the child is even more likely to become malnourished.
+>_CAUTION:_  The time when a child is most likely to become malnourished is from 6 months to 2 years old. This is because breast milk by itself does not provide enough energy for a baby after 6 months of age. Other foods are needed, but often the foods given do not contain enough energy either. If the mother also stops breastfeeding, the child is even more likely to become malnourished.
 
 For a child of this age to be healthy we should:
 
@@ -848,7 +848,7 @@ Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ul
 An ulcer is an open sore in the stomach or gut.
 
 
-CAUTION:
+_CAUTION:_
 
   1. Some antacids, such as sodium bicarbonate (baking soda) and Alka-Seltzer may quickly calm acid indigestion, but soon cause more acid. They should be used only for occasional indigestion, never for ulcers. This is also true for antacids with calcium.
 
@@ -894,4 +894,4 @@ IODIZED SALT costs only a little more than other salt and is much better.
 
 Also, if you live in an area where goiters are common, or you are beginning to develop a goiter, try to avoid eating much cassava or cabbage.
 
-Note: If a person with a goiter trembles a lot, is very nervous, and has eyes that bulge out, this may be a different kind of goiter (toxic goiter). Seek medical advice.
+_Note:_ If a person with a goiter trembles a lot, is very nervous, and has eyes that bulge out, this may be a different kind of goiter (toxic goiter). Seek medical advice.

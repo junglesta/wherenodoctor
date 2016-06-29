@@ -40,7 +40,7 @@ With the information on each medicine, blank spaces _ _ _ _ _ have been left for
 For example, if the cheapest or only available form of tetracycline in your area is Terramycin, you would write in the blank spaces as follows:
 
 
->_Note:_ Not all the medicines listed in the Green Pages are needed in your Home or Village Medicine kit.
+>_Note:_  Not all the medicines listed in the Green Pages are needed in your Home or Village Medicine kit.
 
 Because different medicines are available in different countries, information has sometimes been given for a number of medicines that do the same job.
 
@@ -1951,7 +1951,7 @@ _Often comes in:_
 - mixture of 200 mg sulfamethoxazole with 40 mg trimethoprim in 5 ml
 
 
-Note: This medicine also comes in double strength tablets (Bactrim DS and Septra DS) with 800 mg sulfamethoxazole and 160 mg trimethoprim.
+_Note:_ This medicine also comes in double strength tablets (Bactrim DS and Septra DS) with 800 mg sulfamethoxazole and 160 mg trimethoprim.
 
 Use half the number of tablets given below if the medicine you have is double strength.
 
@@ -2690,7 +2690,7 @@ adults: 300 mg (six 50 mg capsules) children 10 to 12 years: 150 mg (three
 children under 10 years: 100 mg (two 50 mg
 capsules)
 
-Note: The larger dose of clofazimine, which can also be used daily to control lepra reaction, is best given with the advice of an experienced health worker or doctor.
+_Note:_ The larger dose of clofazimine, which can also be used daily to control lepra reaction, is best given with the advice of an experienced health worker or doctor.
 
 
 
@@ -2713,7 +2713,7 @@ Artesunate is a medicine of the artemisinin family.
 Artesunate must be used in combination with either amodiaquine, mefloquine, or pyrimethamine with sulfadoxine to treat falciparum malaria.
 
 
-CAUTION: Women in the first 3 months of pregnancy should avoid using artesunate.
+_CAUTION:_  Women in the first 3 months of pregnancy should avoid using artesunate.
 
 Instead of the Artemisinin Combination Therapy (ACT), if possible give quinine and clindamycin.
 
@@ -2773,7 +2773,7 @@ In each dose, give:
 - children under 6 months: it is best not to give artemether with lumefantrine.
 
 
-CAUTION: Women in the first 3 months of pregnancy should avoid using artemether.
+_CAUTION:_  Women in the first 3 months of pregnancy should avoid using artemether.
 
 Instead of artemether with lumefantrine, if possible give quinine and clindamycin.
 
@@ -3214,7 +3214,7 @@ It is useful in combination with other antibiotics to treat infected or high-ris
 
 It can also help to treat the symptoms of guinea worm.
 
-CAUTION: Do not drink alcohol when taking metronidazole, as this causes severe nausea.
+_CAUTION:_  Do not drink alcohol when taking metronidazole, as this causes severe nausea.
 
 WARNING: Metronidazole may cause birth defects.
 
@@ -3613,8 +3613,6 @@ Used for treating yeast infections (Candida) in the mouth (thrush), the vagina, 
 
 Nystatin only works for infections caused by yeast, but miconazole works against other fungus infections as well.
 
-
-_
 _Dosage for__ nystatin and miconazole is the same for children and adults:
 
 Thrush in the mouth: put 1 ml of solution in the mouth and hold it there for at least 1 minute before swallowing.
@@ -3757,7 +3755,7 @@ Treatment can be repeated in one week.
 
 Usually several weekly treatments are needed.
 
-CAUTION: If severe skin irritation develops, do not use again.
+_CAUTION:_  If severe skin irritation develops, do not use again.
 
 Podophyllin should not be used on bleeding warts.
 
@@ -3781,7 +3779,7 @@ Gently work the acid into the wart with the point of the toothpick.
 
 Several treatments are usually needed and can be repeated weekly.
 
-CAUTION: This acid can cause severe burns.
+_CAUTION:_  This acid can cause severe burns.
 
 Protect hands and other healthy skin from the acid, and wash immediately in case of contact.
 
@@ -3952,17 +3950,15 @@ It also works for roundworm and pinworm, but piperazine has fewer side effects.
 
 It can be helpful in treating guinea worm, and may do some good in cases of trichinosis.
 
-CAUTION: Thiabendazole may cause roundworm (Ascaris) to crawl up the throat.
+_CAUTION:_  
 
-This can block breathing.
+Thiabendazole may cause roundworm (Ascaris) to crawl up the throat. This can block breathing.
 
 Therefore, if you suspect a person has roundworm in addition to other worms, it is wise to treat first with piperazine before giving thiabendazole.
 
 Side effects: Thiabendazole often causes tiredness, a sick feeling, and sometimes vomiting.
 
 
-
-_
 _Dosage for__ thiabendazole (25 mg/kg/day) —500 mg tablets or mixture with 1 g in 5 ml.
 
 Give twice a day for 3 days.
@@ -3991,8 +3987,6 @@ This medicine works for pinworm, hookworm, and roundworm (Ascaris), but it may b
 
 Pyrantel occasionally causes vomiting, dizziness, or headache.
 
-
-_
 _Dosage for__ pyrantel (10 mg/kg)—using 250 mg tablets
 For hookworm and roundworm, give one time.
 
@@ -4202,7 +4196,7 @@ _Often comes in:_ 3 or 6 mg tablets
 
 To determine the correct dose, weigh the person or use the averages below.
 
-CAUTION: Do not give to children who weigh less than 15 kg.
+_CAUTION:_  Do not give to children who weigh less than 15 kg.
 
 (or children who are under 5 years old), to pregnant or breastfeeding women, or to persons with meningitis or other serious illness.
 
@@ -4323,7 +4317,7 @@ WARNING: Do not use silver nitrate drops that may have become too concentrated b
 
 ## FOR PAIN: analgesics
 
-Note: There are many different kinds of pain medicine, many of which are dangerous (especially those containing dipyrone).
+_Note:_ There are many different kinds of pain medicine, many of which are dangerous (especially those containing dipyrone).
 
 Use only those you are sure are relatively safe like aspirin, acetaminophen (paracetamol), or ibuprofen ([page 379](#page-379)).
 
@@ -4561,7 +4555,7 @@ Chew 2 or 3 tablets.
 
 For severe stomach ulcers, it may be necessary to take 3 to 6 tablets (or teaspoons) every hour.
 
-CAUTION: Do not use these medicines if you are also taking tetracycline.
+_CAUTION:_  Do not use these medicines if you are also taking tetracycline.
 
 Antacids with magnesium sometimes cause diarrhea, and those with aluminum may cause constipation.
 
@@ -4673,7 +4667,7 @@ If you use ORS packets, be sure you know how much water to mix with it.
 
 Too little water can be dangerous.
 
-CAUTION: If you plan to take a child with diarrhea
+_CAUTION:_  If you plan to take a child with diarrhea
 to the health post or hospital, always give her lots
 of liquids, and if possible a homemade rehydration drink, before you leave home.
 
@@ -4783,7 +4777,7 @@ adults and children 12 years and over: 1 to 3 tablespoons by mouth at least 1 ho
 
 Do not take with meals because the oil will rob some of the vitamins from the food.
 
-CAUTION: Do not give to children under 12 years old, women who are pregnant or breastfeeding, to persons who cannot get out of bed, or to persons who have trouble swallowing.
+_CAUTION:_  Do not give to children under 12 years old, women who are pregnant or breastfeeding, to persons who cannot get out of bed, or to persons who have trouble swallowing.
 
 Glycerine suppositories
 
@@ -5034,7 +5028,7 @@ _Often comes in:_
 
 Prednisolone and prednisone are cortico-steroids, strong anti-inflammatory medicines, that can treat severe asthma.
 
-CAUTION: Prednisolone and prednisone should only be used for severe asthma attacks.
+_CAUTION:_  Prednisolone and prednisone should only be used for severe asthma attacks.
 
 Cortico-steroids can have very dangerous side effects, especially
 if used for more than a couple of weeks.
@@ -5172,7 +5166,7 @@ injections—ampules of 25 mg in 1 ml
 suppositories of 12.5 mg, 25 mg, and 50 mg
 
 
-CAUTION: Do not give to children under 2 years old.
+_CAUTION:_  Do not give to children under 2 years old.
 
 Pregnant or breastfeeding women should only use promethazine if it is absolutely necessary.
 
@@ -5230,7 +5224,7 @@ _Often comes in_:
 GREEN PAGES
 
 
-CAUTION: Do not give diphenhydramine to newborn babies or to women who are breastfeeding.
+_CAUTION:_  Do not give diphenhydramine to newborn babies or to women who are breastfeeding.
 
 It is best not to use diphenhydramine in pregnancy unless absolutely necessary.
 

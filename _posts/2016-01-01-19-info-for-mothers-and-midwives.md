@@ -427,7 +427,7 @@ Birth is a natural event. When the mother is healthy and everything goes well, t
 
 Difficulties in childbirth do occur, and sometimes the life of the mother or child may be in danger. If there is any reason to think that a birth may be difficult or dangerous, a skilled midwife or experienced doctor should be present.
 
-CAUTION: If you have a fever, cough, sore throat, or sores or infections on your skin at the time of the birth, it would be better for someone else to deliver the baby.
+_CAUTION:_  If you have a fever, cough, sore throat, or sores or infections on your skin at the time of the birth, it would be better for someone else to deliver the baby.
 
 Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife Attend the Birth, if Possible in a Hospital:
 
@@ -737,7 +737,7 @@ Rub the womb until it is hard. Then cup 1 hand on the top of the womb.
 Put your other hand, in a  st, at the bottom of the womb.
 
 If the bleeding still does not stop, you can put one hand inside the vagina, make a fist, and then use the other hand to press the womb into your fist.
-Note: Although some doctors use it, vitamin K does not help stop bleeding related to childbirth, miscarriage, or abortion. Vitamin K is only helpful for babies. Do not give to adults.
+_Note:_ Although some doctors use it, vitamin K does not help stop bleeding related to childbirth, miscarriage, or abortion. Vitamin K is only helpful for babies. Do not give to adults.
 
 
 # [266](#page-266)

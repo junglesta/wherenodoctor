@@ -21,7 +21,7 @@ The amounts of medicines recommended for the medicine kits are the smallest amou
 
 The amount of medicine you keep in your kit will depend on how many people it is intended to serve and how far you have to go to get more when some are used up. It will also depend on cost and how much the family or village can afford. Some of the medicines for your kit will be expensive, but it is wise to have enough of the important medicines on hand to meet emergencies.
 
-Note: Supplies for birth kits, the things midwives and pregnant mothers need to have ready for a birth, are listed on pages [page 254](#page-254)to [page 255](#page-255).
+_Note:_ Supplies for birth kits, the things midwives and pregnant mothers need to have ready for a birth, are listed on pages [page 254](#page-254)to [page 255](#page-255).
 
 
 
@@ -31,7 +31,7 @@ Note: Supplies for birth kits, the things midwives and pregnant mothers need to 
 
 # HOW TO CARE FOR YOUR MEDICINE KIT
 
-  1. CAUTION: Keep all medicines out of the reach of children. Any medicine taken in large doses can be poisonous.
+  1. _CAUTION:_  Keep all medicines out of the reach of children. Any medicine taken in large doses can be poisonous.
 
   2. Be sure that all medicine is well labeled and that directions for use are kept with each medicine. Keep a copy of this book with the medicine kit.
 
@@ -41,9 +41,9 @@ Note: Supplies for birth kits, the things midwives and pregnant mothers need to 
 
   5. Notice the DATE OF EXPIRATION on each medicine. If the date has passed or the medicine looks spoiled, destroy it and get new medicine.
 
-Note: Some medicines, especially tetracyclines, may be very dangerous if they have passed their expiration date. However, penicillins in dry form (tablets or powder for syrup or injection) can be used for as long as a year after the expiration date if they have been stored in a clean, dry, and fairly cool place.
+_Note:_ Some medicines, especially tetracyclines, may be very dangerous if they have passed their expiration date. However, penicillins in dry form (tablets or powder for syrup or injection) can be used for as long as a year after the expiration date if they have been stored in a clean, dry, and fairly cool place.
 
-Old penicillin may lose some of its strength so you may want to increase the dose. (CAUTION: While this is safe with penicillin, with other medicines it is often too dangerous to give more than the recommended dose.)
+Old penicillin may lose some of its strength so you may want to increase the dose. (_CAUTION:_  While this is safe with penicillin, with other medicines it is often too dangerous to give more than the recommended dose.)
 
 >Keep medicines out of reach of children.
 

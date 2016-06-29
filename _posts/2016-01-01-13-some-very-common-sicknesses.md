@@ -61,7 +61,7 @@ A special Rehydration Drink helps to prevent or treat dehydration, especially in
 
 - In 1 liter of clean WATER put half of a level teaspoon of SALT and 8 level teaspoons of SUGAR.
 
-- CAUTION: Before adding the sugar, taste the drink and be sure it is less salty than tears.
+- _CAUTION:_  Before adding the sugar, taste the drink and be sure it is less salty than tears.
 
 - To either Drink add half a cup of fruit juice, coconut water, or mashed ripe banana, if available. This provides potassium which may help the child accept more food and drink.
 
@@ -73,7 +73,7 @@ A special Rehydration Drink helps to prevent or treat dehydration, especially in
 
 - Boil for 5 to 7 minutes to form a liquid gruel or watery porridge. Cool the Drink quickly and start giving it to the child.
 
-- CAUTION: Taste the Drink each time before you give it to be sure it is not spoiled. Cereal drinks can spoil in a few hours in hot weather.
+- _CAUTION:_  Taste the Drink each time before you give it to be sure it is not spoiled. Cereal drinks can spoil in a few hours in hot weather.
 
 **IMPORTANT**
 
@@ -86,7 +86,7 @@ A small child usually needs at least 1 liter a day, or 1 glass for each watery s
 
 **_WARNING:_** If dehydration gets worse or other danger signs appear, go for medical help (see [page 159](#page-159)). It may be necessary to give liquid in a vein (intravenous solution).
 
-**_Note:_** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
+**_Note:_ ** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
 
 
 
@@ -384,11 +384,11 @@ GIVE HIM BREAST MILK
 
 When to Seek Medical Help in Cases of Diarrhea
 
-Diarrhea and dysentery can be very dangerousespecially in small children.
+Diarrhea and dysentery can be very dangerous especially in small children.
 
 In the following situations you should get medical help:
 
-• if diarrhea lasts more than 4 days and is not getting betteror more than 1 day in a small child with severe diarrhea
+• if diarrhea lasts more than 4 days and is not getting better or more than 1 day in a small child with severe diarrhea
 
 • if the person shows signs of dehydration and is getting worse
 
@@ -407,93 +407,97 @@ In the following situations you should get medical help:
 # THE CARE OF A PERSON WITH ACUTE DIARRHEA
 
 
-No better Cured
+## 1. _Are there signs of dehydration (little or no urine, sunken eyes, dry mouth, etc.)?_
 
-Continue to give cotrimoxazole, ampicillin, or chloramphenicol for 2 weeks. (see [page 356](#page-356))
+**YES:**  
+Control the dehydration: Drink lots of liquids and REHYDRATION DRINK. (see [page 152](#page-152))
 
-NO
-
-Diarrhea with blood or mucus?
-
-YES
-
-Give metronidazole for amebas. (see [page 369](#page-369))
-
-Give ampicillin ([page 352](#page-352)) or cotrimoxazole (see [page 358](#page-358)).
-NO Diarrhea yellow and very frothy?
-
-YES
-
-No better
-
-Cured
-
-No better within 3 days
-Cured
-Give no medicine.
-
-Continue giving Rehydration Drink and food.
-
-Give metronidazole or quinacrine for giardia. (see [page 369](#page-369))
-
-NO
-
-Are there signs of typhoid fever? (temperature rises every day, slow pulse, very ill, etc., see [page 188](#page-188))
-
-NO
-
-Are there signs of dehydration? (little or no urine, sunken eyes, dry mouth, etc.)
-YES
-
+**NO:**  
 Prevent dehydration: Drink lots of liquids.
 
-PREVENT OR CORRECT MALNUTRITION:
+PREVENT OR CORRECT MALNUTRITION:    
+Give food as soon as the person will eat. Bland, well-mashed foods are best a lot of energy foods with some body-building foods. Continue breastfeeding.
 
-Give food as soon as the person will eat. Bland, well-mashed foods are besta lot of energy foods with some body-building foods. Continue breastfeeding.
+## 2. _Is there fever that lasts more than 6 hours after starting to treat the dehydration?_
 
-Control the dehydration:
+**YES:**   
+Give ampicillin ([page 352](#page-352)) or cotrimoxazole (see [page 358](#page-358)).
 
-Drink lots of liquids and REHYDRATION DRINK. (see [page 152](#page-152))
+**No better within 3 days:**  then consider:
 
-NO
-Is there fever that lasts more than 6 hours after starting to treat the dehydration?
-Y
-ES
+### Are there signs of typhoid fever? (temperature rises every day, slow pulse, very ill, etc., see [page 188](#page-188))
+
+**YES:** Continue to give cotrimoxazole, ampicillin, or chloramphenicol for 2 weeks. (see [page 356](#page-356)). If then No better SEEK MEDICAL HELP.
+
+**NO:** SEEK MEDICAL HELP
+
+**NO:** then consider:
+
+### Diarrhea with blood or mucus?
+
+**YES:** Give metronidazole for amebas. (see [page 369](#page-369))
+
+**NO:** then consider:
+
+### Diarrhea yellow and very frothy?
+
+**YES:** Give metronidazole or quinacrine for giardia. (see [page 369](#page-369)). If then No better SEEK MEDICAL HELP.
+
+**NO:** Give no medicine. Continue giving Rehydration Drink and food. If then No better SEEK MEDICAL HELP.
+
 
 
 # [161](#page-161)
 {:.no_toc}
 
-VOMITING
+# VOMITING
+
 Many people, especially children, have an occasional ‘stomach upset’ with vomiting. Often no cause can be found. There may be mild stomach or gut ache or fever. This kind of simple vomiting usually is not serious and clears up by itself.
-Vomiting is one of the signs of many different problems, some minor and some quite serious, so it is important to examine the person carefully. Vomiting often comes from a problem in the stomach or guts, such
-as: an infection (see diarrhea, [page 153](#page-153)), poisoning from spoiled food ([page 135](#page-135)), or ‘acute abdomen’ (for example, appendicitis or something blocking the gut, [page 94](#page-94)). Also, almost any sickness with high fever or severe pain may cause vomiting, especially malaria ([page 186](#page-186)), hepatitis
-([page 172](#page-172)), tonsillitis ([page 309](#page-309)), earache ([page 309](#page-309)), meningitis ([page 185](#page-185)), urinary infection ([page 234](#page-234)), gallbladder pain
-([page 329](#page-329)) or migraine headache ([page 162](#page-162)).
+
+Vomiting is one of the signs of many different problems, some minor and some quite serious, so it is important to examine the person carefully.
+
+Vomiting often comes from a problem in the stomach or guts, such as: an infection (see diarrhea, [page 153](#page-153)), poisoning from spoiled food ([page 135](#page-135)), or ‘acute abdomen’ (for example, appendicitis or something blocking the gut, [page 94](#page-94)).
+
+Also, almost any sickness with high fever or severe pain may cause vomiting, especially malaria ([page 186](#page-186)), hepatitis
+([page 172](#page-172)), tonsillitis ([page 309](#page-309)), earache ([page 309](#page-309)), meningitis ([page 185](#page-185)), urinary infection ([page 234](#page-234)), gallbladder pain ([page 329](#page-329)) or migraine headache ([page 162](#page-162)).
+
 Danger signs with vomitingseek medical help quickly!
+
 • dehydration that increases and that you cannot control ([page 152](#page-152))
+
 • severe vomiting that lasts more than 24 hours
+
 • violent vomiting, especially if vomit is dark green, brown, or smells like shit (signs of obstruction, [page 94](#page-94))
+
 • constant pain in the gut, especially if the person cannot defecate (shit)
 or if you cannot hear gurgles when you put your ear to the belly (see acute abdomen: obstruction, appendicitis, [page 94](#page-94))
+
 • vomiting of blood (ulcer, [page 128](#page-128); cirrhosis, [page 328](#page-328))
-To help control simple vomiting:
-♦ Eat nothing while vomiting is severe.
-♦ Sip a cola drink or ginger ale. Some herbal teas, like camomile,
-may also help.
-♦ For dehydration give small frequent sips of cola, tea, or Rehydration Drink ([page 152](#page-152)).
-♦ If vomiting does not stop soon, use a vomit control medicine like promethazine ([page 385](#page-385)) or diphenhydramine ([page 386](#page-386)). But do not give these medicines to children under 2 years old.
+
+_To help control simple vomiting:_
+
+  ♦ Eat nothing while vomiting is severe.
+
+  ♦ Sip a cola drink or ginger ale. Some herbal teas, like camomile,
+  may also help.
+
+  ♦ For dehydration give small frequent sips of cola, tea, or Rehydration Drink ([page 152](#page-152)).
+
+  ♦ If vomiting does not stop soon, use a vomit control medicine like promethazine ([page 385](#page-385)) or diphenhydramine ([page 386](#page-386)). But do not give these medicines to children under 2 years old.
+
 Most of these come in pills, syrups, injections, and suppositories (soft pills you push up the anus). Tablets or syrup can also be put up the anus. Grind up the tablet in a little water. Put it in with an enema set or syringe without a needle.
-When taken by mouth, the medicine should be swallowed with very little water and nothing else should be swallowed for 5 minutes. Never give more than the recommended dose. Do not give a second dose until dehydration has been corrected and the person has begun to urinate. If severe vomiting and diarrhea make medication by mouth or anus impossible, give an injection of one of the vomit-control medicines. Promethazine may work best. Take care not to give too much.
+
+When taken by mouth, the medicine should be swallowed with very little water and nothing else should be swallowed for 5 minutes. Never give more than the recommended dose. Do not give a second dose until dehydration has been corrected and the person has begun to urinate.
+
+If severe vomiting and diarrhea make medication by mouth or anus impossible, give an injection of one of the vomit-control medicines. Promethazine may work best. Take care not to give too much.
 
 # [162](#page-162)
 {:.no_toc}
 
 # HEADACHES AND MIGRAINES
 
-**SIMPLE HEADACHE** can be helped by rest and aspirin. It often helps to put a cloth
-soaked in hot water on the back of the
-neck and to massage (rub) the neck
+**SIMPLE HEADACHE** can be helped by rest and aspirin. It often helps to put a cloth soaked in hot water on the back of the neck and to massage (rub) the neck
+
 For simple or nervous headache, folk cures sometimes work as well as modern medicine.
 
 folk cure aspirin and shoulders gently. Some other home remedies also seem to help.
@@ -572,7 +576,7 @@ To help clear a stuffy nose, do the following:
 
   5. Persons who often get earaches or sinus trouble after a cold can help prevent these problems by using decongestant nose drops with phenylephrine or ephedrine ([page 383](#page-383)). After sniffing a little salt water, put the drops in the nose like this: _With the head sideways, put 2 or 3 drops in the lower nostril. Wait a couple of minutes and then do the other side._
 
-CAUTION: **Use decongestant drops no more than 3 times a day, for no more than 3 days.**
+_CAUTION:_  **Use decongestant drops no more than 3 times a day, for no more than 3 days.**
 
 A decongestant syrup (with phenylephrine or something similar) may also help.
 
@@ -801,7 +805,7 @@ Coughing is the body’s way of cleaning the breathing system and getting rid of
 
   Also **breathe hot water vapors**. Sit on a chair with a bucket of very hot water at your feet. Place a sheet over the bucket to catch the vapors as they rise. Breathe the vapors deeply for 15 minutes. Repeat several times a day. Some people like to add mint or eucalyptus leaves or Vaporub, but hot water works just as well alone.
 
-  CAUTION: Do not use eucalyptus or Vaporub if the person has asthma. They make it worse.
+  _CAUTION:_  Do not use eucalyptus or Vaporub if the person has asthma. They make it worse.
 
 
   2. For all kinds of cough, especially a dry cough, the following cough syrup can be given:
@@ -1019,11 +1023,11 @@ Very low back pain sometimes comes from problems in the uterus, ovaries, or rect
 
   Do this first on one side and then the other.
 
-  **CAUTION:** Do not try this if the back pain is from a fall or injury.
+  **_CAUTION:_** Do not try this if the back pain is from a fall or injury.
 
-  ♦ If back pain from lifting or twisting is sudden and severe with knife-like pain when you bend over, if the pain goes into the leg(s), or if a foot becomes numb or weak, this is serious. A nerve coming from the back may be ‘pinched’ by a slipped disc (pad between the bones of the back). It is best to rest flat on your back for a few days. It may help to put something firm under the knees and mid back.
+    ♦ If back pain from lifting or twisting is sudden and severe with knife-like pain when you bend over, if the pain goes into the leg(s), or if a foot becomes numb or weak, this is serious. A nerve coming from the back may be ‘pinched’ by a slipped disc (pad between the bones of the back). It is best to rest flat on your back for a few days. It may help to put something firm under the knees and mid back.
 
-  ♦ Take aspirin and use hot soaks. If pain does not begin to get better in a few days, seek medical advice.
+    ♦ Take aspirin and use hot soaks. If pain does not begin to get better in a few days, seek medical advice.
 
 
 # [175](#page-175)
@@ -1063,7 +1067,7 @@ If the bleeding still does not stop, seek medical advice. Or try to control the 
 
 First, clean the anus with soap and water. Use a blade that has been sterilized by boiling to cut a small opening in the hemorrhoid. Use sterilized tweezers to pull out the clot. Put pressure on the cut with a clean cloth until bleeding stops.
 
-CAUTION: Do not try to cut the hemorrhoid out. The person can bleed to death.
+_CAUTION:_  Do not try to cut the hemorrhoid out. The person can bleed to death.
 
 
 # [176](#page-176)
@@ -1088,8 +1092,6 @@ To reduce swelling, treat the sickness that causes it. Use little or no salt in 
 **WHEN YOUR FEET ARE SWOLLEN:**
 
 Do not spend time sitting with your feet GOOD down. This makes them swell more.
-
-NO
 
 When you sit, put your feet up high. This way the swelling becomes less. Put your feet up several times a day. Your feet should be above the level of your heart.
 
@@ -1125,7 +1127,7 @@ PLAN FOR A SIMPLE TRUSS:
 not like this.
 Put a little cushion here so it presses against the groin.
 
-**CAUTION:**
+**_CAUTION:_ **
 
 If a hernia suddenly becomes large or painful, try to make it go back in by lying with the feet higher than the head and pressing gently on the bulge. If it will not go back, seek medical help.
 
@@ -1164,7 +1166,7 @@ Or it may come from brain damage at birth, high fever in infancy, or tapeworm cy
 
 **Medicines to prevent epileptic seizures:**
 
-Note: These do not ‘cure’ epilepsy; they help prevent seizures. Often the medicine must be taken for life.
+_Note:_ These do not ‘cure’ epilepsy; they help prevent seizures. Often the medicine must be taken for life.
 
 ♦ Phenobarbital often controls epilepsy. It costs little (see [page 389](#page-389)).
 
