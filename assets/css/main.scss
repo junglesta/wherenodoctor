@@ -3,17 +3,17 @@
 @charset "utf-8";
 
 // variables
-$base_rem_size: 16px;
+$base_rem_size: 18px;
 $base_font_size:  1rem;
-$base_font_size_big: 18px;
+$base_font_size_big: 20px;
 $base_font_weight: 300;
-$base_line_height: 1.5;
+$base_line_height: 1.4;
 // derivates
   $small_font-size:  $base_font_size * 0.875;
-  $h1_font_size: $base_font_size*2;
-  $h2_font_size: $base_font_size*1.55;
-  $h3_font_size: $base_font_size*1.45;
-  $h4_font_size: $base_font_size*1.30;
+  $h1_font_size: $base_font_size*1.40;
+  $h2_font_size: $base_font_size*1.30;
+  $h3_font_size: $base_font_size*1.25;
+  $h4_font_size: $base_font_size*1.20;
   $h5_font_size: $base_font_size*1.15;
   $h6_font_size: $base_font_size*1.05;
 

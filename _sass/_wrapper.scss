@@ -12,8 +12,8 @@
     @extend %clearfix;
     max-width: 650px;
     .cover & {
-      padding-top: $spacing_unit;
-      padding-bottom: $spacing_unit;
+      padding-top: $spacing_unit/2;
+      padding-bottom: $spacing_unit/2;
     }
     .page-content & {padding-top:0;}
     .chapter_title & {position:relative;}
