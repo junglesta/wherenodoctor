@@ -349,7 +349,7 @@ Cactus juice can be used to clean wounds when there is no boiled water and no wa
 Cut a piece of the cactus with a clean knife and press it firmly against the wound.
 When the bleeding is under control, tie a piece of the cactus to the wound with a strip of cloth.
 
-After 2 or 3 hours, take off the cactus and clean the wound with boiled water and soap. There are more instructions on how to care for wounds and control bleeding on pages [page 82](#page-82)to [page 87](#page-87).
+After 2 or 3 hours, take off the cactus and clean the wound with boiled water and soap. There are more instructions on how to care for wounds and control bleeding on pages [page 82](#page-82) to [page 87](#page-87).
 
 ## ALOE VERA Sabila
 
