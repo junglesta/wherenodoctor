@@ -10,8 +10,12 @@
     {% include svg/defs.html %}
 
     <div class="menu_toggle" id="toggle_menu">
-      <span id="menu_ico" class="menu_ico ">☰</span>
-      <span id="close_ico" class="close_ico hide">X</span>
+      <span id="menu_ico" class="menu_ico ">
+        {% include svg/use.html id="icn--menu" class="menu_svg" %}
+      </span>
+      <span id="close_ico" class="close_ico hide">
+        {% include svg/use.html id="icn--menuclose" class="menuclose_svg" %}
+      </span>
     </div>
 
     <div class="page_wrapper">

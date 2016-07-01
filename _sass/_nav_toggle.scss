@@ -6,8 +6,6 @@ $nav_height: 100vh;
   top: 1rem;
   right: 1rem;
   z-index: 20;
-  font-size: 32px;
-  line-height: 48px;
   cursor: pointer;
   width: 48px;
   height: 48px;
@@ -17,6 +15,12 @@ $nav_height: 100vh;
 .menu_ico, .close_ico {//buttons
   color: black;
   &:hover { color: white;}
+  > svg {
+    padding: 2px;
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+  }
 }
 
 nav,
