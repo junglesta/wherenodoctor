@@ -6,3 +6,5 @@ __LAB/favicons
 
 *.zip
 node_modules
+
+_diff.txt
