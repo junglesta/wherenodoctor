@@ -353,15 +353,21 @@ After 2 or 3 hours, take off the cactus and clean the wound with boiled water an
 
 ## ALOE VERA Sabila
 
-Aloe vera can be used to treat minor burns and wounds. The thick, slimy juice inside the plant calms pain and itching, aids healing, and helps prevent infection. Cut off a piece of the plant, peel back the outer layer, and apply the fleshy leaf or juice directly to the burn or wound.
+Aloe vera can be used to **treat to heal burn wounds for ﬁrst - to second - degree burns**. The thick, slimy juice inside the plant **calms pain** and **itching**, **aids healing**, and **helps prevent infection**. It can also be effective for genital herpes and psoriasis.
 
-Aloe can also help treat stomach ulcers and gastritis. Chop the spongy leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter liquid every 2 hours.
+Take a leaf of the plant, the closer to the ground, cut off the outer green layer, and apply the fleshy leaf or juice directly to the burn or wound.
+
+Aloe can also help **treat stomach ulcers and gastritis**.
+
+Chop the gelly leaves into small pieces, soak them in water overnight, and then drink one glass of the slimy, bitter liquid every 2 hours.
 
 ## PAPAYA
 
 Ripe papayas are rich in vitamins and also aid digestion. Eating them is especially helpful for weak or old people who complain of upset stomach when they eat meat, chicken, or eggs. Papaya makes these foods easier to digest.
 
-Papaya can also help get rid of intestinal worms, although modern medicines work better. Collect 3 or 4 teaspoons (15-20 ml.) of the ‘milk’ that comes out when the green fruit or trunk of the tree is cut.
+Papaya can also **help get rid of intestinal worms**, although modern medicines work better.
+
+Collect 3 or 4 teaspoons (15-20 ml.) of the ‘milk’ that comes out when the green fruit or trunk of the tree is cut.
 
 Mix this with an equal amount of sugar or honey and stir it into a cup of hot water. If possible, drink along with a laxative.
 
