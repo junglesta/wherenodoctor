@@ -1350,7 +1350,7 @@ This is because the next time the reaction would likely be far worse and might k
 
 (But stomach upset from taking penicillin is not an allergic reaction, and no cause to stop taking it.)
 
-Persons who cannot take penicillin can sometimes be treated with tetracycline or erythromycin by mouth (see pages[page 354](#page-354) and[page 355](#page-355) for uses and precautions).
+Persons who cannot take penicillin can sometimes be treated with tetracycline or erythromycin by mouth ([see page 354](#page-354) and [page 355](#page-355) for uses and precautions).
 
 Most infections that can be treated with penicillin can be treated quite well with penicillin taken by mouth.
 

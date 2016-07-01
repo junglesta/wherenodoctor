@@ -18,6 +18,27 @@
   letter-spacing: -3rem;
 }
 
+
+.addon {
+  &.green {
+    background-color: lighten($color_green, 40%);
+  }
+  &.yellow {
+    background-color: lighten($color_yellow, 40%);
+  }
+  &.red {
+    background-color: lighten($color_red, 40%);
+  }
+  &.brown {
+    background-color: lighten($color_brown, 55%);
+  }
+  &.grey {
+    background-color: lighten($color_grey, 50%);
+  }
+  &.blue {
+    background-color: lighten($brand_color, 55%);
+  }
+}
 .chapter_title {
   overflow: hidden;
   background-color: transparentize(lighten($brand_color, 40%), .5);

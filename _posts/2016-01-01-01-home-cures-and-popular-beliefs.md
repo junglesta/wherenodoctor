@@ -371,7 +371,6 @@ Collect 3 or 4 teaspoons (15-20 ml.) of the ‘milk’ that comes out when the g
 
 Mix this with an equal amount of sugar or honey and stir it into a cup of hot water. If possible, drink along with a laxative.
 
-
 Even better, dry and crush to a powder the papaya seeds. Take 3 teaspoons mixed with 1 glass water or some honey 3 times a day for 7 days.
 
 Papayas can also be used for treating pressure sores. The fruit contains chemicals that help soften and make dead flesh easier to remove.
