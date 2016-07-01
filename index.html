@@ -5,34 +5,31 @@
 
   {% include head.html %}
 
-  <body>
+  <body class=" ">
 
     {% include svg/defs.html %}
 
-    <div id="page">
+    <div class="menu_toggle" id="toggle_menu">
+      <span id="menu_ico" class="menu_ico ">☰</span>
+      <span id="close_ico" class="close_ico hide">X</span>
+    </div>
+
+    <div class="page_wrapper">
 
       <!-- nav -->
-      <input id="menu-toggle" type="checkbox" name="menu-toggle">
+      <nav class="navigation_menu hide" id="navigation_menu">
 
-      <nav class="navigation">
+        {% for node in site.posts reversed %}
+        {% capture id %}{{ node.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase }}{% endcapture %}
 
-        <div class="nav_wrapper">
+          <a class="{{id}} {% if node.style %}variant {{node.style}}{% endif %}" href="#{{id}}">
+            {% if node.style %}<small> </small>
+            {% else %}<small>{{ node.chapter}} </small>
+            {% endif %}
+            <span>{{node.title | upcase}}</span>
+          </a>
 
-          <label for="menu-toggle">Menu</label>
-
-          {% for node in site.posts reversed %}
-          {% capture id %}{{ node.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase }}{% endcapture %}
-
-            <a class="{{id}} {% if node.style %}variant {{node.style}}{% endif %}  mdl-navigation__link" href="#{{id}}">
-              {% if node.style %}<small> </small>
-              {% else %}<small>{{ node.chapter}} </small>
-              {% endif %}
-              <span>{{node.title | upcase}}</span>
-            </a>
-
-          {% endfor %}
-
-        </div>
+        {% endfor %}
       </nav>
 
       <main class="">
@@ -69,6 +66,8 @@
       </main>
 
     </div>
+
+    {% include script_menu_toggle.html %}
 
     {% include script_blank.html %}
 

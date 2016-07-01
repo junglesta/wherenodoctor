@@ -1,47 +1,29 @@
-$menu_bg_color: #ddd;
-$nav_height: 60vh;
+$menu_bg_color: $brand_color;
+$nav_height: 100vh;
 
-//
-// html,
-// body,
-#page {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    position: relative;
+.menu_toggle {//buttons container
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 20;
+  font-size: 30px;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  text-align: center;
 }
-
-label[for="menu-toggle"] {
-    cursor: pointer;
-    overflow: hidden;
-    text-indent: 100%;
-
-    background-color: $menu_bg_color;
-    height: 50px;
-    width: 50px;
-    position: fixed;
-    top: 0;
-    right: 1rem;
-    z-index: 12;
-    -webkit-transition: all .2s ease-in;
-}
-
-
-#menu-toggle { /* goes off the canvas */
-    left: -100%;
-    position: absolute;
-    top: -100%;
-    -webkit-appearance: none;
+.menu_ico, .close_ico {//buttons
+  color: black;
+  &:hover { color: white;}
 }
 
 nav,
 main {
     box-sizing: border-box;
     display: block;
-    overflow: hidden;
+    //overflow: hidden;
     position: relative;
-    -webkit-transition: all .2s ease-in;
+    //-webkit-transition: all .2s ease-in;
 }
 
 
@@ -58,12 +40,13 @@ nav {
     background-color: $menu_bg_color;
 
     a {
+      color: white;
       display: block;
       position: relative;
       margin-left: .5rem;
       margin-right: .5rem;
       padding: .5rem 0 .5rem 3rem;
-      border-bottom: 1px solid rgba(0,0,0,.25);
+      border:0 none;
       small {
         margin-left: -42px;
         display: block;
@@ -72,7 +55,12 @@ nav {
         position: absolute;
         font-size: 28px;
         line-height: 28px;
-        opacity: .25;
+        opacity: .35;
+      }
+      &:hover {
+        border:0 none;
+        color: white;
+        opacity: .5;
       }
     }
 }
@@ -82,30 +70,3 @@ main {
     min-height: 100%;
     z-index:1;
 }
-
-#menu-toggle:not(:checked) ~ nav {
-  margin-top: -$nav_height;
-}
-
-#menu-toggle:checked ~ nav {
-  margin-top: 0;
-}
-
-// label[for="menu-toggle"]
-#menu-toggle:not(:checked) ~ nav label {
-  margin-top: 0;
-}
-
-#menu-toggle:checked ~ nav label {
-  margin-top: $nav_height;
-}
-
-
-
-
-// #menu-toggle:not(:checked) ~ nav ~ main {
-//     width: 100%;
-// }
-// #menu-toggle:checked ~ nav ~ main {
-//     width: 100%;
-// }
