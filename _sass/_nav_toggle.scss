@@ -34,8 +34,10 @@ main {
 }
 
 nav {
-    padding: .5rem;
-    padding-top: 8rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-top: 5.5rem;
+    padding-bottom: 5rem;
     height: $nav_height;
     width: 100%;
     overflow-y: scroll;
@@ -46,23 +48,30 @@ nav {
     right: 0;
     background-color: $menu_bg_color;
 
+    .menu_logo {//svg
+      margin-top: .5rem;
+      margin-bottom: 1rem;
+      width: 150px;
+      height: 150px;
+    }
+
     a {
       color: white;
       display: block;
       position: relative;
       margin-left: .5rem;
       margin-right: .5rem;
-      padding: .5rem 0 .5rem 3rem;
+      padding: .5rem 0 .5rem 2rem;
       border:0 none;
       small {
-        margin-left: -42px;
+        margin-left: -30px;
         display: block;
         float: left;
         height: 100%;
         position: absolute;
-        font-size: 28px;
-        line-height: 28px;
-        opacity: .35;
+        font-size: 20px;
+        line-height: 25.2px;
+        opacity: .3;
       }
       &:hover {
         border:0 none;

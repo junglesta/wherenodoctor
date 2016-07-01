@@ -20,21 +20,7 @@
 
     <div class="page_wrapper">
 
-      <!-- nav -->
-      <nav class="navigation_menu hide" id="navigation_menu">
-
-        {% for node in site.posts reversed %}
-        {% capture id %}{{ node.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase }}{% endcapture %}
-
-          <a class="{{id}} {% if node.style %}variant {{node.style}}{% endif %}" href="#{{id}}">
-            {% if node.style %}<small> </small>
-            {% else %}<small>{{ node.chapter}} </small>
-            {% endif %}
-            <span>{{node.title | upcase}}</span>
-          </a>
-
-        {% endfor %}
-      </nav>
+      {% include nav.html %}
 
       <main class="">
 

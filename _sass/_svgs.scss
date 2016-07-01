@@ -1,8 +1,4 @@
 
-// .site_logo_svg {
-//   max-width: 700px;
-// }
-
 .bandaid_color {
   fill: $background_color;
 }
@@ -14,4 +10,8 @@
 .site_logo_svg--footer {
   width: 140px;
   height: 140px;
+}
+
+#icn--circlelogomenu .bandaid_color {
+  fill: $background_color_tone;
 }
