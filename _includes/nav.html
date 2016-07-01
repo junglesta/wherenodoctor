@@ -1,8 +1,13 @@
-<div class="mdl-layout__drawer">
+<!-- nav -->
 
-  <span class="mdl-layout-title">Chapters</span>
 
-  <nav class="mdl-navigation">
+<input id="menu-toggle" type="checkbox" name="menu-toggle">
+<label for="menu-toggle">Menu</label>
+
+
+
+<nav class="navigation">
+  <span class="nav_title">Chapters</span>
 
     {% for node in site.posts reversed %}
     {% capture id %}{{ node.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase }}{% endcapture %}
@@ -17,5 +22,4 @@
 
     {% endfor %}
 
-  </nav>
-</div>
+</nav>

@@ -5,15 +5,37 @@
 
   {% include head.html %}
 
-  <body >
+  <body>
 
     {% include svg/defs.html %}
 
-    <div class="mdl-layout mdl-js-layout">
+    <div id="page">
 
-      {% include nav.html %}
+      <!-- nav -->
+      <input id="menu-toggle" type="checkbox" name="menu-toggle">
 
-      <div class="mdl-layout__content">
+      <nav class="navigation">
+
+        <div class="nav_wrapper">
+
+          <label for="menu-toggle">Menu</label>
+
+          {% for node in site.posts reversed %}
+          {% capture id %}{{ node.id |remove:'/'|remove:'20160101'|remove:'20160102'|remove:'20160103'|remove:'20151231'| downcase }}{% endcapture %}
+
+            <a class="{{id}} {% if node.style %}variant {{node.style}}{% endif %}  mdl-navigation__link" href="#{{id}}">
+              {% if node.style %}<small> </small>
+              {% else %}<small>{{ node.chapter}} </small>
+              {% endif %}
+              <span>{{node.title | upcase}}</span>
+            </a>
+
+          {% endfor %}
+
+        </div>
+      </nav>
+
+      <main class="">
 
         {% include cover.html %}
 
@@ -44,7 +66,7 @@
 
         {% include footer.html %}
 
-      </div>
+      </main>
 
     </div>
 
