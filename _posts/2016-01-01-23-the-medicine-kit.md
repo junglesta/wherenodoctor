@@ -94,6 +94,12 @@ Also include useful home remedies in your medicine kit.
 |plastic bags|several|[195](#page-195) [332](#page-332)|
 {:.grid}
 
+
+
+# [335](#page-335)
+{:.no_toc}
+
+
 ## medicines
 
 |Supply|Amount|Page|

@@ -14,7 +14,7 @@ bookpage: 389
 tel: 1 510 845 1447  
 fax: 1 510 845 9141  
 e-mail: hesperian@hesperian.org  
-website: [www.hesperian.org](http://www.hesperian.org)
+website: [www.hesperian.org](http://hesperian.org)
 
 **Community health guides in English and Spanish:**
 
@@ -196,7 +196,7 @@ The Schumacher Centre for Technology & Development, Bourton-on-Dunsmore Rugby CV
 tel: 44 1926 634400  
 fax: 44 1926 634401  
 e-mail: practicalaction@practicalaction.org.uk  
-website: [www.practicalaction.org](http://www.practicalaction.org)
+website: [www.practicalaction.org](http://practicalaction.org)
 
 Technical information for grassroots development. Print materials and multimedia. Contact them for links to resource centers in other countries.
 
