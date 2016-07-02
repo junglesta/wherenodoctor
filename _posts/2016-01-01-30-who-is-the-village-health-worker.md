@@ -113,7 +113,7 @@ Often, what you decide to do or not do will depend on how far you have to go to 
 For example, a mother has just given birth and is bleeding more than you think is normal. If you are only half an hour
 away from a medical center, it may be wise to take her there right away.
 
-But if the mother is bleeding very heavily and you are a long way from the health center, you may decide to massage her womb ([see page 265](page-265)) or inject a medicine to control bleeding ([see page 266](page-266)) even if you were not taught this.
+But if the mother is bleeding very heavily and you are a long way from the health center, you may decide to massage her womb ([see page 265](#page-265)) or inject a medicine to control bleeding ([see page 266](#page-266)) even if you were not taught this.
 
 Do not take unnecessary chances. But when the danger is clearly greater if you do nothing, do not be afraid to try something you feel reasonably sure will help.
 

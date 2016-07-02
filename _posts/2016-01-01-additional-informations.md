@@ -198,7 +198,7 @@ There is no medicine that cures herpes, but it can be controlled with acyclovir 
 
 Always wash hands with soap and water after touching the sores. Be very careful not to touch the eyes. A herpes infection in the eyes can cause blindness.
 
-__CAUTION:_ _ If a woman has herpes sores when she gives birth, her baby can get it. This is very dangerous. Let your health worker or midwife know if you have ever had genital herpes.
+_CAUTION:_ If a woman has herpes sores when she gives birth, her baby can get it. This is very dangerous. Let your health worker or midwife know if you have ever had genital herpes.
 
 # Chancroid
 
