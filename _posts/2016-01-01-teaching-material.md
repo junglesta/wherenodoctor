@@ -149,7 +149,7 @@ P.O. Box 8500 Ottawa, Ontario Canada K1G 3H9
 tel: 1 613 236 6163  
 fax: 1 613 238 7230  
 e-mail: info@idrc.ca  
-website: [www.idrc.ca](http://www.idrc.ca)
+website: [www.idrc.ca](https://www.idrc.ca)
 
 Magazines, brochures, videos, and other materials on health, agriculture, and development. Materials in **English**, **Spanish**, **French**, and **Arabic**, some at no cost. Contact them for links to regional offices around the world.
 
