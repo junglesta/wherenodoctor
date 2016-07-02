@@ -509,7 +509,7 @@ Cast - [14](#page-14) - [98](#page-98) - [319](#page-319) - [420](#page-420)
 
 Castor oil [16](#page-16)
 
-Cataract - [33](#page-33) - [217](#page-217) - [225](#page-225) - [323](#page-323) - [420](#page-420)
+Cataract - [33](#page-33) - [217](#page-217) - [225](#page-225) - [323](#22-health-and-sicknesses-of-older-people) - [420](#page-420)
 
 Catheter - [239](#page-239) – [240](#page-240) - [336](#page-336) - [420](#page-420)
 
@@ -1029,7 +1029,7 @@ Eyes - [217](#page-217) – [228](#page-228)
 
 - examining the eyes [33](#page-33)
 
-- eye problems of older people - [227](#page-227) - [323](#page-323)
+- eye problems of older people - [227](#page-227) - [323](#22-health-and-sicknesses-of-older-people)
 
 - eye problems with leprosy - [192](#page-192)
 
@@ -1039,7 +1039,7 @@ Eyes - [217](#page-217) – [228](#page-228)
 
 - red and painful - [219](#page-219) - [225](#page-225)
 
-- spots and “floaters” - [227](#page-227) - [323](#page-323)
+- spots and “floaters” - [227](#page-227) - [323](#22-health-and-sicknesses-of-older-people)
 
 - yellow - [30](#page-30) - [172](#page-172) - [274](#page-274) - [328](#page-328) - [329](#page-329)
 
@@ -1067,9 +1067,9 @@ Family planning - [w16](#page-w16) - [246](#page-246) - [283](#page-283) – [29
 
 Farming - [w13](#page-w13) - [412](#page-412) – [413](#page-413)
 
-Farsightedness - [323](#page-323) - [422](#page-422)
+Farsightedness - [323](#22-health-and-sicknesses-of-older-people) - [422](#page-422)
 
-Fatigue - [23](#page-23) - [124](#page-124) - [323](#page-323) - [400](#page-400)
+Fatigue - [23](#page-23) - [124](#page-124) - [323](#22-health-and-sicknesses-of-older-people) - [400](#page-400)
 
 Fats - [111](#page-111) - [121](#page-121)
 
@@ -1090,7 +1090,7 @@ Feet
 
 - loss of feeling in - [127](#page-127) - [162](#page-162) - [173](#page-173) - [191](#page-191) – [192](#page-192)
 
-- swelling of - [113](#page-113) - [124](#page-124) - [144](#page-144) - [176](#page-176) - [248](#page-248) - [249](#page-249) - [323](#page-323)
+- swelling of - [113](#page-113) - [124](#page-124) - [144](#page-144) - [176](#page-176) - [248](#page-248) - [249](#page-249) - [323](#22-health-and-sicknesses-of-older-people)
 
 Fertile days - [244](#page-244) - [291](#page-291)
 
@@ -1236,7 +1236,7 @@ Giardia - [145](#page-145) - [336](#page-336) - [367](#page-367) - [369](#page-3
 
 Gila monster bite [106](#page-106)
 
-Glaucoma - [33](#page-33) - [222](#page-222) - [323](#page-323)
+Glaucoma - [33](#page-33) - [222](#page-222) - [323](#22-health-and-sicknesses-of-older-people)
 
 Gloves - rubber or plastic - [255](#page-255) - [262](#page-262) - [264](#page-264) - [401](#page-401)
 
@@ -2047,7 +2047,7 @@ Nutrition - [w11](#page-w11) - [w13](#page-w13)–[w16](#page-w16) - [107](#page
 Obstructed gut - [22](#page-22) - [94](#page-94)
 (Also see Gut)
 
-Older persons - [83](#page-83) - [214](#page-214) - [235](#page-235) - [323](#page-323) - [330](#page-330)
+Older persons - [83](#page-83) - [214](#page-214) - [235](#page-235) - [323](#22-health-and-sicknesses-of-older-people) - [330](#page-330)
 
 Onchocerciasis - [227](#page-227) – [228](#page-228) - [377](#page-377)
 
@@ -2518,7 +2518,7 @@ Sicknesses
 
 - of children - [215](#page-215) - [272](#page-272) – [275](#page-275) - [311](#page-311) - [314](#page-314)
 
-- of older people - [323](#page-323) - [330](#page-330)
+- of older people - [323](#22-health-and-sicknesses-of-older-people) - [330](#page-330)
 
 - of women - [241](#page-241)
 
@@ -2770,7 +2770,7 @@ Swelling breast swelling and lumps - [278](#page-278) – [279](#page-279)
 
 - home cure for [12](#page-12)
 
-- in old age [323](#page-323)
+- in old age [323](#22-health-and-sicknesses-of-older-people)
 
 - of broken arms or legs [14](#page-14)
 
@@ -3125,7 +3125,7 @@ Water - healing with - [45](#page-45) - [48](#page-48)
 - vapors - [47](#page-47) - [168](#page-168) - [383](#page-383)
 
 
-Weakness - fatigue - [23](#page-23) - [124](#page-124) - [323](#page-323) - [400](#page-400)
+Weakness - fatigue - [23](#page-23) - [124](#page-124) - [323](#22-health-and-sicknesses-of-older-people) - [400](#page-400)
 
 Weight and diet - [110](#page-110) - [111](#page-111) - [127](#page-127)
 
