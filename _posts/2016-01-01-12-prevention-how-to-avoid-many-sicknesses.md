@@ -69,7 +69,7 @@ If the family had taken any of the following precautions, the spread of the sick
 If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see [page 154](#page-154)and Chapter 11).
 
 
-# [133](#page-132)
+# [133](#page-133)
 {:.no_toc}
 
 ## BASIC GUIDELINES OF CLEANLINESS
