@@ -249,7 +249,7 @@ For identification of different skin problems, see pages 196–198.
 
 
 
-# [34](#page-34)
+# [35](#page-35)
 {:.no_toc}
 
 # THE BELLY (ABDOMEN)
