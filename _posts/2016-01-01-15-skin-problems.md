@@ -7,14 +7,26 @@ bookpage: 193
 * TOC
 {:toc}
 
-Some skin problems are caused by diseases or irritations that affect the skin only, such as ringworm, diaper rash, or warts. Other skin problems are signs of diseases that affect the whole body, such as the rash of measles or the sore, dry patches of pellagra (malnutrition). Certain kinds of sores or skin conditions may be signs of serious diseases, like tuberculosis, syphilis, leprosy, or HIV infection.
+Some skin problems are caused by diseases or irritations that affect the skin only, such as ringworm, diaper rash, or warts.
 
-This chapter deals only with the more common skin problems in rural areas. However, there are hundreds of diseases of the skin. Some look so much alike that they are hard to tell apart, yet their causes and the specific treatments they require may be quite different.
+Other skin problems are signs of diseases that affect the whole body, such as the rash of measles or the sore, dry patches of pellagra (malnutrition).
+
+Certain kinds of sores or skin conditions may be signs of serious diseases, like tuberculosis, syphilis, leprosy, or HIV infection.
+
+This chapter deals only with the more common skin problems in rural areas. However, there are hundreds of diseases of the skin.
+
+Some look so much alike that they are hard to tell apart, yet their causes and the specific treatments they require may be quite different.
 
 >**If a skin problem is serious or gets worse in spite of treatment, seek medical help**
 
-Many skin problems can be helped by keeping the body clean. Try to wash once a day with mild soap and clean water. If the skin becomes too dry, wash less often and do not use soap every time. Try rubbing petroleum gel (Vaseline), glycerin, or vegetable oils into the skin after bathing. Wear loose cotton clothing.
+Many skin problems can be helped by keeping the body clean. Try to wash once a day with mild soap and clean water.
 
+If the skin becomes too dry, wash less often and do not use soap every time. Try rubbing petroleum gel (Vaseline), glycerin, or vegetable oils into the skin after bathing. Wear loose cotton clothing.
+
+
+
+# [194](#page-194)
+{:.no_toc}
 
 # GENERAL RULES FOR TREATING SKIN PROBLEMS
 

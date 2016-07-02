@@ -230,17 +230,25 @@ Circumcision is not necessary for health, although male circumcision may provide
 
 ## boys
 
-A baby boy is born with a tube of skin (foreskin) covering the ‘head’ of his penis. As long as urine comes out of the hole at the tip, there should be no problem. The foreskin will usually not pull back completely over the head of the penis until the boy is about 4 years old. This is normal and circumcision is not necessary. Do not try to pull the foreskin back by force.
+A baby boy is born with a tube of skin (foreskin) covering the ‘head’ of his penis. As long as urine comes out of the hole at the tip, there should be no problem.
+
+The foreskin will usually not pull back completely over the head of the penis until the boy is about 4 years old. This is normal and circumcision is not necessary. Do not try to pull the foreskin back by force.
 
 However, if the foreskin becomes red, swollen, and so tight that the baby cannot pass urine without pain, this is not normal. Take him to a health worker for a circumcision as soon as possible.
 
-As a family ritual, simple circumcision of a healthy baby boy may be done by a midwife or person with experience. Using a new razor, she cuts off a little of the foreskin beyond the head of the penis. After the cut, there is some bleeding. Hold the penis firmly with a clean cloth, or gauze, for 5 minutes, until the bleeding stops. Some healers use the juice of a plant to help stop the bleeding (see [Aloe Vera [page 13](#page-13)](#page-13)).
+As a family ritual, simple circumcision of a healthy baby boy may be done by a midwife or person with experience. Using a new razor, she cuts off a little of the foreskin beyond the head of the penis.
+
+After the cut, there is some bleeding. Hold the penis firmly with a clean cloth, or gauze, for 5 minutes, until the bleeding stops. Some healers use the juice of a plant to help stop the bleeding (see [Aloe Vera [page 13](#page-13)](#page-13)).
 
 If the bleeding does not stop, wash away the clots of blood with clean water, and pinch the end of the foreskin between the fingers with a piece of clean cloth for as long as it takes the bleeding to stop. No medicine is needed.
 
 ## girls
 
-In circumcision of girls, or ‘excision’, the soft knob of flesh (clitoris) at the front end of the vagina is cut out. Sometimes, part of the vaginal lips is also cut away. Removing the clitoris is as bad as cutting off the head of a boy’s penis. **Excision should not be done**. Girls who have been excised may have frequent urinary and vaginal infections, and difficulty during childbirth.
+In circumcision of girls, or ‘excision’, the soft knob of flesh (clitoris) at the front end of the vagina is cut out.
+
+Sometimes, part of the vaginal lips is also cut away. Removing the clitoris is as bad as cutting off the head of a boy’s penis. **Excision should not be done**.
+
+Girls who have been excised may have frequent urinary and vaginal infections, and difficulty during childbirth.
 
 There is also danger of severe bleeding during excision. **The child can die** in a few minutes. **Act quickly.**
 
@@ -431,11 +439,15 @@ In cold climates, or cold, wet or windy weather, persons who are not wearing eno
 
 ## Dangerously Low Body Temperature in Babies and Sick Persons
 
-Sometimes, especially in cool weather, a baby, sick child, or person who is very old, ill, malnourished, or weak may lose so much body heat that their temperature drops below normal. The signs mentioned on the previous page may develop, and the person may die. Try to raise the body temperature by keeping the person warm as described on page 408.
+Sometimes, especially in cool weather, a baby, sick child, or person who is very old, ill, malnourished, or weak may lose so much body heat that their temperature drops below normal.
+
+The signs mentioned on the previous page may develop, and the person may die. Try to raise the body temperature by keeping the person warm as described on page 408.
 
 ## Frozen Skin (Frostbite)
 
-In freezing weather, if a person is not dressed warmly enough, her hands, feet, ears, and sometimes face may begin to freeze. Frostbite is very dangerous. If completely frozen, the skin will die and later turn black ([page 213](#page-213)). The part may have to be cut off (amputated).
+In freezing weather, if a person is not dressed warmly enough, her hands, feet, ears, and sometimes face may begin to freeze. Frostbite is very dangerous.
+
+If completely frozen, the skin will die and later turn black ([page 213](#page-213)). The part may have to be cut off (amputated).
 
 **Signs of frostbite:**
 
@@ -560,13 +572,17 @@ This happens because pesticides also kill the ‘good’ birds and insects that 
 
 As farmers’ dependency on chemical pesticides and fertilizers goes up, so does the cost. When the smaller, poorer farmers can no longer afford them, they are forced off the land. As the land becomes owned by a few ‘giant’ farmers, and more and more people become landless, the number of malnourished and hungry people increases.
 
-The risk of pesticide poisoning is high for these landless, poorly paid farm workers and their families. Many live in open shacks at the edge of fields that are sprayed with pesticides. The poison can easily get into their homes or water supply. This is especially dangerous for small children, who can be seriously harmed by even small amounts of these poisons. Farmers who use backpack sprayers, which often leak, are also at high risk. See A Community Guide to Environmental Health, Chapter 14, for more information.
+The risk of pesticide poisoning is high for these landless, poorly paid farm workers and their families. Many live in open shacks at the edge of fields that are sprayed with pesticides. The poison can easily get into their homes or water supply.
+
+This is especially dangerous for small children, who can be seriously harmed by even small amounts of these poisons. Farmers who use backpack sprayers, which often leak, are also at high risk. See A Community Guide to Environmental Health, Chapter 14, for more information.
 
 >Landless farm workers and their families, who live in shacks at the edge of the big farms, often suffer from pesticide poisoning.
 
 Laws are needed to prohibit the most dangerous pesticides and to provide clear warnings. Unfortunately, after governments in industrialized countries limited the use of many pesticides, chemical manufacturers began to sell their dangerous products to developing countries, where laws are less strict.
 
-Some of the most dangerous pesticides are aldrin, dieldrin, endrin, chlordane, heptachlor, DDT, DBCP, HCH, BHC, ethylene dibromide (EDB), paraquat, parathion, agent orange (2-4D with 2-4-5T), camphechlor (toxaphene), poentachlorophenyl (PCP), and chlordimeform. It is very important to read carefully the labels of pesticide containers. Be sure to read the small print, because the pesticide may not be part of the brand name.
+Some of the most dangerous pesticides are aldrin, dieldrin, endrin, chlordane, heptachlor, DDT, DBCP, HCH, BHC, ethylene dibromide (EDB), paraquat, parathion, agent orange (2-4D with 2-4-5T), camphechlor (toxaphene), poentachlorophenyl (PCP), and chlordimeform.
+
+It is very important to read carefully the labels of pesticide containers. Be sure to read the small print, because the pesticide may not be part of the brand name.
 
 WARNING: If you use any pesticide, take the following precautions:
 
@@ -629,9 +645,12 @@ The above steps can help to treat the immediate problem of pesticide poisoning. 
 
 When a woman takes action to end a pregnancy before a baby is fully enough formed to survive, this is called an abortion. (In this book we use the word ‘abortion’ only when the action is planned. The unplanned, natural loss of an unborn child we call a ‘miscarriage’.)
 
-Deciding whether or not to have an abortion can be difficult. In making a decision, most women will benefit from warm, respectful advice and friendly support. When abortions are done under sterile conditions in a hospital or clinic by a trained medical worker, they are usually safe for the woman. Abortions are safest when done in early pregnancy.
+Deciding whether or not to have an abortion can be difficult. In making a decision, most women will benefit from warm, respectful advice and friendly support.
+
+When abortions are done under sterile conditions in a hospital or clinic by a trained medical worker, they are usually safe for the woman. Abortions are safest when done in early pregnancy.
 
 But when abortions are done at home, by untrained persons, or in unclean conditions, they can be extremely dangerous. In places where abortions are illegal or difficult to get, these ‘home’ abortions are often a major cause of death for women between the ages of 12 and 50.
+
 Methods for ending a pregnancy such as putting sticks or other hard objects into the vagina or womb, squeezing the womb, or using modern drugs or plant medicines can cause severe bleeding, infection, and death.
 
 **Danger signs following an abortion:**
@@ -644,8 +663,7 @@ Methods for ending a pregnancy such as putting sticks or other hard objects into
 
 If you see these signs in a woman who may have been pregnant, they could be the result of an abortion. But they could also be signs of miscarriage ([page 281](#page-281)), ectopic pregnancy ([page 280](#page-280)), or pelvic inflammatory disease ([page 243](#page-243)).
 
-Some women with problems following an abortion go for medical help, but
-are afraid or ashamed to tell what really happened. Others may be too afraid or embarrassed even to seek medical help, especially if the abortion was secret or illegal. They may wait until they are very sick.
+Some women with problems following an abortion go for medical help, but are afraid or ashamed to tell what really happened. Others may be too afraid or embarrassed even to seek medical help, especially if the abortion was secret or illegal. They may wait until they are very sick.
 
 This delay could be fatal. Heavy bleeding (more than with a normal period) or infection following an abortion is dangerous. Get medical help right away! Meanwhile, do the following:
 
@@ -679,7 +697,9 @@ For more information about how to care for a woman after an abortion, see A Book
 
 The use of harmful, habit-forming drugs is a growing problem in the world today.
 
-Although alcohol and tobacco are legal in most countries, both are habit-forming or ‘addictive’ drugs. They contribute to the poor health and death of many millions of people each year. Alcohol abuse causes enormous health, family, and social problems throughout the world. Cigarette smoking has for many years been a major cause of death in rich countries. and is now becoming an even bigger cause of death in poor countries. As more people in the rich countries stop smoking, the tobacco companies have turned to the ‘Third World’ as their new and easiest market.
+Although alcohol and tobacco are legal in most countries, both are habit-forming or ‘addictive’ drugs. They contribute to the poor health and death of many millions of people each year. Alcohol abuse causes enormous health, family, and social problems throughout the world.
+
+Cigarette smoking has for many years been a major cause of death in rich countries. and is now becoming an even bigger cause of death in poor countries. As more people in the rich countries stop smoking, the tobacco companies have turned to the ‘Third World’ as their new and easiest market.
 
 Health problems related to use of alcohol and tobacco are discussed on pages [page 148](#page-148)to [page 149](#page-149).
 
@@ -688,8 +708,9 @@ In addition to alcohol and tobacco, many people in different parts of the world 
 An increasing problem among poor children in cities is the sniffing
 of chemicals, especially glue, but sometimes paint thinner, shoe polish, gasoline, and cleaning fluid. Also, some people misuse medicines—especially certain strong painkillers, stimulants, and ‘appetite control’ drugs.
 
-Drugs can be swallowed, injected, smoked, chewed, or sniffed. Different
-drugs create different effects on the body and mind. Cocaine or kolanuts may make a person feel energetic and happy, but some time later he will feel tired, irritable, and depressed. Some drugs, like alcohol, opium, morphine, and heroin, may at first make a person feel calm and relaxed, but later they may cause him to lose his inhibitions, self- control, or even consciousness. Other drugs, such as marijuana, PCP, LSD, and peyote make a person imagine things that do not exist, or create dream-like fantasies.
+Drugs can be swallowed, injected, smoked, chewed, or sniffed. Different drugs create different effects on the body and mind. Cocaine or kolanuts may make a person feel energetic and happy, but some time later he will feel tired, irritable, and depressed.
+
+Some drugs, like alcohol, opium, morphine, and heroin, may at first make a person feel calm and relaxed, but later they may cause him to lose his inhibitions, self- control, or even consciousness. Other drugs, such as marijuana, PCP, LSD, and peyote make a person imagine things that do not exist, or create dream-like fantasies.
 
 >WARNING: Use of cigarettes, alcohol, or other drugs by pregnant women can harm their unborn child.  
 Also, injecting drugs using the same needle for more than one person spreads dangerous diseases.
@@ -697,12 +718,19 @@ Also, injecting drugs using the same needle for more than one person spreads dan
 See hepatitis ([page 172](#page-172)) and HIV and AIDS ([page 399](#page-399)).
 
 
+
+# [416](#page-416)
+{:.no_toc}
+
+
 >Drug dependence can cause: self-neglect, family problems, aggression,
 and violence.
 
 When a person first gives up a drug he is addicted to, he will usually feel miserable and act strangely. This is called ‘withdrawal’. The person may be extremely nervous, depressed, or angry. He may feel that he cannot live without the drug.
 
-With some drugs, such as heroin or cocaine, withdrawal may be so severe that the person can become violent and injure himself or others. He or she may need the help of a special clinic. For other kinds of drugs, such as alcohol, marijuana, tobacco, and chemical sniffing, medical care is usually not necessary, but the care and support of family and friends is very important.
+With some drugs, such as heroin or cocaine, withdrawal may be so severe that the person can become violent and injure himself or others. He or she may need the help of a special clinic.
+
+For other kinds of drugs, such as alcohol, marijuana, tobacco, and chemical sniffing, medical care is usually not necessary, but the care and support of family and friends is very important.
 
 Here are a few suggestions to help solve the problem of drug use and addiction:
 
@@ -718,12 +746,13 @@ Here are a few suggestions to help solve the problem of drug use and addiction:
 # [417](#page-417)
 {:.no_toc}
 
-People usually start taking drugs to escape the hardships, forget the hunger, or calm the pain in their daily lives. But once they start, they often become ‘hooked’ or addicted. If they try to stop, they become miserable, sick, or violent. In order to get more drugs, they will often commit crimes, go hungry, or neglect their families. Thus drug use becomes a problem for whole families and communities.
+People usually start taking drugs to escape the hardships, forget the hunger, or calm the pain in their daily lives. But once they start, they often become ‘hooked’ or addicted. If they try to stop, they become miserable, sick, or violent.
 
-Some drugs such as cocaine and heroin are very addictive; a person may try the drug only once and feel that he needs to keep taking it. Other drugs become addictive after longer periods of time. Addiction is a dangerous trap that can lead to health problems or even death. But with determination, effort, and support, addictions can be overcome.
+In order to get more drugs, they will often commit crimes, go hungry, or neglect their families. Thus drug use becomes a problem for whole families and communities.
 
+Some drugs such as cocaine and heroin are very addictive; a person may try the drug only once and feel that he needs to keep taking it. Other drugs become addictive after longer periods of time.
 
-family problems, aggression, and violence.
+Addiction is a dangerous trap that can lead to health problems or even death. But with determination, effort, and support, addictions can be overcome.
 
 
 >Actions that are supportive and kind work better than those that are punishing and cruel.
