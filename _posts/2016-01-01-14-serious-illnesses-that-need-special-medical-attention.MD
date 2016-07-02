@@ -25,6 +25,12 @@ People with HIV can take isoniazid (see [page 360](#page-360)) to prevent TB fro
 
 Tuberculosis is curable. Yet thousands die needlessly from this disease every year. Both for prevention and cure, it is very important to treat tuberculosis early. Be on the lookout for the signs of tuberculosis. A person may have one or many of them.
 
+
+
+
+# [180](#page-180)
+{:.no_toc}
+
 **Most frequent signs of TB:**
 
   - A cough that lasts longer than 3 weeks, often worse just after waking up.
@@ -72,8 +78,7 @@ Seek medical help. At the first sign of tuberculosis, go to a health center wher
 
 It is very important to take the medicines as directed. Treatments may be different in different countries, but usually the treatment has 2 parts. You will take 4 medicines for 2 months and then test your sputum. If you are getting better, you will take 2 or 3 medicines for another 4 months. Then you will be tested again to make sure you are cured. **Do not stop taking the medicines, even if you feel better**. This can lead to the illness coming back and infecting you and other people, with a form of TB that is much harder to cure, multi-drug resistant tuberculosis (see [page 359](#page-359)). **To cure TB completely can take from 6 months to more than a year.**
 
-Eat as well as possible: plenty of energy foods and also foods rich in proteins and vitamins (pages [page 110](#page-110)to [page 111](#page-111)). Rest is important. If possible, stop working and take
-it easy until you begin to get better. From then on, try not to work so hard that you become tired or breathe with difficulty. Try to always get enough rest and sleep.
+Eat as well as possible: plenty of energy foods and also foods rich in proteins and vitamins (pages [page 110](#page-110)to [page 111](#page-111)). Rest is important. If possible, stop working and take it easy until you begin to get better. From then on, try not to work so hard that you become tired or breathe with difficulty. Try to always get enough rest and sleep.
 
 Tuberculosis in any other part of the body is treated
 the same as TB of the lungs, but the treatment may be longer. This includes TB in the glands of the neck, TB of the abdomen (see picture on [page 20](#page-20)), TB of the skin (see [page 212](#page-212)), and TB of a joint (like the knee). A child with severe TB of the backbone may also need surgery to prevent paralysis (see Disabled Village Children, Chapter 21).
@@ -98,6 +103,12 @@ the same as TB of the lungs, but the treatment may be longer. This includes TB i
 TB in family members often starts very slowly and quietly. If anyone in the family shows signs of TB, have tests done and begin treatment at once.
 
 >Early and full treatment is a key part of prevention.
+
+
+
+
+# [181](#page-181)
+{:.no_toc}
 
 # RABIES
 
