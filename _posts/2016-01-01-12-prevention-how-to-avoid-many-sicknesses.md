@@ -54,6 +54,9 @@ Many times pigs, dogs, chickens, and other animals spread intestinal disease and
   - And soon, the whole family has diarrhea or worms.
 
 
+# [132](#page-132)
+{:.no_toc}
+
 Many kinds of infections, as well as worm eggs, are passed from one person to another in the way just shown.
 
 If the family had taken any of the following precautions, the spread of the sickness could have been prevented:

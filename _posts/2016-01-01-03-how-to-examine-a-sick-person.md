@@ -86,8 +86,7 @@ For example:
 
 # HOW TO USE A THERMOMETER
 
-Every family should have a thermometer. Take the temperature of a sick person
-4 times a day and always write it down (see [page 462](#page-462)).
+Every family should have a thermometer. Take the temperature of a sick person 4 times a day and always write it down.
 
 How to read the thermometer (using one marked in degrees centigrade, °C):
 
