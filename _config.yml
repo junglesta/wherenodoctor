@@ -12,6 +12,6 @@ producer:
 
 # Build settings
 markdown: kramdown
-release: 0.2.1
+release: 0.3.0
 permalink: nil ## should disable post output, but...
 exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, LICENSE]

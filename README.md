@@ -22,21 +22,22 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # 2do
 
-- [ ] use some [customized](https://getmdl.io/customize/index.html) [MDL](https://getmdl.io/started/) components(side nav for chapters,...) or maybe the whole framework...
+
 - [ ] **install [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
 - [ ] Make it easily translatable.
 - [ ] maybe make Patient Report (page 44) fillable and printable PDF.
 
 # Done
 
-- [X]  dumped [jekyll, search](https://github.com/christian, fei/Simple, Jekyll, Search), it just gets chapter titles! NOT ENOUGH! no way to make 'content' work...
+- [X] rationalized navigation component
+- [X]  dumped [jekyll search](https://github.com/christian, fei/Simple, Jekyll, Search), it just gets chapter titles! NOT ENOUGH! no success in making it use 'content' too...
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
 - [X] squeezed all chapters into one single page.
 - [X] mobile friendly version one pager.
 - [X] initial collection of PDF release.
 - [X] logo. _thanks to david@[work, it](http://work, it.it)_
 - [X] github repo.
-- [X] https. _[check](https://junglesta.github.io/wherenodoctor/)_
+- [X] https. _[Check yourself](https://junglesta.github.io/wherenodoctor/)_
 - [X] auto, TOC for each chapter
 
 # Source:
@@ -65,7 +66,7 @@ jekyll serve , , watch , , trace , , baseurl ''
 
 ### Book formatting style guide
 
-Here the **Minimal necessary formatting** logic defined so far:
+Here the **Minimal Necessary Formatting Logic** necessary to render the current app views:
 
 **Page Links**
 ```sh
@@ -86,13 +87,13 @@ We use auto id creation, so:
 
 **Table of Content**
 
-To have auto, TOCs put this at top:
+To have automatic Table of Content functionality put this at top of post:
 
 ```sh
 * TOC
 {:toc}
 ```
-and this to stop including in ToC
+use this to stop including in ToC:
 
 ```sh
 {:.no_toc}
