@@ -172,7 +172,7 @@ Information on all aspects of family planning. Contact them for links to affilia
 Bloomberg School of Public Health, 111 Market Place, Suite 310 Baltimore, Maryland 21202, USA  
 tel: 1 410 659 6300  
 e-mail: CCPinfo@jhu.edu  
-website: [www.ccp.jhu.edu](http://www.ccp.jhu.edu)
+website: [ccp.jhu.edu](http://ccp.jhu.edu/contact-us/)
 
 Wide variety of health information and health education materials.
 
