@@ -693,7 +693,7 @@ can make a doll for the baby. Pin a cloth cord to its belly. Experienced midwive
 
 Videos on tapes, DVDs, and on the internet are available on different health subjects for many parts of the world. Battery-operated projectors are also available. But technology can never take the place of a good educator.
 
-A list of addresses where you can send for teaching materials to use for health education in your village can be found on pages [page 429](#page-429)to [page 432](#page-432).
+A list of addresses where you can send for teaching materials to use for health education in your village can be found [here](#teaching-material).
 
 
 # [w23](#page-w23)
