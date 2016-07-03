@@ -313,7 +313,7 @@ Keep giving the Drink, even if the person vomits it out again. Some will stay in
 
 ♦ If you cannot control the vomiting or if the dehydration gets worse, seek medical help fast.
 
-3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, see pages [page 144](#page-144)to [page 145](#page-145).)
+3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, see pages [page 144](#page-144) to [page 145](#page-145).)
 
 ♦ Use metronidazole ([page 368](#page-368)). Take the medicine according to the recommended dose. If the diarrhea continues after treatment, seek medical advice.
 
@@ -898,7 +898,7 @@ For a baby between 2 months and 1 year, fast breathing is more than 50 breaths a
 
 **Treatment:**
 
-  ♦ For pneumonia, treatment with antibiotics can make the difference between life and death. Give benzylpenicillin ([page 351](#page-351)), cotrimoxazole ([page 357](#page-357)), or erythromycin ([page 354](#page-354)). In serious cases, inject procaine penicillin ([page 352](#page-352)), adults: 1,000,000 units (1 g) a day, or give amoxicillin by mouth (pages [page 352](#page-352)to [page 353](#page-353)), 500 mg, 3 times a day. Give small children 1⁄4 to 1⁄2 the adult dose. For children under 6, amoxicillin is usually best.
+  ♦ For pneumonia, treatment with antibiotics can make the difference between life and death. Give benzylpenicillin ([page 351](#page-351)), cotrimoxazole ([page 357](#page-357)), or erythromycin ([page 354](#page-354)). In serious cases, inject procaine penicillin ([page 352](#page-352)), adults: 1,000,000 units (1 g) a day, or give amoxicillin by mouth (pages [page 352](#page-352) to [page 353](#page-353)), 500 mg, 3 times a day. Give small children 1⁄4 to 1⁄2 the adult dose. For children under 6, amoxicillin is usually best.
 
   ♦ Give aspirin ([page 378](#page-378)) or acetaminophen ([page 379](#page-379)) to lower the temperature and lessen the pain. Acetaminophen is safer for children under 12.
 
@@ -944,11 +944,11 @@ Hepatitis B is more serious and can lead to permanent scarring of the liver (cir
 
   ♦ The sick person should rest and drink lots of liquids. If he refuses most food, give him orange juice, papaya, and other fruit plus broth or vegetable soup. It may help to take vitamins. To control vomiting, see [page 161](#page-161).
 
-  ♦ When the sick person can eat, give a balanced meal. Vegetables and fruit are good, with some protein (pages [page 110](#page-110)to [page 111](#page-111)). But do not give a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard. Avoid lard and fatty foods. Do not drink any alcohol for at least 6 months.
+  ♦ When the sick person can eat, give a balanced meal. Vegetables and fruit are good, with some protein (pages [page 110](#page-110) to [page 111](#page-111)). But do not give a lot of protein (meat, eggs, fish, etc.) because this makes the damaged liver work too hard. Avoid lard and fatty foods. Do not drink any alcohol for at least 6 months.
 
 **Prevention:**
 
-  ♦ Small children often have hepatitis without any signs of sickness, but they can spread the disease to others. It is very important that everyone in the house follow all the guidelines of cleanliness with great care (see pages [page 133](#page-133)to [page 139](#page-139)).
+  ♦ Small children often have hepatitis without any signs of sickness, but they can spread the disease to others. It is very important that everyone in the house follow all the guidelines of cleanliness with great care (see pages [page 133](#page-133) to [page 139](#page-139)).
 
   ♦ The Hepatitis A virus passes from the stool of one person to the mouth of another by way of contaminated water or food. To prevent others from getting sick, bury the sick person’s stools. The sick person, his family and caregivers must try to stay clean and wash their hands often.
 

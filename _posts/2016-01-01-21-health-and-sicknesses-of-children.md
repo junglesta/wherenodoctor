@@ -438,7 +438,7 @@ This dangerous disease may come as a complication of measles, mumps, or another 
 
   ♦ If you suspect hookworm, a health worker may be able to look at the child’s
   stools under a microscope. If hookworm eggs are found, treat for hookworm
-  (pages [page 373](#page-373)to [page 375](#page-375)).
+  (pages [page 373](#page-373) to [page 375](#page-375)).
 
   ♦ If necessary, give iron salts by mouth (ferrous sulfate, [page 392](#page-392)).
 

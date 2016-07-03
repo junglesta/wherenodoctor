@@ -39,7 +39,7 @@ Every year, half a million women die of problems from pregnancy, childbirth, and
   - too many. A woman with more than 4 children has a greater risk of death after
   childbirth from bleeding and other causes.
 
-Millions of women safely use the family planning methods described in this chapter and on pages [page 393](#page-393)to [page 396](#page-396).
+Millions of women safely use the family planning methods described in this chapter and on pages [page 393](#page-393) to [page 396](#page-396).
 
 ## Choosing a Family Planning Method
 

@@ -21,7 +21,7 @@ The amounts of medicines recommended for the medicine kits are the smallest amou
 
 The amount of medicine you keep in your kit will depend on how many people it is intended to serve and how far you have to go to get more when some are used up. It will also depend on cost and how much the family or village can afford. Some of the medicines for your kit will be expensive, but it is wise to have enough of the important medicines on hand to meet emergencies.
 
-_Note:_ Supplies for birth kits, the things midwives and pregnant mothers need to have ready for a birth, are listed on pages [page 254](#page-254)to [page 255](#page-255).
+_Note:_ Supplies for birth kits, the things midwives and pregnant mothers need to have ready for a birth, are listed on pages [page 254](#page-254) to [page 255](#page-255).
 
 
 

@@ -416,7 +416,7 @@ is when it can spread to other people. These signs will also disappear. But if i
 
 Treatment:
 
-♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (see pages [page 237](#page-237)to [page 238](#page-238)).
+♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (see pages [page 237](#page-237) to [page 238](#page-238)).
 
 # BOILS AND ABSCESSES
 
@@ -604,7 +604,7 @@ In malnourished children, the skin of the legs (and sometimes arms) may have dar
 on the backs of the legs
 peeling sores and dark marks
 
-When these conditions exist, often there are also other signs of malnutrition: swollen belly; sores in the corners of the mouth; red, sore tongue; weakness; loss of appetite; failure to gain weight; etc. (see Chapter 11, pages [page $1](#page-$1)to [page 114](#page-114)).
+When these conditions exist, often there are also other signs of malnutrition: swollen belly; sores in the corners of the mouth; red, sore tongue; weakness; loss of appetite; failure to gain weight; etc. (see Chapter 11, pages [page $1](#page-$1) to [page 114](#page-114)).
 
 Treatment:
 
@@ -793,7 +793,7 @@ Prevent skin ulcers, care for varicose veins early (see [page 175](#page-175)).
 
 These chronic open sores appear in persons so ill they cannot roll over in bed, especially in sick old persons who are very thin and weak. The sores form over bony parts of the body where the skin is pressed against the bedding. They are most often seen on the buttocks, back, shoulders, elbows, or feet.
 
- For a more complete discussion of pressure sores, see Disabled Village Children, Chapter 24, or A Health Handbook for Women with Disabilities, pages [page 114](#page-114)to [page 117](#page-117).
+ For a more complete discussion of pressure sores, see Disabled Village Children, Chapter 24, or A Health Handbook for Women with Disabilities, pages [page 114](#page-114) to [page 117](#page-117).
 
 How to prevent bed sores:
 

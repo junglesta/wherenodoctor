@@ -374,7 +374,7 @@ A stool analysis is needed to prove that they are there.
 
  **Treatment:**
 
- Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages [page 373](#page-373)to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
+ Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages [page 373](#page-373) to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
 
  >Prevent hookworm: **Build and use latrines. Do not let children go barefoot.**
 
@@ -556,7 +556,7 @@ Blood flukes spread like this:
 
 To prevent schistosomiasis, cooperate with programs to kill snails and treat infected persons. But most important: Everyone should learn to use latrines and NEVER URINATE OR DEFECATE IN OR NEAR WATER.
 
-For information on guinea worm, which is also spread in water, see [page 406](#page-406)to [page 407](#page-407).
+For information on guinea worm, which is also spread in water, see [page 406](#page-406) to [page 407](#page-407).
 
 
 # [147](#page-147)

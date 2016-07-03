@@ -73,7 +73,7 @@ If a combination of these 3 signs appears and the person gets sick more and more
 
 **Treatment**
 
-There is still no medicine to cure HIV or AIDS. But medicines called “antiretrovirals” can help people with HIV stay healthy and live longer. Taken in combination, they are called Antiretroviral Therapy, or ART. ART is becoming less costly and more available in many countries. (See pages [page 396](#page-396)to [page 398](#page-398)for information on ART.)
+There is still no medicine to cure HIV or AIDS. But medicines called “antiretrovirals” can help people with HIV stay healthy and live longer. Taken in combination, they are called Antiretroviral Therapy, or ART. ART is becoming less costly and more available in many countries. (See pages [page 396](#page-396) to [page 398](#page-398)for information on ART.)
 
 Because people with HIV have difficulty fighting infections, many use cotrimoxazole daily to prevent infections (see page [page 357](#page-357)). Be sure to treat any problems that occur:
 
@@ -85,7 +85,7 @@ Because people with HIV have difficulty fighting infections, many use cotrimoxaz
 
   - For fever, give lots of fluids, aspirin or acetaminophen, and lower high fever with a cool bath (see pages [page 75](#page-75)and [page 76](#page-76)).
 
-  - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages [page 168](#page-168)to [page 171](#page-171)). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages [page 179](#page-179)and [page 180](#page-180)).
+  - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages [page 168](#page-168) to [page 171](#page-171)). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages [page 179](#page-179)and [page 180](#page-180)).
 
   - For itching and rashes, use antihistamines ([page 385](#page-385)) and treat infections ([page 202](#page-202)).
 
@@ -226,7 +226,11 @@ _CAUTION:_ If a woman has herpes sores when she gives birth, her baby can get it
 
 In many communities, boy children are circumcised, as are girls in some parts of the world, as a traditional ‘practice’ or ‘custom’.
 
-Circumcision is not necessary for health, although male circumcision may provide some protection against HIV. For boys it is usually not dangerous. But for girls, this practice, sometimes called ‘excision’, ‘infibulation’, or ‘female genital cutting’, is very dangerous and should be strongly discouraged. For both boys and girls, unclean cutting tools risk spreading HIV.
+Circumcision is not necessary for health, although male circumcision may provide some protection against HIV. For boys it is usually not dangerous.
+
+But for girls, this practice, sometimes called ‘excision’, ‘infibulation’, or ‘f.g.m.’, is very dangerous and should be strongly discouraged.
+
+For both boys and girls, unclean cutting tools risk spreading HIV.
 
 ## boys
 
@@ -238,7 +242,7 @@ However, if the foreskin becomes red, swollen, and so tight that the baby cannot
 
 As a family ritual, simple circumcision of a healthy baby boy may be done by a midwife or person with experience. Using a new razor, she cuts off a little of the foreskin beyond the head of the penis.
 
-After the cut, there is some bleeding. Hold the penis firmly with a clean cloth, or gauze, for 5 minutes, until the bleeding stops. Some healers use the juice of a plant to help stop the bleeding (see [Aloe Vera [page 13](#page-13)](#page-13)).
+After the cut, there is some bleeding. Hold the penis firmly with a clean cloth, or gauze, for 5 minutes, until the bleeding stops. Some healers use the juice of a plant to help stop the bleeding ([see Aloe Vera](#page-13)).
 
 If the bleeding does not stop, wash away the clots of blood with clean water, and pinch the end of the foreskin between the fingers with a piece of clean cloth for as long as it takes the bleeding to stop. No medicine is needed.
 
@@ -254,8 +258,8 @@ There is also danger of severe bleeding during excision. **The child can die** i
 
 Wash away the clots to find the exact point where the blood is coming from and press on it firmly for 5 minutes.
 
-If bleeding continues, keep pressing the bleeding spot while you carry the child to a health worker or doctor for help. Watch for signs of shock ([see page 77](#page-77)) and infection.
-
+If bleeding continues, keep pressing the bleeding spot while you carry the child to a health worker or doctor for help. Watch for signs of shock ([read more here](#page-77)) and infection.
+å
 
 
 
@@ -701,7 +705,7 @@ Although alcohol and tobacco are legal in most countries, both are habit-forming
 
 Cigarette smoking has for many years been a major cause of death in rich countries. and is now becoming an even bigger cause of death in poor countries. As more people in the rich countries stop smoking, the tobacco companies have turned to the ‘Third World’ as their new and easiest market.
 
-Health problems related to use of alcohol and tobacco are discussed on pages [page 148](#page-148)to [page 149](#page-149).
+Health problems related to use of alcohol and tobacco are discussed on pages [page 148](#page-148) to [page 149](#page-149).
 
 In addition to alcohol and tobacco, many people in different parts of the world are using drugs that may be illegal. These vary from place to place, and include marijuana (weed, pot, grass, sin semilla, mota, hashish, ganja), opium (heroin, morphine, smack), methamphetamine (speed) and cocaine (crack, snow, rock).
 

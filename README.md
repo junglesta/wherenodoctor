@@ -22,7 +22,8 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # 2do
 
-
+- [ ] finish broken link fix
+- [ ] finish OG head stuff test (pictue size?!)
 - [ ] **install [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
 - [ ] Make it easily translatable.
 - [ ] maybe make Patient Report (page 44) fillable and printable PDF.
