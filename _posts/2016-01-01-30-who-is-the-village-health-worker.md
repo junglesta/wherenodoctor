@@ -840,7 +840,7 @@ Take special care to give examples of how to look things up. Urge each person to
 
 Point out how important it is to prevent sickness before it starts.
 
-Encourage people to pay special attention to Chapters [page 11](#page-11)and 12, which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
+Encourage people to pay special attention to Chapters [page 11](#page-11) and 12, which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
 
 Also show and mark the pages that tell about the most common problems in your area. For example, you can mark the pages on diarrhea and be sure mothers with small children understand about ‘special drink’ (oral rehydration, [page 152](#page-152)).
 
@@ -873,9 +873,9 @@ But remember, the most important part of health care you will not find in this b
 
 If you want to see your community be healthy, build on these.
 
-# [w29](#page-w29)
+# [w30](#page-w30)
 {:.no_toc}
 
-NOTICE
+**NOTICE**
 
 This book is to help people meet most of their common health needs for and by themselves. But it does not have all the answers. In case of serious illness or if you are uncertain about how to handle a health problem, get advice from a health worker or doctor whenever possible.
