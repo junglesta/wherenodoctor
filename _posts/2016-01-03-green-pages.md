@@ -2626,14 +2626,13 @@ Certain malaria medicines are used only to treat attacks of malaria, while some 
 
 Others can be used for both.
 
-For treating falciparum malaria (the most serious type of malaria), a medicine in the artemesinin family must be taken in combination with a
-second medicine.
+For treating falciparum malaria (the most serious type of malaria), a medicine in the artemesinin family must be taken in combination with a second medicine.
 
 This is called Artemisinin-based Combination Therapy, or ACT.
 
 Talk to a health worker or the Ministry of Health to find out the recommendations for your area.
 
-Some common combinations are:
+_Some common combinations are:_
 
 Artemether with lumefantrine (comes as a combined pill)
 
@@ -2648,7 +2647,7 @@ Women in the first 3 months of pregnancy should try to avoid using artemether an
 For falciparum malaria that has become resistant to many medicines, doxycycline ([page 355](#page-355)) or quinine should be taken along with the ACT.
 
 
-# [363](#page-353)
+# [364](#page-364)
 {:.no_toc}
 
 
@@ -2690,10 +2689,6 @@ In each monthly dose give:
 
 _Note:_ The larger dose of clofazimine, which can also be used daily to control lepra reaction, is best given with the advice of an experienced health worker or doctor.
 
-
-
-# [364](#page-364)
-{:.no_toc}
 
 Other, less serious types of malaria can be treated with chloroquine, sometimes followed by primaquine.
 
@@ -2982,7 +2977,7 @@ Inject one dose, then 8 hours later inject the second, smaller dose:
 
 - children: 20 mg/kg, then 10 mg per kg the child weighs
 
-Chloroquine
+**Chloroquine**
 
 Chloroquine comes in two forms, chloroquine phosphate and chloroquine sulfate.
 
@@ -2990,12 +2985,11 @@ The doses are different, so be sure you know which type of chloroquine you have 
 
 In most areas of the world malaria is now resistant to chloroquine.
 
-Chloroquine should only be used to treat or prevent types of malaria that
-are not resistant to it.
+**Chloroquine should only be used to treat or prevent types of malaria that are not resistant to it.**
 
 Talk to a health worker about which medications work best in your area.
 
-If you do not know which type of malaria a person has, it is better to treat with Artemisinin Combination Therapy (ACT).
+If you do not know which type of malaria a person has, it is better to treat with **Artemisinin Combination Therapy (ACT).**
 
 Chloroquine is safe for women who are pregnant or breastfeeding for both prevention and treatment of malaria.
 
@@ -3046,7 +3040,6 @@ For prevention of malaria (where it is not resistant to chloroquine):
 Give once a week beginning 1 week before and continuing for 4 weeks after leaving malaria area.
 
 - adults: 2 tablets (500 mg)
-
 
 - children 10 to 15 years: 11⁄2 tablets (375 mg)
 
@@ -3132,12 +3125,9 @@ _Side effects:_ Primaquine causes anemia in people with a blood condition called
 Seek local advice.
 
 
-
-
 _Dosage of_ primaquine:
 
 Give once a day for 14 days.
-
 
 In each dose give:
 
@@ -3162,7 +3152,6 @@ Proguanil is not safe for pregnant women.
 _Dosage of_ proguanil for prevention:
 
 Give medicine each day, starting the day entering a malaria area until 28 days after leaving the area.
-
 
 - adults and children over 12 years: 2 tablets (200 mg)
 
