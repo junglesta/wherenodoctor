@@ -42,7 +42,7 @@ Perhaps you can get small groups together to read a chapter at a time and discus
 
 THE VILLAGE HEALTH WORKER LIVES AND WORKS WITH HIS PEOPLE. HIS FIRST JOB IS TO SHARE HIS KNOWLEDGE.
 
-# [w2](#w2page-w2)
+# [w2](#page-w2)
 {:.no_toc}
 
 Dear Village Health Worker,
@@ -70,7 +70,7 @@ There is nothing you have learned that, if carefully explained, should be of dan
 LOOK FOR WAYS TO SHARE YOUR KNOWLEDGE.
 
 
-# [w3](#w3page-w3)
+# [w3](#page-w3)
 {:.no_toc}
 
 ### 3. respect your people’s traditions and ideas.
@@ -98,7 +98,7 @@ Learn from them and encourage them to learn from you.
 
 
 
-# [w4](#w4page-w4)
+# [w4](#page-w4)
 {:.no_toc}
 
 
@@ -134,7 +134,7 @@ Your first job is to teach, and unless you keep learning more, soon you will not
 
 
 
-# [w5](#w5page-w5)
+# [w5](#page-w5)
 {:.no_toc}
 
 
@@ -167,7 +167,7 @@ _WORK FIRST FOR THE PEOPLE, NOT THE MONEY. (People are worth more.)_
 
 
 
-# [w6](#w6page-w6)
+# [w6](#page-w6)
 {:.no_toc}
 
 
@@ -201,7 +201,7 @@ And why do so many children suffer from poor nutrition?
 
 
 
-# [w7](#w7page-w7)
+# [w7](#page-w7)
 {:.no_toc}
 
 You may find that many, if not all, of these things lie behind infant deaths in your area. You will, no doubt, find other causes as well. As a health worker it is your job to help people understand and do something about as many of these causes as you can.
@@ -227,7 +227,7 @@ Do your best to solve day-to-day problems. But remember that your greatest job i
 You as a health worker have a big responsibility. Where should you begin?
 
 
-# [w7](#w7page-w7)
+# [w8](#page-w8)
 {:.no_toc}
 
 
@@ -260,7 +260,7 @@ As a simple example of how each of these things can be important, let us suppose
 4. One resource that may help him give up smoking is information about the harm it can do him and his family (see [page 149](#page-149)). Another is the support and encouragement of his family, his friends, and you.
 
 
-# [w9](#w9page-w9)
+# [w9](#page-w9)
 {:.no_toc}
 
 # Finding Out the Needs
@@ -273,7 +273,7 @@ Do not make your list of questions too long or complicated, especially a list yo
 
 
 
-# [w10](#w10page-w10)
+# [w10](#page-w10)
 {:.no_toc}
 
 
@@ -319,7 +319,8 @@ How many children do most parents have? How many children died? Of what? At what
 
 How many parents are interested in not having any more children or in not having them so often? For what reasons? (See Family Planning, [page 283](#page-283).)
 
-# [w11](#w11page-w11)
+
+# [w11](#page-w11)
 {:.no_toc}
 
 
@@ -366,7 +367,7 @@ What can be done to make your village a better, healthier place to live? Where m
 
 
 
-# [w12](#w12page-w12)
+# [w12](#page-w12)
 {:.no_toc}
 
 
@@ -398,7 +399,7 @@ Use local resources whenever possible.
 The most valuable resource for the health of the people is the people themselves.
 BREAST MILK—A TOP QUALITY LOCAL RESOURCE—BETTER THAN ANYTHING MONEY CAN BUY!
 
-# [w13](#w13page-w13)
+# [w13](#page-w13)
 {:.no_toc}
 
 
@@ -418,7 +419,7 @@ Every other planting season plant a crop that returns strength to the soil—lik
 This year maize Next year beans
 
 
-# [w13](#w13page-w13)
+# [w14](#page-w14)
 {:.no_toc}
 
 
@@ -441,7 +442,7 @@ This year maize Next year beans
 - Metal sleeves to keep out rats
 
 
-# [w15](#w15page-w15)
+# [w15](#page-w15)
 {:.no_toc}
 
 
@@ -474,7 +475,7 @@ For example, to find out if animal fertilizer (manure) helps the beans grow, and
 
 
 
-# [w16](#w16page-w16)
+# [w16](#page-w16)
 {:.no_toc}
 
 
@@ -505,7 +506,7 @@ A balance between people and land can more likely be gained through helping peop
 It has been said that the social meaning of love is justice. The health worker who loves her people should help them work toward a balance based on a more just distribution of land and wealth.
 
 
-# [w16](#w16page-w16)
+# [w17](#page-w17)
 {:.no_toc}
 
 
@@ -543,7 +544,7 @@ You cannot tell the mother whose child is ill that prevention is more important 
 >Use treatment as a chance to teach prevention.
 
 
-# [w18](#w18page-w18)
+# [w18](#page-w18)
 {:.no_toc}
 
 
@@ -574,7 +575,7 @@ What is most important is that the child get lots of liquids and enough food (se
 
 
 
-# [w19](#w19page-w19)
+# [w19](#page-w19)
 {:.no_toc}
 
 Medicines are often used too much, both by doctors and by ordinary people. This is unfortunate for many reasons:
@@ -603,7 +604,7 @@ TIME TO EXPLAIN WHY.
 For more information about the use and misuse of medicines, see Chapter 6, page 49. For the use and misuse of injections, see Chapter 9, page 65. For sensible use of home remedies, see Chapter 1.
 
 
-# [w20](#w20page-w20)
+# [w20](#page-w20)
 {:.no_toc}
 
 
@@ -625,12 +626,13 @@ This kind of question will help you measure action taken. But to find out the re
 • How much was harvested this season (corn, beans, or other crops)—as compared to before improved methods were used?
 
 • How many children show normal
-weight and weight-gain on their Child Health Charts (see [page 297](#page-297))—as compared to when the Under-Fives Program was started?
+weight and weight-gain on their Child Health Charts (see [page 297](#page-297)), as compared to when the Under-Fives Program was started?
 
 • Do fewer children die now than before?
 To be able to judge the success of any activity you need to collect certain information both before and after. For example, if you want to teach mothers how important it is to breastfeed their babies, first take a count of how many mothers are doing so. Then begin the teaching program and each year take another count. This way you can get a good idea as to how much effect your teaching has had.
 
 You may want to set goals. For example, you and the health committee may hope that 80% of the families have latrines by the end of one year.
+
 Every month you take a count. If, by the end of six months, only one-third of the families have latrines, you know you will have to work harder to meet the goal you set for yourselves.
 
 To evaluate the results of your health activities it helps to count and measure certain things before, during, and after.
@@ -644,7 +646,7 @@ But weigh them well when you consider what changes have been made.
 Setting goals often helps people work harder and get more done.
 
 
-# [w21](#w21page-w21)
+# [w21](#page-w21)
 {:.no_toc}
 
 
@@ -671,7 +673,7 @@ TWO APPROACHES TO HEALTH CARE
 >Only when the people themselves become actively responsible for their own and their community’s health, can important changes take place.
 
 
-# [w22](#w22page-w22)
+# [w22](#page-w22)
 {:.no_toc}
 
 ## Tools for Teaching
@@ -688,15 +690,16 @@ Now draw the same number of squares lightly, but larger, on the poster paper or 
 
 If possible, ask village artists to draw or paint posters. Or have children make posters on different subjects.
 
-Models and demonstrations help get ideas across. For example, if you want to talk with mothers and midwives about care in cutting the cord of a newborn child, you
-can make a doll for the baby. Pin a cloth cord to its belly. Experienced midwives can demonstrate to others.
+Models and demonstrations help get ideas across. For example, if you want to talk with mothers and midwives about care in cutting the cord of a newborn child, you can make a doll for the baby. Pin a cloth cord to its belly. Experienced midwives can demonstrate to others.
 
-Videos on tapes, DVDs, and on the internet are available on different health subjects for many parts of the world. Battery-operated projectors are also available. But technology can never take the place of a good educator.
+Videos on tapes, DVDs, and on the internet are available on different health subjects for many parts of the world.
+
+Battery-operated projectors are also available. But technology can never take the place of a good educator.
 
 A list of addresses where you can send for teaching materials to use for health education in your village can be found [here](#teaching-material).
 
 
-# [w23](#w23page-w23)
+# [w23](#page-w23)
 {:.no_toc}
 
 
@@ -725,7 +728,7 @@ The flies dirty the food that has not been covered. Then children eat this food 
 >The more ways you can find to share ideas, the more people will understand and remember.
 
 
-# [w24](#w24page-w24)
+# [w24](#page-w24)
 {:.no_toc}
 
 ## Working and Learning Together for the Common Good
@@ -748,7 +751,7 @@ There are many ways to interest and involve people in working together to meet t
 not take part in group activities. But respect people’s privacy. If your visit cannot be friendly, do not make it—unless children or defenseless persons are in danger.
 
 
-# [w25](#w25page-w25)
+# [w25](#page-w25)
 {:.no_toc}
 
 
@@ -781,7 +784,7 @@ Say little yourself, but start the discussion by asking certain questions. Simpl
 
 
 
-# [w26](#w26page-w26)
+# [w26](#page-w26)
 {:.no_toc}
 
 
@@ -807,7 +810,7 @@ Show a group of people a picture similar to this and ask them to discuss it. Ask
   • In what ways are these people like ourselves?
 
 
-# [w27](#w27page-w27)
+# [w27](#page-w27)
 {:.no_toc}
 
 
@@ -825,7 +828,7 @@ Try to think of questions that lead to others and get people asking for themselv
 
 
 
-# [w28](#w28page-w28)
+# [w28](#page-w28)
 {:.no_toc}
 
 
@@ -863,7 +866,7 @@ This takes more time, but helps much more than doing it for them. Only when some
 In this way, even sickness gives a chance to help people learn.
 
 
-# [w29](#w29page-w29)
+# [w29](#page-w29)
 {:.no_toc}
 
 
@@ -873,8 +876,10 @@ But remember, the most important part of health care you will not find in this b
 
 If you want to see your community be healthy, build on these.
 
-# [w30](#w30page-w30)
-{:.no_toc}
+<br>
+<br>
+<br>
+
 
 **NOTICE**
 
