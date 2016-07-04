@@ -7,7 +7,7 @@
     color: $background-color;
   }
   a:hover {
-    color: lighten($brand_color, 20);
+    color: lighten($brand_color, 20%);
     font-weight: 300;
   }
   a:visited {
@@ -20,7 +20,7 @@
   strong {
     font-weight: normal;
     display: block;
-    color: lighten($brand_color, 20);
+    color: lighten($brand_color, 20%);
   }
   small {
     display: block;

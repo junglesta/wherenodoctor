@@ -21,23 +21,25 @@ nav {
     margin-right: .5rem;
     padding: .5rem 0 .5rem 2rem;
     border:0 none;
-
-    &:visited {
-      color: lighten($brand_color, 40);
-    }
-
-    &:hover {
-      border:0 none;
-      color: white;
-      opacity: .75;
-    }
-    &:active,
-    &.active {
-      color: invert($brand_color);
-      border: 0 none;
-    }
-
   }
+
+  a:visited {
+    color: lighten($brand_color, 40%);
+  }
+
+  a:hover {
+    border:0 none;
+    color: white;
+    opacity: .75;
+  }
+
+  a:active,
+  a.active {
+    color: invert($brand_color);
+    border: 0 none;
+  }
+
+
   a:first-child {margin-top: $spacing_unit*4;}
   a:last-child {margin-bottom: $spacing_unit*4;}
 
