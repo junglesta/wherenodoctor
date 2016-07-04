@@ -1,0 +1,15 @@
+<script type="text/javascript">
+  /** code that SPEAKs: not wortking with #hash uri, need fix!*/
+
+  window.onload = function() {
+    var all_links = document.getElementById("navigation_menu").getElementsByTagName("a"),
+      i=0, len=all_links.length,
+      full_path = location.href.split('#')[0];
+
+    for(; i<len; i++) {
+      if(all_links[i].href.split("#")[0] == full_path) {
+        all_links[i].className += " active";
+      }
+    }
+  }
+</script>

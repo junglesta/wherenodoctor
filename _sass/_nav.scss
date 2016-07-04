@@ -19,7 +19,13 @@ nav {
     position: relative;
     margin-left: .5rem;
     margin-right: .5rem;
-    padding: .5rem 0 .5rem 2rem;
+    padding: .5rem 4rem .5rem 2rem;
+    @include media( "screen", ">bp1Width") {
+      padding: .5rem 3rem .5rem 3rem;
+    }
+    @include media( "screen", ">maxWidth") {
+      padding: .5rem 20vw .5rem 20vw;
+    }
     border:0 none;
   }
 
