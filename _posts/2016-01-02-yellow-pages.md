@@ -64,7 +64,7 @@ Alcoholic drinks
 
  - problems caused by - [119](#page-119) - [148](#page-148) - [149](#page-149) - [325](#page-325) - [326](#page-326) - [400](#page-400) - [416](#page-416)
 
-Alcoholics Anonymous - [149](#page-149) - [417](#page-417) - [429](#page-429)
+Alcoholics Anonymous - [149](#page-149) - [417](#page-417) - [429](#addresses-for-teaching-materials)
 
 Alcoholism - [148](#page-148) - [149](#page-149) - [416](#page-416) – [417](#page-417) - [419](#page-419)
 
@@ -2826,7 +2826,7 @@ TB (See Tuberculosis)
 
 Teaching - [w2](#w2page-w2) - [w4](#w4page-w4)–[w5](#w5page-w5) - [w21](#w21page-w21)–[w28](#w28page-w28)[321](#page-321)
 
-- materials - addresses for - [429](#page-429) – [432](#page-432)
+- materials - addresses for - [429](#addresses-for-teaching-materials) – [432](#page-432)
 
 Tear sac - infection of - [217](#page-217) - [223](#page-223)
 

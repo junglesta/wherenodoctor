@@ -740,7 +740,7 @@ Here are a few suggestions to help solve the problem of drug use and addiction:
 
 ♦ Be as helpful and supportive as possible to someone trying to overcome drug use. Remember that their difficult moods are because of their addiction, not because of you.
 
-♦ Members of the community who have been addicted to drugs but have overcome the habit can form a ‘support group’ to help others trying to give up alcohol or drugs. Alcoholics Anonymous is one such organization (see [page 429](#page-429)). This group of recovering alcoholics has successfully helped people all over the world to deal with problems of addiction.
+♦ Members of the community who have been addicted to drugs but have overcome the habit can form a ‘support group’ to help others trying to give up alcohol or drugs. Alcoholics Anonymous is one such organization (see [page 429](#addresses-for-teaching-materials)). This group of recovering alcoholics has successfully helped people all over the world to deal with problems of addiction.
 
 ♦ Families, schools, and health workers can tell children about the dangers of cigarettes, alcohol, and drugs. Help children learn that there are other, healthier ways to ‘feel good’, to act ‘grown up’, or to rebel.
 

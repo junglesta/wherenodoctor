@@ -625,7 +625,7 @@ How many fathers have spent their last money on drink when their children were h
 
 Once a person realizes that alcohol is harming the health and happiness of those around him, what can he do? First, he must admit that his drinking is a problem. He must be honest with himself and with others. Some individuals are able to simply decide to stop drinking. More often people need help and supportfrom family, friends, and others who understand how hard it may be to give up this habit.
 
-People who have been heavy drinkers and have stopped are often the best persons to help others do the same. In many areas Alcoholics Anonymous (AA) groups exist where recovering alcoholics help one another to stop drinking (see [page 429](#page-429)).
+People who have been heavy drinkers and have stopped are often the best persons to help others do the same. In many areas Alcoholics Anonymous (AA) groups exist where recovering alcoholics help one another to stop drinking (see [page 429](#addresses-for-teaching-materials)).
 
 Drinking is not so much a problem of individuals as of a whole community. A community that recognizes this can do much to encourage those who are willing to make changes. If you are concerned about the misuse of alcohol in your community, help organize a meeting to discuss these problems and decide what actions to take.
 
