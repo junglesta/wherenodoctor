@@ -1,6 +1,6 @@
 WHERE THERE IS NO DOCTOR
 ---
-A Village Health Care Book turned off-line ready web-app
+A Village Health Care Book **turned Offline Ready Web App**.
 
 _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman, Jane Maxwell
 (orignal title: Donde No Hay Doctor ISBN	978, 0, 942364, 15, 6)_
