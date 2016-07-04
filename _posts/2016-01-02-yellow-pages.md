@@ -513,7 +513,7 @@ Cataract - [33](#page-33) - [217](#page-217) - [225](#page-225) - [323](#22-heal
 
 Catheter - [239](#page-239) – [240](#page-240) - [336](#page-336) - [420](#page-420)
 
-Causes of illness - [w6](#page-w6)–[w7](#page-w7) - [w10](#page-w10) - [w27](#page-w27) - [17](#page-17) - [19](#page-19)
+Causes of illness - [w6](#w6page-w6)–[w7](#w7page-w7) - [w10](#w10page-w10) - [w27](#w27page-w27) - [17](#page-17) - [19](#page-19)
 
 Cavities in teeth - [229](#page-229) – [230](#page-230) - [420](#page-420)
 
@@ -543,7 +543,7 @@ Chiggers - [201](#page-201) - [420](#page-420)
 
 CHILD-to-child program [322](#page-322)
 
-Child Health Chart - [w20](#page-w20) - [w24](#page-w24) - [297](#page-297) –[304](#page-304) - [420](#page-420)
+Child Health Chart - [w20](#w20page-w20) - [w24](#w24page-w24) - [297](#page-297) –[304](#page-304) - [420](#page-420)
 
 Childbirth
 
@@ -736,7 +736,7 @@ Cramps - [421](#page-421)
 
 Cretinism (See Hypothyroidism)
 
-Crop rotation - [w13](#page-w13) - [115](#page-115) - [117](#page-117) - [427](#page-427)
+Crop rotation - [w13](#w13page-w13) - [115](#page-115) - [117](#page-117) - [427](#page-427)
 
 Cross eyes - [223](#page-223) - [318](#page-318)
 
@@ -759,7 +759,7 @@ Dandruff - [215](#page-215) - [421](#page-421)
 
 Dandy fever (See Dengue)
 
-Dangerous illnesses - [w28](#page-w28) - [42](#page-42) - [179](#page-179) – [192](#page-192)
+Dangerous illnesses - [w28](#w28page-w28) - [42](#page-42) - [179](#page-179) – [192](#page-192)
 
 Dangerous use of medicine [50](#page-50)
 
@@ -821,13 +821,13 @@ Diarrhea - [151](#page-151) – [160](#page-160)
 
 - babies with - [159](#page-159) - [271](#page-271)
 
-- causes of - [w7](#page-w7) - [17](#page-17) - [107](#page-107) - [132](#page-132) - [33](#page-33) - [135](#page-135) - [153](#page-153) - [399](#page-399) - [400](#page-400)
+- causes of - [w7](#w7page-w7) - [17](#page-17) - [107](#page-107) - [132](#page-132) - [33](#page-33) - [135](#page-135) - [153](#page-153) - [399](#page-399) - [400](#page-400)
 
 - causing sunken fontanel [9](#page-9)
 
 - home cures for [11](#page-11)
 
-- prevention of - [w7](#page-w7) - [46](#page-46) - [47](#page-47) - [154](#page-154)
+- prevention of - [w7](#w7page-w7) - [46](#page-46) - [47](#page-47) - [154](#page-154)
 
 - severe - [151](#page-151) - [160](#page-160)
 
@@ -989,7 +989,7 @@ Epsom salts [16](#page-16)
 
 Erysipelas [212](#page-212)
 
-Evaluation - [w20](#page-w20) - [422](#page-422)
+Evaluation - [w20](#w20page-w20) - [422](#page-422)
 
 Evil eye - [5](#page-5) - [422](#page-422)
 
@@ -1061,11 +1061,11 @@ Falciparum malaria - [158](#page-158) - [186](#page-186) - [363](#page-363)
 
 False labor - [258](#page-258)
 
-Family planning - [w16](#page-w16) - [246](#page-246) - [283](#page-283) – [294](#page-294) - [393](#page-393) – [396](#page-396)
+Family planning - [w16](#w16page-w16) - [246](#page-246) - [283](#page-283) – [294](#page-294) - [393](#page-393) – [396](#page-396)
 
 - and infertility - [244](#page-244)
 
-Farming - [w13](#page-w13) - [412](#page-412) – [413](#page-413)
+Farming - [w13](#w13page-w13) - [412](#page-412) – [413](#page-413)
 
 Farsightedness - [323](#22-health-and-sicknesses-of-older-people) - [422](#page-422)
 
@@ -1126,7 +1126,7 @@ Flannel-graphs - w22
 
 Fleas - [190](#page-190)
 
-Flies and disease - [w23](#page-w23) - [135](#page-135) - [227](#page-227) – [228](#page-228) - [406](#page-406)
+Flies and disease - [w23](#w23page-w23) - [135](#page-135) - [227](#page-227) – [228](#page-228) - [406](#page-406)
 
 Flu - [45](#page-45) - [57](#page-57) - [163](#page-163) - [308](#page-308) - [422](#page-422)
 
@@ -1252,7 +1252,7 @@ Grams - measuring in - [59](#page-59) - [60](#page-60) - [423](#page-423)
 Groin - lymph nodes in - [88](#page-88) - [238](#page-238) - [423](#page-423)
 (Also see Hernia)
 
-Group discussions - [w24](#page-w24)w27
+Group discussions - [w24](#w24page-w24)w27
 
 Growth - children’s - [107](#page-107) - [297](#page-297) – [304](#page-304)
 
@@ -1312,9 +1312,9 @@ Head
 
 Headaches - [162](#page-162) - [249](#page-249) - [410](#page-410)
 
-Health - [w7](#page-w7)- w11
+Health - [w7](#w7page-w7)- w11
 
-Health worker - [w1](#page-w1)w7 - [w29](#page-w29) - [43](#page-43) - [246](#page-246) - [340](#page-340)
+Health worker - [w1](#w1page-w1)w7 - [w29](#w29page-w29) - [43](#page-43) - [246](#page-246) - [340](#page-340)
 
 Heart attacks - [23](#page-23) - [325](#page-325)
 
@@ -1414,7 +1414,7 @@ Home remedies - [1](#page-1) - [3](#page-3)
 
 - questions and answers about - [6](#page-6) - [8](#page-8)
 
-- sensible use of - [w2](#page-w2)[24](#page-24)
+- sensible use of - [w2](#w2page-w2)[24](#page-24)
 
 Home visits - w24
 
@@ -1519,7 +1519,7 @@ Injections - [65](#page-65) - [73](#page-73)
 
 - emergencies needing [66](#page-66)
 
-- faith in - [w19](#page-w19) - [4](#page-4) - [50](#page-50)
+- faith in - [w19](#w19page-w19) - [4](#page-4) - [50](#page-50)
 
 - family planning - [289](#page-289) – [290](#page-290)
 
@@ -1642,9 +1642,9 @@ Labor - [258](#page-258) – [262](#page-262) - [264](#page-264) - [424](#page-4
 
 Land
 
-- distribution of - [w7](#page-w7) - [w11](#page-w11) - [413](#page-413)
+- distribution of - [w7](#w7page-w7) - [w11](#w11page-w11) - [413](#page-413)
 
-- use of - [w11](#page-w11) - [w13](#page-w13)–[w16](#page-w16)[115](#page-115)
+- use of - [w11](#w11page-w11) - [w13](#w13page-w13)–[w16](#w16page-w16)[115](#page-115)
 
 Latido [23](#page-23)
 
@@ -1658,7 +1658,7 @@ Lazy eye - [223](#page-223)
 
 Leadership - w5
 
-Learning - [w4](#page-w4) - [w21](#page-w21)–[w28](#page-w28)[322](#page-322)
+Learning - [w4](#w4page-w4) - [w21](#w21page-w21)–[w28](#w28page-w28)[322](#page-322)
 
 Legs
 
@@ -1852,7 +1852,7 @@ Medicines
 
 - generic - [333](#page-333) - [339](#page-339)
 
-- guidelines for use - [w18](#page-w18)–[w19](#page-w19) - [49](#page-49) - [73](#page-73) - [339](#page-339) - [396](#page-396)
+- guidelines for use - [w18](#w18page-w18)–[w19](#w19page-w19) - [49](#page-49) - [73](#page-73) - [339](#page-339) - [396](#page-396)
 
 - healing without medicines - [45](#page-45) - [48](#page-48)
 
@@ -1860,7 +1860,7 @@ Medicines
 
 - how to write instructions for - [63](#page-63) - [64](#page-64)
 
-- limited use of medicines - [w18](#page-w18)–[w19](#page-w19)[49](#page-49)
+- limited use of medicines - [w18](#w18page-w18)–[w19](#w19page-w19)[49](#page-49)
 
 - medicines not to inject [56](#page-56)
 
@@ -1986,7 +1986,7 @@ Neck broken [99](#page-99)
 
 - stiff - [38](#page-38) - [182](#page-182) – [185](#page-185) - [274](#page-274)
 
-Needs - felt and long-term - [w8](#page-w8)– w12
+Needs - felt and long-term - [w8](#w8page-w8)– w12
 
 Needles - [74](#page-74) - [399](#page-399) - [401](#page-401)
 
@@ -2039,7 +2039,7 @@ Nosebleed - [11](#page-11) - [83](#page-83)
 
 Numbness (See Loss of feeling)
 
-Nutrition - [w11](#page-w11) - [w13](#page-w13)–[w16](#page-w16) - [107](#page-107) - [130](#page-130) - [295](#page-295)
+Nutrition - [w11](#w11page-w11) - [w13](#w13page-w13)–[w16](#w16page-w16) - [107](#page-107) - [130](#page-130) - [295](#page-295)
 (Also see Malnutrition)
 
 # O subjects
@@ -2207,7 +2207,7 @@ Poliomyelitis (infantile paralysis) - [314](#page-314)
 
 - vaccination - [147](#page-147) - [296](#page-296) - [314](#page-314)
 
-Population - [w10](#page-w10)[115](#page-115)
+Population - [w10](#w10page-w10)[115](#page-115)
 
 Posters - w22
 
@@ -2229,7 +2229,7 @@ Pregnancy - [247](#page-247) – [255](#page-255) - [286](#page-286)
 
 - bleeding during - [249](#page-249) - [264](#page-264) - [281](#page-281)
 
-- check ups during - [w24](#page-w24) - [250](#page-250) – [253](#page-253) - [410](#page-410)
+- check ups during - [w24](#w24page-w24) - [250](#page-250) – [253](#page-253) - [410](#page-410)
 
 - danger signs in - [249](#page-249) – [251](#page-251)
 
@@ -2270,7 +2270,7 @@ Pressure points [82](#page-82)
 
 Pressure sores (See Bed sores)
 
-Preventive medicine - [w17](#page-w17) - [17](#page-17) - [131](#page-131) - [150](#page-150)
+Preventive medicine - [w17](#w17page-w17) - [17](#page-17) - [131](#page-131) - [150](#page-150)
 
 - cleanliness - [131](#page-131) - [136](#page-136)
 
@@ -2372,11 +2372,11 @@ Remedies (See Home remedies)
 
 Resistance - [426](#page-426)
 
-- to antibiotics - [w19](#page-w19) - [57](#page-57) - [58](#page-58) - [237](#page-237) - [350](#page-350)
+- to antibiotics - [w19](#w19page-w19) - [57](#page-57) - [58](#page-58) - [237](#page-237) - [350](#page-350)
 
 - to infection - [108](#page-108) - [120](#page-120) - [271](#page-271)
 
-Resources - [w8](#page-w8) - [w12](#page-w12) - [115](#page-115) - [283](#page-283) - [426](#page-426)
+Resources - [w8](#w8page-w8) - [w12](#w12page-w12) - [115](#page-115) - [283](#page-283) - [426](#page-426)
 
 Respiration (See Breathing)
 
@@ -2402,7 +2402,7 @@ River blindness - [227](#page-227) – [228](#page-228) - [378](#page-378)
 
 Road to health chart (See Child Health Chart)
 
-Rotating crops - [w13](#page-w13) - [115](#page-115) - [117](#page-117) - [427](#page-427)
+Rotating crops - [w13](#w13page-w13) - [115](#page-115) - [117](#page-117) - [427](#page-427)
 
 Roundworm (ascaris) - [140](#page-140) - [141](#page-141)
 
@@ -2424,7 +2424,7 @@ Salt
 
 - using little - [120](#page-120) - [125](#page-125) - [176](#page-176) - [249](#page-249) - [325](#page-325) - [326](#page-326)
 
-Sanitation - [w10](#page-w10) - [137](#page-137) - [139](#page-139) - [153](#page-153) - [427](#page-427)
+Sanitation - [w10](#w10page-w10) - [137](#page-137) - [139](#page-139) - [153](#page-153) - [427](#page-427)
 
 Scabies - [34](#page-34) - [199](#page-199) – [200](#page-200) - [335](#page-335) - [372](#page-372)
 
@@ -2474,7 +2474,7 @@ Senna leaf [16](#page-16)
 
 Septicemia - [275](#page-275) - [427](#page-427)
 
-Serious illnesses - [w28](#page-w28) - [42](#page-42) - [179](#page-179) – [192](#page-192)
+Serious illnesses - [w28](#w28page-w28) - [42](#page-42) - [179](#page-179) – [192](#page-192)
 
 Seven year itch - [199](#page-199) – [200](#page-200) - [335](#page-335) - [372](#page-372)
 
@@ -2506,7 +2506,7 @@ Sicknesses
 
 - common - [151](#page-151) – [178](#page-178)
 
-- dangerous - [w28](#page-w28) - [42](#page-42) - [179](#page-179) – [192](#page-192)
+- dangerous - [w28](#w28page-w28) - [42](#page-42) - [179](#page-179) – [192](#page-192)
 
 - “home,” [21](#page-21)
 
@@ -2824,7 +2824,7 @@ Tapeworm - [143](#page-143) - [375](#page-375)
 
 TB (See Tuberculosis)
 
-Teaching - [w2](#page-w2) - [w4](#page-w4)–[w5](#page-w5) - [w21](#page-w21)–[w28](#page-w28)[321](#page-321)
+Teaching - [w2](#w2page-w2) - [w4](#w4page-w4)–[w5](#w5page-w5) - [w21](#w21page-w21)–[w28](#w28page-w28)[321](#page-321)
 
 - materials - addresses for - [429](#page-429) – [432](#page-432)
 
@@ -2892,7 +2892,7 @@ Toxemia of pregnancy (See Pre-eclampsia)
 
 Trachoma [220](#page-220)
 
-Traditions - [w3](#page-w3) - [w11](#page-w11) - [1](#page-1) - [2](#page-2) - [21](#page-21)
+Traditions - [w3](#w3page-w3) - [w11](#w11page-w11) - [1](#page-1) - [2](#page-2) - [21](#page-21)
 
 Trichinosis - [144](#page-144)
 
@@ -2978,7 +2978,7 @@ Unconscious person - [78](#page-78) - [424](#page-424)
 
 - in shock [77](#page-77)
 
-Under-Fives Program - [w20](#page-w20) - [w24](#page-w24) - [297](#page-297) - [428](#page-428)
+Under-Fives Program - [w20](#w20page-w20) - [w24](#w24page-w24) - [297](#page-297) - [428](#page-428)
 
 Undulant fever (brucellosis) - [27](#page-27) - [188](#page-188)
 
@@ -3049,7 +3049,7 @@ Verrucase (warts) - [210](#page-210)
 
 Village health committee - w24
 
-Village health worker - [w1](#page-w1)–[w7](#page-w7) - [w29](#page-w29) - [43](#page-43) - [340](#page-340)
+Village health worker - [w1](#w1page-w1)–[w7](#w7page-w7) - [w29](#w29page-w29) - [43](#page-43) - [340](#page-340)
 
 Village medicine kit - [336](#page-336) - [337](#page-337)
 
@@ -3193,7 +3193,7 @@ Womb - [286](#page-286) - [428](#page-428)
 
 Women’s health care - [241](#page-241)
 
-Working together - [w5](#page-w5)- w24
+Working together - [w5](#w5page-w5)- w24
 
 Worms - [140](#page-140) - [146](#page-146) - [227](#page-227) – [228](#page-228) - [406](#page-406) – [407](#page-407)
 
