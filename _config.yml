@@ -15,3 +15,13 @@ markdown: kramdown
 release: 0.3.0
 permalink: nil ## should disable post output, but...
 exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, LICENSE]
+
+
+#turn off if something is not working:
+compress_html:
+  clippings: [div, p, ul, td, h1, h2, h3, h4, h5, h6, ]
+  comments: []
+  endings: []
+  profile: false
+  ignore:
+    envs: []
