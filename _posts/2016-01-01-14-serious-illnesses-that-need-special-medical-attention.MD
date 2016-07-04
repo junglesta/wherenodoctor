@@ -148,7 +148,7 @@ If you have any reason to believe an animal that has bitten someone has rabies:
 
 The first symptoms of rabies appear from 10 days up to 2 years after the bite (usually within 3 to 7 weeks). Treatment must begin before the first signs of the sickness appear. Once the sickness begins, no treatment known to medical science can save the person’s life.
 
-### Prevention:
+### **Prevention:**
 
   - Kill and bury (or cage for one week) any animal suspected of having rabies.
 
@@ -520,7 +520,7 @@ Third week:
 
 Typhus is an illness similar to but different from typhoid. The infection is transmitted by bites of lice ticks rat fleas
 
-_Signs:_
+**Signs:**
 
   • Typhus begins like a bad cold. After a week or more fever begins, with chills, headache, and pain in the muscles and chest.
 
@@ -560,7 +560,7 @@ This mildly infectious disease develops slowly, often over many years. It can on
 
 In areas where leprosy is common, children should be checked every 6 to 12 months especially children living with persons who have leprosy.
 
-_Signs:_
+**Signs:**
 
 Leprosy can cause a variety of skin problems, loss of feeling, and paralysis of the hands and feet.
 

@@ -720,7 +720,7 @@ _Treatment:_
 
 ♦ **If the person does not get better, seek medical help.**
 
-_Prevention:_
+**Prevention:**
 
 A person with asthma should avoid eating or breathing things that bring on attacks. The house or work place should be kept clean. Keep chickens and other animals outside. Air bedding in the sunshine.
 

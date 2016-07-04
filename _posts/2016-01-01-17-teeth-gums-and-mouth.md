@@ -64,7 +64,7 @@ If possible, see a dental worker right away, if you go soon enough, he can often
 
 # TOOTHACHES AND ABSCESSES
 
-To calm the pain:
+_To calm the pain:_
 
   - Clean the hole in the tooth wall, removing all food particles. Then rinse the mouth with warm salt water.
 
@@ -79,7 +79,7 @@ Treat abscesses right away, before the infection spreads to other parts of the b
 _A toothache results when a cavity becomes infected.
 An abscess results when the infection reaches the tip of a root and forms a pocket of pus._
 
-#AN INFECTION OF THE GUMS (PYORRHEA)
+# INFECTION OF THE GUMS (PYORRHEA)
 
 Inflamed (red and swollen), painful gums that bleed easily are caused by:
 
@@ -87,7 +87,7 @@ Inflamed (red and swollen), painful gums that bleed easily are caused by:
 
   2. Not eating enough nutritious foods (malnutrition).
 
-### Prevention and treatment:
+**Prevention and treatment:**
 
   - Brush teeth well after each meal, removing food that sticks between the teeth. Also, if possible, scrape off the dark yellow crust (tartar) that forms where the teeth meet the gums. It helps to clean under the gums regularly by passing a strong thin thread (or dental floss) between the teeth. At first this will cause a lot of bleeding, but soon the gums will be healthier and bleed less.
 
@@ -105,20 +105,22 @@ Inflamed (red and swollen), painful gums that bleed easily are caused by:
 
 You can use the twig of a tree, like this:
 
-Sharpen this end to clean Chew on this end and use between the teeth. the fibers as a brush.
+  - Sharpen this end to clean Chew on this end and use between the teeth. the fibers as a brush.
 
-Or tie a piece of rough towel around the end of a stick or wrap it around your finger, and use it as a toothbrush.
+  - Or tie a piece of rough towel around the end of a stick or wrap it around your finger, and use it as a toothbrush.
 
 
 # TOOTHPASTE IS NOT NECESSARY
 
-Just water is enough, if you rub well. Rubbing the teeth and gums with something soft but a little rough is what cleans them. Some people rub their teeth with powdered charcoal or with salt. Or you can make a tooth powder by mixing salt and bicarbonate of soda (baking soda) in equal amounts. To make it stick, wet the brush before putting it in the powder.
+Just water is enough, if you rub well. Rubbing the teeth and gums with something soft but a little rough is what cleans them. Some people rub their teeth with powdered charcoal or with salt.
 
-piece of rough towel
+Or you can make a tooth powder by mixing salt and bicarbonate of soda (baking soda) in equal amounts. To make it stick, wet the brush before putting it in the powder.
 
-salt
+- piece of rough towel
 
-bicarbonate of soda
+- salt
+
+- bicarbonate of soda
 
 # IF A TOOTH ALREADY HAS A CAVITY (a hole caused by rot)
 
@@ -183,17 +185,25 @@ Children with these sores should eat foods rich in vitamins and proteins: like m
 
 # WHITE PATCHES OR SPOTS IN THE MOUTH
 
-**The tongue is coated with white ‘fur’.** Many illnesses cause a white or yellowish coating on the tongue and roof of the mouth. This is common when there is a fever. Although this coating is not serious, it helps to rinse the mouth with a solution of warm water with salt and bicarbonate of soda several times a day.
+**The tongue is coated with white ‘fur’.**
+
+Many illnesses cause a white or yellowish coating on the tongue and roof of the mouth. This is common when there is a fever. Although this coating is not serious, it helps to rinse the mouth with a solution of warm water with salt and bicarbonate of soda several times a day.
 
 Tiny white spots, like salt grains, in the mouth of a child with fever may be an early sign of measles ([page 311](#page-311)).
 
-**Thrush:** small white patches on the inside of the mouth and tongue that look like milk curds stuck to raw meat. They are caused by a yeast infection (Candida) (see [page 242](#page-242)). Thrush is common in newborn babies, in persons with HIV, and in persons using certain antibiotics, especially tetracycline or ampicillin.
+**Thrush:**
 
-Unless it is very important to keep taking the antibiotic, stop taking it. Use nystatin ([page 372](#page-372)) or paint the inside of the mouth with gentian violet. Eating yogurt may also help. In very severe cases, or if thrush moves into the throat and makes it hard to swallow, consult a health worker.
+Small white patches on the inside of the mouth and tongue that look like milk curds stuck to raw meat. They are caused by a yeast infection (Candida) (see [page 242](#page-242)).
 
-A stronger medicine may be needed.
+Thrush is common in newborn babies, in persons with HIV, and in persons using certain antibiotics, especially tetracycline or ampicillin.
 
-**Canker sores:** small, white, painful spots inside the lip or mouth. May appear after fever or stress (worry). In 1 to 3 weeks they go away. Rinse mouth with salt water. Antibiotics do not help.
+Unless it is very important to keep taking the antibiotic, stop taking it. Use nystatin ([page 372](#page-372)) or paint the inside of the mouth with gentian violet. Eating yogurt may also help.
+
+In very severe cases, or if thrush moves into the throat and makes it hard to swallow, consult a health worker. A stronger medicine may be needed.
+
+**Canker sores:**
+
+Small, white, painful spots inside the lip or mouth. May appear after fever or stress (worry). In 1 to 3 weeks they go away. Rinse mouth with salt water. Antibiotics do not help.
 
 # COLD SORES AND FEVER BLISTERS
 
