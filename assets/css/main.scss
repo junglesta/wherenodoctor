@@ -31,10 +31,16 @@ $color_grey: #333333;
 $color_green_links: hsla(115, 100%, 12%, 1);
 
 
+
 // derivs
  $color_grey--light: lighten($color_grey, 40%);
  $color_grey--dark:  darken($color_grey, 25%);
  $background_color_tone: lighten($brand_color, 35%);
+
+//
+$menu_bg_color: $brand_color;
+$nav_height: 100vh;
+
 
 // target needs CRAPPY PHONES Break-points here:
 $mediaMinWidth: 320px;

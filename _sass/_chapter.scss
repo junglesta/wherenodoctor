@@ -1,3 +1,13 @@
+main {
+  box-sizing: border-box;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  min-height: 100%;
+  z-index:1;
+}
+
 .chapter {
   padding-bottom: $spacing_unit*2;
   margin-bottom: $spacing_unit*4;

@@ -1,5 +1,3 @@
-$menu_bg_color: $brand_color;
-$nav_height: 100vh;
 
 .menu_toggle {//buttons container
   position: fixed;
@@ -22,67 +20,4 @@ $nav_height: 100vh;
     width: 44px;
     height: 44px;
   }
-}
-
-nav,
-main {
-    box-sizing: border-box;
-    display: block;
-    overflow: hidden;
-    position: relative;
-    //-webkit-transition: all .2s ease-in;
-}
-
-nav {
-    padding-left: .5rem;
-    padding-right: .5rem;
-    padding-top: 5.5rem;
-    padding-bottom: 5rem;
-    height: $nav_height;
-    width: 100%;
-    overflow-y: scroll;
-    z-index: 11;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background-color: $menu_bg_color;
-
-    .menu_logo {//svg
-      margin-top: .5rem;
-      margin-bottom: 1rem;
-      width: 150px;
-      height: 150px;
-    }
-
-    a {
-      color: white;
-      display: block;
-      position: relative;
-      margin-left: .5rem;
-      margin-right: .5rem;
-      padding: .5rem 0 .5rem 2rem;
-      border:0 none;
-      small {
-        margin-left: -30px;
-        display: block;
-        float: left;
-        height: 100%;
-        position: absolute;
-        font-size: 20px;
-        line-height: 25.2px;
-        opacity: .3;
-      }
-      &:hover {
-        border:0 none;
-        color: white;
-        opacity: .5;
-      }
-    }
-}
-
-main {
-    width: 100%;
-    min-height: 100%;
-    z-index:1;
 }
