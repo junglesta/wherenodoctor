@@ -11,7 +11,7 @@ bookpage: 59
 
 **'='** means "is equal to" or "is the same as"
 
-**'+'** means "and" or "plus2"
+**'+'** means "and" or "plus"
 
 
 # FRACTIONS
