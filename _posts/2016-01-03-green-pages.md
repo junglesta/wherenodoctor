@@ -2151,7 +2151,7 @@ In each dose give:
 
 **Gentamicin**
 
-Gentamicin is an injectable antibiotic that is used for very serious infections such as septicemia in a newborn and infection after giving birth (see pages [page 275](#page-275)and [page 276](#page-276)for dosages).
+Gentamicin is an injectable antibiotic that is used for very serious infections such as septicemia in a newborn and infection after giving birth (see pages [page 275](#page-275) and [page 276](#page-276)for dosages).
 
 Gentamicin should only be given by an experienced health worker, and only when other, safer medicines
 are not available.
@@ -5416,7 +5416,7 @@ If a person develops the signs of tetanus, inject 5,000 U of antitetanus immunog
 
 The signs of tetanus usually continue to get worse in spite of treatment with antitoxin.
 
-The other measures of treatment described on pages [page 183](#page-183)and [page 184](#page-184)are equally or more important.
+The other measures of treatment described on pages [page 183](#page-183) and [page 184](#page-184)are equally or more important.
 
 Begin treatment at once and get medical help fast.
 

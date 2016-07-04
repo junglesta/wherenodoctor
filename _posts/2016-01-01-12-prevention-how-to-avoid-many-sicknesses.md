@@ -66,7 +66,7 @@ If the family had taken any of the following precautions, the spread of the sick
   - if they had not let the child play where the pig had been,
   - if the mother had washed her hands after touching the child and before preparing food.
 
-If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see [page 154](#page-154)and Chapter 11).
+If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see [page 154](#page-154) and Chapter 11).
 
 
 # [133](#page-133)
@@ -434,7 +434,7 @@ In serious cases the person may have:
   • small bruises (black or blue spots) on the skin
   • bleeding in the whites of the eyes
 
-**Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, see pages [page 373](#page-373)and [page 374](#page-374). (Cortico-steroids may help, but should be given by a health worker or doctor.)
+**Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, see pages [page 373](#page-373) and [page 374](#page-374). (Cortico-steroids may help, but should be given by a health worker or doctor.)
 
 **Important:** If several people who ate meat from the same pig get sick afterward, suspect trichinosis. This can be dangerous; seek medical attention.
 

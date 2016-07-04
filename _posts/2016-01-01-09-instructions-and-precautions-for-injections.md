@@ -163,7 +163,7 @@ In general, it is better **never to inject** the following:
 
 4. Penicillin. Nearly all infections that require penicillin can be effectively treated with penicillin taken by mouth. Penicillin is more dangerous when injected. Use injectable penicillin only for dangerous infections.
 
-5. Chloramphenicol or tetracycline. These medicines do as much or more good when taken by mouth. Use capsules or syrups rather than injections ([page 355](#page-355)and [page 356](#page-356)).
+5. Chloramphenicol or tetracycline. These medicines do as much or more good when taken by mouth. Use capsules or syrups rather than injections ([page 355](#page-355) and [page 356](#page-356)).
 
 6. Intravenous (I.V.) solutions. These should be used only for severe dehydration and given only by someone who is well trained. When not given correctly they can cause dangerous infections or death ([page 53](#page-53)).
 

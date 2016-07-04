@@ -540,7 +540,7 @@ For treating coughs and stuffy noses that come with colds, see the next pages.
 
 WARNING: Do not give any kind of antibiotic or injections to a child with a simple cold. They will not help and may cause harm.
 
-If a cold or the flu lasts more than a week, or if the person has fever, coughs up a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages [page 170](#page-170)and [page 171](#page-171)). An antibiotic may be called for.
+If a cold or the flu lasts more than a week, or if the person has fever, coughs up a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages [page 170](#page-170) and [page 171](#page-171)). An antibiotic may be called for.
 
 The danger of a cold turning into pneumonia is greater in old people, in those who have lung problems like chronic bronchitis, in people who cannot move much, and in people with HIV. People with HIV can take cotrimoxazole daily to prevent pneumonia and other infections (see [page 357](#page-357)).
 

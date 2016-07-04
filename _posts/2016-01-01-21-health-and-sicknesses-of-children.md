@@ -472,7 +472,7 @@ If one child in the family has worms, all the family should be treated. To preve
 
   • scabies ([page 199](#page-199))
 
-  • infected sores and impetigo (pages [page 201](#page-201)and [page 202](#page-202))
+  • infected sores and impetigo (pages [page 201](#page-201) and [page 202](#page-202))
 
   • ringworm and other fungus infections ([page 205](#page-205))
 

@@ -242,7 +242,7 @@ Tetanus is a deadly disease. Seek medical help at the first sign. If there is an
 
   - Inject 1 million units of procaine penicillin at once and repeat every 12 hours for 7 to 10 days ([page 352](#page-352)). (For newborn babies crystalline penicillin is better.) After using injected penicillin for 2 days, you can switch to penicillin by mouth (penicillin V, [page 351](#page-351)). If there is no penicillin, use another antibiotic, like tetracycline.
 
-  - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (see pages [page 70](#page-70)and [page 388](#page-388)).
+  - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (see pages [page 70](#page-70) and [page 388](#page-388)).
 
   - As long as the person can swallow, give nutritious liquids in frequent small sips.
 

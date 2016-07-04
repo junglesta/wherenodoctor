@@ -79,17 +79,17 @@ Because people with HIV have difficulty fighting infections, many use cotrimoxaz
 
   - For diarrhea, use Rehydration Drink (see [page 152](#page-152)).
 
-  - For yeast infection in the mouth (thrush), use gentian violet, nystatin, or miconazole (see pages [page 232](#page-232)and [page 372](#page-372)).
+  - For yeast infection in the mouth (thrush), use gentian violet, nystatin, or miconazole (see pages [page 232](#page-232) and [page 372](#page-372)).
 
   - For warts, use trichloroacetic acid or podophyllin (see [page 373](#page-373) and [page 402](#page-402)).
 
-  - For fever, give lots of fluids, aspirin or acetaminophen, and lower high fever with a cool bath (see pages [page 75](#page-75)and [page 76](#page-76)).
+  - For fever, give lots of fluids, aspirin or acetaminophen, and lower high fever with a cool bath (see pages [page 75](#page-75) and [page 76](#page-76)).
 
-  - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages [page 168](#page-168) to [page 171](#page-171)). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages [page 179](#page-179)and [page 180](#page-180)).
+  - Treat cough by drinking lots of water and treat pneumonia with antibiotics (see pages [page 168](#page-168) to [page 171](#page-171)). If cough and fever last more than a week, **seek advice immediately about TB prevention and treatment** for people with HIV (see pages [page 179](#page-179) and [page 180](#page-180)).
 
   - For itching and rashes, use antihistamines ([page 385](#page-385)) and treat infections ([page 202](#page-202)).
 
-  - Treat infected wounds and sores (see pages [page 88](#page-88)and [page 89](#page-89)).
+  - Treat infected wounds and sores (see pages [page 88](#page-88) and [page 89](#page-89)).
 
   - For shingles, see [page 204](#page-204).
 
@@ -370,7 +370,7 @@ Guinea worm is spread from person to person, like this:
 
   - Attach a thread to the worm, or roll it round a thin stick, and pull gently, a little more each day. This may take a week or more. The worm can be more than a meter long! Try not to break it, because this can cause severe infection.
 
-  - Give metronidazole or thiabendazole to help reduce discomfort and make it easier to slowly pull out the worm. (The medicines do not kill the worms. For dosages and precautions, see pages [page 368](#page-368)and [page 374](#page-374).)
+  - Give metronidazole or thiabendazole to help reduce discomfort and make it easier to slowly pull out the worm. (The medicines do not kill the worms. For dosages and precautions, see pages [page 368](#page-368) and [page 374](#page-374).)
 
   - Give anti-tetanus vaccination ([page 147](#page-147)).
 
