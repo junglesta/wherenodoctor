@@ -13,7 +13,7 @@ nav {
   overflow-y: scroll;
   //-webkit-transition: all .2s ease-in;
 
-  a {
+  .menu_link {//a (mostly, well last1 is a div)
     color: white;
     display: block;
     position: relative;
@@ -26,28 +26,35 @@ nav {
     @include media( "screen", ">maxWidth") {
       padding: .5rem 20vw .5rem 20vw;
     }
+    border: 0 none;
+    svg {
+      max-width: 200px;
+      max-height: 200px;
+      position: relative;
+      left: 0;
+      top: .5rem;
+    }
+
+  }
+
+  .menu_link:visited span{
+    margin-left: .5rem;
+  }
+
+  .menu_link:hover {
     border:0 none;
+    color: rgba(255,255,255,.75);
   }
 
-  a:visited {
-    color: lighten($brand_color, 40%);
-  }
-
-  a:hover {
-    border:0 none;
-    color: white;
-    opacity: .75;
-  }
-
-  a:active,
-  a.active {
+  .menu_link:active,
+  .menu_link.active {
     color: invert($brand_color);
     border: 0 none;
   }
 
 
-  a:first-child {margin-top: $spacing_unit*4;}
-  a:last-child {margin-bottom: $spacing_unit*4;}
+  .menu_link:first-child {margin-top: $spacing_unit*4;}
+  .menu_link:last-child {margin-bottom: $spacing_unit*4;}
 
   small {
     display: none;
@@ -67,4 +74,10 @@ nav {
   }
 }
 
-.variant {}
+.menu_link.variant { color: lighten($brand_color, 40%); }
+
+.menu_link.qr {
+  color: black;
+  pointer-events: none;
+  span {display: block;}
+}
