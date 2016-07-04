@@ -1,6 +1,5 @@
 
 %clearfix {
-
     &:after {
         content: "";
         display: table;
@@ -9,6 +8,9 @@
 }
 
 /*Helper classes*/
+.center {text-align: center;}
+.inline {display: inline-block;}
+
 .hidden {
     display: none !important;
     visibility: hidden;
@@ -53,7 +55,7 @@
     *zoom: 1;
 }
 
-.center {text-align: center;}
+
 .spacer {
   margin-top: 2rem;
   margin-bottom: 2rem;

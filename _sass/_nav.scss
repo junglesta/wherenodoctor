@@ -1,5 +1,5 @@
+nav {
 
-.nav {
   margin-bottom: $spacing_unit*3;
 
   small {
@@ -31,45 +31,33 @@
     margin-right: 1rem;
   }
   a.active { color: black; }
-}
-
-
-.site-title {//a
-  font-size: $h1_font_size;
-  font-weight: 300;
-  line-height: 1;
-  text-transform: uppercase;
-  letter-spacing: -1px;
-  float: left;
-  margin: 1rem 3rem 1rem 0;
-  display: block;
-
-  &,
-  &:visited {
-    color: $color_grey--dark;
+  a:active {
+    color: invert($brand_color);
+    border: 0 none;
   }
-}
-
-
-nav .nav_link {
-  // main menu in home
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: baseline;
-  -webkit-align-items: baseline;
-  -ms-flex-align: baseline;
-  align-items: baseline;
-  text-decoration: none;
-  min-width: 100%;
-  border-bottom: 0 none;
-  &:hover {
+  a:visited {
+    color: lighten($brand_color, 40);
+  }
+  .nav_link {
+    // main menu in home
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: baseline;
+    -webkit-align-items: baseline;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    text-decoration: none;
+    min-width: 100%;
     border-bottom: 0 none;
-    &:before {
-      content: "-";
-      //background:svg_hand;
-      color: white;
+    &:hover {
+      border-bottom: 0 none;
+      &:before {
+        content: "-";
+        //background:svg_hand;
+        color: white;
+      }
     }
   }
 }
