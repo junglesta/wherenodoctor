@@ -502,14 +502,13 @@ Third week:
 
 **Prevention:**
 
-♦ To prevent typhoid, care must be taken to avoid contamination of water and food by human feces. Follow the guidelines of personal and public hygiene in Chapter 12. Make and use latrines. Be sure latrines are a safe distance from where people get drinking water.
+  ♦ To prevent typhoid, care must be taken to avoid contamination of water and food by human feces. Follow the guidelines of personal and public hygiene in Chapter 12. Make and use latrines. Be sure latrines are a safe distance from where people get drinking water.
 
-♦ Cases of typhoid often appear after a flood or other disaster, and special care must be taken with cleanliness at these times. Be sure drinking water is clean. If there are cases of typhoid in your village, all drinking water should be boiled. Look for the cause of contaminated water or food.
+  ♦ Cases of typhoid often appear after a flood or other disaster, and special care must be taken with cleanliness at these times. Be sure drinking water is clean. If there are cases of typhoid in your village, all drinking water should be boiled. Look for the cause of contaminated water or food.
 
+  ♦ To avoid the spread of typhoid, a person who has the disease should stay in a separate room. No one else should eat or drink from the dishes he uses. His stools should be burned or buried in deep holes. Persons who care for him should wash their hands right afterwards.
 
-♦ To avoid the spread of typhoid, a person who has the disease should stay in a separate room. No one else should eat or drink from the dishes he uses. His stools should be burned or buried in deep holes. Persons who care for him should wash their hands right afterwards.
-
-♦ After recovering from typhoid some persons still carry the disease and can spread it to others. So anyone who has had typhoid should be extra careful with personal cleanliness and should not work in restaurants or where food is handled. Sometimes ampicillin is effective in treating typhoid carriers.
+  ♦ After recovering from typhoid some persons still carry the disease and can spread it to others. So anyone who has had typhoid should be extra careful with personal cleanliness and should not work in restaurants or where food is handled. Sometimes ampicillin is effective in treating typhoid carriers.
 
 
 
@@ -519,19 +518,17 @@ Third week:
 
 # TYPHUS
 
-Typhus is an illness similar to but different from typhoid. The infection is transmitted by bites of:
+Typhus is an illness similar to but different from typhoid. The infection is transmitted by bites of lice ticks rat fleas
 
-lice ticks rat fleas
+_Signs:_
 
-Signs:
+  • Typhus begins like a bad cold. After a week or more fever begins, with chills, headache, and pain in the muscles and chest.
 
-• Typhus begins like a bad cold. After a week or more fever begins, with chills, headache, and pain in the muscles and chest.
+  • After a few days of fever a typical rash appears, first in the armpits and then on the body, then the arms and legs (but not on the face, palms of the hands, or soles of the feet). The rash looks like many tiny bruises.
 
-• After a few days of fever a typical rash appears, first in the armpits and then on the body, then the arms and legs (but not on the face, palms of the hands, or soles of the feet). The rash looks like many tiny bruises.
+  • The fever lasts 2 weeks or more. Typhus is usually mild in children and very severe in old people. An epidemic form of typhus is especially dangerous.
 
-• The fever lasts 2 weeks or more. Typhus is usually mild in children and very severe in old people. An epidemic form of typhus is especially dangerous.
-
-• In typhus spread by ticks, there is often a large painful sore at the point of the bite, and the lymph nodes near the bite are swollen and painful.
+  • In typhus spread by ticks, there is often a large painful sore at the point of the bite, and the lymph nodes near the bite are swollen and painful.
 
 Treatment:
 
@@ -559,54 +556,66 @@ rats. The fleas may jump off onto you. Drown and burn the rats and their fleas. 
 
 # LEPROSY (HANSEN’S DISEASE)
 
-This mildly infectious disease develops slowly, often over many years. It can only spread from persons who have untreated leprosy, to persons who have low resistance to the disease. In areas where leprosy is common, children should be checked every 6 to 12 months especially children living with persons who have leprosy.
-Signs: Leprosy can cause a variety of skin problems, loss of feeling, and paralysis of the hands and feet.
+This mildly infectious disease develops slowly, often over many years. It can only spread from persons who have untreated leprosy, to persons who have low resistance to the disease.
 
-The first sign of leprosy is often a slowly growing patch on the skin that does not itch or hurt. At first, feeling inside the patch may be normal. Keep watching it. If feeling in the patch becomes reduced or absent (see [page 38](#page-38)) it is probably leprosy.
-Examine the whole body for skin patches, especially the face, arms, back, butt, and legs.
+In areas where leprosy is common, children should be checked every 6 to 12 months especially children living with persons who have leprosy.
 
- pale patch without clear border
+_Signs:_
 
-Patches are a different color from surrounding skin, but never completely white or scaly.
+Leprosy can cause a variety of skin problems, loss of feeling, and paralysis of the hands and feet.
 
-ringworm‐like patch with or without raised border
+The first sign of leprosy is often a slowly growing patch on the skin that does not itch or hurt. At first, feeling inside the patch may be normal. Keep watching it.
+
+If feeling in the patch becomes reduced or absent (see [page 38](#page-38)) it is probably leprosy.
+
+Examine the whole body for skin patches, especially the face, arms, back, butt, and legs:
+
+- Pale patch without clear border.
+
+- Patches are a different color from surrounding skin, but never completely white or scaly.
+
+- Ringworm‐like patch with or without raised border.
 
 Later signs differ according to the person’s natural resistance to the disease. Watch out for:
 
- • Tingling, numbness or
-loss of feeling in hands
-or feet. Or deformities
-or loss of feeling in skin
-patches. clawed
+  • Tingling, numbness or loss of feeling in hands or feet. Or deformities or loss of feeling in skin patches.
 
-• Slight weakness or toes deformities in the hands
-and feet.
+  • Slight weakness or toes deformities in the hands and feet. Clawed toes. Drop foot.
 
-• Swollen nerves that form thick cords under the skin. Nerves may or may not be painful when you press them.
-
-drop foot
-
-Check for
-thick nerves in these places.
-paralysis
-and deformity of the hands and feet
-painless sores on hands or feet
-
-Treatment of leprosy: Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (see pages [page 362](#page-362) to [page 363](#page-363)). If a ‘lepra reaction’ (fever, a rash, pain and perhaps swelling of hands and feet, or eye damage) occurs or gets worse while taking the medicine, keep taking it but get medical help.
+  • Swollen nerves that form thick cords under the skin. Nerves may or may not be painful when you press them. Check for thick nerves in wrist ankle, elbow, neck, near armpits, behind knees :
 
 
-Advanced sign may include:
-burns and scars where feeling has been lost
-ear lobe thick and lumpy
-loss of eyebrows
-blindness
-nose sometimes deformed
+_Advanced sign may include:_
+
+  - burns and scars where feeling has been lost
+
+  - ear lobe thick and lumpy
+
+  - loss of eyebrows
+
+  - blindness
+
+  - nose sometimes deformed
+
+  - painless sores on hands or feet
+
+  - paralysis and deformity of the hands and feet
+
+
+_Treatment of leprosy:_
+
+Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (see pages [page 362](#page-362) to [page 363](#page-363)).
+
+If a ‘lepra reaction’ (fever, a rash, pain and perhaps swelling of hands and feet, or eye damage) occurs or gets worse while taking the medicine, keep taking it but get medical help.
+
 
 
 # [192](#page-192)
 {:.no_toc}
 
-Prevention of damage to hands, feet, and eyes: The large open sores often seen on the hands and feet of persons with leprosy are not caused by the disease itself and can be prevented. They result because, when feeling has been lost, a person no longer protects himself against injury.
+_Prevention of damage to hands, feet, and eyes:_
+
+The large open sores often seen on the hands and feet of persons with leprosy are not caused by the disease itself and can be prevented. They result because, when feeling has been lost, a person no longer protects himself against injury.
 
 For example, if a person with normal feeling walks a long way and gets a blister, it hurts, so he stops walking or limps.
 
@@ -623,11 +632,15 @@ Do not go barefoot, especially not where there are sharp stones or thorns. Wear 
 
 When working or cooking meals, wear gloves. Never pick up an object that might be hot without first protecting your hand with a thick glove or folded cloth. If possible, avoid work that involves handling sharp or hot objects. Do not smoke.
 
-2. At the end of each day (or more often if you work hard or walk far) examine your hands and feet very carefull yor have someone else examine them. Look for cuts, bruises, or thorns. Also look for spots or areas on the hands and feet that are red, hot, swollen or show the beginnings of blisters. If you find any of these, rest the hands or feet until the skin is completely normal again. This will help callous and strengthen the skin. Sores can be prevented.
+2. At the end of each day (or more often if you work hard or walk far) examine your hands and feet very carefully or have someone else examine them. Look for cuts, bruises, or thorns.
+
+Also look for spots or areas on the hands and feet that are red, hot, swollen or show the beginnings of blisters. If you find any of these, rest the hands or feet until the skin is completely normal again. This will help callous and strengthen the skin. Sores can be prevented.
 
 3. If you have an open sore, keep the part with the sore very clean and at rest until it has completely healed. Take great care not to injure the area again.
 
-4. Protect your eyes. Much eye damage comes from not blinking enough, because of weakness or loss of feeling. Blink your eyes often to keep them wet and clean. If you cannot blink well, close your eyes tightly often during the day, especially when dust blows. Wear sun glasses with side shades, and maybe a sun hat. Keep eyes clean and flies away.
+4. Protect your eyes. Much eye damage comes from not blinking enough, because of weakness or loss of feeling. Blink your eyes often to keep them wet and clean.
+
+If you cannot blink well, close your eyes tightly often during the day, especially when dust blows. Wear sun glasses with side shades, and maybe a sun hat. Keep eyes clean and flies away.
 
 If you do these things and begin treatment early, most deformitie swith leprosy can be prevented.
 
