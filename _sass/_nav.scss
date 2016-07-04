@@ -13,11 +13,6 @@ nav {
   overflow-y: scroll;
   //-webkit-transition: all .2s ease-in;
 
-  // padding-left: .5rem;
-  // padding-right: .5rem;
-  // padding-top: 5.5rem;
-  // padding-bottom: 5.5rem;
-
   a {
     color: white;
     display: block;
@@ -34,7 +29,7 @@ nav {
     &:hover {
       border:0 none;
       color: white;
-      opacity: .5;
+      opacity: .75;
     }
     &:active,
     &.active {
@@ -64,8 +59,4 @@ nav {
   }
 }
 
-
-
-.variant {
-
-}
+.variant {}

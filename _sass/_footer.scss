@@ -22,6 +22,9 @@
     display: block;
     color: lighten($brand_color, 20);
   }
+  small {
+    display: block;
+  }
   span:not(.icon):not(.username) {
     display: block;
     @include media( "screen", ">bp1Width") {
