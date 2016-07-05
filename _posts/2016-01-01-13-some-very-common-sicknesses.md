@@ -702,7 +702,7 @@ Asthma can also be caused by unclean air (air pollution), such as smoke from cig
 
 
 
-_Treatment:_
+**Treatment:**
 
 ♦ If asthma gets worse inside the house, the person should go outside to a place where the air is cleanest. Remain calm and be gentle with the person. Reassure him.
 

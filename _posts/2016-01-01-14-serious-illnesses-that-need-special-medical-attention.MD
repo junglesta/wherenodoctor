@@ -435,7 +435,7 @@ This is a disease that comes from drinking fresh milk from infected cows or goat
 
 ♦ Cooperate with livestock inspectors who check to be sure your animals are healthy.
 
-PREVENT BRUCELLOSIS: NEVER DRINK UNBOILED MILK
+>PREVENT BRUCELLOSIS: never drink unboiled milk
 
 
 
@@ -450,40 +450,50 @@ Typhoid is an infection of the gut that affects the whole body. It is spread fro
 
 **Signs of typhoid:**
 
-First week:
+_First week:_
 
 • It begins like a cold or flu.
 
-• Headache, sore throat, and often a
-dry cough.
+• Headache, sore throat, and often a dry cough.
 
-• The fever goes up and down, but rises
-a little more each day until it reaches
-40° or more.
+• The fever goes up and down, but rises a little more each day until it reaches 40° or more.
 
-• Pulse is often relatively slow for the
-amount of fever present. Take the pulse and temperature every half hour. If the pulse gets slower when the fever goes up, the person probably has typhoid (see [page 26](#page-26)).
+• Pulse is often relatively slow for the amount of fever present. Take the pulse and temperature every half hour. **If the pulse gets slower when the fever goes up, the person probably has typhoid** (see [page 26](#page-26)).
 
 • Sometimes there is vomiting, diarrhea, or constipation.
 
-Second week:
+Fever goes like this:
 
-• High fever, pulse relatively slow.
+  - 1st day: 37.5°C
 
-• A few pink spots may appear on the body.
+  - 2nd day: 38°
 
-• Trembling.
+  - 3rd day: 38.5°
 
-• Delirium (person does not think clearly
-or make sense).
+  - 4th day: 39°
 
-• Weakness, weight loss, dehydration.
-Treatment:
-1st day 2nd day 3rd day 4th day 5th day 6th day
-Third week:
-371⁄2° C 38° 381⁄2°
-39° 391⁄2°
-40°
+  - 5th day: 39.5°
+
+  - 6th day: 40°
+
+_Second week:_
+
+  • High fever, pulse relatively slow.
+
+  • A few pink spots may appear on the body.
+
+  • Trembling.
+
+  • Delirium (person does not think clearly or make sense).
+
+  • Weakness, weight loss, dehydration.
+
+_Third week:_
+
+• If there are no complications, the fever and other symptoms slowly go away.
+
+
+**Treatment:**
 
 ♦ Seek medical help.
 
@@ -530,24 +540,21 @@ Typhus is an illness similar to but different from typhoid. The infection is tra
 
   • In typhus spread by ticks, there is often a large painful sore at the point of the bite, and the lymph nodes near the bite are swollen and painful.
 
-Treatment:
+**Treatment:**
 
-♦ If you think someone may have typhus, get medical advice. Special tests are often needed.
+  ♦ If you think someone may have typhus, get medical advice. Special tests are often needed.
 
-♦ Give tetracycline, adults: 2 capsules of 250 mg. 4 times a day for 7 days (see [page 355](#page-355)). Chloramphenicol also works, but is riskier ([page 356](#page-356)).
+  ♦ Give tetracycline, adults: 2 capsules of 250 mg. 4 times a day for 7 days (see [page 355](#page-355)). Chloramphenicol also works, but is riskier ([page 356](#page-356)).
 
-Prevention:
+**Prevention:**
 
-♦ Keep clean. De-louse the whole family regularly.
+  ♦ Keep clean. De-louse the whole family regularly.
 
-♦ Remove ticks from your dogs and do not allow dogs in your house.
+  ♦ Remove ticks from your dogs and do not allow dogs in your house.
 
-♦ Kill rats. Use cats or traps (not poison, which can be dangerous to other animals
-and children).
+  ♦ Kill rats. Use cats or traps (not poison, which can be dangerous to other animals and children).
 
-
-♦ Kill rat fleas. Do not handle dead
-rats. The fleas may jump off onto you. Drown and burn the rats and their fleas. Put insecticide into rat holes and nests.
+  ♦ Kill rat fleas. Do not handle dead rats. The fleas may jump off onto you. Drown and burn the rats and their fleas. Put insecticide into rat holes and nests.
 
 
 
@@ -585,7 +592,7 @@ Later signs differ according to the person’s natural resistance to the disease
   • Swollen nerves that form thick cords under the skin. Nerves may or may not be painful when you press them. Check for thick nerves in wrist ankle, elbow, neck, near armpits, behind knees :
 
 
-_Advanced sign may include:_
+**Advanced sign may include:**
 
   - burns and scars where feeling has been lost
 
@@ -602,7 +609,7 @@ _Advanced sign may include:_
   - paralysis and deformity of the hands and feet
 
 
-_Treatment of leprosy:_
+**Treatment of leprosy:**
 
 Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (see pages [page 362](#page-362) to [page 363](#page-363)).
 
@@ -613,7 +620,7 @@ If a ‘lepra reaction’ (fever, a rash, pain and perhaps swelling of hands and
 # [192](#page-192)
 {:.no_toc}
 
-_Prevention of damage to hands, feet, and eyes:_
+**Prevention of damage to hands, feet, and eyes:**
 
 The large open sores often seen on the hands and feet of persons with leprosy are not caused by the disease itself and can be prevented. They result because, when feeling has been lost, a person no longer protects himself against injury.
 

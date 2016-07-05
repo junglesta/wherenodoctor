@@ -5858,7 +5858,7 @@ Children with measles are at especially high risk of xerophthalmia, and should b
 
 In areas where children do not get enough vitamin A, added foods or capsules with vitamin A often help children survive measles and other serious illnesses.
 
-For _Treatment:_ Give 1 vitamin A capsule (200,000 units) by mouth, or an injection of 100,000 units.
+For **Treatment:** Give 1 vitamin A capsule (200,000 units) by mouth, or an injection of 100,000 units.
 
 The next day give 1 vitamin A capsule (200,000 units) by mouth, and another capsule 1 to 2 weeks later.
 

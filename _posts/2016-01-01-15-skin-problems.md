@@ -282,7 +282,7 @@ Scabies is especially common in children. It causes very itchy little bumps that
 Scabies is caused by little animals, similar to tiny ticks or chiggers, which make tunnels under the skin. It is spread by touching the affected skin or by clothes and bedding. Scratching can cause infection, producing sores with pus, and sometimes swollen lymph nodes or fever. The first time a person gets scabies, it can take 2 to
 6 weeks for signs to appear. If the person has had scabies before, signs will appear in 1 to 4 days.
 
-_Treatment:_
+**Treatment:**
 
 ♦ If one person has scabies, everyone in his family should be treated. So should all sexual contacts.
 
@@ -675,7 +675,7 @@ Treatment:
 
 Young people sometimes get pimples on their face, chest, or back, especially if their skin has too much oil in it. Pimples are little lumps that form tiny white ‘heads’ of pus or blackheads of dirt. Sometimes they can become quite sore and large.
 
-_Treatment:_
+**Treatment:**
 
   ♦ Wash the face twice a day with soap and hot water.
 
@@ -828,7 +828,7 @@ Reddish patches of irritation between a baby’s legs or buttocks may be caused 
 
 NO YES
 
-_Treatment:_
+**Treatment:**
 
 BARE IS BEST
 
