@@ -20,6 +20,7 @@ $toppa: 10px;
 
 #markdown-toc {
   margin-left: 0;
+  margin-bottom: $spacing_unit*4;
   padding-left: $leftma/2;
   padding-right: $leftma/2;
   border: 4px solid transparentize($brand_color, .9);

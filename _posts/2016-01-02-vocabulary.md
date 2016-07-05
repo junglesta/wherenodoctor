@@ -853,3 +853,10 @@ head under the skin and sucks blood.
 ---
 
 **Xerophthalmia** Abnormal dryness of the eye due to lack of vitamin A.
+
+
+
+# Z words
+---
+
+**Zinc** Giving zinc supplements along with rehydration drink and food helps children with diarrhea get better, faster.
