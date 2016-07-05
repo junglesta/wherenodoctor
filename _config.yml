@@ -19,9 +19,11 @@ exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, 
 
 #turn off if something is not working:
 compress_html:
-  clippings: [div, p, ul, td, h1, h2, h3, h4, h5, h6, ]
+  clippings: [div, p, ul, td, h1, h2, h3, h4, h5, h6]
   comments: []
   endings: []
-  profile: false
   ignore:
     envs: []
+  blanklines: false
+  profile: false
+  startings: []

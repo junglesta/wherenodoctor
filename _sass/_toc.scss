@@ -26,9 +26,6 @@ $toppa: 10px;
   #green-pages & {
     border: 4px solid  transparentize($color_green, .15);
   }
-  // a {
-  //   border-bottom: 5px solid rgba(0,0,0,0);
-  // }
 }
 
 #markdown-toc ul {
@@ -42,7 +39,6 @@ $toppa: 10px;
     }
   }
   ul li {
-    //margin-left: -.75rem;
     border-left: 4px solid transparentize($brand_color, .8);
     #green-pages & {
       border-left: 4px solid  transparentize($color_green, .15);
@@ -101,6 +97,7 @@ a#markdown-toc-information-on-medicines {
 }
 
 .yellow {
+
   [href*=-subjects] {
     width: 40px;
     height: 40px;
@@ -111,17 +108,47 @@ a#markdown-toc-information-on-medicines {
     text-align: center;
     line-height: 40px;
     margin: 10px;
-    &:hover {background-color: transparentize($color_yellow, .15);}
+    &:hover {
+      background-color: transparentize($color_yellow, .15);
+    }
   }
+
   [href*=z-subjects]{clear: right;}
+
   em:first-child {
     display: block;
     clear: both;
     width: 100%;
   }
+
   h5#note {
     clear: both;
     display: block;
     padding-top: 1rem;
   }
+
 }
+
+
+//not really a toc but yes the use is the same
+.red .vocabulary_alphabet_links {
+  width: 100%;
+  a {
+    width: 40px;
+    height: 40px;
+    float: left;
+    color: $color_red;
+    border: 2px solid transparentize($color_red, .15);
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    margin: 10px;
+    &:hover {
+      background-color: transparentize($color_red, .15);
+      color: white;
+    }
+  }
+}
+
+.red h1 { padding-top: $spacing_unit*2;}

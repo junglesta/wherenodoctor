@@ -53,7 +53,7 @@ Persons or programs who wish to use this book, or portions of it, in preparing t
 
 We often grant permission at no charge, provided the parts reproduced are distributed free or at cost—not for profit.
 
-Please see the explanation online at www.hesperian.org/about/open-copyright, or contact us at permissions@hesperian.org to answer any questions. Our goal is to help you design a program that works for you, not to make money.
+Please see the explanation online at hesperian.org/about/open-copyright, or contact us at permissions@hesperian.org to answer any questions. Our goal is to help you design a program that works for you, not to make money.
 
 For local or regional health programs that do not have the resources for revising this book or preparing their own manuals, it is strongly suggested that if the present edition is used, leaflets or inserts be supplied with the book to provide additional information as needed.
 

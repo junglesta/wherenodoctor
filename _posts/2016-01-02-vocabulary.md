@@ -7,10 +7,12 @@ bookpage: 419
 ---
 
 
-
 This vocabulary is listed in the order of the alphabet:
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+[A](#a-words) [B](#b-words) [C](#c-words) [D](#d-words) [E](#e-words) [F](#f-words) [G](#g-words) [H](#h-words) [I](#i-words) [J](#j-words) [K](#k-words) [L](#l-words) [M](#m-words) [N](#n-words) [O](#o-words) [P](#p-words) [Q](#q-words) [R](#r-words) [S](#s-words) [T](#t-words) [U](#u-words) [V](#v-words) [W](#w-words) [X](#x-words) [Y](#y-words) [Z](#z-words)
+{:.vocabulary_alphabet_links}
+{:.group}
+
 
 Words marked with this symbol(^) are usually not used in this book but are often used by doctors or found on package information of medicines.
 
@@ -474,6 +476,10 @@ give protection against specific diseases, for example: diphtheria, whooping cou
 
 **Lyophilized Powdered** a way of preparing injectable medicine so that it does not have to be kept cold.
 
+
+# M words
+---
+
 **Malnutrition** Health problems caused by not eating enough of the foods that the body needs.
 
 **Marasmus (dry malnutrition)** A condition caused by not eating enough. Starvation. The person is very thin and underweight, often with a pot belly.
@@ -558,6 +564,10 @@ A part of the body that is more or less complete in itself and does a specific j
 **Ovaries** Small sacs in a woman’s belly next to her womb. They produce the eggs that join with a man’s sperm to make a baby.
 
 **Oxytocics** Dangerous medicines that cause the womb and blood vessels in it to contract. They should only be used to control a mother’s heavy bleeding after her child is born.
+
+
+# P words
+---
 
 **Palate** The roof or top part of the mouth. Pancreas An organ below the stomach, on the left side, that produces insulin.
 
@@ -779,6 +789,10 @@ head under the skin and sucks blood.
 **Tropical** Having to do with the tropics or hot regions of the world.
 
 **Tumor** An abnormal mass of tissue without inflammation. Some tumors are due to cancer.
+
+
+# U words
+---
 
 **Ulcer** A break in the skin or mucus membrane; a chronic open sore of the skin, the surface of the eye, the stomach, or gut.
 

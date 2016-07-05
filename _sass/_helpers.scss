@@ -41,17 +41,17 @@
     visibility: hidden;
 }
 
-.clearfix:before,
-.clearfix:after {
+.group:before,
+.group:after {
     content: " ";
     display: table;
 }
 
-.clearfix:after {
+.group:after {
     clear: both;
 }
 
-.clearfix {
+.group {
     *zoom: 1;
 }
 

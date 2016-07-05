@@ -5,13 +5,13 @@ style: grey
 ---
 
 
-## About this offline-enabled web book app
+## About this offline-enabled web app
 
 The _content sources_ used to build this **offline-enabled web app** are those freely available for download in pdf format. We downloaded the _September 2015 revision_ of _Where There Is No Doctor PDFs_ and built from there.
 
 Special thanks to [David Terzano](http://work-it.it) for designing this app logo.
 
-## about the original printed book
+## About the original printed book
 
 **_Where There Is No Doctor_** A Village Health Care Book
 
@@ -33,7 +33,7 @@ Originally published by:
 
 1919 Addison St., #304 Berkeley, California 94704 USA
 
-www.hesperian.org  
+hesperian.org  
 Copyright © 1977, 1992, 2013, 2015 by Hesperian.
 
 First English edition: October 1977, Revised English edition: May 1992, Fourteenth printing: September 2015. The original English version of this book was produced in 1977 as a revised translation of the Spanish edition, _Donde no hay doctor_.
@@ -76,7 +76,7 @@ For help updating this book, we thank Manisha Aryal, Elizabeth Babu, Kristen Cas
 
 Artwork for this book was created by David Werner, Kyle Craven, Susan Klein, Regina Doyle, Sandy Frank, Kathleen Tandy, Fiona Thomson, Lihua Wang, and Mary Ann Zapalac.
 
-We also thank the following persons and groups for permission to use their artwork: Dale Crosby, Carl Werner, Macmillan Publishers (for some of Felicity Shepherd’s drawings in the African edition of this book), the “New Internationalist” (for the picture of the VIP latrine), James Ogwang (for the drawings on page 417), and McGraw-Hill (for drawings appearing on pages [page 85](#page-85) and [page 104](#page-104)taken from Emergency Medical Guide by John Henderson, illustrated by Neil Hardy).
+We also thank the following persons and groups for permission to use their artwork: Dale Crosby, Carl Werner, Macmillan Publishers, the “New Internationalist”, James Ogwang, and McGraw-Hill (for drawings taken from Emergency Medical Guide by John Henderson, illustrated by Neil Hardy).
 
 The fine work of those who helped create the original version is still reflected on nearly every page.
 
