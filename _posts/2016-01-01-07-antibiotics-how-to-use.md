@@ -16,51 +16,68 @@ When used correctly, antibiotics are extremely useful and important medicines. T
 There are many kinds of antibiotics, and each kind is sold under several ‘brand names’. This can be confusing. However, the most important antibiotics fall into a few major groups:
 
 
+## [PENICILLINS](#page-350)
 
-antibiotic group
-generic name
-examples of brands
-page
+_generic name:_ penicillin, ampicillin, amoxicillin
 
-## PENICILLINS
-penicillin, ampicillin, amoxicillin
-Pen-V-K
-350
+_examples of brands:_ Pen-V-K
 
-## MACROLIDES
-erythromycin
-Erythrocin
-354
+<br>
 
-## TETRACYCLINES
-tetracycline, doxycycline
-Terramycin
-355
+## [MACROLIDES](#page-354)
 
-## CHLORAMPHENICOL
-Chloromycetin
-356
+_generic name:_ erythromycin
 
-## SULFAS (SULFONAMIDES)
-cotrimoxazole, sulfisoxazole
-Bactrim, Gantrisin
+_examples of brands:_ Erythrocin
 
-## AMINOGLYCOSIDES
-gentamicin
-Garamycin
-357
+<br>
 
-## CEPHALOSPORINS
-ceftriaxone, cephalexin
-Keflex
+## [TETRACYCLINES](#page-355)
 
-## QUINOLONES
-ciprofloxacin
-Cipro
-358
+_generic name:_ tetracycline, doxycycline
 
-If you have a brand-name antibiotic and do not know to which group it belongs, read the fine print on the bottle or box. For example, if you have some Paraxin ‘S’ but do not know what is in it, read the
-fine print. It says ‘chloramphenicol’.
+_examples of brands:_ Terramycin
+
+<br>
+
+## [CHLORAMPHENICOL](#page-356)
+
+_examples of brands:_ Chloromycetin
+
+<br>
+
+## [SULFAS SULFONAMIDES](#page-356)
+
+_generic name:_ cotrimoxazole, sulfisoxazole
+
+_examples of brands:_ Bactrim, Gantrisin
+
+<br>
+
+## [AMINOGLYCOSIDES](#page-357)
+
+_generic name:_ gentamicin
+
+_examples of brands:_ Garamycin
+
+<br>
+
+## [CEPHALOSPORINS](#page-357)
+
+_generic name:_ ceftriaxone, cephalexin
+
+_examples of brands:_ Keflex
+
+<br>
+
+## [QUINOLONES](#page-358)
+
+_generic name:_ ciprofloxacin
+
+_examples of brands:_ Cipro
+
+
+If you have a brand-name antibiotic and do not know to which group it belongs, read the fine print on the bottle or box. For example, if you have some Paraxin ‘S’ but do not know what is in it, read the fine print. It says ‘chloramphenicol’.
 
 Look up chloramphenicol in the GREEN PAGES ([page 356](#page-356)). You will find it must be used only for a few very serious illnesses, like typhoid, and is especially dangerous when given to the newborn.
 
