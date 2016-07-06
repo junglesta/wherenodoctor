@@ -15,7 +15,7 @@ bookpage: 179
 _CAUTION:_  Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, [page 42](#page-42).
 
 
-# TUBERCULOSIS (TB, CONSUMPTION)
+# TUBERCULOSIS (TB, consumption)
 
 Tuberculosis of the lungs is a chronic (long-lasting), contagious (easily spread) disease that anyone can get. But it often strikes persons between 15 and 35 years of age, especially those who are weak, poorly nourished, have HIV, or live with someone who has TB.
 
@@ -114,9 +114,7 @@ TB in family members often starts very slowly and quietly. If anyone in the fami
 
 Rabies comes from the bite of a rabid or ‘mad’ animal, usually a rabid dog, cat, fox, wolf, skunk, or jackal. Bats and other animals may also spread rabies.
 
-### Signs of rabies:
-
-**In the animal:**
+**Signs of rabies in the animal:**
 
   - Acts strangely, sometimes sad, restless, or irritable.
 
@@ -138,7 +136,7 @@ Rabies comes from the bite of a rabid or ‘mad’ animal, usually a rabid dog, 
 
   - As death nears, seizures (convulsions) and paralysis.
 
-If you have any reason to believe an animal that has bitten someone has rabies:
+_If you have any reason to believe an animal that has bitten someone has rabies:_
 
   - Tie or cage the animal for a week.
 
@@ -148,16 +146,15 @@ If you have any reason to believe an animal that has bitten someone has rabies:
 
 The first symptoms of rabies appear from 10 days up to 2 years after the bite (usually within 3 to 7 weeks). Treatment must begin before the first signs of the sickness appear. Once the sickness begins, no treatment known to medical science can save the person’s life.
 
-### **Prevention:**
+**Prevention:**
 
-  - Kill and bury (or cage for one week) any animal suspected of having rabies.
+  - Kill and bury or cage for one week any animal suspected of having rabies.
 
   - Cooperate with programs to vaccinate dogs.
 
   - Keep children far away from any animal that seems sick or acts strangely.
 
->Take great care in handling any animal that seems sick or acts strangely. Even if it does not bite anyone, its saliva can cause rabies
-if it gets into a cut or scratch.
+>Take great care in handling any animal that seems sick or acts strangely. Even if it does not bite anyone, its saliva can cause rabies if it gets into a cut or scratch.
 
 
 
@@ -168,11 +165,11 @@ if it gets into a cut or scratch.
 
 
 
-# TETANUS (LOCKJAW)
+# TETANUS (Lockjaw)
 
 Tetanus results when a germ that lives in the feces of animals or people enters the body through a wound. Deep or dirty wounds are especially dangerous.
 
-## wounds very likely to cause tetanus
+**wounds very likely to cause tetanus**
 
   - animal bites, especially those of dogs and pigs
 
@@ -182,7 +179,7 @@ Tetanus results when a germ that lives in the feces of animals or people enters 
 
   - puncture wounds from thorns, splinters, or nails
 
-## causes of tetanus in the newborn child
+**causes of tetanus in the newborn child**
 
 Tetanus germs enter through the umbilical cord of a newborn baby because of lack of cleanliness or failure to take other simple precautions. The chance of tetanus is greater
 
@@ -198,7 +195,7 @@ Tetanus germs enter through the umbilical cord of a newborn baby because of lack
 {:.no_toc}
 
 
-### Signs of tetanus:
+**Signs of tetanus:**
 
   - An infected wound (sometimes no wound can be found).
 
@@ -215,7 +212,7 @@ In the newborn, the first signs of tetanus generally appear 3 to 10 days after b
 
 It is very important to start treating tetanus at the first sign. If you suspect tetanus (or if a newborn child cries continuously or stops nursing), make this test:
 
-## test of knee reflexes
+**test of knee reflexes**
 
 With the leg hanging freely, tap the knee with a knuckle just below the kneecap.
 
@@ -256,7 +253,7 @@ Tetanus is a deadly disease. Seek medical help at the first sign. If there is an
   - For the newborn with tetanus, if possible, have a health worker or doctor put in a nose-to-stomach tube and feed the baby the mother’s breast milk. This provides needed nutrition and fights infection.
 
 
-### How to prevent tetanus:
+**How to prevent tetanus:**
 
 Even in the best hospitals, half the people with tetanus die. It is much easier to prevent tetanus than to treat it.
 
@@ -292,7 +289,7 @@ This is a very serious infection of the brain, more common in children. It may b
   - Tubercular meningitis develops slowly, over days or weeks. Other forms of meningitis come on more quickly, in hours or days.
 
 
-### Treatment:
+**Treatment:**
 
 Get medical help fast, every minute counts! If possible take the person to a hospital. Meanwhile:
 
@@ -305,7 +302,7 @@ Get medical help fast, every minute counts! If possible take the person to a hos
   - If you know the meningitis came from malaria, give an injection of artesunate or quinine at once (see [page 366](#page-366)).
 
 
-### Prevention:
+**Prevention:**
 
 For prevention of tubercular meningitis, newborn babies of mothers with tuberculosis should be vaccinated with B.C.G. at birth. Dose for the newborn is 0.05 ml (half the normal dose of 0.1 ml).
 
@@ -323,7 +320,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 
 
 
-### Signs of malaria:
+## Signs of malaria
 
 **The typical attack has 3 stages:**
 
@@ -340,11 +337,14 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
   - In young children, anemia and paleness can begin within a day or two. In children with malaria affecting the brain (cerebral malaria), seizures (fits) may be followed
   by periods of unconsciousness. Also, the palms may show a blue gray color, and breathing may be rapid and deep. (_Note:_ Children who have not been breastfed are more likely to get malaria.)
 
-## Analysis and treatment:
+## Analysis and treatment
 
   - If you suspect malaria or have repeated fevers, if possible go to a health center for a blood test. In areas where an especially dangerous type of malaria called falciparum occurs, seek treatment immediately.
+
   - In areas where malaria is common and blood tests are not available, treat any unexplained high fever as malaria. Take the malaria medicine known to work best in your area. (See pages [page 363](#page-363) to [page 367](#page-367)for dosages and information on malaria medicines.)
+
   - If you get better with the medicine, but after several days the fevers start again, you may need another medicine. Get advice from the nearest health center.
+
   - If a person who possibly has malaria begins to have seizures or other signs of meningitis ([page 185](#page-185)) he may have cerebral malaria. If possible, inject quinine or artesunate at once (see [page 366](#page-366)).
 
 
@@ -354,7 +354,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 # [187](#page-187)
 {:.no_toc}
 
-## how to avoid MALARIA and DENGUE
+## How to avoid MALARIA and DENGUE
 
 Malaria occurs more often during hot, rainy seasons. If everyone cooperates, it can be controlled. All these control measures should be practiced at once.
 
@@ -370,7 +370,7 @@ Malaria occurs more often during hot, rainy seasons. If everyone cooperates, it 
  5. Malaria can also be prevented, or its effects greatly reduced, by taking anti-malaria medicines on a regular schedule. See pages [page 363](#page-363) to [page 367](#page-367).
 
 
-# DENGUE (BREAKBONE FEVER, DANDY FEVER)
+# DENGUE (breakbone fever, dandy fever)
 
 This illness is sometimes confused with malaria. It is caused by a virus that is spread by mosquitos. In recent years it has become much more common in many countries.
 
@@ -378,7 +378,7 @@ It often occurs in epidemics (many persons get it at the same time), usually dur
 
 To prevent dengue, control mosquitos and protect against their bites, as described above.
 
-### Signs:
+**Signs:**
 
   - Sudden high fever with chills.
 
@@ -561,7 +561,7 @@ Typhus is an illness similar to but different from typhoid. The infection is tra
 # [191](#page-191)
 {:.no_toc}
 
-# LEPROSY (HANSEN’S DISEASE)
+# LEPROSY (Hansen’s disease)
 
 This mildly infectious disease develops slowly, often over many years. It can only spread from persons who have untreated leprosy, to persons who have low resistance to the disease.
 
