@@ -46,7 +46,7 @@ of aspirin. (.3 g, 0.3 g, 0.300 g, 300 mg. All these are different ways of sayin
 - One baby aspirin contains 75 milligrams of aspirin. ( .075 g, 0.075 g, 75.0 mg, 75 mg. All these are different ways of saying 75 milligrams. )
 
 
-**_Note:_ ** In some countries some medicines are still weighed in grains; gr = grain and 1 gr = 65 mg. This means a 5 gr aspirin tablet weighs about 300 mg.
+_**Note:**_ In some countries some medicines are still weighed in grains; gr = grain and 1 gr = 65 mg. This means a 5 gr aspirin tablet weighs about 300 mg.
 
 
 
@@ -67,7 +67,7 @@ read the small print on the labels of each. It says: aspirin: acetylsalicylic ac
 So if you cut an adult aspirin into 4 pieces, you can give the child 1 piece in place of a baby aspirin. Both are equal, and the piece of adult aspirin costs less.
 
 
-**__CAUTION:_ _** Many medicines, especially the antibiotics, come in different weights and sizes. For example, tetracycline may come in 3 sizes of capsules:
+_**CAUTION:**_ Many medicines, especially the antibiotics, come in different weights and sizes. For example, tetracycline may come in 3 sizes of capsules:
 
 - 250mg
 - 100mg
@@ -134,7 +134,7 @@ Many medicines that come as pills or capsules also come in syrups or suspensions
 
 When making syrups for children from pills or capsules, **be very careful not to give too much medicine. Also, do not give honey to babies under 1 year of age.** Though it is rare, some babies can have a dangerous reaction.
 
-_**_CAUTION:_ **_ To prevent choking, do not give medicines to a child while she is lying on her back, or if her head is pressed back. Always make sure she is sitting up or that her head is lifted forward. Never give medicines by mouth to a child while she is having a fit, or while she is asleep or unconscious.
+_**CAUTION:**_ To prevent choking, do not give medicines to a child while she is lying on her back, or if her head is pressed back. Always make sure she is sitting up or that her head is lifted forward. Never give medicines by mouth to a child while she is having a fit, or while she is asleep or unconscious.
 
 ## how much medicine should you give to children when you only have the instructions for adults?
 

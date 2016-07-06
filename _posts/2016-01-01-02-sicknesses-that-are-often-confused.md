@@ -460,9 +460,9 @@ Examples cannot be given for each country or area where this book may be used. T
 
 ## examples of local names for sicknesses
 
-Spanish Name: EMPACHO (STOPPED-UP GUT)
+STOPPED-UP GUT
 
-In medical terms empacho (impaction) means that the gut is stopped up or obstructed ([see page 94](#page-94)). But in Mexican villages any illness causing stomach-ache or diarrhea may be called empacho. It is said that a ball of hair or something else blocks a part of the gut. People put the blame on witches or evil spirits, and treat with magic cures and cupping (see picture). Sometimes folk healers pretend to take a ball of hair and thorns out of the gut by sucking on the belly.
+Means that the gut is stopped up or obstructed ([see page 94](#page-94)). But in Mexican villages any illness causing stomach-ache or diarrhea may be called empacho. It is said that a ball of hair or something else blocks a part of the gut. People put the blame on witches or evil spirits, and treat with magic cures and cupping (see picture). Sometimes folk healers pretend to take a ball of hair and thorns out of the gut by sucking on the belly.
 
 Different illnesses that cause stomach pain or discomfort and are sometimes called empacho are:
 
@@ -480,11 +480,10 @@ Most of these problems are not helped much by magic cures or cupping. To treat e
 
 ---
 
-Spanish Name: DOLOR DE IJAR (SIDE PAINS)
+SIDE PAINS
 
 
-This name is used for any pain women get in one side of their belly. Often the pain goes around to the mid or lower back. Possible causes of this
-kind of pain include:
+This name is used for any pain women get in one side of their belly. Often the pain goes around to the mid or lower back. Possible causes of this kind of pain include:
 
 • an infection of the urinary system (the kidneys, the bladder, or the tubes that join them, ([see page 234](#page-234))
 
@@ -503,7 +502,7 @@ kind of pain include:
 # [22](#page-22)
 {:.no_toc}
 
-Spanish Name: LA CONGESTIÓN (CONGESTION)
+CONGESTION
 
 
 Any sudden upset or illness that causes great distress is called la congestión by Mexican villagers. People speak of congestión of:
@@ -533,7 +532,7 @@ Different illnesses that are sometimes called la congestión are:
 # [23](#page-23)
 {:.no_toc}
 
-Spanish Name: LA CONGESTIÓN (CONGESTION)
+CONGESTION
 
 Any sudden upset or illness that causes great distress is called la congestión by Mexican villagers. People speak of congestión of:
 
@@ -555,7 +554,7 @@ Different illnesses that are sometimes called la congestión are:
 
 ---
 
-Spanish Name: LATIDO (PULSING)
+PULSING
 
 Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit of the stomach. It is really the pulse of the aorta or big blood vessel coming from the heart. This pulse can be seen and felt on a person who is very thin and hungry. Latido is often a sign of malnutrition ([page 112](#page-112)), or hunger! Eating enough good food is the only real treatment (see [page 110](#page-110) and [page 111](#page-111)).
 
@@ -567,28 +566,28 @@ Latido is a name used in Latin America for a pulsing or ‘jumping’ in the pit
 {:.no_toc}
 
 
-Spanish Name: SUSTO (HYSTERIA, FRIGHT)
+HYSTERIA, FRIGHT
 
-According to Mexican villagers, susto is caused by a sudden fright a person has had, or by witchcraft, black magic, or evil spirits. A person with susto is very nervous and afraid. He may shake, behave strangely, not be able to sleep, lose weight, or even die.
+According to Mexican villagers, hysteria (susto) is caused by a sudden fright a person has had, or by witchcraft, black magic, or evil spirits. A person with fright is very nervous and afraid. He may shake, behave strangely, not be able to sleep, lose weight, or even die.
 
-Possible medical explanations for susto:
+Possible medical explanations for hysteria:
 
-1. In many people, susto is a state of fear or hysteria, perhaps caused by the ‘power of belief’ (see [page 4](#page-4)). For example, a woman who is afraid someone will hex her becomes nervous and does not eat or sleep well. She begins to grow weak and lose weight. She takes this as a sign she has been hexed, so she becomes still more nervous and frightened. Her susto gets worse and worse.
+1. In many people, hysteria is a state of fear, perhaps caused by the ‘power of belief’ (see [page 4](#page-4)). For example, a woman who is afraid someone will hex her becomes nervous and does not eat or sleep well. She begins to grow weak and lose weight. She takes this as a sign she has been hexed, so she becomes still more nervous and frightened. Her susto gets worse and worse.
 
-2. In babies or small children, susto is usually very different. Bad dreams may cause a child to cry out in his sleep or wake up frightened. High fevers from any illness can cause very strange speech and behavior (delirium). A child that often looks and acts worried may be malnourished ([page 112](#page-112)). Sometimes early signs of tetanus
+2. In babies or small children, hysteria is usually very different. Bad dreams may cause a child to cry out in his sleep or wake up frightened. High fevers from any illness can cause very strange speech and behavior (delirium). A child that often looks and acts worried may be malnourished ([page 112](#page-112)). Sometimes early signs of tetanus
 ([page 182](#page-182)) or meningitis ([page 185](#page-185)) are also called susto.
 
-Treatment:
+**Treatment:**
 
-When the susto is caused by a specific illness, treat the illness. Help the person understand its cause. Ask for medical advice, if needed.
+When the hysteria is caused by a specific illness, treat the illness. Help the person understand its cause. Ask for medical advice, if needed.
 
-When the susto is caused by fright, try to comfort the person and help him understand that his fear itself is the cause of his problem. Magic cures and home remedies sometimes help.
+When the hysteria is caused by fright, try to comfort the person and help him understand that his fear itself is the cause of his problem. Magic cures and home remedies sometimes help.
 
 If the frightened person is breathing very hard and fast, his body may be getting too much air, which may be part of the problem:
 
 **EXTREME FRIGHT OR HYSTERIA WITH FAST HEAVY BREATHING (HYPERVENTILATION)**
 
-  Signs:
+**Signs:**
 
 • person very frightened
 
@@ -600,7 +599,7 @@ If the frightened person is breathing very hard and fast, his body may be gettin
 
 • muscle cramps
 
-Treatment:
+**Treatment:**
 
   ♦ Keep the person as quiet as possible.
 

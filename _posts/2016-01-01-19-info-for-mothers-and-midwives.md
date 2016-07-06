@@ -427,7 +427,7 @@ Birth is a natural event. When the mother is healthy and everything goes well, t
 
 Difficulties in childbirth do occur, and sometimes the life of the mother or child may be in danger. If there is any reason to think that a birth may be difficult or dangerous, a skilled midwife or experienced doctor should be present.
 
-_CAUTION:_  If you have a fever, cough, sore throat, or sores or infections on your skin at the time of the birth, it would be better for someone else to deliver the baby.
+_**CAUTION:**_  If you have a fever, cough, sore throat, or sores or infections on your skin at the time of the birth, it would be better for someone else to deliver the baby.
 
 Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife Attend the Birth, if Possible in a Hospital:
 

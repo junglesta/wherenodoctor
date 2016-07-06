@@ -13,14 +13,14 @@ Special thanks to [David Terzano](http://work-it.it) for designing this app logo
 
 ## About the original printed book
 
-**_Where There Is No Doctor_** A Village Health Care Book
+_**Where There Is No Doctor**_ A Village Health Care Book
 
 First published in 1977 by [David Werner](https://en.wikipedia.org/wiki/David_Werner), Carol Thuman, Jane Maxwell.  
 Original title: _Donde No Hay Doctor_  
 ISBN 978-0-942364-15-6
 
 
-**_Where There Is No Doctor_** is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
+_**Where There Is No Doctor**_ is the most widely-used health care manual for health workers, educators, and others involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
 
 In the Journal of the American Medical Association, a 2010 review said, it is still not known if the book effectively improves health. However, in most of the world, where physicians are not available and diseases are rampant, the status quo is unacceptable. Until better solutions are created, _Where There Is No Doctor_  is probably a useful stop-gap measure.
 
@@ -52,7 +52,7 @@ Please send Hesperian a copy of any materials in which text or illustrations fro
 
 ### Original Printed Edition thanks
 
-This 2015 revision of **_Where There Is No Doctor_** has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
+This 2015 revision of _**Where There Is No Doctor**_ has been a cooperative effort. We thank the many users of the book around the world who have written us over the years with comments and suggestions, these have guided us in updating this information.
 
 **David Werner** is the author of the original Spanish and English versions of the book. His vision, caring, and commitment are present on every page.
 

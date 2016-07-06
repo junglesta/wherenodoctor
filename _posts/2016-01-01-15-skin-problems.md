@@ -49,7 +49,7 @@ If the skin shows signs of serious infection such as:
 
   - pus
 
-Do the following:
+_Do the following:_
 
   ♦ Keep the affected part still and elevate it (put it higher than the rest of the body).
 
@@ -324,7 +324,8 @@ nodes. To avoid lice, take great care with personal cleanliness.
 
 Wash clothing and bedding often and hang them in the sun. Bathe and wash hair often. Check children’s hair. If they have lice, treat them all at once, otherwise they will pass them back and forth to each other. Do not let a child with lice sleep with others.
 
-Treatment:
+
+**Treatment:**
 
 For head and pubic lice: You can usually get rid of lice without medicines by scrubbing the hair well with regular soap or shampoo for 10 minutes. Rinse well, and comb thoroughly with a fine-tooth comb, being sure to remove all the lice and their eggs. Repeat every day for 2 weeks.
 
@@ -394,7 +395,8 @@ These infections are easily spread.
 This is a bacterial infection that causes rapidly spreading sores with shiny, yellow crusts. It often occurs on children’s faces especially around the mouth. Impetigo can
 spread easily to other people from the sores or contaminated fingers.
 
-Treatment:
+
+**Treatment:**
 
 ♦ Wash the affected part with soap and cooled, boiled water 3 to 4 times each day, gently soaking off the crusts.
 
@@ -414,7 +416,8 @@ Prevention:
 Yaws is a bacterial infection that you first notice when a painless, bumpy growth emerges and gets larger and may spread a little. After about 6 months, the growth disappears. Months or years later, it reappears, spreads more, and may ooze. This
 is when it can spread to other people. These signs will also disappear. But if it is not treated, after 5 or 10 years the yaws infection can spread throughout the body, harming bones, joints, and causing other problems.
 
-Treatment:
+
+**Treatment:**
 
 ♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (see pages [page 237](#page-237) to [page 238](#page-238)).
 
@@ -454,7 +457,8 @@ Treatment of itching:
 
 ♦ To protect a baby from scratching himself, cut his fingernails very short, or put gloves or socks over his hands.
 
-Treatment:
+
+**Treatment:**
 
   If you get an itching rash, hives, or any other allergic reaction after taking or being injected with any medicine, stop using it and never use that medicine again in your life!
 
@@ -472,19 +476,21 @@ Nettles, ‘stinging trees’, sumac, ‘poison ivy’, and many other plants ma
 In allergic persons rashes or ‘weeping’ sore patches may be caused by certain things that touch or are put on the skin, Rubber shoes, watchbands, ear drops and other medicines,
 face creams, perfumes, or soaps may cause such problems.
 
-Treatment:
+
+**Treatment:**
 
 All these irritations go away by themselves when the things that cause them no longer touch the skin. A paste of oatmeal and cool water helps calm the itching. Aspirin or antihistamines ([page 385](#page-385)) may also help. In severe cases, you can use a cream that contains cortisone or a cortico-steroid (see [page 370](#page-370)) To prevent infection, keep the irritated areas clean.
 
 # SHINGLES (HERPES ZOSTER)
 
-Signs:
+**Signs:**
 
 A line or patch of painful blisters that suddenly appears on one side of the body is probably shingles. It is most common on the back, chest, neck, or face. The blisters usually last 2 or 3 weeks, then go away by themselves. Sometimes the pain continues or returns long after the blisters are gone.
 
 Shingles is caused by the virus that causes chickenpox and usually affects persons who have had chickenpox before. It is not dangerous, but it can be painful. It is sometimes the first sign of some other more serious problem, perhaps cancer or HIV infection (see [page 399](#page-399)).
 
-Treatment:
+
+**Treatment:**
 
 ♦ Put light bandages over the rash so that clothes do not rub against it.
 
@@ -497,13 +503,19 @@ Treatment:
 # FUNGUS INFECTIONS (RINGWORM, TINEA)
 
 Fungus infections may appear on any part of the body, but occur most frequently on:
-the scalp the parts without between the between the legs (tinea) hair (ringworm) toes or  ngers (jock itch)
 
-(athlete’s foot)
+  - the scalp (tinea)
+
+  - the parts without hair (ringworm)
+
+  - between the toes or fingers (athlete’s foot)
+
+  - between the legs (jock itch)
 
 Most fungus infections grow in the form of a ring. They often itch. Ringworm of the head can produce round patches with scales and loss of hair. Finger and toe nails infected with the fungus become rough and thick.
 
-Treatment:
+
+**Treatment:**
 
 ♦ Soap and water. Washing the infected part every day with soap and water may be all that is needed.
 
@@ -539,7 +551,8 @@ or towel, unless these are washed or well cleaned first.
 
 Tinea versicolor is a mild fungus infection that causes small dark or light spots with a distinct and irregular border that are often seen on the neck, chest, and back. The spots may be slightly scaly but usually do not itch. They are of little medical importance.
 
-Treatment:
+
+**Treatment:**
 
 ♦ Make a cream with sulfur and lard (1 part sulfur to 10 parts lard) and apply it to the whole body every day until they disappear. Or use an anti-fungal cream ([page 371](#page-371)).
 
@@ -556,7 +569,7 @@ The border is less clear than in tinea versicolor. These spots are not an infect
 
 Contrary to popular opinion, none of these types of white spots is a sign of anemia. They will not go away with tonics or vitamins. The spots that are only on the cheeks do not need any treatment.
 
-_CAUTION:_  Sometimes pale spots are early signs of leprosy (see [page 191](#page-191)). Leprosy spots are never completely white and may have reduced feeling when pricked by a pin. If leprosy is common in your area, have the child checked.
+_**CAUTION:**_  Sometimes pale spots are early signs of leprosy (see [page 191](#page-191)). Leprosy spots are never completely white and may have reduced feeling when pricked by a pin. If leprosy is common in your area, have the child checked.
 
 
 # [207](#page-207)
@@ -564,9 +577,11 @@ _CAUTION:_  Sometimes pale spots are early signs of leprosy (see [page 191](#pag
 
 # Vitiligo (White Areas of the Skin)
 
-In some persons, certain areas of the skin lose their natural color (pigment). Then white patches appear. These are most common on the hands, feet, face, and upper body. This loss of normal skin color, called vitiligo, is not an illness. It can be compared to white hair in older people. No treatment helps or is needed, but the white skin should be protected from sunburn, with clothing or an ointment of zinc oxide. Also, special coloring creams can help make the spots less noticeable.
+In some persons, certain areas of the skin lose their natural color (pigment). Then white patches appear. These are most common on the hands, feet, face, and upper body. This loss of normal skin color, called vitiligo, is not an illness.
 
-Other Causes of White Skin Patches
+It can be compared to white hair in older people. No treatment helps or is needed, but the white skin should be protected from sunburn, with clothing or an ointment of zinc oxide. Also, special coloring creams can help make the spots less noticeable.
+
+**Other Causes of White Skin Patches**
 
 Certain diseases may cause white spots that look like vitiligo. In Latin America an infectious disease called pinta starts with bluish or red pimples and later leaves pale or white patches.
 
@@ -579,8 +594,12 @@ General or patchy, partial loss of skin and hair color in children may be caused
 
 # MASK OF PREGNANCY
 
-During pregnancy many women develop dark, olive-colored areas on the skin of the face, breasts, and down the middle of the belly. Sometimes these disappear after the birth
-and sometimes not. These marks also appear sometimes on women who are taking birth control pills.
+During pregnancy many women develop dark, olive-colored areas on the skin of the face, breasts, and down the middle of the belly.
+
+Sometimes these disappear after the birth
+and sometimes not.
+
+These marks also appear sometimes on women who are taking birth control pills.
 
 They are completely normal and do not indicate weakness or sickness. No treatment is needed.
 
@@ -590,41 +609,48 @@ They are completely normal and do not indicate weakness or sickness. No treatmen
 
 # PELLAGRA AND OTHER SKIN PROBLEMS DUE TO MALNUTRITION
 
-Pellagra is a form of malnutrition that affects the skin and sometimes the digestive and nervous systems. It is found in places where people eat a lot of maize (corn) or other starchy foods and not enough beans, meat, fish, eggs, vegetables, and other body-building and protective foods (see [page 110](#page-110)).
+Pellagra is a form of malnutrition that affects the skin and sometimes the digestive and nervous systems.
+
+It is found in places where people eat a lot of maize (corn) or other starchy foods and not enough beans, meat, fish, eggs, vegetables, and other body-building and protective foods (see [page 110](#page-110)).
 
 Skin signs in malnutrition (see the pictures on the following page):
 
 In adults with pellagra the skin is dry and cracked; it peels like sunburn on the parts where the sun hits it, especially:
-on the arms
 
-In malnourished children, the skin of the legs (and sometimes arms) may have dark marks, like bruises, or even peeling sores; the ankles and feet may be swollen (see [page 113](#page-113)).
+  - on the arms
 
-  on the nape of the neck
+  - on the nape of the neck
 
-on the backs of the legs
-peeling sores and dark marks
+  - on the backs of the legs
+
+In malnourished children, the skin of the legs (and sometimes arms) may have dark marks, like bruises, or even peeling sores; the ankles and feet may be swollen (see [page 113](#page-113)):
+
+ - peeling sores and dark marks
+
+ - swollen ankles and feet
 
 When these conditions exist, often there are also other signs of malnutrition: swollen belly; sores in the corners of the mouth; red, sore tongue; weakness; loss of appetite; failure to gain weight; etc. (see Chapter 11, pages [page $1](#page-$1) to [page 114](#page-114)).
 
-Treatment:
+
+**Treatment:**
 
 ♦ Eating nutritious foods cures pellagra. Every day a person should try to eat beans, lentils, groundnuts, or some chicken, fish, eggs, meat, or cheese. When you have a choice, it is also better to use wheat (preferably whole wheat) instead of maize (corn).
 
-♦ For severe pellagra and some other forms of malnutrition, it may help to take vitamins, but good food is more important. Be sure the vitamin formula you use is high in the B vitamins, especially niacin. Brewer’s yeast is a good source of B vitamins.
+♦ For severe pellagra and some other forms of malnutrition, it may help to take vitamins, but **good food is more important**. Be sure the vitamin formula you use is high in the B vitamins, especially niacin. Brewer’s yeast is a good source of B vitamins.
 
-swollen ankles and feet
-
-Before eating well
-
-After eating well
 
 
 # [209](#page-209)
 {:.no_toc}
 
+Before eating well:
+
 >The swelling and dark spots on this boy’s legs and feet are the result of poor nutrition. He was eating mostly maize (corn) without any foods rich in proteins and vitamins.
 
 >The ‘burnt’ skin on the legs of this woman is a sign of pellagra, which results from not eating well (see [page 208](#page-208)).
+
+
+After eating well:
 
 >One week after he began to eat beans and eggs along with the maize, the swelling was gone and the spots had almost disappeared.
 
@@ -641,7 +667,8 @@ After eating well
 
 Most warts, especially those in children, last 3 to 5 years and go away by themselves. Flat, painful wart-like spots on the sole of the foot are often ‘plantar warts’. (Or they may be corns. See below.)
 
-Treatment:
+
+**Treatment:**
 
   ♦ Magical or household cures often get rid of warts. But it is safer not to use strong acids or poisonous plants, as these may cause burns or sores much worse than the warts.
 
@@ -653,7 +680,8 @@ Treatment:
 
 A corn is a hard, thick part of the skin. It forms where sandals or shoes push against the skin, or one toe presses against another. Corns can be very painful.
 
-Treatment:
+
+**Treatment:**
 
 
 
@@ -699,15 +727,20 @@ Young people sometimes get pimples on their face, chest, or back, especially if 
 Skin cancer is most frequent in light-skinned persons who spend a lot of time in the sun.
 
 It usually appears in places where the sun hits with most force, especially:
-on the ear
-on the cheekbone or temple
-on the nose on the lips
+
+  - on the ear
+
+  - on the cheekbone or temple
+
+  - on the nose
+
+  - on the lips
 
 Skin cancer may take many forms. It usually begins as a little ring the color of pearl with a hole in the center. It grows little by little.
 
-Most cancers of the skin are not dangerous if treated in time. Surgery is needed to remove them. If you have a chronic sore that might be skin cancer, see a health worker.
+**Most cancers of the skin are not dangerous if treated in time.** Surgery is needed to remove them. If you have a chronic sore that might be skin cancer, see a health worker.
 
-To prevent skin cancer, light-skinned persons should protect themselves from the sun and always wear a hat. Persons who have suffered from cancer of the skin and have to work in the sun can buy special creams that protect them. Zinc oxide ointment is cheap and works well.
+To prevent skin cancer, light-skinned persons should protect themselves from the sun and always wear a hat. Persons who have suffered from cancer of the skin and have to work in the sun can buy special creams that protect them. **Zinc oxide** ointment is cheap and works well.
 
 
 
@@ -716,32 +749,48 @@ To prevent skin cancer, light-skinned persons should protect themselves from the
 
 # TUBERCULOSIS OF THE SKIN OR LYMPH NODES
 
-The same microbe that causes tuberculosis of the lungs also sometimes affects the skin, causing painless
+The same microbe that causes tuberculosis of the lungs also sometimes affects the skin, causing painless:
 
-tumors chronic patches of skin or big
-that dis gure, sores, ulcers,
-warts.
+  - tumors that disfigure,
+
+  - chronic patches of sores,
+
+  - skin ulcers or
+
+  - big warts.
 
  As a rule, TB of the skin develops slowly, lasts a long time, and keeps coming back over a period of months or years.
- Also, tuberculosis sometimes infects the lymph nodes, most often those of the neck or in the area behind the collar bone, between the neck and the shoulder. The nodes become large, open, drain pus, seal closed for a time, and then open and drain again. Usually they are not painful.
 
-Treatment:
+ Also, tuberculosis sometimes infects the lymph nodes, most often those of the neck or in the area behind the collar bone, between the neck and the shoulder.
 
-# TUBERCULOSIS OF THE LYMPH NODES, OR SCROFULA
+ The nodes become large, open, drain pus, seal closed for a time, and then open and drain again. Usually they are not painful.
 
-In the case of any chronic sore, ulcer, or swollen lymph nodes, it is best to seek medical advice. Tests may be needed to learn the cause. Tuberculosis of the skin is treated the same as tuberculosis of the lungs (see [page 180](#page-180)). To keep the infection from returning, the medicines must be taken for many months after the skin looks well.
+
+**Treatment:**
+
+In the case of any chronic sore, ulcer, or swollen lymph nodes, it is best to seek medical advice.
+
+Tests may be needed to learn the cause. Tuberculosis of the skin is treated the same as tuberculosis of the lungs (see [page 180](#page-180)).
+
+To keep the infection from returning, the medicines must be taken for many months after the skin looks well.
 
 # ERYSIPELAS AND CELLULITIS
 
 Erysipelas (or St. Anthony’s fire) is a very painful acute (sudden) infection in the skin.
-It forms a hot, bright red, swollen patch with a sharp border. The patch spreads rapidly over the skin. It often begins on the face, at the edge of the nose. This usually causes swollen lymph nodes, fever, and chills.
+It forms a hot, bright red, swollen patch with a sharp border.
+
+The patch spreads rapidly over the skin. It often begins on the face, at the edge of the nose. This usually causes swollen lymph nodes, fever, and chills.
 
 Cellulitis is also a very painful, acute infection of the skin that can appear anywhere on the body. It usually occurs after a break in the skin. The infection is deeper and the borders of the patch are less clear than with erysipelas.
 
-Treatment:
 
-For both erysipelas and cellulitis, begin treatment as soon as possible. Use
-an antibiotic: penicillin tablets, 400,000 units, 4 times a day, in serious cases, injectable procaine penicillin, 800,000 units daily (see [page 352](#page-352)). Continue using the antibiotic for 2 days after all signs of infection are gone. Also use hot compresses,  and aspirin for pain.
+**Treatment:**
+
+For both erysipelas and cellulitis, begin treatment as soon as possible.
+
+Use an antibiotic: penicillin tablets, 400,000 units, 4 times a day, in serious cases, injectable procaine penicillin, 800,000 units daily (see [page 352](#page-352)).
+
+Continue using the antibiotic for 2 days after all signs of infection are gone. Also use hot compresses,  and aspirin for pain.
 
 
 # [213](#page-213)
@@ -750,9 +799,12 @@ an antibiotic: penicillin tablets, 400,000 units, 4 times a day, in serious case
 
 # GANGRENE (GAS GANGRENE)
 
-This is a very dangerous infection of a wound, in which a foul-smelling gray or brown liquid forms. The skin near the wound may have dark blisters and the flesh may have air bubbles in it. The infection begins between 6 hours and 3 days after the injury. It quickly gets worse and spreads fast. Without treatment it causes death in a few days.
+This is a very dangerous infection of a wound, in which a foul-smelling gray or brown liquid forms. The skin near the wound may have dark blisters and the flesh may have air bubbles in it.
 
-Treatment:
+The infection begins between 6 hours and 3 days after the injury. It quickly gets worse and spreads fast. Without treatment it causes death in a few days.
+
+
+**Treatment:**
 
 ♦ Open up the wound as wide as possible. Wash it out with cool, boiled water and soap. Clean out the dead and damaged flesh. If possible, flood the wound with hydrogen peroxide every 2 hours.
 
@@ -762,23 +814,20 @@ Treatment:
 
 # ULCERS OF THE SKIN CAUSED BY POOR CIRCULATION
 
-Skin ulcers, or large, open sores, have many causes (see [page 20](#page-20)). However, chronic ulcers on the ankles of older persons, especially in
-women with varicose veins, usually come from poor circulation.
+Skin ulcers, or large, open sores, have many causes (see [page 20](#page-20)). However, chronic ulcers on the ankles of older persons, especially in women with varicose veins, usually come from poor circulation.
 
-The blood is not moved fast enough through the legs. Such
-ulcers may become very large. The skin around the ulcer is dark blue, shiny, and very thin. Often the foot is swollen.
+The blood is not moved fast enough through the legs. Such ulcers may become very large. The skin around the ulcer is dark blue, shiny, and very thin. Often the foot is swollen.
 
-Treatment:
+
+**Treatment:**
 
 ♦ These ulcers heal very slowly, and only if great care is taken. Most important: Keep the foot up high as often as possible. Sleep with it on pillows. During the day, rest with the foot up high every 15 or 20 minutes. Walking helps the circulation, but standing in one place and sitting with the feet down are harmful.
 
 ♦ Put warm compresses of weak salt water on the ulcer, 1 teaspoon salt to a liter of boiled water. Cover the ulcer loosely with sterile gauze or a clean cloth. Keep it clean.
 
-♦ Support the varicose veins with elastic stockings
-or bandages. Continue to use these and to keep the feet up after the ulcer heals. Take great care not to scratch or injure the delicate scar.
+♦ Support the varicose veins with elastic stockings or bandages. Continue to use these and to keep the feet up after the ulcer heals. Take great care not to scratch or injure the delicate scar.
 
 ♦ Treating the ulcers with honey or sugar may help (see [page 214](#page-214)).
-
 
 
 Prevent skin ulcers, care for varicose veins early (see [page 175](#page-175)).
@@ -791,55 +840,52 @@ Prevent skin ulcers, care for varicose veins early (see [page 175](#page-175)).
 
 # BED SORES (PRESSURE SORES)
 
-These chronic open sores appear in persons so ill they cannot roll over in bed, especially in sick old persons who are very thin and weak. The sores form over bony parts of the body where the skin is pressed against the bedding. They are most often seen on the buttocks, back, shoulders, elbows, or feet.
+These chronic open sores appear in persons so ill they cannot roll over in bed, especially in sick old persons who are very thin and weak.
+
+The sores form over bony parts of the body where the skin is pressed against the bedding. They are most often seen on the buttocks, back, shoulders, elbows, or feet.
 
  For a more complete discussion of pressure sores, see Disabled Village Children, Chapter 24, or A Health Handbook for Women with Disabilities, pages [page 114](#page-114) to [page 117](#page-117).
 
-How to prevent bed sores:
+_How to prevent bed sores:_
 
-♦ Turn the sick person over every hour: face up, face down, side to side.
+  ♦ Turn the sick person over every hour: face up, face down, side to side.
 
-♦ Bathe him every day and rub his skin with baby oil.
+  ♦ Bathe him every day and rub his skin with baby oil.
 
-♦ Use soft bed sheets and padding. Change them daily and each time the bedding gets dirty with urine, stools, vomit, etc.
+  ♦ Use soft bed sheets and padding. Change them daily and each time the bedding gets dirty with urine, stools, vomit, etc.
 
-♦ Put cushions under the person in such a way that the bony parts rub less.
+  ♦ Put cushions under the person in such a way that the bony parts rub less.
 
-♦ Feed the sick person as well as possible. If he does not eat well, extra vitamins and
- iron may help (see [page 118](#page-118)).
+  ♦ Feed the sick person as well as possible. If he does not eat well, extra vitamins and
+   iron may help (see [page 118](#page-118)).
 
-♦ A child who has a severe chronic illness should be held often on his mother’s lap.
+  ♦ A child who has a severe chronic illness should be held often on his mother’s lap.
 
-Treatment:
-
-♦ Do all the things mentioned above.
-
-♦ 3 times a day, wash the sores with cool, boiled water mixed with mild soap.
-Gently remove any dead flesh. Rinse well with cool, boiled water.
-
-♦ To fight infection and speed healing, fill the sore with honey, sugar, or molasses. (A paste made of honey and sugar is easiest to use.) It is important to clean and refill the sore at least 2 times a day. If the honey or sugar becomes too thin with liquid from the sore, it will feed germs rather than kill them.
-
-# SKIN PROBLEMS OF BABIES
-
-Diaper Rash
-
-Reddish patches of irritation between a baby’s legs or buttocks may be caused by urine in his diapers (nappy) or bedding.
-
-
-NO YES
 
 **Treatment:**
 
-BARE IS BEST
+  ♦ Do all the things mentioned above.
 
-♦ Bathe the child daily with lukewarm water and mild soap. Dry her carefully.
+  ♦ 3 times a day, wash the sores with cool, boiled water mixed with mild soap.
+  Gently remove any dead flesh. Rinse well with cool, boiled water.
 
-♦ To prevent or cure the rash, the child should be kept naked, without
-diapers, and he should be taken out into the sun.
+  ♦ To fight infection and speed healing, fill the sore with honey, sugar, or molasses. (A paste made of honey and sugar is easiest to use.) It is important to clean and refill the sore at least 2 times a day. If the honey or sugar becomes too thin with liquid from the sore, it will feed germs rather than kill them.
 
-♦ If diapers are used, change them often. After washing the diapers, rinse them in water with a little vinegar.
+# SKIN PROBLEMS OF BABIES
 
-♦ It is best not to use talc (talcum powder), but if you do, wait until the rash is gone.
+**Diaper Rash**
+
+Reddish patches of irritation between a baby’s legs or buttocks may be caused by urine in his diapers (nappy) or bedding.
+
+**Treatment:**
+
+  ♦ Bathe the child daily with lukewarm water and mild soap. Dry her carefully.
+
+  ♦ BARE IS BEST. To prevent or cure the rash, the child should be kept naked, without diapers, and he should be taken out into the sun.
+
+  ♦ If diapers are used, change them often. After washing the diapers, rinse them in water with a little vinegar.
+
+  ♦ It is best not to use talc (talcum powder), but if you do, wait until the rash is gone.
 
 
 # [215](#page-215)
@@ -848,23 +894,25 @@ diapers, and he should be taken out into the sun.
 
 # DANDRUFF (Cradle Cap, Seborrhea)
 
-Dandruff is an oily, yellow to white crust that usually forms in patches on the scalp, but also on the cheeks, forehead, eyebrows, nose and ears. The skin is often red and irritated. In babies, dandruff usually results from not washing the baby’s head often enough, or from keeping the head covered. It is also a common problem for people with HIV.
+Dandruff is an oily, yellow to white crust that usually forms in patches on the scalp, but also on the cheeks, forehead, eyebrows, nose and ears.
 
-Treatment:
+The skin is often red and irritated. In babies, dandruff usually results from not washing the baby’s head often enough, or from keeping the head covered. It is also a common problem for people with HIV.
+
+
+**Treatment:**
 
 ♦ Wash the head daily. A medicated soap can help, but usually regular soap and water are enough (see [page 370](#page-370)).
 
 ♦ Gently clean off all the dandruff and crust. To loosen the scales and crust, first wrap the head with towels soaked in lukewarm water.
 
-   DO NOT COVER A BABY’S HEAD WITH A CAP OR CLOTH. KEEP THE HEAD UNCOVERED.
+>DO NOT COVER A BABY’S HEAD WITH A CAP OR CLOTH. KEEP THE HEAD UNCOVERED.
 
-NO YES
 
-♦ Keep the head uncovered, open to the air and sunlight.
+♦ BARE IS BEST! Keep the head uncovered, open to the air and sunlight.
 
 ♦ If there are signs of infection, treat as for impetigo (see [page 202](#page-202)).
 
-BARE IS BEST
+
 
 
 # [216](#page-216)
@@ -872,7 +920,7 @@ BARE IS BEST
 
 # ECZEMA (RED PATCHES WITH LITTLE BLISTERS)
 
-Signs:
+**Signs:**
 
 • In small children: a red patch or rash forms
 on the cheeks or sometimes on the arms and hands. The rash consists of small sores or blisters that ooze or weep (burst and leak fluid).
@@ -881,7 +929,8 @@ on the cheeks or sometimes on the arms and hands. The rash consists of small sor
 
 • It does not start as an infection but is more like an allergic reaction.
 
-Treatment:
+
+**Treatment:**
 
 ♦ Put cold compresses on the rash.
 
@@ -894,13 +943,14 @@ impetigo ([page 202](#page-202)).
 
 # PSORIASIS
 
-Signs:
+**Signs:**
 
 • Thick, rough patches of reddish or blue-gray skin covered with whitish or silver-colored scales. The patches appear most commonly in the parts shown in the drawings.
 
 • The condition usually lasts a long time or keeps coming back. It is not an infection and is not dangerous.
 
-Treatment:
+
+**Treatment:**
 
 ♦ Leaving the affected skin open to the sunlight often helps.
 

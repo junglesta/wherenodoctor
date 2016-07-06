@@ -31,7 +31,7 @@ _Note:_ Supplies for birth kits, the things midwives and pregnant mothers need t
 
 # HOW TO CARE FOR YOUR MEDICINE KIT
 
-  1. _CAUTION:_  Keep all medicines out of the reach of children. Any medicine taken in large doses can be poisonous.
+  1. _**CAUTION:**_  Keep all medicines out of the reach of children. Any medicine taken in large doses can be poisonous.
 
   2. Be sure that all medicine is well labeled and that directions for use are kept with each medicine. Keep a copy of this book with the medicine kit.
 
@@ -43,7 +43,7 @@ _Note:_ Supplies for birth kits, the things midwives and pregnant mothers need t
 
 _Note:_ Some medicines, especially tetracyclines, may be very dangerous if they have passed their expiration date. However, penicillins in dry form (tablets or powder for syrup or injection) can be used for as long as a year after the expiration date if they have been stored in a clean, dry, and fairly cool place.
 
-Old penicillin may lose some of its strength so you may want to increase the dose. (_CAUTION:_  While this is safe with penicillin, with other medicines it is often too dangerous to give more than the recommended dose.)
+Old penicillin may lose some of its strength so you may want to increase the dose. (_**CAUTION:**_  While this is safe with penicillin, with other medicines it is often too dangerous to give more than the recommended dose.)
 
 >Keep medicines out of reach of children.
 

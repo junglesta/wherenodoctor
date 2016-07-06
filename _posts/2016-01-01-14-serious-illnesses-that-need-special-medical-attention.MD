@@ -12,7 +12,7 @@ bookpage: 179
 >THE SOONER HE GETS MEDICAL HELP, THE BETTER HIS CHANCE OF GETTING WELL.
 
 
-_CAUTION:_  Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, [page 42](#page-42).
+_**CAUTION:**_  Many of the illnesses covered in other chapters may also be serious and require medical assistance. See the Signs of Dangerous Illness, [page 42](#page-42).
 
 
 # TUBERCULOSIS (TB, consumption)
@@ -62,7 +62,7 @@ Tuberculosis is curable. Yet thousands die needlessly from this disease every ye
 TB is usually only in the lungs. But it can affect any part of the body. In young children it may cause meningitis (see [page 185](#page-185)). For skin problems from TB, see [page 212](#page-212).
 
 
-**_If you think you might have tuberculosis:_**
+**If you think you might have tuberculosis:**
 
 Seek medical help. At the first sign of tuberculosis, go to a health center where the workers can examine you, and test the stuff you cough up (phlegm or sputum) to see if you have TB or not. Many governments give TB medicines free. Ask at the nearest health center. You will probably be given some of the following medicines:
 
@@ -86,7 +86,7 @@ the same as TB of the lungs, but the treatment may be longer. This includes TB i
 **Tuberculosis is very contagious.** It spreads when someone with TB coughs germs into the air. Anyone, especially a child, who lives with someone who has TB runs a great risk of catching the disease.
 
 
-**_If someone in the house has TB:_**
+**If someone in the house has TB:**
 
  - If possible, see that the whole family is tested for TB (Tuberculin test).
 

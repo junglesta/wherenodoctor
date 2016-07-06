@@ -442,7 +442,7 @@ This dangerous disease may come as a complication of measles, mumps, or another 
 
   ♦ If necessary, give iron salts by mouth (ferrous sulfate, [page 392](#page-392)).
 
->_CAUTION:_  Do not give iron tablets to a baby or small child. They could poison her. Instead, give iron as a liquid.  
+>**CAUTION:**  Do not give iron tablets to a baby or small child. They could poison her. Instead, give iron as a liquid.    
 Or crush a tablet into powder and mix it with food.
 
 

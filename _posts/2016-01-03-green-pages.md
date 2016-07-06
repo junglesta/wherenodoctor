@@ -2704,7 +2704,7 @@ Artesunate is a medicine of the artemisinin family.
 Artesunate must be used in combination with either amodiaquine, mefloquine, or pyrimethamine with sulfadoxine to treat falciparum malaria.
 
 
-_CAUTION:_  Women in the first 3 months of pregnancy should avoid using artesunate.
+_**CAUTION:**_  Women in the first 3 months of pregnancy should avoid using artesunate.
 
 Instead of the Artemisinin Combination Therapy (ACT), if possible give quinine and clindamycin.
 
@@ -2764,7 +2764,7 @@ In each dose, give:
 - children under 6 months: it is best not to give artemether with lumefantrine.
 
 
-_CAUTION:_  Women in the first 3 months of pregnancy should avoid using artemether.
+_**CAUTION:**_  Women in the first 3 months of pregnancy should avoid using artemether.
 
 Instead of artemether with lumefantrine, if possible give quinine and clindamycin.
 
@@ -3206,7 +3206,7 @@ It is useful in combination with other antibiotics to treat infected or high-ris
 
 It can also help to treat the symptoms of guinea worm.
 
-_CAUTION:_  Do not drink alcohol when taking metronidazole, as this causes severe nausea.
+_**CAUTION:**_  Do not drink alcohol when taking metronidazole, as this causes severe nausea.
 
 _WARNING:_  Metronidazole may cause birth defects.
 
@@ -3759,7 +3759,7 @@ Treatment can be repeated in one week.
 
 Usually several weekly treatments are needed.
 
-_CAUTION:_  If severe skin irritation develops, do not use again.
+_**CAUTION:**_  If severe skin irritation develops, do not use again.
 
 Podophyllin should not be used on bleeding warts.
 
@@ -3783,7 +3783,7 @@ Gently work the acid into the wart with the point of the toothpick.
 
 Several treatments are usually needed and can be repeated weekly.
 
-_CAUTION:_  This acid can cause severe burns.
+_**CAUTION:**_  This acid can cause severe burns.
 
 Protect hands and other healthy skin from the acid, and wash immediately in case of contact.
 
@@ -3962,7 +3962,7 @@ It also works for roundworm and pinworm, but piperazine has fewer side effects.
 
 It can be helpful in treating guinea worm, and may do some good in cases of trichinosis.
 
-_CAUTION:_  
+_**CAUTION:**_  
 
 Thiabendazole may cause roundworm (Ascaris) to crawl up the throat. This can block breathing.
 
@@ -4207,7 +4207,7 @@ _Often comes in:_ 3 or 6 mg tablets
 
 To determine the correct dose, weigh the person or use the averages below.
 
-_CAUTION:_  Do not give to children who weigh less than 15 kg.
+_**CAUTION:**_  Do not give to children who weigh less than 15 kg.
 
 (or children who are under 5 years old), to pregnant or breastfeeding women, or to persons with meningitis or other serious illness.
 
@@ -4581,7 +4581,7 @@ Chew 2 or 3 tablets.
 
 For severe stomach ulcers, it may be necessary to take 3 to 6 tablets (or teaspoons) every hour.
 
-_CAUTION:_  Do not use these medicines if you are also taking tetracycline.
+_**CAUTION:**_  Do not use these medicines if you are also taking tetracycline.
 
 Antacids with magnesium sometimes cause diarrhea, and those with aluminum may cause constipation.
 
@@ -4686,7 +4686,7 @@ If you use ORS packets, be sure you know how much water to mix with it.
 
 Too little water can be dangerous.
 
-_CAUTION:_  If you plan to take a child with diarrhea
+_**CAUTION:**_  If you plan to take a child with diarrhea
 to the health post or hospital, always give her lots
 of liquids, and if possible a homemade rehydration drink, before you leave home.
 
@@ -4804,7 +4804,7 @@ adults and children 12 years and over: 1 to 3 tablespoons by mouth at least 1 ho
 
 Do not take with meals because the oil will rob some of the vitamins from the food.
 
-_CAUTION:_  Do not give to children under 12 years old, women who are pregnant or breastfeeding, to persons who cannot get out of bed, or to persons who have trouble swallowing.
+_**CAUTION:**_  Do not give to children under 12 years old, women who are pregnant or breastfeeding, to persons who cannot get out of bed, or to persons who have trouble swallowing.
 
 **Glycerine suppositories**
 
@@ -5042,7 +5042,7 @@ _Often comes in:_
 
 Prednisolone and prednisone are cortico-steroids, strong anti-inflammatory medicines, that can treat severe asthma.
 
-_CAUTION:_  Prednisolone and prednisone should only be used for severe asthma attacks.
+_**CAUTION:**_  Prednisolone and prednisone should only be used for severe asthma attacks.
 
 Cortico-steroids can have very dangerous side effects, especially if used for more than a couple of weeks.
 
@@ -5187,7 +5187,7 @@ injections—ampules of 25 mg in 1 ml
 suppositories of 12.5 mg, 25 mg, and 50 mg
 
 
-_CAUTION:_  Do not give to children under 2 years old.
+_**CAUTION:**_  Do not give to children under 2 years old.
 
 Pregnant or breastfeeding women should only use promethazine if it is absolutely necessary.
 
@@ -5240,7 +5240,7 @@ _Often comes in_:
 - injections: ampules with 10 mg or 50 mg in 1 ml.
 
 
-_CAUTION:_  Do not give diphenhydramine to newborn babies or to women who are breastfeeding.
+_**CAUTION:**_  Do not give diphenhydramine to newborn babies or to women who are breastfeeding.
 
 It is best not to use diphenhydramine in pregnancy unless absolutely necessary.
 

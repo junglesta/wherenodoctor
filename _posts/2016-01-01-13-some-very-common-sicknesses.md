@@ -61,7 +61,7 @@ A special Rehydration Drink helps to prevent or treat dehydration, especially in
 
 - In 1 liter of clean WATER put half of a level teaspoon of SALT and 8 level teaspoons of SUGAR.
 
-- _CAUTION:_  Before adding the sugar, taste the drink and be sure it is less salty than tears.
+- _**CAUTION:**_  Before adding the sugar, taste the drink and be sure it is less salty than tears.
 
 - To either Drink add half a cup of fruit juice, coconut water, or mashed ripe banana, if available. This provides potassium which may help the child accept more food and drink.
 
@@ -73,7 +73,7 @@ A special Rehydration Drink helps to prevent or treat dehydration, especially in
 
 - Boil for 5 to 7 minutes to form a liquid gruel or watery porridge. Cool the Drink quickly and start giving it to the child.
 
-- _CAUTION:_  Taste the Drink each time before you give it to be sure it is not spoiled. Cereal drinks can spoil in a few hours in hot weather.
+- _**CAUTION:**_  Taste the Drink each time before you give it to be sure it is not spoiled. Cereal drinks can spoil in a few hours in hot weather.
 
 **IMPORTANT**
 
@@ -84,9 +84,9 @@ Give the dehydrated person sips of this Drink every 5 minutes, day and night, un
 
 A small child usually needs at least 1 liter a day, or 1 glass for each watery stool. Keep giving the Drink often in small sips, even if the person vomits. Not all of the Drink will be vomited.
 
-**_WARNING:_** If dehydration gets worse or other danger signs appear, go for medical help (see [page 159](#page-159)). It may be necessary to give liquid in a vein (intravenous solution).
+_**WARNING:**_ If dehydration gets worse or other danger signs appear, go for medical help (see [page 159](#page-159)). It may be necessary to give liquid in a vein (intravenous solution).
 
-**_Note:_ ** In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
+_**Note:**_ In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
 
 
 
@@ -575,7 +575,7 @@ To help clear a stuffy nose, do the following:
 
   5. Persons who often get earaches or sinus trouble after a cold can help prevent these problems by using decongestant nose drops with phenylephrine or ephedrine ([page 383](#page-383)). After sniffing a little salt water, put the drops in the nose like this: _With the head sideways, put 2 or 3 drops in the lower nostril. Wait a couple of minutes and then do the other side._
 
-_CAUTION:_  **Use decongestant drops no more than 3 times a day, for no more than 3 days.**
+_**CAUTION:**_  **Use decongestant drops no more than 3 times a day, for no more than 3 days.**
 
 A decongestant syrup (with phenylephrine or something similar) may also help.
 
@@ -589,7 +589,7 @@ A decongestant syrup (with phenylephrine or something similar) may also help.
 Sinusitis is an acute or chronic (long-term) inflammation of the sinuses or hollows in the bone that open into the nose. It usually occurs after a person has had an infection of the ears or throat, or after a bad cold.
 
 
-Signs:
+**Signs:**
 
   • Pain in the face above and below the eyes, here (It hurts more when you tap lightly just over the bones, or when the person bends over.)
 
@@ -599,7 +599,8 @@ Signs:
 
   • Certain teeth may hurt.
 
-Treatment:
+
+**Treatment:**
 
   ♦ Drink a lot of water.
 
@@ -622,7 +623,7 @@ When you get a cold and a stuffy nose, try to keep your nose clear. Follow the i
 
 Runny nose and itchy eyes can be caused by an allergic reaction to something in the air that a person has breathed in (see the next page). It is often worse at certain times of year.
 
-Treatment:
+**Treatment:**
 
 Use an antihistamine such as chlorpheniramine ([page 386](#page-386)). Dimenhydrinate (Dramamine, [page 386](#page-386)), usually sold for motion sickness, also works.
 
@@ -804,7 +805,7 @@ Coughing is the body’s way of cleaning the breathing system and getting rid of
 
   Also **breathe hot water vapors**. Sit on a chair with a bucket of very hot water at your feet. Place a sheet over the bucket to catch the vapors as they rise. Breathe the vapors deeply for 15 minutes. Repeat several times a day. Some people like to add mint or eucalyptus leaves or Vaporub, but hot water works just as well alone.
 
-  _CAUTION:_  Do not use eucalyptus or Vaporub if the person has asthma. They make it worse.
+  _**CAUTION:**_  Do not use eucalyptus or Vaporub if the person has asthma. They make it worse.
 
 
   2. For all kinds of cough, especially a dry cough, the following cough syrup can be given:
@@ -1022,7 +1023,7 @@ Very low back pain sometimes comes from problems in the uterus, ovaries, or rect
 
   Do this first on one side and then the other.
 
-  **_CAUTION:_** Do not try this if the back pain is from a fall or injury.
+  _**CAUTION:**_ Do not try this if the back pain is from a fall or injury.
 
     ♦ If back pain from lifting or twisting is sudden and severe with knife-like pain when you bend over, if the pain goes into the leg(s), or if a foot becomes numb or weak, this is serious. A nerve coming from the back may be ‘pinched’ by a slipped disc (pad between the bones of the back). It is best to rest flat on your back for a few days. It may help to put something firm under the knees and mid back.
 
@@ -1066,7 +1067,7 @@ If the bleeding still does not stop, seek medical advice. Or try to control the 
 
 First, clean the anus with soap and water. Use a blade that has been sterilized by boiling to cut a small opening in the hemorrhoid. Use sterilized tweezers to pull out the clot. Put pressure on the cut with a clean cloth until bleeding stops.
 
-_CAUTION:_  Do not try to cut the hemorrhoid out. The person can bleed to death.
+_**CAUTION:**_  Do not try to cut the hemorrhoid out. The person can bleed to death.
 
 
 # [176](#page-176)
@@ -1126,7 +1127,7 @@ PLAN FOR A SIMPLE TRUSS:
 not like this.
 Put a little cushion here so it presses against the groin.
 
-**_CAUTION:_ **
+_**CAUTION:**_
 
 If a hernia suddenly becomes large or painful, try to make it go back in by lying with the feet higher than the head and pressing gently on the bulge. If it will not go back, seek medical help.
 

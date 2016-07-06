@@ -204,7 +204,7 @@ Examples:
 - **Fruits** (mangoes, oranges, papayas)
 
 
-**_Note to nutrition workers:_** This plan for meeting food needs resembles teaching about ‘food groups’, but places more importance on giving enough of the traditional ‘main food’ and above all, giving frequent feedings with plenty of energy-rich helpers. This approach is more adaptable to the resources and limitations of poor families.
+_**Note to nutrition workers:**_ This plan for meeting food needs resembles teaching about ‘food groups’, but places more importance on giving enough of the traditional ‘main food’ and above all, giving frequent feedings with plenty of energy-rich helpers. This approach is more adaptable to the resources and limitations of poor families.
 
 
 # [112](#page-112)
@@ -547,7 +547,7 @@ Remember, a young child’s stomach is small and cannot hold much food at one ti
 A spoonful of cooking oil added to a child’s food means he has to eat only 3/4 as much of the local main food in order to meet his energy needs. The added oil helps make sure he gets enough energy (calories) by the time his belly is full.
 
 
->_CAUTION:_  The time when a child is most likely to become malnourished is from 6 months to 2 years old. This is because breast milk by itself does not provide enough energy for a baby after 6 months of age. Other foods are needed, but often the foods given do not contain enough energy either. If the mother also stops breastfeeding, the child is even more likely to become malnourished.
+>**CAUTION:**  The time when a child is most likely to become malnourished is from 6 months to 2 years old. This is because breast milk by itself does not provide enough energy for a baby after 6 months of age. Other foods are needed, but often the foods given do not contain enough energy either. If the mother also stops breastfeeding, the child is even more likely to become malnourished.
 
 For a child of this age to be healthy we should:
 
@@ -848,7 +848,7 @@ Whether stomach or chest pain is caused by heartburn, acid indigestion, or an ul
 An ulcer is an open sore in the stomach or gut.
 
 
-_CAUTION:_
+_**CAUTION:**_
 
   1. Some antacids, such as sodium bicarbonate (baking soda) and Alka-Seltzer may quickly calm acid indigestion, but soon cause more acid. They should be used only for occasional indigestion, never for ulcers. This is also true for antacids with calcium.
 

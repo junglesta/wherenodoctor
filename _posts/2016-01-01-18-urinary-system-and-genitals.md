@@ -199,7 +199,7 @@ In a man, the first signs begin 2 to 5 days (or up to 3 weeks or more) after sex
 
   ♦ Protect the eyes of all newborn babies from chlamydia and especially gonorrhea, which can cause blindness (see [page 221](#page-221)).
 
-__CAUTION:_ _
+_**CAUTION:**_
 
 A person with gonorrhea or chlamydia may also have syphilis without knowing it. Sometimes it is best to go ahead and give the full treatment for syphilis, because the gonorrhea or chlamydia treatment may prevent the first syphilis symptoms, but may not cure the disease.
 
@@ -224,7 +224,7 @@ All of these signs usually go away by themselves, making the person think he is 
 
 **Note:** Yaws shares many of the same signs as syphilis (see [page 202](#page-202)).
 
-_CAUTION:_  If any strange rash or skin condition shows up days or weeks after a pimple or sore appears on the genitals, it may be syphilis. Get medical advice.
+_**CAUTION:**_  If any strange rash or skin condition shows up days or weeks after a pimple or sore appears on the genitals, it may be syphilis. Get medical advice.
 
 _Treatment for syphilis:_ **(For complete cure, the full treatment is essential.)**
 

@@ -230,7 +230,8 @@ Mothers in different lands realize that when the soft spot sinks inward their ba
 They try to correct this by sucking on the soft spot, by pushing up on the roof of the mouth, or by holding the baby upside down and slapping his feet. This does not help because... A sunken soft spot is really caused by dehydration ([see page 151](#page-151)).
 
 This means the child is losing more liquid than he is drinking. He is too dry, usually because he has diarrhea, or diarrhea with vomiting.
-Treatment:
+
+**Treatment:**
 
 1. Give the child plenty of liquid: Rehydration Drink ([see page 152](#page-152)), breast milk, or boiled water.
 
@@ -309,7 +310,7 @@ Many plants have curative powers. Some of the best modern medicines are made fro
 
 Nevertheless, not all ‘curative herbs’ people use have medical value... and those that have are sometimes used the wrong way. Try to learn about the herbs in your area and find out which ones are worthwhile.
 
-**_CAUTION:_ ** Some medicinal herbs are very poisonous if taken in more than the recommended dose. For this reason it is often safer to use modern medicine, since the dosage is easier to control.
+_**CAUTION:**_ Some medicinal herbs are very poisonous if taken in more than the recommended dose. For this reason it is often safer to use modern medicine, since the dosage is easier to control.
 
 Here are a few examples of plants that can be useful if used correctly:
 

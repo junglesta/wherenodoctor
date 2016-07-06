@@ -1,0 +1,8 @@
+<script type="text/javascript">
+/*on IOS font: caption; no works! so handle it via css*/
+
+/*Microsoft injected the word “iPhone” in IE11’s userAgent, which is why I’ve added the !window.MSStream here:*/
+if (navigator.userAgent.match(/(ipad|iphone|ipod)/i) && !window.MSStream) {
+  document.documentElement.className += " ios";
+}
+</script>

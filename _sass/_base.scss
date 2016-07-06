@@ -22,7 +22,14 @@ h1, h2, h3, h4, h5, h6 {
 
 
 html {
+  // Set everything to use the system font:
   font: caption;
+
+  .ios & { // if IOS use:
+    // Used as a fallback
+    font: sans-serif;
+    font-family: "-apple-system", "HelveticaNeue", sans-serif; }
+
   font-size: $base_rem_size;
   line-height: $base_line_height;
 
@@ -353,6 +360,10 @@ blockquote {
   font-weight: $base_font_weight;
   letter-spacing: -1px;
   font-style: italic;
+  @include media( "screen", ">minWidth") {
+    margin-left: $spacing_unit;
+    margin-right: $spacing_unit;
+  }
 
   > :last-child {
     margin-bottom: 0;
