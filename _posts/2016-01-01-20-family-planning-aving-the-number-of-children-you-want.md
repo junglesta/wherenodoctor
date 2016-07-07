@@ -273,7 +273,7 @@ Birth control pills do not protect against HIV or other sexually transmitted inf
 
 ## COMBINATION PILLS
 
-Different brands of combination birth control pills have different doses of 2 hormones, estrogen and progestin. (For descriptions of the most common brands and how to take them, see pages [page 393](#page-393) and [page 394](#page-394)).
+Different brands of combination birth control pills have different doses of 2 hormones, estrogen and progestin. (For descriptions of the most common brands and how to take them, see [page 393](#page-393) and [page 394](#page-394)).
 
 ## THE MINIPILL (progestin-only pills)
 
