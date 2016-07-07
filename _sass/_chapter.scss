@@ -50,6 +50,7 @@ main {
   }
 }
 .chapter_title {
+  min-height: 300px;
   overflow: hidden;
   background-color: transparentize(lighten($brand_color, 40%), .5);
 

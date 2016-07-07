@@ -42,27 +42,27 @@ _Note:_  Some health workers and many doctors give medicines when none is needed
 
 Here is a list of the most common and dangerous errors people make in using modern medicines. The improper use of the following medicines causes many deaths each year. BE CAREFUL!
 
-## 1. Chloramphenicol (Chloromycetin) ([page 356](#page-356))
+## 1. Chloramphenicol (Chloromycetin)
 
-The popular use of this medicine for simple diarrhea and other mild sicknesses is extremely unfortunate, because it is so risky. Use chloramphenicol only for very severe illnesses, like typhoid (see [page 188](#page-188)). Never give it to babies younger than 1 month old.
+The popular use of this medicine ([page 356](#page-356)) for simple diarrhea and other mild sicknesses is extremely unfortunate, because it is so risky. Use chloramphenicol only for very severe illnesses, like typhoid (see [page 188](#page-188)). Never give it to babies younger than 1 month old.
 
-## 2. Oxytocin (Pitocin), Ergonovine (Ergotrate), and Misoprostol (Cytotec) ([page 390](#page-390))
+## 2. Oxytocin (Pitocin), Ergonovine (Ergotrate), and Misoprostol (Cytotec)
 
-Unfortunately, some midwives use these medicines to speed up childbirth or ‘give strength’ to the mother in labor. This practice is very dangerous. It can kill the mother or the child. Use these medicines only to control bleeding after the child is born (see [page 266](#page-266)).
+Unfortunately, some woman use these medicines ([page 390](#page-390)) to speed up childbirth or ‘give strength’ to the mother in labor. This practice is very dangerous. It can kill the mother or the child. Use these medicines only to control bleeding after the child is born (see [page 266](#page-266)).
 
 ## 3. Injections of any medicine
 
 The common belief that injections are usually better than medicine taken by mouth is not true. Many times medicines taken by mouth work as well as or better than injections. Also, most medicine is more dangerous injected than when taken by mouth. Injections given to a child who has a mild polio infection (with only signs of a cold) can lead to paralysis (see [page 74](#page-74)). Use of injections should be very limited (read Chapter 9 carefully).
 
-## 4. Penicillin ([page 350](#page-350))
+## 4. Penicillin
 
-Penicillin works only against certain types of infections. Use of penicillin for sprains, bruises, or any pain or fever is a great mistake. As a general rule, injuries that do not break the skin, even if they make large bruises, have no danger of infection; they do not need to be treated with penicillin or any other antibiotic. Neither penicillin nor other antibiotics helps colds (see [page 163](#page-163)).
+Penicillin works only against certain types of infections. ([page 350](#page-350)) Use of penicillin for sprains, bruises, or any pain or fever is a great mistake. As a general rule, injuries that do not break the skin, even if they make large bruises, have no danger of infection; they do not need to be treated with penicillin or any other antibiotic. Neither penicillin nor other antibiotics helps colds (see [page 163](#page-163)).
 
 Penicillin is dangerous for some people. Before using it, know its risks and the precautions you must take, see [page 70](#page-70) and [page 350](#page-350).
 
-## 5. Gentamicin  (Garamycin) ([page 358](#page-358))
+## 5. Gentamicin  (Garamycin)
 
-Too much use of this antibiotic for babies has caused permanent hearing loss (deafness) in millions of babies. Give to babies only for life-threatening infections. For many infections of the newborn, ampicillin works as well and is much less dangerous.
+Too much use of this antibiotic ([page 358](#page-358)) for babies has caused permanent hearing loss (deafness) in millions of babies. Give to babies only for life-threatening infections. For many infections of the newborn, ampicillin works as well and is much less dangerous.
 
 
 # [51](#page-51)
@@ -70,38 +70,51 @@ Too much use of this antibiotic for babies has caused permanent hearing loss (de
 
 
 
-## 6. Anti-diarrhea medicines with hydroxyquinolines (Clioquinol, di-iodohydroxyquinoline, halquinol, broxyquinoline: Diodoquin, Enteroquinol, Amicline, Quogyl, and many other brand names) ([page 369](#page-369))
+## 6. Anti-diarrhea medicines with hydroxyquinolines
+
+Anti-diarrhea medicines with hydroxyquinolines (Clioquinol, di-iodohydroxyquinoline, halquinol, broxyquinoline: Diodoquin, Enteroquinol, Amicline, Quogyl, and many other brand names) ([page 369](#page-369))
 
 In the past clioquinols were widely used to treat diarrhea. These dangerous medicines are now prohibited in many countries, but in others are still sold. They can cause permanent paralysis, blindness, and even death. For treatment of diarrhea, see Chapter 13.
 
-## 7. Cortisone and cortico-steroids (Prednisolone, dexamethasone, and others)
+## 7. Cortisone and cortico-steroids
+
+**(Prednisolone, dexamethasone, and others)**
 
 These are powerful anti-inflammatory drugs that are needed for severe attacks of asthma, arthritis, or severe allergic reactions. But in many countries, steroids are prescribed for minor aches and pains because they often give quick results. This is a big mistake. Steroids cause serious or dangerous side effects, especially if used in high doses or for more than a few days. They lower a person’s defenses against infection. They can make tuberculosis much worse, cause bleeding of stomach ulcers, and make bones so weak that they break easily.
 
-## 8. Anabolic steroids (Nandrolone decanoate, Durabolin, Deca-Durabolin, Orabolin; stanozolol, Cetabon; oxymetholone, Anapolon; ethylestrenol, Organaboral. There are many other brand names.)
+## 8. Anabolic steroids
+
+**(Nandrolone decanoate, Durabolin, Deca-Durabolin, Orabolin; stanozolol, Cetabon; oxymetholone, Anapolon; ethylestrenol, Organaboral. There are many other brand names.)**
 
 Anabolic steroids are made from male hormones and are mistakenly used in tonics to help children gain weight and grow. At first the child may grow faster, but he will stop growing sooner and end up shorter than he would have if he had not taken the medicine. Anabolic steroids cause very dangerous side effects. Girls grow hair on their faces like boys, which does not go away, even when the child stops taking the medicine. Do not give growth tonics to children. Instead, to help your child grow, use the money to buy food.
 
-## 9. Arthritis medicines (Butazones: oxyphenbutazone, Amidozone; and phenylbutazone, Butazolidin)
+## 9. Arthritis medicines
+
+**(Butazones: oxyphenbutazone, Amidozone; and phenylbutazone, Butazolidin)**
 
 These medicines for joint pain (arthritis) can cause a dangerous, sometimes deadly, blood disease (agranulocytosis). They can also damage the stomach, liver, and kidneys. Do not use these dangerous medicines. For arthritis, aspirin ([page 378](#page-378)) or ibuprofen ([page 379](#page-379)) is much safer and cheaper. For pain and fever only, acetaminophen ([page 379](#page-379)) can be used.
 
-## 10. Vitamin B12, liver extract, and iron injections ([page 392](#page-392))
+## 10. Vitamin B12, liver extract, and iron injections
 
-Vitamin B12 and liver extract do not help anemia or ‘weakness’ except in rare cases. Also, they have certain risks when injected. They should only be used when a specialist has prescribed them after testing the blood. Also, avoid injectable iron, such as Imferon. To combat anemia, iron pills are safer and work as well (see [page 124](#page-124)).
+Vitamin B12 and liver extract do not help anemia or ‘weakness’ except in rare cases. ([page 392](#page-392)) Also, they have certain risks when injected.
+
+They should only be used when a specialist has prescribed them after testing the blood. Also, avoid injectable iron, such as Imferon. To combat anemia, iron pills are safer and work as well (see [page 124](#page-124)).
 
 
 # [52](#page-52)
 {:.no_toc}
 
-## 11. Other vitamins ([page 391](#page-391))
+## 11. Other vitamins
 
-As a general rule, DO NOT INJECT VITAMINS. Injections are more dangerous, more
-expensive, and usually no more effective than pills.
-Unfortunately, many people waste their money on syrups, tonics, and ‘elixirs’
-that contain vitamins. Many lack the most important vitamins (see [page 118](#page-118)). But even when they contain them, it is wiser to buy more and better food. Body-building and protective foods like beans, eggs, meat, fruit, vegetables, and whole grains are rich in vitamins and other nutrients (see [page 111](#page-111)). Giving a thin, weak person good food more often will usually help him far more than giving him vitamin and mineral supplements.
+As a general rule, DO NOT INJECT VITAMINS. Injections are more dangerous, more expensive, and usually no more effective than pills. ([page 391](#page-391))
 
-THE BEST WAY TO GET VITAMINS:
+Unfortunately, many people waste their money on syrups, tonics, and ‘elixirs’ that contain vitamins. Many lack the most important vitamins (see [page 118](#page-118)).
+
+But even when they contain them, it is wiser to buy more and better food. Body-building and protective foods like beans, eggs, meat, fruit, vegetables, and whole grains are rich in vitamins and other nutrients (see [page 111](#page-111)).
+
+Giving a thin, weak person good food more often will usually help him far more than giving him vitamin and mineral supplements.
+
+**THE BEST WAY TO GET VITAMINS:**
 
 For more information about vitamins, when they are necessary, and the foods that have them, read Chapter 11, especially [page 111](#page-111) and [page 118](#page-118).
 
@@ -133,7 +146,9 @@ Injecting calcium into a vein can be extremely dangerous. It can quickly kill so
 
 _Note:_ In Mexico and other countries where people eat a lot of corn tortillas or other foods prepared with lime (“cal”, not the fruit), it is foolish to use calcium injections or tonics (as is often done to ‘give strength’ or ‘help children grow’). The body gets all the calcium it needs from the lime.
 
-## 14. ‘Feeding’ through the veins (Intravenous or ‘I.V.’ solutions)
+## 14. ‘Feeding’ through the veins
+
+**(Intravenous or ‘I.V.’ solutions)**
 
 In some areas, persons who are anemic or very weak spend their last penny to have a liter of I.V. solution put into their veins. They believe that this will make them stronger or their blood richer. But they are wrong! Intravenous solution is nothing more than pure water with some salt or sugar in it. It gives less energy than a large candy bar and makes the blood thinner, not richer. It does not help anemia or make the weak person stronger.
 
