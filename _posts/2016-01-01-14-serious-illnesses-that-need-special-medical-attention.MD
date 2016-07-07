@@ -239,12 +239,12 @@ Tetanus is a deadly disease. Seek medical help at the first sign. If there is an
 
   - Inject 1 million units of procaine penicillin at once and repeat every 12 hours for 7 to 10 days ([page 352](#page-352)). (For newborn babies crystalline penicillin is better.) After using injected penicillin for 2 days, you can switch to penicillin by mouth (penicillin V, [page 351](#page-351)). If there is no penicillin, use another antibiotic, like tetracycline.
 
-  - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (see pages [page 70](#page-70) and [page 388](#page-388)).
+  - If you can get it, inject 5000 units of Antitetanus Immunoglobulin (human tetanus immune globulin, HTIG), 1 time only. Be sure to follow all the precautions (See [page 70](#page-70) and [page 388](#page-388)).
 
   - As long as the person can swallow, give nutritious liquids in frequent small sips.
 
   - To control convulsions, give diazepam (Valium) by mouth or in the rectum (for
-  dosages see pages [page 388](#page-388) to [page 390](#page-390)).
+  dosages See [page 388](#page-388) to [page 390](#page-390)).
 
   - Touch and move the person as little as possible. Avoid noise and bright light.
 
@@ -295,7 +295,7 @@ Get medical help fast, every minute counts! If possible take the person to a hos
 
   - Inject ampicillin every 6 hours, 500 mg for children or 1 g for adults (see [page 353](#page-353)). Also give ceftriaxone or gentamicin (see [page 358](#page-358)).
 
-  - If there is high fever (more than 40°), lower it with wet cloths and acetaminophen or aspirin (see pages [page 378](#page-378) to [page 379](#page-379)).
+  - If there is high fever (more than 40°), lower it with wet cloths and acetaminophen or aspirin (See [page 378](#page-378) to [page 379](#page-379)).
 
   - If the mother has tuberculosis or if you have any other reason to suspect that the child has tubercular meningitis, inject him with 20 mg of streptomycin for each kg. he weighs and get medical help at once. Also, use ampicillin in case the meningitis is not from TB.
 
@@ -341,7 +341,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 
   - If you suspect malaria or have repeated fevers, if possible go to a health center for a blood test. In areas where an especially dangerous type of malaria called falciparum occurs, seek treatment immediately.
 
-  - In areas where malaria is common and blood tests are not available, treat any unexplained high fever as malaria. Take the malaria medicine known to work best in your area. (See pages [page 363](#page-363) to [page 367](#page-367)for dosages and information on malaria medicines.)
+  - In areas where malaria is common and blood tests are not available, treat any unexplained high fever as malaria. Take the malaria medicine known to work best in your area. (See [page 363](#page-363) to [page 367](#page-367)for dosages and information on malaria medicines.)
 
   - If you get better with the medicine, but after several days the fevers start again, you may need another medicine. Get advice from the nearest health center.
 
@@ -367,7 +367,7 @@ Malaria occurs more often during hot, rainy seasons. If everyone cooperates, it 
 
  4. **Destroy mosquitos and their young.** Mosquitos breed in water that is not flowing. Clear ponds, pits, old cans, or broken pots that collect water. Raise mosquito-eating fish in ponds or lakes. Fill the tops of bamboo posts with sand and keep water containers covered.
 
- 5. Malaria can also be prevented, or its effects greatly reduced, by taking anti-malaria medicines on a regular schedule. See pages [page 363](#page-363) to [page 367](#page-367).
+ 5. Malaria can also be prevented, or its effects greatly reduced, by taking anti-malaria medicines on a regular schedule. See [page 363](#page-363) to [page 367](#page-367).
 
 
 # DENGUE (breakbone fever, dandy fever)
@@ -611,7 +611,7 @@ Later signs differ according to the person’s natural resistance to the disease
 
 **Treatment of leprosy:**
 
-Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (see pages [page 362](#page-362) to [page 363](#page-363)).
+Leprosy is usually curable, but medicine must usually be taken for years. The best medicine is dapsone, combined with 1 or 2 other medicines (See [page 362](#page-362) to [page 363](#page-363)).
 
 If a ‘lepra reaction’ (fever, a rash, pain and perhaps swelling of hands and feet, or eye damage) occurs or gets worse while taking the medicine, keep taking it but get medical help.
 

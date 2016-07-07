@@ -313,7 +313,7 @@ Keep giving the Drink, even if the person vomits it out again. Some will stay in
 
 ♦ If you cannot control the vomiting or if the dehydration gets worse, seek medical help fast.
 
-3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, see pages [page 144](#page-144) to [page 145](#page-145).)
+3. Diarrhea with mucus and blood. Often chronic. No fever. There may be diarrhea some days and constipation other days. (Possibly amebic dysentery. For more details, See [page 144](#page-144) to [page 145](#page-145).)
 
 ♦ Use metronidazole ([page 368](#page-368)). Take the medicine according to the recommended dose. If the diarrhea continues after treatment, seek medical advice.
 
@@ -540,7 +540,7 @@ For treating coughs and stuffy noses that come with colds, see the next pages.
 
 WARNING: Do not give any kind of antibiotic or injections to a child with a simple cold. They will not help and may cause harm.
 
-If a cold or the flu lasts more than a week, or if the person has fever, coughs up a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (see pages [page 170](#page-170) and [page 171](#page-171)). An antibiotic may be called for.
+If a cold or the flu lasts more than a week, or if the person has fever, coughs up a lot of phlegm (mucus with pus), has shallow fast breathing or chest pain, he could be developing bronchitis or pneumonia (See [page 170](#page-170) and [page 171](#page-171)). An antibiotic may be called for.
 
 The danger of a cold turning into pneumonia is greater in old people, in those who have lung problems like chronic bronchitis, in people who cannot move much, and in people with HIV. People with HIV can take cotrimoxazole daily to prevent pneumonia and other infections (see [page 357](#page-357)).
 
@@ -949,7 +949,7 @@ Hepatitis B is more serious and can lead to permanent scarring of the liver (cir
 
 **Prevention:**
 
-  ♦ Small children often have hepatitis without any signs of sickness, but they can spread the disease to others. It is very important that everyone in the house follow all the guidelines of cleanliness with great care (see pages [page 133](#page-133) to [page 139](#page-139)).
+  ♦ Small children often have hepatitis without any signs of sickness, but they can spread the disease to others. It is very important that everyone in the house follow all the guidelines of cleanliness with great care (See [page 133](#page-133) to [page 139](#page-139)).
 
   ♦ The Hepatitis A virus passes from the stool of one person to the mouth of another by way of contaminated water or food. To prevent others from getting sick, bury the sick person’s stools. The sick person, his family and caregivers must try to stay clean and wash their hands often.
 

@@ -419,7 +419,7 @@ is when it can spread to other people. These signs will also disappear. But if i
 
 **Treatment:**
 
-♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (see pages [page 237](#page-237) to [page 238](#page-238)).
+♦ Though the yaws bacteria is related to syphilis, it is spread by physical, not sexual, contact. Yaws can be tested for using the same test and treated using the same medicines and doses for syphilis (See [page 237](#page-237) to [page 238](#page-238)).
 
 # BOILS AND ABSCESSES
 

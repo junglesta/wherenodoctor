@@ -2149,7 +2149,7 @@ _In each dose give:_
 
 **Gentamicin**
 
-Gentamicin is an injectable antibiotic that is used for very serious infections such as septicemia in a newborn and infection after giving birth (see pages [page 275](#page-275) and [page 276](#page-276)for dosages).
+Gentamicin is an injectable antibiotic that is used for very serious infections such as septicemia in a newborn and infection after giving birth (See [page 275](#page-275) and [page 276](#page-276)for dosages).
 
 Gentamicin should only be given by an experienced health worker, and only when other, safer medicines
 are not available.

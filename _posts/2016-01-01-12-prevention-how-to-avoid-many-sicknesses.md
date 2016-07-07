@@ -374,7 +374,7 @@ A stool analysis is needed to prove that they are there.
 
  **Treatment:**
 
- Use mebendazole, albendazole, or pyrantel. For dosage and precautions, see pages [page 373](#page-373) to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
+ Use mebendazole, albendazole, or pyrantel. For dosage and precautions, See [page 373](#page-373) to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
 
  >Prevent hookworm: **Build and use latrines. Do not let children go barefoot.**
 
@@ -434,7 +434,7 @@ In serious cases the person may have:
   • small bruises (black or blue spots) on the skin
   • bleeding in the whites of the eyes
 
-**Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, see pages [page 373](#page-373) and [page 374](#page-374). (Cortico-steroids may help, but should be given by a health worker or doctor.)
+**Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, See [page 373](#page-373) and [page 374](#page-374). (Cortico-steroids may help, but should be given by a health worker or doctor.)
 
 **Important:** If several people who ate meat from the same pig get sick afterward, suspect trichinosis. This can be dangerous; seek medical attention.
 
