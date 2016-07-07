@@ -12,17 +12,15 @@ bookpage: 339
 
 The medicines in this section are grouped according to their uses.
 
-For example, all the medicines used to treat infections caused by worms are listed under the heading FOR WORMS.
+For example, all the medicines used to treat infections caused by worms are listed under the heading [FOR WORMS](#for-worms).
 
+If you want information on a medicine, look for the name of that medicine in the [LIST OF MEDICINES](#page-341).
 
-If you want information on a medicine, look for the name of that medicine in the LIST OF MEDICINES beginning on [page 341](#page-341).
-
-Or look for the medicine in the [INDEX OF MEDICINES](#page-345) beginning on [page 345](#page-345).
+Or look for the medicine in the [INDEX OF MEDICINES](#page-345).
 
 When you find the name you are looking for, turn to the page number shown.
 
-
-Medicines are listed according to their generic (scientific) names rather than their brand names (names given by the companies that make them).
+Medicines are listed according to their **generic (scientific) names** rather than their brand names (names given by the companies that make them).
 
 This is because generic names are similar everywhere, but brand names differ from place to place.
 
@@ -1314,7 +1312,6 @@ Too much does no harm and only wastes money.
 
 Too little does not completely stop the infection and may make the bacteria resistant (more difficult to kill).
 
-
 In certain persons penicillin causes allergic reactions.
 
 Mild allergic reactions include itchy raised spots or rashes.
@@ -1348,7 +1345,7 @@ Use injectable penicillin only for severe or dangerous infections.
 Before injecting penicillin or any medicine that contains it, take the precautions given on [page 71](#page-71).
 
 
-### resistance to penicillin
+### RESISTANCE to penicillin
 
 Sometimes penicillin does not work against an infection it would normally control.
 
@@ -1373,9 +1370,9 @@ Pneumonia is also sometimes resistant to penicillin—try cotrimoxazole ([page 3
 {:.no_toc}
 
 
-**PENICILLIN BY MOUTH**
+### PENICILLIN by mouth
 
-Penicillin V (phenoxymethyl penicillin)
+**Penicillin V** (phenoxymethyl penicillin)
 
 _Often comes in:_ 250 mg (400,000 U) tablets
 
@@ -1395,32 +1392,28 @@ Penicillin by mouth (rather than injections) should be used for mild and moderat
 
 If infection is severe, it may be best to start with injections of penicillin, but often penicillin by mouth can be given instead once improvement begins.
 
-If improvement does not begin within 2 or
-3 days, consider using another antibiotic and try to get medical advice.
+If improvement does not begin within 2 or 3 days, consider using another antibiotic and try to get medical advice.
 
 
 _Dosage of_ penicillin for mild infections:
 
-- adults and children over 12 years: 250 to 500 mg, 4 times a day for 10 days
+  - adults and children over 12 years: 250 to 500 mg, 4 times a day for 10 days
 
-- children from 6 to 12 years: 125 to 250 mg, 4 times a day for 10 days
+  - children from 6 to 12 years: 125 to 250 mg, 4 times a day for 10 days
 
+  - children from 1 to 5 years old: 125 mg, 4 times a day for 10 days
 
-- children from 1 to 5 years old: 125 mg, 4 times a day for 10 days
-
-
-- children less than 1 year old: 62.5 mg, 4 times a day for 10 days
+  - children less than 1 year old: 62.5 mg, 4 times a day for 10 days
 
 For more serious infections: double the above dosage.
 
-For strep throat (to prevent rheumatic fever):
-take the above dosage 2 times a day for 10 days.
+For strep throat (to prevent rheumatic fever): take the above dosage 2 times a day for 10 days.
 
 To help the body make better use of the medicine, always take penicillin on an empty stomach, at least 1 hour after or 2 hours before meals.
 
-INJECTABLE PENICILLIN
+### INJECTABLE PENICILLIN
 
-Penicillin G, benzylpenicillin
+**Penicillin G**, benzylpenicillin
 
 Injectable penicillin should be used for certain severe infections, including:
 
@@ -1440,7 +1433,7 @@ Injectable penicillin comes in many different preparations.
 
 Before you inject any penicillin, be sure to check the amount and the kind.
 
-### choosing the right kind of penicillin for injection:
+**choosing the right kind of penicillin for injection:**
 
 Some kinds of penicillin do their job quickly but do not last long.
 
@@ -1480,7 +1473,7 @@ Benzathine penicillin often comes combined with faster-acting penicillins.
 {:.no_toc}
 
 
-Crystalline penicillin (benzylpenicillin, penicillin G, etc.)
+**Crystalline penicillin** (benzylpenicillin, penicillin G, etc.)
 (a short-acting penicillin)
 
 _Often comes in:_  vials of 1 million U (600 mg) or 5 million U (3 g)
@@ -1488,15 +1481,13 @@ _Often comes in:_  vials of 1 million U (600 mg) or 5 million U (3 g)
 
 _Dosage of_ crystalline penicillin or any short-acting penicillin—for severe infections:
 
-Give an injection every 4 hours for 10 to 14 days.
+Give an injection every 4 hours for 10 to 14 days. In each injection give:
 
-In each injection give:
+  - adults and children over age 8: 1 million U
 
-- adults and children over age 8: 1 million U
+  - children age 3 to 8: 500,000 U
 
-- children age 3 to 8: 500,000 U
-
-- children under 3: 250,000 U
+  - children under 3: 250,000 U
 
 For very severe infections, higher doses should be given.
 
@@ -1530,11 +1521,9 @@ However, it is better to use a short-acting penicillin.
 
 The dosage for procaine penicillin combined with a short-acting penicillin is the same as for procaine penicillin alone.
 
-Benzathine benzylpenicillin (benzathine penicillin G) (a long-acting penicillin)
-
+**Benzathine benzylpenicillin (benzathine penicillin G)** (a long-acting penicillin)
 
 _Often comes in:_  vials of 1,200,000 or 2,400,000 U
-
 
 _Dosage of_ benzathine benzylpenicillin—for mild to moderately severe infections:
 
@@ -1578,13 +1567,12 @@ These broad-spectrum penicillins kill many more kinds of bacteria than other pen
 
 They are safer than other broad-spectrum antibiotics and are especially useful for babies and small children.
 
-
+>Ampicillin and amoxicillin are often interchangeable.
 
 # [353](#page-353)
 {:.no_toc}
 
 
-Ampicillin and amoxicillin are often interchangeable.
 
 When you see a recommendation for ampicillin in this book, you will often be able to use amoxicillin in its place, in the correct dose (see below).
 
@@ -1656,8 +1644,6 @@ For meningitis: double the above dosage AND also give ceftriaxone OR gentamicin.
 
 ### ERYTHROMYCIN: an alternative to penicillin
 
-Erythromycin
-
 _Often comes in:_
 
 - tablets or capsules of 250 mg
@@ -1692,21 +1678,19 @@ Give 1 dose 3 or 4 times a day for 7 to 10 days.
 
 _In each dose give:_
 
-- adults: 500 mg (2 tablets or 4 teaspoons), 4 times a day
+  - adults: 500 mg (2 tablets or 4 teaspoons), 4 times a day
 
-- children 3 to 12 years: 250 mg (1 tablet or 2 teaspoons), 3 times a day
+  - children 3 to 12 years: 250 mg (1 tablet or 2 teaspoons), 3 times a day
 
-- children under 3 years: 125 mg (1⁄2 tablet or 1⁄2 to 1 teaspoon), 3 times a day
+  - children under 3 years: 125 mg (1⁄2 tablet or 1⁄2 to 1 teaspoon), 3 times a day
 
 For more serious infections: double the above dosage.
 
 For cholera: (where erythromycin works for cholera): give the same doses listed above, but only for 3 days.
 
-For use in the eyes: see [page 378](#page-378).
+For use in the eyes: [see page 378](#page-378).
 
-For newborn eye infection: Give 30 to 50 mg per kg each day, divided into 3 doses a day.
-
-Give for 7 to 10 days.
+For newborn eye infection: Give 30 to 50 mg per kg each day, divided into 3 doses a day. Give for 7 to 10 days.
 
 For an average-sized newborn of about 3 kg, each dose should be: 0.75 ml (this is a bit more than 1⁄8 teaspoon) of 250 mg/5 ml erythromycin syrup, OR 62 mg (1⁄4 of a 250 mg tablet) ground up in a little breast milk or water.
 
@@ -1718,7 +1702,7 @@ For an average-sized newborn of about 3 kg, each dose should be: 0.75 ml (this i
 
 ### TETRACYCLINES: broad-spectrum antibiotics
 
-Tetracycline (tetracycline HCI, oxytetracycline, etc.)
+**Tetracycline (tetracycline HCI, oxytetracycline, etc.)**
 (Familiar but expensive brand: Terramycin)
 
 _Often comes in:_
@@ -1735,23 +1719,23 @@ Tetracycline should be taken by mouth, as this works as well and causes fewer pr
 
 Tetracycline can be used for:
 
-- diarrhea or dysentery caused by bacteria or amebas
+  - diarrhea or dysentery caused by bacteria or amebas
 
-- sinusitis
+  - sinusitis
 
-- respiratory infections typhus
+  - respiratory infections typhus
 
-- brucellosis
+  - brucellosis
 
-- cholera
+  - cholera
 
-- trachoma
+  - trachoma
 
-- chlamydia
+  - chlamydia
 
-- pelvic inflammatory disease stomach ulcers
+  - pelvic inflammatory disease stomach ulcers
 
-- syphilis
+  - syphilis
 
 Tetracycline does no good for the common cold.
 
@@ -1803,14 +1787,13 @@ For cholera: (where tetracycline works for cholera): give the same doses listed 
 
 For use in the eyes: see [page 378](#page-378).
 
-Doxycycline
-(familiar brand name: Vibramycin)
+**Doxycycline familiar brand name: Vibramycin)**
 
-Often comes in:
+_Often comes in:_
 
-capsules or tablets of 100 mg
+  - capsules or tablets of 100 mg
 
-ampules with 100 mg for injection
+  - ampules with 100 mg for injection
 
 Doxycycline is an expensive form of tetracycline that is taken twice a day instead of 4 times a day.
 
@@ -1821,26 +1804,25 @@ Otherwise, the risks and precautions are the same as for tetracycline.
 
 _Dosage of_ doxycycline—tablets of 100 mg
 
-Give doxycycline by mouth twice a day for 7 to
-10 days.
+Give doxycycline by mouth twice a day for 7 to 10 days.
 
 _In each dose give:_
 
-- adults: 100 mg (1 tablet)
+  - adults: 100 mg (1 tablet)
 
-- children 8 to 12: 50 mg (1⁄2 tablet)
+  - children 8 to 12: 50 mg (1⁄2 tablet)
 
-- children under 8: **Do not use doxycycline**.
+  - children under 8: **Do not use doxycycline**.
 
 For cholera (where doxycycline works against cholera):
 
-- Give 6 mg per kg, one time only.
+  - Give 6 mg per kg, one time only.
 
 Or dose by age:
 
-- 8 to 12 years: give 150 mg, one time only.
+  - 8 to 12 years: give 150 mg, one time only.
 
-- Over 12 years: give 300 mg, one time only.
+  - Over 12 years: give 300 mg, one time only.
 
 
 
@@ -1851,7 +1833,7 @@ Or dose by age:
 
 ### CHLORAMPHENICOL: an antibiotic for certain severe infections
 
-Chloramphenicol (Chloromycetin)
+**Chloramphenicol (Chloromycetin)**
 
 _Often comes in:_
 
@@ -1963,42 +1945,39 @@ Important: **Take with lots of water.**
 For brucellosis, ear infections, diarrhea with blood and fever (shigella), impetigo, chronic bronchitis with fever, infected wounds, and respiratory infections (pneumonia): Take 2 times a day for 5 days.
 
 
-_In each dose give:_
-
-- adults and children over 12 years: 2 tablets
-
-- children 6 to 12 years: 1 tablet
-
-- children 6 months to 5 years: 1⁄2 table
-
-- babies 6 weeks to 5 months old: 1⁄4 tablet
-
-- babies under 6 weeks: Do not give cotrimoxazole.
-
-
-
 # [357](#page-357)
 {:.no_toc}
 
-- For bladder infection or UTI: Take two 480 mg tablets 2 times a day for 3 days.
 
-- For kidney infection: Take two 480 mg tablets 2 times a day for 10 days.
+_In each dose give:_
 
-- Adults with HIV can take a 480 mg dose of cotrimoxazole 2 times every day—with lots of water—to prevent diarrhea, pneumonia, and other infections.
+  - adults and children over 12 years: 2 tablets
 
-Avoiding infections will help people with HIV live longer, healthier lives.
+  - children 6 to 12 years: 1 tablet
 
-- Children with HIV should also take cotrimoxazole.
+  - children 6 months to 5 years: 1⁄2 table
+
+  - babies 6 weeks to 5 months old: 1⁄4 tablet
+
+  - babies under 6 weeks: Do not give cotrimoxazole.
+
+  - For bladder infection or UTI: Take two 480 mg tablets 2 times a day for 3 days.
+
+  - For kidney infection: Take two 480 mg tablets 2 times a day for 10 days.
+
+  - Adults with HIV can take a 480 mg dose of cotrimoxazole 2 times every day—with lots of water—to prevent diarrhea, pneumonia, and other infections. Avoiding infections will help people with HIV live longer, healthier lives.
+
+  - Children with HIV should also take cotrimoxazole.
 
 Using 480 mg tablets:
 
- - children 6 to 14 years old: 1 tablet once a day
+   - children 6 to 14 years old: 1 tablet once a day
 
- - children 6 months to 6 years old: 1⁄2 tablet once a day
+   - children 6 months to 6 years old: 1⁄2 tablet once a day
 
- - children under 6 months old: 1⁄4 tablet once a day
+   - children under 6 months old: 1⁄4 tablet once a day
 
- - People with HIV who get pneumonia should take 1920 mg (four 480 mg tablets) of cotrimoxazole 3 times every day for 21 days.
+   - People with HIV who get pneumonia should take 1920 mg (four 480 mg tablets) of cotrimoxazole 3 times every day for 21 days.
 
 Other than pneumonia, the doses for people with HIV to treat bloody diarrhea and other problems are the same as listed above.
 
@@ -2155,39 +2134,41 @@ Since it may be difficult or expensive to get a laboratory test for chlamydia, i
 
 You may also want to treat for trichomonas (see [page 367](#page-367)).
 
-For gonorrhea, use one of the following:
-ceftriaxone, one injection of 250 mg, one time only
+_For gonorrhea, use one of the following:_
+
+**ceftriaxone**, one injection of 250 mg, one time only
 
 OR
 
-spectinomycin, one injection of 2 g, one time only
+**spectinomycin**, one injection of 2 g, one time only
 
 Pregnant women, or women who are breastfeeding should not take spectinomycin.
 
-For chlamydia, use one of the following:
-doxycycline ([page 355](#page-355)): 100 mg by mouth, 2 times a day for 7 days
+_For chlamydia, use one of the following:_
+
+**doxycycline** ([page 355](#page-355)): 100 mg by mouth, 2 times a day for 7 days
 
 OR
 
-azithromycin: 1 g by mouth, one time only
+**azithromycin**: 1 g by mouth, one time only
 
 OR
 
-amoxicillin ([page 353](#page-353)): 500 mg by mouth,
+**amoxicillin** ([page 353](#page-353)): 500 mg by mouth,
 3 times a day for 7 days
 
 OR
 
-erythromycin ([page 354](#page-354)): 500 mg by mouth, 4 times a day for 7 days.
+**erythromycin** ([page 354](#page-354)): 500 mg by mouth, 4 times a day for 7 days.
 
 Always take erythromycin with food.
 
 OR
 
-tetracycline ([page 355](#page-355)): 500 mg by mouth, 4 times a day for 7 days
+**tetracycline** ([page 355](#page-355)): 500 mg by mouth, 4 times a day for 7 days
 Do not take doxycycline or tetracycline if you are pregnant or breastfeeding.
 
-Women who are pregnant or breastfeeding can use azithromycin, erythromycin, or amoxicillin.
+Women who are pregnant or breastfeeding can use **azithromycin**, **erythromycin**, or **amoxicillin**.
 
 
 
@@ -2211,9 +2192,9 @@ The full, long-term treatment for TB is extremely important to kill the TB bacte
 
 Drug resistance means that the best and least expensive TB drugs no longer work against the TB bacteria.
 
-MDR (Multi-Drug Resistant) TB is more costly to treat, the medicines must be taken for 8 to 20 months, and they have more side effects.
+**MDR (Multi-Drug Resistant) TB** is more costly to treat, the medicines must be taken for 8 to 20 months, and they have more side effects.
 
-XDR (eXtensively Drug Resistant) TB is very difficult to cure.
+**XDR (eXtensively Drug Resistant) TB** is very difficult to cure.
 
 Medicines for tuberculosis are available through government programs that test for TB and give medicines free or at low cost.
 
@@ -2227,11 +2208,11 @@ Also, some programs give medicines only 3 times a week, in higher doses.
 
 The recommended treatments for TB are on the next page.
 
-Isoniazid (INH) and rifampicin should always be used together in the treatment of TB.
+**Isoniazid (INH)** and **rifampicin** should always be used together in the treatment of TB.
 
-Ethambutol and streptomycin are also often used to treat TB.
+**Ethambutol** and **streptomycin** are also often used to treat TB.
 
-Taking pyrazinamide with INH and rifampicin can improve the likelihood that the patient is cured.
+Taking **pyrazinamide with INH** and **rifampicin** can improve the likelihood that the patient is cured.
 
 
 If medicines cause itching, yellow skin and eyes (jaundice), or stomach pains, see a health worker about changing the dosage or medicines.
@@ -2283,7 +2264,7 @@ All doses should be taken every day.
 
 Otherwise use the combination of medicines in number 1 (without pyrazinamide) or in number 2.
 
-Never use streptomycin during pregnancy.
+**Never use streptomycin during pregnancy.**
 
 Also give 50 mg. of vitamin B6 (pyridoxine) every day.
 
@@ -2495,15 +2476,15 @@ _Recommended treatment:_
 
 For PB leprosy take both of these for at least 6 months:
 
-Dapsone daily Rifampicin each month
+**Dapsone** daily **Rifampicin** each month
 
 For MB leprosy take all of these for 1 year (12 months):
 
-Dapsone daily
+**Dapsone** daily
 
-Clofazimine daily and a larger dose each month
+**Clofazimine** daily and a larger dose each month
 
-Rifampicin each month
+**Rifampicin** each month
 
 Occasionally, a person may develop a serious problem called ‘lepra reaction’ while taking leprosy medicines.
 
@@ -2568,81 +2549,11 @@ In each monthly dose give:
 {:.no_toc}
 
 
-
-
-**Clofazimine (Lamprene)**
-
-OTHER MEDICINES
-
-MEDICINES FOR MALARIA
-
-There are many medicines that fight malaria.
-
-Unfortunately, in many parts of the world, malaria parasites have become resistant to the best malaria medicines.
-
-This is especially true for the most serious type of malaria (falciparum malaria).
-
-It is important to learn from health workers, local health centers, or the Health Department what medicines work best in your area.
-
-IMPORTANT: Malaria can quickly kill persons
-who have not developed immunity.
-
-Children, and people who visit areas with malaria, must be treated immediately.
-
-Medicines for malaria can be used in two ways: 1.
-
-TREATMENT of the person who is ill with malaria.
-
-Medicine is given daily for just a few days.
-
-2.
-
-PREVENTION: To keep any malaria parasites that may be in the blood from doing harm.
-
-Prevention is used in areas where malaria is common, especially to protect children who are weak or sick for other reasons.
-
-It is also used by persons visting a malaria area who have no defenses against the disease.
-
-Medicines are usually given weekly.
-
-To prevent malaria, also be sure to follow the advice on [page 187](#page-187) to avoid mosquito bites.
-
-Certain malaria medicines are used only to treat attacks of malaria, while some only work for prevention.
-
-Others can be used for both.
-
-For treating falciparum malaria (the most serious type of malaria), a medicine in the artemesinin family must be taken in combination with a second medicine.
-
-This is called Artemisinin-based Combination Therapy, or ACT.
-
-Talk to a health worker or the Ministry of Health to find out the recommendations for your area.
-
-_Some common combinations are:_
-
-Artemether with lumefantrine (comes as a combined pill)
-
-Artesunate and pyrimethamine with sulfadoxine
-
-Artesunate and mefloquine
-
-Artesunate and amodiaquine
-
-Women in the first 3 months of pregnancy should try to avoid using artemether and artesunate, and should instead take a combination of quinine and clindamycin if possible.
-
-For falciparum malaria that has become resistant to many medicines, doxycycline ([page 355](#page-355)) or quinine should be taken along with the ACT.
-
-
-# [364](#page-364)
-{:.no_toc}
-
-
 **Clofazimine (Lamprene)**
 
 _Often comes in:_  capsules of 50 and 100 mg.
 
-**Clofazimine is also an expensive medicine.**
-
-Although it is less effective in killing leprosy bacteria than rifampicin, it has the advantage that it also helps to control lepra reaction to some extent, particularly in persons with MB (lepromatous) leprosy.
+Clofazimine is also an expensive medicine. Although it is less effective in killing leprosy bacteria than rifampicin, it has the advantage that it also helps to control lepra reaction to some extent, particularly in persons with MB (lepromatous) leprosy.
 
 _Side effects:_ Causes the skin to become a red-purple color.
 
@@ -2669,18 +2580,77 @@ In each monthly dose give:
   - adults: 300 mg (six 50 mg capsules) children 10 to 12 years: 150 mg (three
   50 mg capsules)
 
-  - children under 10 years: 100 mg (two 50 mg
-  capsules)
+  - children under 10 years: 100 mg (two 50 mg capsules)
 
 _Note:_ The larger dose of clofazimine, which can also be used daily to control lepra reaction, is best given with the advice of an experienced health worker or doctor.
 
 
-Other, less serious types of malaria can be treated with chloroquine, sometimes followed by primaquine.
+# OTHER MEDICINES
 
-In some places, even falciparum malaria can still be treated with chloroquine followed by primaquine.
+## FOR MALARIA
+
+There are many medicines that fight malaria.
+
+Unfortunately, in many parts of the world, malaria parasites have become resistant to the best malaria medicines.
+
+This is especially true for the most serious type of malaria (falciparum malaria).
+
+It is important to learn from health workers, local health centers, or the Health Department what medicines work best in your area.
+
+IMPORTANT: Malaria can quickly kill persons
+who have not developed immunity.
+
+Children, and people who visit areas with malaria, must be treated immediately.
+
+Medicines for malaria can be used in two ways:
+
+1. **TREATMENT** of the person who is ill with malaria. Medicine is given daily for just a few days.
+
+2. **PREVENTION:** To keep any malaria parasites that may be in the blood from doing harm.
+
+Prevention is used in areas where malaria is common, especially to protect children who are weak or sick for other reasons.
+
+It is also used by persons visting a malaria area who have no defenses against the disease.
+
+Medicines are usually given weekly.
+
+To prevent malaria, also be sure to follow the advice on [page 187](#page-187) to **avoid mosquito bites**.
+
+Certain malaria medicines are used only to treat attacks of malaria, while some only work for prevention.
+
+Others can be used for both.
+
+For treating falciparum malaria (the most serious type of malaria), a medicine in the artemesinin family must be taken in combination with a second medicine.
+
+This is called Artemisinin-based Combination Therapy, or ACT.
+
+Talk to a health worker or the Ministry of Health to find out the recommendations for your area.
+
+_Some common combinations are:_
+
+**Artemether** with **lumefantrine** (comes as a combined pill)
+
+**Artesunate** and **pyrimethamine** with **sulfadoxine**
+
+**Artesunate** and **mefloquine**
+
+**Artesunate** and **amodiaquine****
+
+Women in the first 3 months of pregnancy should try to avoid using artemether and artesunate, and should instead take a combination of **quinine** and **clindamycin** if possible.
+
+For falciparum malaria that has become resistant to many medicines, **doxycycline** ([page 355](#page-355)) or quinine should be taken along with the ACT.
 
 
-To prevent malaria, use doxycycline, mefloquine, proguanil, or chloroquine.
+# [364](#page-364)
+{:.no_toc}
+
+
+Other, less serious types of malaria can be treated with **chloroquine**, sometimes followed by **primaquine**.
+
+In some places, even falciparum malaria can still be treated with **chloroquine** followed by **primaquine**.
+
+
+To prevent malaria, use **doxycycline**, **mefloquine**, **proguanil**, or **chloroquine**.
 
 **Artesunate**
 
@@ -2790,6 +2760,11 @@ Give one time, on the first day of taking artesunate:
 Also give artesunate.
 
 
+
+# [365](#page-365)
+{:.no_toc}
+
+
 **Mefloquine (familiar brand name: Lariam)**
 
 
@@ -2836,24 +2811,17 @@ Also give artesunate.
 
 **For prevention of malaria:**
 
-Give once a week continuing until 4 weeks after leaving malaria area.
+Give once a week continuing until 4 weeks after leaving malaria area:
 
-- adults: 1 tablet (250 mg)
+  - adults: 1 tablet (250 mg)
 
-- children over 45 kg: 1 tablet (250 mg)
+  - children over 45 kg: 1 tablet (250 mg)
 
-- children 31 to 45 kg: 3⁄4 tablet (188 mg) children 20 to 30 kg: 1⁄2 tablet (125 mg)
+  - children 31 to 45 kg: 3⁄4 tablet (188 mg) children 20 to 30 kg: 1⁄2 tablet (125 mg)
 
-- children 15 to 19 kg: 1⁄4 tablet (63 mg)
+  - children 15 to 19 kg: 1⁄4 tablet (63 mg)
 
-- children under 15 kg: **not recommended**
-
-
-
-# [365](#page-365)
-{:.no_toc}
-
-
+  - children under 15 kg: **not recommended**
 
 
 **Amodiaquine**
@@ -2934,7 +2902,7 @@ Injections of quinine should be given only rarely, in cases of great emergency.
 If a person who shows signs of malaria, or lives in an area where there is a lot of malaria, is vomiting, having seizures (convulsions), or showing other signs
 of meningitis (see [page 185](#page-185)), he may have cerebral malaria (malaria in the brain).
 
-Inject quinine at once.
+**Inject quinine at once.**
 
 Or, if you have no other medicine available, try injecting chloroquine, 2.5 mg per kg of body weight, 7 times spread over 2 days.
 
@@ -2942,11 +2910,9 @@ Or, artesunate can be injected in the muscle or vein to treat severe malaria.
 
 Artesunate is very effective but it must be prepared as a solution of artesunate powder, sodium bicarbonate, and dextrose, just before injection.
 
-Great care must be taken to be sure the dose is right.
+**Great care must be taken to be sure the dose is right. Seek medical help.**
 
-Seek medical help.
-
-Quinine dihydrochloride injections, 300 mg in 2 ml
+_Quinine dihydrochloride injections, 300 mg in 2 ml_
 
 Quinine injections should be given very slowly, and never directly into the vein—this can be dangerous to the heart.
 
