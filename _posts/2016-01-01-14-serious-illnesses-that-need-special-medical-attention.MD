@@ -278,14 +278,23 @@ This is a very serious infection of the brain, more common in children. It may b
 **Signs:**
 
   - Fever
+
   - Severe headache.
+
   - Stiff neck. The child looks very ill, and lies with his head and neck bent back, like this:
+
   - The back is too stiff to put the head between the knees.
+
   - In babies under a year old: the fontanel (soft spot on top of the head) bulges out.
+
   - Vomiting is common.
+
   - In babies and young children, early meningitis may be hard to recognize. The child may cry in a strange way (the ‘meningitis cry’), even when the mother puts the child on her breast. Or the child may become very sleepy.
+
   - Sometimes there are seizures (fits, convulsions) or strange movements.
+
   - The child often gets worse and worse and only becomes quiet when he loses consciousness completely.
+
   - Tubercular meningitis develops slowly, over days or weeks. Other forms of meningitis come on more quickly, in hours or days.
 
 
@@ -326,7 +335,7 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 
   1. It begins with chills, and often headache. The person shivers or shakes for 15 minutes to an hour.
 
-  2. Chills are followed by fever, often 40° or more. The person is weak,  ushed (red skin), and at times delirious (not in his right mind). The fever lasts several hours or days.
+  2. Chills are followed by fever, often 40° or more. The person is weak, rushed (red skin), and at times delirious (not in his right mind). The fever lasts several hours or days.
 
   3. Finally the person begins to sweat, and his temperature goes down. After an attack, the person feels weak, but may feel more or less OK.
 
@@ -334,8 +343,9 @@ Malaria is an infection of the blood that causes chills and high fever. Malaria 
 
   - Chronic malaria often causes a large spleen and anemia (see [page 124](#page-124)). For people with HIV ([page 399](#page-399)) it can cause them to get sick faster.
 
-  - In young children, anemia and paleness can begin within a day or two. In children with malaria affecting the brain (cerebral malaria), seizures (fits) may be followed
-  by periods of unconsciousness. Also, the palms may show a blue gray color, and breathing may be rapid and deep. (_Note:_ Children who have not been breastfed are more likely to get malaria.)
+  - In young children, anemia and paleness can begin within a day or two. In children with malaria affecting the brain (cerebral malaria), seizures (fits) may be followed by periods of unconsciousness.
+
+  Also, the palms may show a blue gray color, and breathing may be rapid and deep. (_Note:_ Children who have not been breastfed are more likely to get malaria.)
 
 ## Analysis and treatment
 
@@ -649,6 +659,6 @@ Also look for spots or areas on the hands and feet that are red, hot, swollen or
 
 If you cannot blink well, close your eyes tightly often during the day, especially when dust blows. Wear sun glasses with side shades, and maybe a sun hat. Keep eyes clean and flies away.
 
-If you do these things and begin treatment early, most deformitie swith leprosy can be prevented.
+If you do these things and begin treatment early, most deformities with leprosy can be prevented.
 
 For more information about Hansen’s disease, see Disabled Village Children, Chapter 26.

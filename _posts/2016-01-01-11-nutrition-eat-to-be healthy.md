@@ -62,9 +62,13 @@ Not eating well may be the direct cause of the health problems just listed. But 
 
 
   - Poorly nourished children are much more likely to get severe diarrhea, and to die from it, than are children who are well nourished.
+
   - Measles is especially dangerous where many children are malnourished.
+
   - Tuberculosis is more common, and gets worse more rapidly, in those who are malnourished.
+
   - Cirrhosis of the liver, which comes in part from drinking too much alcohol, is more common and worse in persons who are poorly nourished.
+
   - Even minor problems like the common cold are usually worse, last longer, or lead to pneumonia more often in persons who are poorly nourished.
 
 >Eating right helps the sick get well
@@ -99,8 +103,11 @@ People who do not eat right develop malnutrition. This can happen from not eatin
 Anyone can develop general malnutrition, but it is especially dangerous for:
 
   - children, because they need lots of food to grow well and stay healthy;
+
   - women of child bearing age, especially if they are pregnant or breastfeeding, because they need extra food to stay healthy, to have healthy babies, and to do their daily work;
+
   - elderly persons, because often they lose their teeth and their taste for food, so they cannot eat much at one time, even though they still need to eat well to stay healthy;
+
   - people with HIV, because they need more food to fight their infection.
 
 A malnourished child does not grow well. She generally is thinner and shorter than other children. Also, she is more likely to be irritable, to cry a lot, to move and play less than other children, and to get sick more often. If the child also gets diarrhea or other infections, she will lose weight. A good way to check if a child is poorly nourished is to measure the distance around her upper arm.
@@ -319,7 +326,8 @@ When money is limited, it is important to use it wisely. This means cooperation 
 Also, some parents buy sweets or soft drinks (fizzy drinks) for their children when they could spend the same money buying eggs, milk, nuts or other nutritious foods. This way their children could become more healthy for the same amount of money. Discuss this with the families and look for solutions.
 
 IF YOU HAVE A LITTLE MONEY AND WANT TO HELP YOUR CHILD GROW STRONG:
-DO NOT BUY HIM A SOFT DRINK OR SWEETS,  BUY HIM 2 EGGS OR A HANDFUL OF NUTS.
+
+Do not buy him a soft drink or sweets,  buy him 2 eggs or a handful of nuts.
 
 
 # [116](#page-116)

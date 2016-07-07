@@ -42,7 +42,7 @@ Many times pigs, dogs, chickens, and other animals spread intestinal disease and
 
   - Then the pig goes into the house.
 
-  - In the house a child is playing on the  oor. In this way, a bit of the man’s stool gets on the child, too.
+  - In the house a child is playing on the floor. In this way, a bit of the man’s stool gets on the child, too.
 
   - Later the child starts to cry, and the mother takes
   him in her arms.
@@ -62,11 +62,16 @@ Many kinds of infections, as well as worm eggs, are passed from one person to an
 If the family had taken any of the following precautions, the spread of the sickness could have been prevented:
 
   - if the man had used a latrine or out-house,
+
   - if the family had not let the pigs come into the house,
+
   - if they had not let the child play where the pig had been,
+
   - if the mother had washed her hands after touching the child and before preparing food.
 
-If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness. If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see [page 154](#page-154) and Chapter 11).
+If there are many cases of diarrhea, worms, and other intestinal parasites in your village, people are not being careful enough about cleanliness.
+
+If many children die from diarrhea, it is likely that poor nutrition is also part of the problem. To prevent death from diarrhea, both cleanliness and good nutrition are important (see [page 154](#page-154) and Chapter 11).
 
 
 # [133](#page-133)
@@ -96,7 +101,7 @@ If there are many cases of diarrhea, worms, and other intestinal parasites in yo
 
 3. If children or animals have a bowel movement near the house, clean it up at once. Teach children to use a latrine or at least to go farther from the house.
 
-4. Hang or spread sheets and blankets in the sun often. If there are bedbugs, pour boiling water on the cots and wash the sheets and blanketsall on the same day (see [page 200](#page-200)).
+4. Hang or spread sheets and blankets in the sun often. If there are bedbugs, pour boiling water on the cots and wash the sheets and blankets all on the same day (see [page 200](#page-200)).
 
 5. De-louse the whole family often (see [page 200](#page-200)). Lice and fleas carry many diseases. Dogs and other animals that carry fleas should not come into the house.
 
@@ -120,7 +125,7 @@ A good, low-cost way to purify water is to put it in a clean, clear bottle or a 
 
 2. Do not let flies and other insects land or crawl on food. These insects carry germs and spread disease. Do not leave food scraps or dirty dishes lying around, as these attract flies and breed germs. Protect food by keeping it covered or in boxes or cabinets with wire screens.
 
-3. Before eating fruit that has fallen to the ground, wash it well. Do not let children pick up and eat food that has been droppedwash it first.
+3. Before eating fruit that has fallen to the ground, wash it well. Do not let children pick up and eat food that has been dropped, wash it first.
 
 4. Only eat meat and fish that is well cooked. Be careful that roasted meat, especially pork and fish, do not have raw parts inside. Raw pork carries dangerous diseases.
 
@@ -139,19 +144,13 @@ A good, low-cost way to purify water is to put it in a clean, clear bottle or a 
 
 1. A sick child like this one should sleep apart from children who are well. Sick children or children with sores, itchy skin, or lice should always sleep separately from those who are well. Children with infectious diseases like whooping cough, measles, or the common cold should sleep in separate rooms, if possible, and should not be allowed near babies or small children.
 
-2. Protect children from tuberculosis. People with long-term coughing or other signs of tuberculosis should cover their mouths whenever they cough. They should never sleep
-in the same room with children. They should see a health worker and be treated as soon as possible.
-Children living with a person who has tuberculosis should be vaccinated against TB (B.C.G. Vaccine).
+2. Protect children from tuberculosis. People with long-term coughing or other signs of tuberculosis should cover their mouths whenever they cough. They should never sleep in the same room with children. They should see a health worker and be treated as soon as possible. Children living with a person who has tuberculosis should be vaccinated against TB (B.C.G. Vaccine).
 
 3. Bathe children, change their clothes, and cut their fingernails often. Germs and worm eggs often hide beneath long fingernails.
 
 4. Treat children who have infectious diseases as soon as possible, so that the diseases are not spread to others.
 
-5. Follow all the guidelines of cleanliness
-mentioned in this chapter. Teach children to follow these
-guidelines and explain why
-they are important. Encourage
-children to help with projects that make the home or village a healthier place to live.
+5. Follow all the guidelines of cleanliness mentioned in this chapter. Teach children to follow these guidelines and explain why they are important. Encourage children to help with projects that make the home or village a healthier place to live.
 
 6. Be sure children get enough good food. Good nutrition helps protect the body against many infections. A well-nourished child will usually resist or fight off infections that can kill a poorly nourished child (read Chapter 11).
 
@@ -173,8 +172,7 @@ Here is a drawing of a simple out-house that is easy to build.
 
 It helps to throw a little lime, dirt, or ashes in the hole after each use to reduce the smell and keep flies away.
 
-Out-houses should be built at least 20 meters from homes or the source of water.
-If you do not have an out-house, go far away from where people bathe or get drinking water. Teach your children to do the same.
+Out-houses should be built at least 20 meters from homes or the source of water. If you do not have an out-house, go far away from where people bathe or get drinking water. Teach your children to do the same.
 
 Ideas for better latrines are found on the next pages. Also latrines can be built to produce good fertilizer for gardens. See A Community Guide to Environmental Health, Chapter 7.
 
@@ -187,7 +185,7 @@ The latrine or out-house shown on the previous page is very simple and costs alm
 
 Closed latrines are better because the flies stay out and the smell stays in. A closed latrine has a platform or slab with a hole in it and a lid over the hole. The slab can be made of wood or cement. Cement is better because the slab fits more tightly and will not rot.
 
-One way to make a cement slab:
+**One way to make a cement slab:**
 
 1. Dig a shallow pit, about 1 meter square and 7 cm. deep. Be sure the bottom of the pit is level and smooth.
 
@@ -210,7 +208,7 @@ If you prefer to sit when you use the latrine, make a cement seat like this: Mak
 
 ### Closed latrine
 
-To make the closed latrine, the slab should be placed over a round hole in the ground. Dig the hole a little less than 1 meter across and between 1 and 2 meters deep. To be safe, the latrine should be at least 20 meters from all houses, wells, springs, rivers or streams. If it is anywhere near where people go for water, be sure to put the latrine downstream.
+To make the closed latrine, the slab should be placed over a round hole in the ground. Dig the hole a little less than 1 meter across and between 1 and 2 meters deep. To be safe, the latrine should be at least 20 meters from all houses, wells, springs, rivers or streams. **If it is anywhere near where people go for water, be sure to put the latrine downstream.**
 
   - more than 20 m.
 
@@ -233,9 +231,9 @@ To make the closed latrine, the slab should be placed over a round hole in the g
 
   - 3 m.
 
-To make the Ventilated Improved Pit (VIP) latrine, make a larger slab (2 meters square) with 2 holes in it. Over one hole put a ventilation pipe, covered with fly screen (wire screen lasts longer). Over the other hole build an out house, which must be kept dark inside. Leave this hole uncovered.
+To make the **Ventilated Improved Pit (VIP)** latrine, make a larger slab (2 meters square) with 2 holes in it. Over one hole put a ventilation pipe, covered with fly screen (wire screen lasts longer). Over the other hole build an out house, which must be kept dark inside. Leave this hole uncovered.
 
-This latrine helps get rid of odors and flies: smells escape through the pipe, and flies get trapped there and die!
+This latrine helps **get rid of odors and flies**: smells escape through the pipe, and flies get trapped there and die!
 
 
 # [140](#page-140)
@@ -279,7 +277,9 @@ Once the eggs are swallowed, young worms hatch and enter the bloodstream;
 
 this may cause general itching. The young worms then travel to the lungs, sometimes causing a dry cough or at worst, pneumonia with coughing of blood. The young worms are coughed up, swallowed, and reach the intestines, where they grow to full size.
 
-Many roundworms in the intestines may cause discomfort, indigestion, and weakness. Children with many roundworms often have very large, swollen bellies. Rarely, roundworms may cause asthma, or a dangerous obstruction or blockage in the gut (see [page 94](#page-94)). Especially when the child has a fever, the worms sometimes come out in the stools or crawl out through the mouth or nose. Occasionally they crawl into the airway and cause gagging.
+Many roundworms in the intestines may cause discomfort, indigestion, and weakness. Children with many roundworms often have very large, swollen bellies.
+
+Rarely, roundworms may cause asthma, or a dangerous obstruction or blockage in the gut (see [page 94](#page-94)). Especially when the child has a fever, the worms sometimes come out in the stools or crawl out through the mouth or nose. Occasionally they crawl into the airway and cause gagging.
 
 
 
@@ -290,6 +290,7 @@ Use latrines, wash hands before eating or handling food, protect food from flies
 **Treatment:**
 
 Mebendazole will usually get rid of roundworms. For dosage see [page 373](#page-373). Piperazine also works (see [page 374](#page-374)). Some home remedies work fairly well. For a home remedy using papaya See [page 13](#page-13).
+
 WARNING: Do not use thiabendazole for roundworms. It often makes the worms move up to the nose or mouth and can cause gagging.
 
 
@@ -317,8 +318,7 @@ These worms are not dangerous. Itching may disturb the child’s sleep.
 
 ♦ Cut his fingernails very short.
 
-♦ Change his clothes and bathe him oftenwash the buttocks and nails
-especially well.
+♦ Change his clothes and bathe him often wash the buttocks and nails especially well.
 
 ♦ Put Vaseline in and around his anus at bedtime to help stop itching.
 
@@ -345,10 +345,9 @@ The same as for roundworm.
 
 **Treatment:**
 
-If the worms cause a problem, give mebendazole. For dosage, see
-page 374. For prolapse of the rectum, turn the child upside down and pour cool water on the intestine. This should make it pull back in.
+If the worms cause a problem, give mebendazole. For dosage, [see page 374](#page-374). For prolapse of the rectum, turn the child upside down and pour cool water on the intestine. This should make it pull back in.
 
-Hookworm
+**Hookworm**
 
 1 cm. long. Color: red.
 
@@ -370,13 +369,13 @@ A stool analysis is needed to prove that they are there.
 
 6. The hookworm eggs leave the body in the person’s stools. The eggs hatch on moist soil.
 
- Hookworm infection can be one of the most damaging diseases of childhood. Any child who is anemic, very pale, or eats dirt may have hookworms. If possible, his stools should be analyzed.
+Hookworm infection can be one of the most damaging diseases of childhood. Any child who is anemic, very pale, or eats dirt may have hookworms. If possible, his stools should be analyzed.
 
- **Treatment:**
+**Treatment:**
 
- Use mebendazole, albendazole, or pyrantel. For dosage and precautions, See [page 373](#page-373) to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
+Use mebendazole, albendazole, or pyrantel. For dosage and precautions, See [page 373](#page-373) to [page 375](#page-375). Treat anemia by eating foods rich in iron and if necessary by taking iron pills ([page 124](#page-124)).
 
- >Prevent hookworm: **Build and use latrines. Do not let children go barefoot.**
+>Prevent hookworm: **Build and use latrines. Do not let children go barefoot.**
 
 
 # [143](#page-143)
@@ -429,9 +428,13 @@ These worms are never seen in the stools. They burrow through the person’s int
 In serious cases the person may have:
 
   • fever with chills
+
   • muscle pain
+
   • swelling around the eyes and sometimes swelling of the feet Severe cases may last 3 or 4 weeks.
+
   • small bruises (black or blue spots) on the skin
+
   • bleeding in the whites of the eyes
 
 **Treatment:** Seek medical help at once. Albendazole or mebendazole may help. For dosages, See [page 373](#page-373) and [page 374](#page-374). (Cortico-steroids may help, but should be given by a health worker or doctor.)
@@ -442,20 +445,17 @@ In serious cases the person may have:
 
   ♦ Only eat pork and other meat that has been well cooked.
 
-  ♦ Do not feed scraps of meat or leftovers from butchering to pigs unless the meat
-  has first been cooked.
+  ♦ Do not feed scraps of meat or leftovers from butchering to pigs unless the meat has first been cooked.
 
 # Amebas
 
-These are not worms, but tiny animalsor parasitesthat can be seen only with a microscope (an instrument that makes things look much bigger).
+These are not worms, but tiny animals or parasites that can be seen only with a microscope (an instrument that makes things look much bigger).
 
 **How they are transmitted:**
 
 The stools of infected people contain millions of these tiny parasites. Because of poor sanitation, they get into the source of drinking water or into food, and other people become infected.
 
 **Signs of infection with amebas:**
-
-Ameba as seen under a microscope.
 
 Many healthy people have amebas without becoming sick. However, amebas are a common cause of severe diarrhea or dysentery (diarrhea with blood) especially in persons already weakened by other sickness or poor nutrition. Less commonly, amebas cause painful, dangerous abscesses in the liver.
 
@@ -467,9 +467,9 @@ Many healthy people have amebas without becoming sick. However, amebas are a com
 
 **Typical amebic dysentery consists of:**
 
-  • diarrhea that comes and goessometimes alternating with constipation
+  • diarrhea that comes and goes sometimes alternating with constipation
 
-  • cramps in the belly and a need to have frequent bowel movements, even when little or nothingor just mucuscomes out
+  • cramps in the belly and a need to have frequent bowel movements, even when little or nothing or just mucus comes out
 
   • many loose (but usually not watery) stools with lots of mucus, sometimes stained with blood
 
@@ -481,6 +481,7 @@ Diarrhea with blood may be caused by either amebas or bacteria. However, bacteri
 
 
  >Diarrhea + blood + fever = bacterial infection (Shigella)
+
  >Diarrhea + blood + no fever = amebas
 
 
@@ -546,17 +547,22 @@ See a health worker. Praziquantel works for all types of blood flukes. Oxamniqui
 
 Blood flukes are not spread directly from person to person. Part of their life they must live inside a certain kind of small water snail.
 
-Blood flukes spread like this:
+_Blood flukes spread like this:_
 
   1. Infected person urinates or defecates in water.
+
   2. Urine or feces has worm eggs in it.
+
   3. Worm eggs hatch and go into snails.
-  5. In this way, someone who washes or swims in water where an infected person has urinated or defecated also becomes infected.
+
   4. Young worms leave snail and go into another person.
 
-To prevent schistosomiasis, cooperate with programs to kill snails and treat infected persons. But most important: Everyone should learn to use latrines and NEVER URINATE OR DEFECATE IN OR NEAR WATER.
+  5. In this way, someone who washes or swims in water where an infected person has urinated or defecated also becomes infected.
 
-For information on guinea worm, which is also spread in water, see [page 406](#page-406) to [page 407](#page-407).
+
+To prevent schistosomiasis, cooperate with programs to kill snails and treat infected persons. But most important: **Everyone should learn to use latrines and NEVER URINATE OR DEFECATE IN OR NEAR WATER.**
+
+For information on guinea worm, which is also spread in water, see [page 406](#page-406) and [page 407](#page-407).
 
 
 # [147](#page-147)
@@ -567,21 +573,21 @@ For information on guinea worm, which is also spread in water, see [page 406](#p
 
 Vaccines protect against many dangerous diseases. Each country has a schedule of vaccinations, usually given for free. It is better to take your children to the nearest health center to be vaccinated while they are healthy than to take them for treatment when they are sick or dying. The most important vaccines are:
 
-1. DPT, for diphtheria, whooping cough (pertussis), and tetanus. A child needs 4 or 5 injections usually given at 2 months, 4 months, 6 months, and 18 months old. Sometimes one more injection is given between 4 and 6 years old.
+1. **DPT**, for diphtheria, whooping cough (pertussis), and tetanus. A child needs 4 or 5 injections usually given at 2 months, 4 months, 6 months, and 18 months old. Sometimes one more injection is given between 4 and 6 years old.
 
-2. POLIO (infantile paralysis). The child needs drops in the mouth or an injection 4 or 5 times. In some countries the first vaccination is given at birth and the other 3 doses are given at the same time as the DPT injections. In other countries, the first 3 doses are given at the same time as the DPT injections, the fourth dose is given between 12 and 18 months of age, and a fifth dose is given when the child is 4 years old. In a family where someone has HIV, do not use drops, use injections only.
+2. **POLIO** (infantile paralysis). The child needs drops in the mouth or an injection 4 or 5 times. In some countries the first vaccination is given at birth and the other 3 doses are given at the same time as the DPT injections. In other countries, the first 3 doses are given at the same time as the DPT injections, the fourth dose is given between 12 and 18 months of age, and a fifth dose is given when the child is 4 years old. In a family where someone has HIV, do not use drops, use injections only.
 
-3. BCG, for tuberculosis. A single injection is given under the skin of the left arm. Children can be vaccinated at birth or anytime afterwards. If any member of the household has tuberculosis, it is important to vaccinate babies in the first few weeks or months after birth. The vaccine makes a sore and leaves a scar.
+3. **BCG**, for tuberculosis. A single injection is given under the skin of the left arm. Children can be vaccinated at birth or anytime afterwards. If any member of the household has tuberculosis, it is important to vaccinate babies in the first few weeks or months after birth. The vaccine makes a sore and leaves a scar.
 
-4. MEASLES. A child needs 1 injection given no younger than 9 months of age, and often a second injection at 15 months or older. In many countries a ‘3 in 1’ vaccine called MMR is given for measles, mumps, and rubella (German measles). One injection is given between 12 and 15 months old, and a second is given between 4 and 6 years of age. Do not give measles vaccinations to a child with HIV.
+4. **MEASLES**. A child needs 1 injection given no younger than 9 months of age, and often a second injection at 15 months or older. In many countries a ‘3 in 1’ vaccine called MMR is given for measles, mumps, and rubella (German measles). One injection is given between 12 and 15 months old, and a second is given between 4 and 6 years of age. Do not give measles vaccinations to a child with HIV.
 
-5. HepB (Hepatitis B). This vaccine is given in a series of 3 injections, at the same time as DPT injections. In some countries the first HepB is given at birth, the second at 2 months old, and the third at 6 months old. Make sure there are at least 4 weeks between the first and second injection, and 8 weeks between the second and third.
+5. **HepB** (Hepatitis B). This vaccine is given in a series of 3 injections, at the same time as DPT injections. In some countries the first HepB is given at birth, the second at 2 months old, and the third at 6 months old. Make sure there are at least 4 weeks between the first and second injection, and 8 weeks between the second and third.
 
-6. Hib (for Haemophilus influenza type b, which is a germ that causes meningitis and pneumonia in young children). Generally this vaccine is given in a series of 3 injections together with the first 3 DPT injections.
+6. **Hib** (for Haemophilus influenza type b, which is a germ that causes meningitis and pneumonia in young children). Generally this vaccine is given in a series of 3 injections together with the first 3 DPT injections.
 
-7. Td or TT (Tetanus toxoid), for tetanus (lockjaw) for adults and children over 12 years old. Throughout the world, tetanus vaccination is recommended with 1 injection every 10 years. In some countries a Td injection is given between 9 and 11 years of age (5 years after the last DPT vaccination), and then every 10 years. Pregnant women should be vaccinated during each pregnancy so that their babies will be protected against tetanus of the newborn (see [page 182](#page-182) and [page 250](#page-250)).
+7. **Td** or **TT** (Tetanus toxoid), for tetanus (lockjaw) for adults and children over 12 years old. Throughout the world, tetanus vaccination is recommended with 1 injection every 10 years. In some countries a Td injection is given between 9 and 11 years of age (5 years after the last DPT vaccination), and then every 10 years. Pregnant women should be vaccinated during each pregnancy so that their babies will be protected against tetanus of the newborn (see [page 182](#page-182) and [page 250](#page-250)).
 
-8. Rotavirus. Give the oral vaccine 2 or 3 times (depending on the manufacturer) at 2 months, 4 months, and (if needed) 6 months old. It prevents this diarrhea disease, a leading cause of death for young children.
+8. **Rotavirus**. Give the oral vaccine 2 or 3 times (depending on the manufacturer) at 2 months, 4 months, and (if needed) 6 months old. It prevents this diarrhea disease, a leading cause of death for young children.
 
 Vaccines for measles, polio, and tuberculosis must be kept frozen or very cold (under 8° C). The vaccines for Hepatitis B, tetanus, and the DPT must be kept very cold (under 8° C) but never frozen.
 
@@ -601,7 +607,7 @@ If it becomes clear or has white flecks in it, it is spoiled and will not work. 
 
 # OTHER WAYS TO PREVENT SICKNESS AND INJURY
 
-In this chapter we have talked about ways to prevent intestinal and other infections through **hygiene, sanitation**, and **vaccination**. All through this book you will find suggestions for the prevention of sickness and injuryfrom building healthy bodies by eating nutritious foods to the wise use of home remedies and modern medicines.
+In this chapter we have talked about ways to prevent intestinal and other infections through **hygiene, sanitation**, and **vaccination**. All through this book you will find suggestions for the prevention of sickness and injury from building healthy bodies by eating nutritious foods to the wise use of home remedies and modern medicines.
 
 The Introduction and Words to the Village Health Worker give ideas for getting people working together to change the conditions that cause poor health.
 
@@ -617,13 +623,13 @@ Some of the habits that people have not only damage their own health but in one 
 
 ### DRINKING
 
-If alcohol has brought much joy, it has also brought much sufferingespecially to the families of those who drink. A little alcohol now and then may do no harm. But too often a little leads to a lot. In much of the world, heavy or excessive drinking is one of the underlying causes of major health problemseven for those who do not drink.
+If alcohol has brought much joy, it has also brought much suffering especially to the families of those who drink. A little alcohol now and then may do no harm. But too often a little leads to a lot. In much of the world, heavy or excessive drinking is one of the underlying causes of major health problems even for those who do not drink.
 
-Not only can drunkenness harm the health of those who drink (through diseases such as cirrhosis of the liver, [page 328](#page-328), and hepatitis, [page 172](#page-172)), but it also hurts the family and community in many ways. Through the loss of judgment when drunkand of self respect when soberit leads to much unhappiness, waste, and violence, often affecting those who are loved most.
+Not only can drunkenness harm the health of those who drink (through diseases such as cirrhosis of the liver, [page 328](#page-328), and hepatitis, [page 172](#page-172)), but it also hurts the family and community in many ways. Through the loss of judgment when drunk and of self respect when sober it leads to much unhappiness, waste, and violence, often affecting those who are loved most.
 
-How many fathers have spent their last money on drink when their children were hungry? How many sicknesses result because a man spends the little bit of extra money he earns on drink rather than on improving his family’s living conditions? How many persons, hating themselves because they have hurt those they love, take another drinkto forget?
+How many fathers have spent their last money on drink when their children were hungry? How many sicknesses result because a man spends the little bit of extra money he earns on drink rather than on improving his family’s living conditions? How many persons, hating themselves because they have hurt those they love, take another drink to forget?
 
-Once a person realizes that alcohol is harming the health and happiness of those around him, what can he do? First, he must admit that his drinking is a problem. He must be honest with himself and with others. Some individuals are able to simply decide to stop drinking. More often people need help and supportfrom family, friends, and others who understand how hard it may be to give up this habit.
+Once a person realizes that alcohol is harming the health and happiness of those around him, what can he do? First, he must admit that his drinking is a problem. He must be honest with himself and with others. Some individuals are able to simply decide to stop drinking. More often people need help and support from family, friends, and others who understand how hard it may be to give up this habit.
 
 People who have been heavy drinkers and have stopped are often the best persons to help others do the same. In many areas Alcoholics Anonymous (AA) groups exist where recovering alcoholics help one another to stop drinking (see [page 429](#addresses-for-teaching-materials)).
 
@@ -678,17 +684,15 @@ SMOKING DAMAGES
 
 In some areas these drinks have become very popular. Often a poor mother will buy carbonated drinks for a child who is poorly nourished, when the same money could be better used to buy 2 eggs or other nutritious food.
 
-Carbonated drinks have no nutritional value apart from sugar. And for the amount of sugar they contain, they are very expensive. Children who are given a lot of carbonated drinks and other sweet things often begin to get cavities and rotten teeth at an early age. Carbonated drinks are especially bad for persons with acid indigestion or stomach ulcer.
+Carbonated drinks have no nutritional value apart from sugar. And for the amount of sugar they contain, they are very expensive.
+
+Children who are given a lot of carbonated drinks and other sweet things often begin to get cavities and rotten teeth at an early age. Carbonated drinks are especially bad for persons with acid indigestion or stomach ulcer.
+
 Natural drinks you make from fruits are healthier and often much cheaper than carbonated drinks.
 
 
-IF YOU WANT HEALTHY CHILDREN AND HAVE A LITTLE MONEY TO BUY THEM SOMETHING . . .
+IF YOU WANT HEALTHY CHILDREN AND HAVE A LITTLE MONEY TO BUY THEM SOMETHING...
 
-YES
+**YES**: buy them a couple of eggs or other  nutritious food, not carbonated drinks!
 
-buy them a couple of eggs or other  nutritious food, not carbonated drinks!
-
-
-NO
-
-Do not get your children used to drinking carbonated drinks.
+**NO**: Do not get your children used to drinking carbonated drinks.

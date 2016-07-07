@@ -86,7 +86,9 @@ A small child usually needs at least 1 liter a day, or 1 glass for each watery s
 
 _**WARNING:**_ If dehydration gets worse or other danger signs appear, go for medical help (see [page 159](#page-159)). It may be necessary to give liquid in a vein (intravenous solution).
 
-_**Note:**_ In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)). However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.
+_**Note:**_ In some countries packets of Oral Rehydration Salts (ORS) are available for mixing with water. These contain a simple mix of sugar, salt, citrate, zinc, and potassium (see [page 381](#page-381)).
+
+**However, homemade drinks, especially cereal drinks, when correctly prepared are often cheaper, safer, and more effective than ORS packets.**
 
 
 
@@ -110,19 +112,33 @@ Occasionally, special treatment is needed. However, most diarrhea can be treated
 # THE MAIN CAUSES OF DIARRHEA
 
   - poor nutrition ([page 154](#page-154)) weakens the child and makes diarrhea from other causes more frequent and worse
+
   - shortage of water and unclean conditions (no latrines) spread the germs that cause diarrhea
+
   - virus infection or ‘intestinal flu’
+
   - an infection of the gut caused by bacteria ([page 131](#page-131)), amebas ([page 144](#page-144)), or giardia ([page 145](#page-145))
+
   - worm infections ([page 140](#page-140) to 144) (most worm infections do not cause diarrhea)
+
   - infections outside the gut (ear infections, [page 309](#page-309); tonsillitis, [page 309](#page-309); measles, [page 311](#page-311); urinary infections, [page 234](#page-234))
+
   - malaria (falciparum type, in parts of Africa, Asia, the Paci c, Latin America and the Caribbean, [page 186](#page-186))
+
   - food poisoning (spoiled food, [page 135](#page-135))
+
   - HIV (long-lasting diarrhea may be an early sign of AIDS, [page 399](#page-399))
+
   - inability to digest milk (mainly in severely malnourished children and certain adults)
+
   - difficulties babies have digesting foods that are new to them ([page 154](#page-154))
+
   - allergies to certain foods (seafood, cray sh, etc., [page 166](#page-166)); occasionally babies are allergic to cow’s milk or other milks
+
   - side effects produced by certain medicines, such as ampicillin or tetracycline ([page 58](#page-58))
+
   - laxatives, purges, irritating or poisonous plants, certain poisons
+
   - eating too much unripe fruit or heavy, greasy foods
 
 
@@ -150,7 +166,7 @@ This results in a vicious circle, in which each makes the other worse. For this 
 
 To learn about the kinds of foods that help the body resist or fight off different illnesses, including diarrhea, read Chapter 11.
 
-The prevention of diarrhea depends both on good nutrition and cleanliness. Many suggestions for personal and public cleanliness are given in Chapter 12. These include the use of latrines, the importance of clean water, and the protection of foods from dirt and flies.
+The prevention of diarrhea depends both on good nutrition and cleanliness. Many suggestions for personal and public cleanliness are given in [Chapter 12](#12-prevention-how-to-avoid-many-sicknesses). These include the use of latrines, the importance of clean water, and the protection of foods from dirt and flies.
 
 Here are some other important suggestions for preventing diarrhea in babies:
 
@@ -188,8 +204,7 @@ A person with diarrhea must drink a lot of liquids. If diarrhea is severe or the
   ♦ A baby with diarrhea should go on breastfeeding.
 
   ♦ An underweight child should get plenty of energy foods and some body-building foods (proteins) all the time he has diarrhea, and extra when he gets well. If he stops eating because he feels too sick or is vomiting, he should eat again as soon as he can.  
-  Giving Rehydration Drink will help the child be able to eat.  
-  Although giving food may cause more frequent stools at first, it can save his life.
+  Giving Rehydration Drink will help the child be able to eat.  Although giving food may cause more frequent stools at first, it can save his life.
 
   ♦ If a child who is underweight has diarrhea that lasts for many days or keeps coming back, give him more food more often, at least 5 or 6 meals each day. Often no other treatment is needed.
 
@@ -262,7 +277,12 @@ DO NOT EAT OR DRINK
 Diarrhea and milk:
 
 Breast milk is the best food for babies. It helps prevent and combat diarrhea. Keep giving breast milk when the baby has diarrhea.
-Cow’s milk, powdered milk, or canned milk can be good sources of energy and protein. Keep on giving them to a child with diarrhea. In a very few children these milks may cause more diarrhea. If this happens, try giving less milk and mixing it with other foods. But remember: a poorly nourished child with diarrhea must have enough energy foods and protein. If less milk is given, well cooked and mashed foods such as chicken, egg yolk, meat, fish, or beans should be added. Beans are easier to digest if their skins have been taken off and they are boiled and mashed.
+
+Cow’s milk, powdered milk, or canned milk can be good sources of energy and protein. Keep on giving them to a child with diarrhea. In a very few children these milks may cause more diarrhea. If this happens, try giving less milk and mixing it with other foods.
+
+But remember: a poorly nourished child with diarrhea must have enough energy foods and protein. If less milk is given, well cooked and mashed foods such as chicken, egg yolk, meat, fish, or beans should be added.
+
+Beans are easier to digest if their skins have been taken off and they are boiled and mashed.
 
 As the child gets better, he will usually be able to drink more milk without getting diarrhea.
 
@@ -278,7 +298,10 @@ GENERALLY IT IS BETTER NOT TO USE THE FOLLOWING MEDICINES IN THE TREATMENT OF DI
 ‘ANTI DIARRHEA MEDICINES’ ACT LIKE PLUGS. THEY KEEP IN THE INFECTED MATERIAL THAT NEEDS TO COME OUT.
 
 ‘Anti-diarrhea’ mixtures containing neomycin or streptomycin should not be used. They irritate the gut and often do more harm than good.
-Antibiotics like ampicillin and tetracycline are useful only in some cases of diarrhea (see [page 158](#page-158)). But they themselves sometimes cause diarrhea, especially in small children. If, after taking these antibiotics for more than 2 or 3 days, diarrhea gets worse rather than better, stop taking themthe antibiotics may be the cause.
+
+Antibiotics like ampicillin and tetracycline are useful only in some cases of diarrhea (see [page 158](#page-158)).
+
+But they themselves sometimes cause diarrhea, especially in small children. If, after taking these antibiotics for more than 2 or 3 days, diarrhea gets worse rather than better, stop taking them the antibiotics may be the cause.
 
 Chloramphenicol ([page 356](#page-356)) should never be used for diarrhea
 
@@ -301,7 +324,7 @@ In certain difficult cases of diarrhea, analysis of the stools or other tests ma
 
 1. Sudden, mild diarrhea. No fever. (Upset stomach? ‘Intestinal flu’?)
 
-♦ Drink lots of liquids. Usually no special treatment is needed. It is usually best not to use‘anti-diarrhea’ medicines such as bismuth subsalicylate (Kaopectate, [page 383](#page-383)) or diphenoxylate (Lomotil).
+♦ Drink lots of liquids. Usually no special treatment is needed. It is usually best not to use ‘anti-diarrhea’ medicines such as bismuth subsalicylate (Kaopectate, [page 383](#page-383)) or diphenoxylate (Lomotil).
 
 They are never necessary and do not help either to correct dehydration or get rid of infection so why waste money buying them? Never give them to persons who are very ill, or to small children.
 
@@ -358,9 +381,7 @@ Severe dehydration can develop quickly, especially if there is vomiting also. It
 
 Cholera should be reported to the health authorities. Seek medical help.
 
-A ‘cholera bed’ like this can be made for persons with very severe diarrhea. Watch how much liquid the person is losing
-and be sure he drinks larger amounts of Rehydration Drink. Give him the Drink almost continuously, and have him drink as much as he can.
-sleeve made of plastic sheet
+A ‘cholera bed’ like this can be made for persons with very severe diarrhea. Watch how much liquid the person is losing and be sure he drinks larger amounts of Rehydration Drink. Give him the Drink almost continuously, and have him drink as much as he can.
 
 
 # [159](#page-159)
@@ -409,13 +430,12 @@ In the following situations you should get medical help:
 
 ## 1. _Are there signs of dehydration (little or no urine, sunken eyes, dry mouth, etc.)?_
 
-**YES:**  
-Control the dehydration: Drink lots of liquids and REHYDRATION DRINK. (see [page 152](#page-152))
+**YES:** Control the dehydration: Drink lots of liquids and REHYDRATION DRINK. (see [page 152](#page-152))
 
-**NO:**  
-Prevent dehydration: Drink lots of liquids.
+**NO:** Prevent dehydration: Drink lots of liquids.
 
 PREVENT OR CORRECT MALNUTRITION:    
+
 Give food as soon as the person will eat. Bland, well-mashed foods are best a lot of energy foods with some body-building foods. Continue breastfeeding.
 
 ## 2. _Is there fever that lasts more than 6 hours after starting to treat the dehydration?_
@@ -461,7 +481,7 @@ Vomiting often comes from a problem in the stomach or guts, such as: an infectio
 Also, almost any sickness with high fever or severe pain may cause vomiting, especially malaria ([page 186](#page-186)), hepatitis
 ([page 172](#page-172)), tonsillitis ([page 309](#page-309)), earache ([page 309](#page-309)), meningitis ([page 185](#page-185)), urinary infection ([page 234](#page-234)), gallbladder pain ([page 329](#page-329)) or migraine headache ([page 162](#page-162)).
 
-Danger signs with vomitingseek medical help quickly!
+**Danger signs with vomiting seek medical help quickly!**
 
 • dehydration that increases and that you cannot control ([page 152](#page-152))
 
@@ -469,8 +489,7 @@ Danger signs with vomitingseek medical help quickly!
 
 • violent vomiting, especially if vomit is dark green, brown, or smells like shit (signs of obstruction, [page 94](#page-94))
 
-• constant pain in the gut, especially if the person cannot defecate (shit)
-or if you cannot hear gurgles when you put your ear to the belly (see acute abdomen: obstruction, appendicitis, [page 94](#page-94))
+• constant pain in the gut, especially if the person cannot defecate (shit) or if you cannot hear gurgles when you put your ear to the belly (see acute abdomen: obstruction, appendicitis, [page 94](#page-94))
 
 • vomiting of blood (ulcer, [page 128](#page-128); cirrhosis, [page 328](#page-328))
 
@@ -548,13 +567,13 @@ Sore throat is often part of a cold. No special medicine is needed, but it may h
 
 Prevention of colds:
 
-  ♦ Getting enough sleep and eating well helps prevent colds. Eating oranges, tomatoes, and other fruit containing vitamin C may help. Washing hands oftenespecially before touching your face, nose, mouth, or anything you put into your mouthis also good prevention.
+  ♦ Getting enough sleep and eating well helps prevent colds. Eating oranges, tomatoes, and other fruit containing vitamin C may help. Washing hands often especially before touching your face, nose, mouth, or anything you put into your mouth is also good prevention.
 
   ♦ Contrary to popular belief, colds do not come from getting cold or wet (although getting very cold, wet, or tired can make a cold worse). A cold is ‘caught’ from others who have the infection and sneeze the virus into the air.
 
-  ♦ To keep from giving his cold to others, the sick person should eat and sleep separatelyand take special care to keep far away from small babies. He should cover his nose and mouth when he coughs or sneezes, and wash his hands often if possible.
+  ♦ To keep from giving his cold to others, the sick person should eat and sleep separately and take special care to keep far away from small babies. He should cover his nose and mouth when he coughs or sneezes, and wash his hands often if possible.
 
-  ♦ To prevent a cold from leading to earache ([page 309](#page-309)), try not to blow your nosejust wipe it. Teach children to do the same.
+  ♦ To prevent a cold from leading to earache ([page 309](#page-309)), try not to blow your nose just wipe it. Teach children to do the same.
 
 # [164](#page-164)
 {:.no_toc}
@@ -654,11 +673,11 @@ Allergic reactions, which can be mild or very serious, include:
 
   • irritation in the throat, difficulty breathing, or asthma (see next page) • allergic shock ([page 70](#page-70))
 
-  • diarrhea (in children allergic to milka rare cause of diarrhea, [page 156](#page-156))
+  • diarrhea (in children allergic to milk a rare cause of diarrhea, [page 156](#page-156))
 
 An allergy is not an infection and cannot be passed from one person to another. However, children of allergic parents also tend to have allergies.
 
-Often allergic persons suffer more in certain seasonsor whenever they come in touch with the substances that bother them.
+Often allergic persons suffer more in certain seasons or whenever they come in touch with the substances that bother them.
 
 Common causes of allergic reactions are:
 
@@ -729,7 +748,7 @@ Sometimes it helps to sleep outside in the open air. Drink at least 8 glasses of
 
 
 
->If you have asthma do not smokes, moking damages your lungs even more
+>If you have asthma do not smoke, smoking damages your lungs even more.
 
 # [168](#page-168)
 {:.no_toc}
@@ -875,7 +894,7 @@ _Emphysema can result from chronic asthma, chronic bronchitis, or smoking._
 
 # PNEUMONIA
 
-Pneumonia is an acute infection of the lungs. It often occurs after another respiratory illness such as measles, whooping cough, flu, bronchitis, asthmaor after any very serious illness, especially in babies and old people. Also, persons with HIV may develop pneumonia.
+Pneumonia is an acute infection of the lungs. It often occurs after another respiratory illness such as measles, whooping cough, flu, bronchitis, asthma or after any very serious illness, especially in babies and old people. Also, persons with HIV may develop pneumonia.
 
 **Signs:**
 
@@ -975,7 +994,7 @@ Most chronic joint pain, or arthritis, in older people cannot be cured completel
 
   ♦ It is important to do simple exercises to help maintain or increase the range of motion in the painful joints.
 
-If only one joint is swollen and feels hot, it may be infectedespecially if there is fever. Use an antibiotic such as penicillin (see [page 350](#page-350)) and if possible see a health worker.
+If only one joint is swollen and feels hot, it may be infected especially if there is fever. Use an antibiotic such as penicillin (see [page 350](#page-350)) and if possible see a health worker.
 
 Painful joints in young people and children may be a sign of other serious illness, such as rheumatic fever ([page 310](#page-310)) or tuberculosis ([page 179](#page-179)). For more information on joint pain, see Disabled Village Children, Chapters 15 and 16.
 
@@ -988,7 +1007,7 @@ Mid back pain in a child may be TB of the spine, especially if the backbone has 
 
 Low back pain that is worse the day after heavy lifting or straining may be a sprain.
 
-Severe low back pain that  rst comes suddenly when lifting or twisting may be a slipped disc, especially if one leg or foot becomes painful or numb and weak. This can result from a pinched nerve.
+Severe low back pain that first comes suddenly when lifting or twisting may be a slipped disc, especially if one leg or foot becomes painful or numb and weak. This can result from a pinched nerve.
 
 Standing or sitting with the shoulder drooped is a common cause of backache.
 
@@ -996,6 +1015,7 @@ In older people, chronic back pain is often arthritis.
 Pain in the upper right back may be from a gallbladder problem ([page 329](#page-329)).
 
 Acute (or chronic) pain here may be a urinary problem ([page 234](#page-234)).
+
 Low backache is normal for some women during menstrual periods or pregnancy ([page 248](#page-248)).
 
 Very low back pain sometimes comes from problems in the uterus, ovaries, or rectum.
@@ -1119,12 +1139,12 @@ Lift heavy things like this
 
 **How to live with a hernia:**
 
-♦ Avoid lifting heavy objects.
+  ♦ Avoid lifting heavy objects.
 
-♦ Make a truss to hold the hernia in.
+  ♦ Make a truss to hold the hernia in.
 
 PLAN FOR A SIMPLE TRUSS:
-not like this.
+
 Put a little cushion here so it presses against the groin.
 
 _**CAUTION:**_
@@ -1177,7 +1197,7 @@ possible dose that prevents seizures (see [page 389](#page-389)).
 
 ♦ Try to keep the person from hurting himself: move away all hard or sharp objects.
 
-♦ Put nothing in the person’s mouth while he is having a seizureno food, drink, medicine, nor any object to prevent biting the tongue.
+♦ Put nothing in the person’s mouth while he is having a seizure. No food, drink, medicine, nor any object to prevent biting the tongue.
 
 ♦ After the seizure the person may be dull and sleepy. Let him sleep.
 
