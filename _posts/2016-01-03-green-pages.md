@@ -432,366 +432,365 @@ Note:
 Medicines not listed in the GREEN PAGES, but mentioned in the book, are listed in the [yellow pages](#yellow-pages).
 
 
-3TC (lamivudine) [page 397](#page-397)
+[3TC (lamivudine)](#page-397)
 
 # A
 
-Acetaminophen (paracetamol) [page 379](#page-379)
+[Acetaminophen (paracetamol)](#page-379)
 
-Acetylsalicylic acid (aspirin) [page 378](#page-378)
+[Acetylsalicylic acid (aspirin)](#page-378)
 
-Activated charcoal [page 388](#page-388)
+[Activated charcoal](#page-388)
 
-Acyclovir [page 373](#page-373)
+[Acyclovir](#page-373)
 
-Adrenalin (epinephrine) [page 385](#page-385)
+[Adrenalin (epinephrine)](#page-385)
 
-Adrenaline [page 385](#page-385)
+[Adrenaline](#page-385)
 
-Alacramyn (antivenom) [page 387](#page-387)
+[Alacramyn (antivenom)](#page-387)
 
-Albendazole [page 374](#page-374)
+[Albendazole](#page-374)
 
-Albuterol [page 384](#page-384)
+[Albuterol](#page-384)
 
-Alesse (birth control pills) [page 393](#page-393)
+[Alesse (birth control pills)](#page-393)
 
-Alka Seltzer (sodium bicarbonate) [page 380](#page-380)
+[Alka Seltzer (sodium bicarbonate)](#page-380)
 
-Allergic reactions, medicines for [page 385](#page-385)
+[Allergic reactions, medicines for](#page-385)
 
-Aluminum hydroxide380 Amebas, medicines for [page 367](#page-367)
+[Aluminum hydroxide380 Amebas, medicines for](#page-367)
 
-Amicline [page 369](#page-369)
+[Amicline](#page-369)
 
-Amodiaquine [page 365](#page-365)
+[Amodiaquine](#page-365)
 
-Amoxicillin [page 352](#page-352)
+[Amoxicillin](#page-352)
 
-Ampicillin [page 352](#page-352)
+[Ampicillin](#page-352)
 
-Analgesics [page 378](#page-378)
+[Analgesics](#page-378)
 
-Anemia, medicines for [page 392](#page-392)
+[Anemia, medicines for](#page-392)
 
-Anesthetics [page 379](#page-379)
+[Anesthetics](#page-379)
 
-Antacids [page 380](#page-380)
+[Antacids](#page-380)
 
-Antibiotics [page 350](#page-350)
+[Antibiotics](#page-350)
 
-Antihistamines  [page 385](#page-385)
+[Antihistamines](#page-385)
 
-Antiminth (pyrantel) [page 375](#page-375)
+[Antiminth (pyrantel)](#page-375)
 
-Antispasmodics [page 380](#page-380)
+[Antispasmodics](#page-380)
 
-Antitetanus immunoglobulin [page 388](#page-388)
+[Antitetanus immunoglobulin](#page-388)
 
-Antitoxins [page 387](#page-387)
+[Antitoxins](#page-387)
 
-Antivenoms [page 387](#page-387)
+[Antivenoms](#page-387)
 
-Antivipmyn (antivenom) [page 387](#page-387)
+[Antivipmyn (antivenom)](#page-387)
 
-Antrypol (suramin) [page 377](#page-377)
+[Antrypol (suramin)](#page-377)
 
-Aralen (chloroquine) [page 366](#page-366)
+[Aralen (chloroquine)](#page-366)
 
-Artemether with lumefantrine [page 364](#page-364)
+[Artemether with lumefantrine](#page-364)
 
-Artemisinin [page 363](#page-363)
+[Artemisinin](#page-363)
 
-Artesunate [page 364](#page-364)
+[Artesunate](#page-364)
 
-Aspirin [page 378](#page-378)
+[Aspirin](#page-378)
 
-Asthma, medicines for [page 384](#page-384)
+[Asthma, medicines for](#page-384)
 
-Atabrine [page 369](#page-369)
+[Atabrine](#page-369)
 
-Atropine [page 380](#page-380)
+[Atropine](#page-380)
 
-Azithromycin [page 359](#page-359)
+[Azithromycin](#page-359)
 
-AZT (zidovudine) [page 397](#page-397)
+[AZT (zidovudine)](#page-397)
 
 # B
 
-Bactrim (cotrimoxazole) [page 357](#page-357)
+[Bactrim (cotrimoxazole)](#page-357)
 
-Banocide (diethylcarbamazine) [page 377](#page-377)
+[Banocide (diethylcarbamazine)](#page-377)
 
-Beclomethasone [page 384](#page-384)
+[Beclomethasone](#page-384)
 
-Belladonna [page 380](#page-380)
+[Belladonna](#page-380)
 
-Benadryl (diphenhydramine) [page 386](#page-386)
+[Benadryl (diphenhydramine)](#page-386)
 
-Benzoic acid [page 371](#page-371)
+[Benzoic acid](#page-371)
 
-Benzyl benzoate [page 372](#page-372)
+[Benzyl benzoate](#page-372)
 
-Betadine (povidone iodine) [page 370](#page-370)
+[Betadine (povidone iodine)](#page-370)
 
-Bicarbonate of soda [page 380](#page-380)
+[Bicarbonate of soda](#page-380)
 
-Biltricide (praziquantel) [page 375](#page-375), [page 376](#page-376)
+[Biltricide (praziquantel)](#page-375)
 
-Birth control [page 393](#page-393)
+[Birth control](#page-393)
 
-Bismuth subsalicylate [page 383](#page-383)
+[Bismuth subsalicylate](#page-383)
 
-Bleeding, medicines for [page 390](#page-390)
+[Bleeding, medicines for](#page-390)
 
-Broxyquinoline [page 369](#page-369)
+[Broxyquinoline ](#page-369)
 
 # C
 
-Cafergot (ergotamine with caffeine) [page 379](#page-379)
+[Cafergot (ergotamine with caffeine)](#page-379)
 
-Calcium carbonate [page 381](#page-381)
+[Calcium carbonate](#page-381)
 
-Ceftriaxone [page 358](#page-358)
+[Ceftriaxone](#page-358)
 
-Cephalosporins [page 357](#page-357)
+[Cephalosporins](#page-357)
 
-Charcoal, powdered or activated [page 388](#page-388)
+[Charcoal, powdered or activated](#page-388)
 
-Chlamydia, medicines for [page 359](#page-359)
+[Chlamydia, medicines for](#page-359)
 
-Chlorambin [page 369](#page-369)
+[Chlorambin](#page-369)
 
-Chloramphenicol [page 356](#page-356)
+[Chloramphenicol](#page-356)
 
-Chloromycetin (chloramphenicol) [page 356](#page-356)
+[Chloromycetin (chloramphenicol)](#page-356)
 
-Chloroquine [page 366](#page-366)
+[Chloroquine](#page-366)
 
-Chlorpheniramine [page 386](#page-386)
+[Chlorpheniramine ](#page-386)
 
-Chlortetracycline [page 378](#page-378)
+[Chlortetracycline](#page-378)
 
-Cilest (birth control pills) [page 393](#page-393)
+[Cilest (birth control pills)](#page-393)
 
-Cipro (ciprofloxacin) [page 358](#page-358)
+[Cipro (ciprofloxacin)](#page-358)
 
-Ciprofloxacin [page 358](#page-358)
+[Ciprofloxacin](#page-358)
 
-Clindamycin [page 358](#page-358)
+[Clindamycin](#page-358)
 
-Clioquinol [page 369](#page-369)
+[Clioquinol](#page-369)
 
-Clofazimine [page 363](#page-363)
+[Clofazimine](#page-363)
 
-Cloxacillin [page 350](#page-350)
+[Cloxacillin](#page-350)
 
-Coartem (artemether with lumefantrine)  [page 364](#page-364)
+[Coartem (artemether with lumefantrine)](#page-364)
 
-Cobantril (pyrantel) [page 375](#page-375)
+[Cobantril (pyrantel)](#page-375)
 
-Codeine [page 383](#page-383)
+[Codeine](#page-383)
 
 # [345](#page-345)
 {:.no_toc}
 
-Condoms [page 395](#page-395)
+[Condoms](#page-395)
 
-Contraceptive foam [page 395](#page-395)
+[Contraceptive foam](#page-395)
 
-Contraceptive implants [page 396](#page-396)
+[Contraceptive implants](#page-396)
 
-Contraceptive tablets [page 395](#page-395)
+[Contraceptive tablets](#page-395)
 
-Contraceptives, oral [page 393](#page-393)
+[Contraceptives, oral](#page-393)
 
-Convulsions (fits), medicines for  [page 388](#page-388)
+[Convulsions (fits), medicines for](#page-388)
 
-Copper T (IUD) [page 395](#page-395)
+[Copper T (IUD)](#page-395)
 
-Cortico-steroid [page 370](#page-370)
+[Cortico-steroid](#page-370)
 
-Cortisone  [page 391](#page-391)
+[Cortisone](#page-391)
 
-Cotrimoxazole [page 357](#page-357)
+[Cotrimoxazole](#page-357)
 
-Cough medicines [page 383](#page-383)
+[Cough medicines](#page-383)
 
-Cramps of the gut, medicines for [page 380](#page-380)
+[Cramps of the gut, medicines for](#page-380)
 
-Crotamiton [page 372](#page-372)
+[Crotamiton](#page-372)
 
-Crystal violet [page 370](#page-370)
+[Crystal violet](#page-370)
 
-Cyanocobalamin (vitamin B12) [page 392](#page-392)
+[Cyanocobalamin (vitamin B12)](#page-392)
 
-Cyclofem (contraceptive injection) [page 396](#page-396)
+[Cyclofem (contraceptive injection)](#page-396)
 
-Cytotec (misoprostol) [page 391](#page-391)
+[Cytotec (misoprostol)](#page-391)
 
 # D
 
-d4T (stavudine) [page 397](#page-397)
+[d4T (stavudine)](#page-397)
 
-Dapsone (diaminodiphenylsulfone, DDS) [page 362](#page-362)
+[Dapsone (diaminodiphenylsulfone, DDS)](#page-362)
 
-Dehydration, medicines for  [page 381](#page-381)
+[Dehydration, medicines for](#page-381)
 
-Delfen (contraceptive foam) [page 395](#page-395)
+[Delfen (contraceptive foam)](#page-395)
 
-Depo-Provera (birth control injection) [page 396](#page-396)
+[Depo-Provera (birth control injection)](#page-396)
 
-Diane (birth control pills) [page 393](#page-393)
+[Diane (birth control pills)](#page-393)
 
-Diaphragm [page 395](#page-395)
+[Diaphragm](#page-395)
 
-Diarrhea, medicines for [page 381](#page-381), [page 383](#page-383)
+[Diarrhea, medicines for](#page-381)
 
-Diazepam [page 389](#page-389)
+[Diazepam](#page-389)
 
-Dicloxacillin [page 350](#page-350)
+[Dicloxacillin](#page-350)
 
-Diethylcarbamazine [page 377](#page-377)
+[Diethylcarbamazine](#page-377)
 
-Diiodohydroxyquin [page 369](#page-369)
+[Diiodohydroxyquin](#page-369)
 
-Dilantin (phenytoin) [page 389](#page-389)
+[Dilantin (phenytoin)](#page-389)
 
-Diloxanide furoate [page 368](#page-368)
+[Diloxanide furoate](#page-368)
 
-Dimenhydrinate [page 386](#page-386)
+[Dimenhydrinate](#page-386)
 
-Diodoquin (diiodohydroxyquin) [page 369](#page-369)
+[Diodoquin (diiodohydroxyquin)](#page-369)
 
-Diphenhydramine [page 386](#page-386)
+[Diphenhydramine](#page-386)
 
-Diphenylhydantoin (phenytoin) [page 389](#page-389)
+[Diphenylhydantoin (phenytoin)](#page-389)
 
-Doxycycline [page 355](#page-355)
+[Doxycycline](#page-355)
 
-Dramamine (dimenhydrinate) [page 386](#page-386)
+[Dramamine (dimenhydrinate)](#page-386)
 
-Droncit (praziquantel) [page 376](#page-376)
+[Droncit (praziquantel)](#page-376)
 
 # E
 
-Efavirenz [page 397](#page-397)
+[Efavirenz](#page-397)
 
-EFV (efavirenz) [page 397](#page-397)
+[EFV (efavirenz)](#page-397)
 
-Emko (contraceptive foam) [page 395](#page-395)
+[Emko (contraceptive foam)](#page-395)
 
-Entero Quinol [page 369](#page-369)
+[Entero Quinol](#page-369)
 
-Entero Vioform [page 369](#page-369)
+[Entero Vioform](#page-369)
 
-Ephedrine [page 383](#page-383)
+[Ephedrine](#page-383)
 
-Epinephrine [page 385](#page-385)
+[Epinephrine](#page-385)
 
-Epsom salts [page 382](#page-382)
+[Epsom salts](#page-382)
 
-Ergometrine [page 390](#page-390)
+[Ergometrine](#page-390)
 
-Ergonovine [page 390](#page-390)
+[Ergonovine0](#page-390)
 
-Ergotamine with caffeine [page 379](#page-379)
+[Ergotamine with caffeine](#page-379)
 
+[Ergotrate (ergotamine tartrate)](#page-390)
 
+[Erythromycin](#page-354)
 
-Ergotrate (ergotamine tartrate) [page 390](#page-390)
+[Ethambutol](#page-361)
 
-Erythromycin [page 354](#page-354)
+[Eurax (crotamiton)](#page-372)
 
-Ethambutol [page 361](#page-361)
+[Expectorants](#page-383)
 
-Eurax (crotamiton) [page 372](#page-372) Expectorants [page 383](#page-383)
+[Exluton (birth control pills)](#page-393)
 
-Exluton (birth control pills) [page 393](#page-393)
+[Exsel (selenium sulfide)](#page-371)
 
-Exsel (selenium sulfide) [page 371](#page-371)
-
-Eyes, medicines for [page 378](#page-378)
+[Eyes, medicines for](#page-378)
 
 # F
 
-Family planning methods [page 393](#page-393)
+[Family planning methods](#page-393)
 
-Fansidar (pyrimethamine with sulfadoxine) [page 364](#page-364)
+[Fansidar (pyrimethamine with sulfadoxine)](#page-364)
 
-Femoden (birth control pills) [page 393](#page-393)
+[Femoden (birth control pills)](#page-393)
 
-Femulen (birth control pills) [page 394](#page-394)
+[Femulen (birth control pills)](#page-394)
 
-Ferrous sulfate [page 392](#page-392)
+[Ferrous sulfate](#page-392)
 
 [Fits (convulsions), medicines for](#page-388)
 
-Flagyl (metronidazole) [page 368](#page-368)
+[Flagyl (metronidazole)](#page-368)
 
-Floraquin [page 369](#page-369)
+[Floraquin](#page-369)
 
-Folic acid [page 392](#page-392)
+[Folic acid](#page-392)
 
-Fungus infections, medicines for [page 371](#page-371)
+[Fungus infections, medicines for](#page-371)
 
-Furamide (diloxanide furoate) [page 368](#page-368)
+[Furamide (diloxanide furoate)](#page-368)
 
 # G
 
-Garamycin (gentamicin) [page 358](#page-358)
+[Garamycin (gentamicin)](#page-358)
 
-Gentamicin [page 358](#page-358)
+[Gentamicin](#page-358)
 
-Gentian violet [page 370](#page-370)
+[Gentian violet](#page-370)
 
-Germanin (suramin) [page 377](#page-377)
+[Germanin (suramin)](#page-377)
 
-Giardia, medicines for [page 367](#page-367)
+[Giardia, medicines for](#page-367)
 
-Glycerin suppositories [page 382](#page-382)
+[Glycerin suppositories](#page-382)
 
-Gonorrhea, medicines for [page 359](#page-359)
+[Gonorrhea, medicines for](#page-359)
 
-Gracial (birth control pills) [page 393](#page-393)
+[Gracial (birth control pills)](#page-393)
 
-Griseofulvin [page 371](#page-371)
+[Griseofulvin](#page-371)
 
-Gynera (birth control pills) [page 393](#page-393)
+[Gynera (birth control pills)](#page-393)
 
-Gynol II (contraceptive gel) [page 395](#page-395)
+[Gynol II (contraceptive gel)](#page-395)
 
 # H
 
-Halquinol [page 369](#page-369)
+[Halquinol](#page-369)
 
+[Harmonet (birth control pills)](#page-393)
 
+[Headache, medicines for](#page-378)
 
-Harmonet (birth control pills) [page 393](#page-393)
+[Helmex (pyrantel)](#page-375)
 
-Headache, medicines for [page 378](#page-378)
+[Hemorrhage, medicines for](#page-390)
 
-Helmex (pyrantel) [page 375](#page-375)
+[Hemorrhoids, medicines for](#page-391)
 
-Hemorrhage, medicines for [page 390](#page-390)
+[Herpes, medicines for](#page-373)
 
-Hemorrhoids, medicines for [page 391](#page-391)
+[Hetrazan (diethylcarbamazine) ](#page-377)
 
-Herpes, medicines for [page 373](#page-373)
+[Human tetanus immune globulin](#page-388)
 
-Hetrazan (diethylcarbamazine) [page 377](#page-377)
+[Hydroxyquinolines](#page-369)
 
-Human tetanus immune globulin [page 388](#page-388)
+[Hyoscyamine (atropine)](#page-380)
+
+[Hyper-tet (tetanus immune globulin)](#page-388)
 
 
 # [346](#page-346)
 {:.no_toc}
 
-Hydroxyquinolines [page 369](#page-369)
-
-Hyoscyamine (atropine) [page 380](#page-380)
-
-Hyper-tet (tetanus immune globulin) [page 388](#page-388)
 
 # I
 
@@ -819,99 +818,93 @@ Hyper-tet (tetanus immune globulin) [page 388](#page-388)
 
 # J
 
-Jadelle (contraceptive implant) [396](#page-396)
+[Jadelle (contraceptive implant)396](#page-396)
 
 # K
 
-Kaopectate [383](#page-383)
+[Kaopectate](#page-383)
 
-Koromex (contraceptive gel) [395](#page-395)
+[Koromex (contraceptive gel)](#page-395)
 
 # L
 
-Lamivudine [397](#page-397)
+[Lamivudine](#page-397)
 
-Lamprene (clofazimine) [363](#page-363)
+[Lamprene (clofazimine)](#page-363)
 
-Lariam (mefloquine) [365](#page-365)
+[Lariam (mefloquine)](#page-365)
 
-Laxatives [page 382](#page-382)
+[Laxatives](#page-382)
 
-Lempko (contraceptive foam) [395](#page-395)
+[Lempko (contraceptive foam)](#page-395)
 
-Leprosy, medicines for [362](#page-362)
+[Leprosy, medicines for](#page-362)
 
-Lice, medicines for [372](#page-372)
+[Lice, medicines for](#page-372)
 
-Lidocaine [379](#page-379)
+[Lidocaine](#page-379)
 
-Lo-Femenal (birth control pills) [393](#page-393)
+[Lo-Femenal (birth control pills)](#page-393)
 
-Logynon (birth control pills) [393](#page-393)
+[Logynon (birth control pills)](#page-393)
 
-Lo/Ovral (birth control pills) [393](#page-393)
+[Lo/Ovral (birth control pills)](#page-393)
 
-Luminal (phenobarbital) [389](#page-389)
+[Luminal (phenobarbital)](#page-389)
 
-Lunelle (contraceptive injection) [396](#page-396)
+[Lunelle (contraceptive injection)](#page-396)
 
 # M
 
-Magnesium hydroxide [page 382](#page-382)
+[Magnesium hydroxide](#page-382)
 
-Magnesium sulfate [382](#page-382), [390](#page-390)
+[Magnesium sulfate](#page-382), [390](#page-390)
 
-Malaria, medicines for  [363](#page-363)
+[Malaria, medicines for](#page-363)
 
-Mansil (oxamniquine) [376](#page-376)
+[Mansil (oxamniquine)](#page-376)
 
-Mebendazole [373](#page-373)
+[Mebendazole](#page-373)
 
-Mectizan (ivermectin) [377](#page-377)
+[Mectizan (ivermectin)](#page-377)
 
-Mefloquine [365](#page-365)
+[Mefloquine](#page-365)
 
-Mepacrine [369](#page-369)
+[Mepacrine](#page-369)
 
-Methergine (methylergonovine maleate) [390](#page-390)
+[Methergine (methylergonovine maleate)](#page-390)
 
-Methicillin [350](#page-350)
+[Methicillin](#page-350)
 
-Metronidazole [368](#page-368)
+[Metronidazole](#page-368)
 
-Miconazole [369](#page-369)
+[Miconazole](#page-369)
 
+[Microgynon (birth control pills)](#page-393)
 
+[Microlut (birth control pills)](#page-394)
 
-Microgynon (birth control pills) [393](#page-393)
+[Microvlar (birth control pills)](#page-393)
 
-Microlut (birth control pills) [394](#page-394)
+[Micronor (birth control pills)](#page-394)
 
-Microvlar (birth control pills) [393](#page-393)
+[Micronovum (birth control pills)](#page-394)
 
+[Microval (birth control pills](#page-393)
 
+[Mifepristone](#page-391)
 
-Micronor (birth control pills) [394](#page-394)
+[Milk of magnesia](#page-380), [382](#page-382)
 
-Micronovum (birth control pills) [394](#page-394)
+[Milk, powdered](#page-391)
 
-Microval (birth control pills) [393](#page-393)
+[Mineral oil](#page-382)
 
+[Minipill](#page-394)
 
+[Misoprostol](#page-391)
 
-Mifepristone [391](#page-391)
-
-Milk of magnesia  [380](#page-380), [382](#page-382)
-
-Milk, powdered [391](#page-391)
-
-Mineral oil [382](#page-382)
-
-Minipill [394](#page-394)
-
-Misoprostol [391](#page-391)
-
-Myambutol (ethambutol) [361](#page-361)
+[Myambutol (ethambutol)](#page-361)
 
 # N
 
@@ -1298,9 +1291,7 @@ It does no good for diarrhea, most urinary infections, backache, bruises, the co
 
 Penicillin is measured in milligrams (mg.) or units (U).
 
-For penicillin G, 250 mg.
-
-=400,000 U
+For penicillin G, 250 mg. = 400,000 U
 
 **RISKS AND PRECAUTIONS**
 
@@ -1330,9 +1321,7 @@ Epinephrine (Adrenalin) must be injected at once.
 
 A person who has once had any allergic reaction to penicillin should never be given any kind of penicillin, ampicillin or amoxicillin again, either by mouth or by injection.
 
-This is because the next time the reaction would likely be far worse and might kill him.
-
-(But stomach upset from taking penicillin is not an allergic reaction, and no cause to stop taking it.)
+This is because the next time the reaction would likely be far worse and might kill him. (But stomach upset from taking penicillin is not an allergic reaction, and no cause to stop taking it.)
 
 Persons who cannot take penicillin can sometimes be treated with tetracycline or erythromycin by mouth ([see page 354](#page-354) and [page 355](#page-355) for uses and precautions).
 
@@ -1496,7 +1485,6 @@ Procaine penicillin (procaine benzylpenicillin, procaine penicillin G)
 
 _Often comes in:_  vials of 1 million U (1 g) or 3 million U (3 g), and more
 
-
 _Dosage of_ procaine penicillin—for moderately severe infections:
 
 Give 1 injection a day for 10 to 15 days.
@@ -1525,7 +1513,7 @@ The dosage for procaine penicillin combined with a short-acting penicillin is th
 
 _Often comes in:_  vials of 1,200,000 or 2,400,000 U
 
-_Dosage of_ benzathine benzylpenicillin—for mild to moderately severe infections:
+_Dosage of_ benzathine benzylpenicillin for mild to moderately severe infections:
 
 Give 1 injection every 4 days.
 
@@ -1543,6 +1531,7 @@ For treatment of syphilis, benzathine benzylpenicillin is best.
 
 For dosage, see [page 238](#page-238).
 
+
 ### AMPICILLIN and AMOXICILLIN: broad-spectrum penicillins
 
 **Ampicillin**
@@ -1554,6 +1543,8 @@ _Often comes in:_
 - capsules, 250 mg
 
 - injections, vials of 500 mg or 1 g
+
+
 
 **Amoxicillin**
 
@@ -1586,9 +1577,7 @@ Ampicillin works well when taken by mouth.
 
 Injections should only be used for severe illnesses such as meningitis, peritonitis, and appendicitis, or when the sick person vomits or cannot swallow.
 
-Ampicillin and amoxicillin are often useful in treating pneumonia or ear infections of children under 6 years, severe urinary tract infections,
-tooth abscess, and typhoid fever (in some parts
-of the world).
+Ampicillin and amoxicillin are often useful in treating pneumonia or ear infections of children under 6 years, severe urinary tract infections, tooth abscess, and typhoid fever (in some parts of the world).
 
 Ampicillin is also useful in treating septicemia and unexplained illness in the newborn, meningitis, peritonitis, and appendicitis.
 
@@ -1717,7 +1706,7 @@ Tetracyclines are broad-spectrum antibiotics; that is, they fight a wide range o
 
 Tetracycline should be taken by mouth, as this works as well and causes fewer problems than when it is injected.
 
-Tetracycline can be used for:
+_Tetracycline can be used for:_
 
   - diarrhea or dysentery caused by bacteria or amebas
 
@@ -1739,19 +1728,11 @@ Tetracycline can be used for:
 
 Tetracycline does no good for the common cold.
 
-For many common infections it does not work as well as penicillin or sulfas.
-
-It is also more expensive.
-
-Its use should be limited.
+For many common infections it does not work as well as penicillin or sulfas. It is also more expensive. Its use should be limited.
 
 **RISKS AND PRECAUTIONS:**
 
-  1. Pregnant women should not take tetracycline, as it can damage or stain the baby’s teeth and bones.
-
-  For the same reason, children under 8 years old should take tetracycline only when absolutely necessary, and for short periods only.
-
-  Use erythromycin instead.
+  1. Pregnant women should not take tetracycline, as it can damage or stain the baby’s teeth and bones. For the same reason, children under 8 years old should take tetracycline only when absolutely necessary, and for short periods only. Use erythromycin instead.
 
   2. Tetracycline may cause diarrhea or upset stomach, especially if taken for a long time.
 
@@ -1850,20 +1831,11 @@ Ampicillin usually works as well as or better than chloramphenicol, and is much 
 
 For life-threatening illnesses such as meningitis, peritonitis, deep gut wounds, septicemia, or severe childbirth fever, chloramphenicol may be used when less dangerous medicines (like cephalosporins) are not available.
 
-_WARNING:_  Chloramphenicol harms the blood
-of some persons.
+_WARNING:_  Chloramphenicol harms the blood of some persons. It is especially dangerous for newborn babies. For a baby less than 1 month old with a serious infection, give ampicillin instead.
 
-It is especially dangerous for newborn babies.
+Take care not to give more than the recommended dose of chloramphenicol. For babies, the dose is very small (see below).
 
-For a baby less than 1 month old with a serious infection, give ampicillin instead.
-
-Take care not to give more than the recommended dose of chloramphenicol.
-
-For babies, the dose is very small (see below).
-
-Avoid long or repeated use.
-
-In many places, typhoid has become resistant to chloramphenicol.
+Avoid long or repeated use. In many places, typhoid has become resistant to chloramphenicol.
 
 Try ciprofloxacin or cotrimoxazole.
 
@@ -1969,7 +1941,7 @@ _In each dose give:_
 
   - Children with HIV should also take cotrimoxazole.
 
-Using 480 mg tablets:
+_Using 480 mg tablets:_
 
    - children 6 to 14 years old: 1 tablet once a day
 
@@ -2040,13 +2012,9 @@ For severe shigella infections: Inject 50 mg per kg once a day for 5 days, but n
 
 For meningitis: Inject 100 mg per kg per day, divided into 2 doses (give 1 dose every 12 hours).
 
-Give with ampicillin.
+Give with ampicillin. See [page 185](#page-185).
 
-See [page 185](#page-185).
-
-For gonorrhea eye infection in the newborn 7 days or older: Inject 50 mg per kg, 1 time only.
-
-Do not give more than 125 mg.
+For gonorrhea eye infection in the newborn 7 days or older: Inject 50 mg per kg, 1 time only. Do not give more than 125 mg.
 
 ### other antibiotics
 
@@ -2069,7 +2037,6 @@ Pregnant or breastfeeding women should not use ciprofloxacin.
 
 It is best to avoid giving ciprofloxacin to children if possible.
 
-
 _Dosage of_ ciprofloxacin for adults: Give 500 mg, 2 times a day.
 
 For chancroid and shigella, give the above dosage for 3 days. But give for 7 days if the person also has HIV.
@@ -2082,8 +2049,7 @@ _Often comes in:_  capsules of 25, 75, 150, and 300 mg
 
 Clindamycin is a strong antibiotic of the lincosamide family that is used to treat many kinds of infections.
 
-Clindamycin is especially useful for treating infections that have become resistant
-to penicillin, such as bone infections.
+Clindamycin is especially useful for treating infections that have become resistant to penicillin, such as bone infections.
 
 It can also be used with quinine to treat malaria in pregnant women (see [page 366](#page-366) for dosage).
 
@@ -2187,8 +2153,6 @@ If fewer medicines are used, the TB bacteria can become resistant to the drugs a
 Tuberculosis must be treated for a long time, usually 6 months or longer, and the anti- TB medicines are usually taken every day.
 
 The full, long-term treatment for TB is extremely important to kill the TB bacteria and to keep tuberculosis from coming back again, infecting other people, and developing drug resistance.
-
-
 
 Drug resistance means that the best and least expensive TB drugs no longer work against the TB bacteria.
 
@@ -2346,16 +2310,15 @@ Rifampicin can affect the way ART works for a person with HIV.
 
 Talk to an experienced health worker.
 
-
 _Dosage of_ rifampicin for TB (10 mg/kg/day): using tablets or capsules of 150 mg or 300 mg
 
 Give rifampicin once a day, either 1 hour before or 2 hours after eating.
 
 _In each dose give:_
 
-- adults: 600 mg (two 300 mg tablets or four 150 mg tablets)
+  - adults: 600 mg (two 300 mg tablets or four 150 mg tablets)
 
-- children 8 to 12 years: 450 mg children 3 to 7 years: 300 mg children under 3 years: 150 mg
+  - children 8 to 12 years: 450 mg children 3 to 7 years: 300 mg children under 3 years: 150 mg
 
 
 **Pyrazinamide**
@@ -2458,8 +2421,7 @@ _With each injection give:_
 
 When treating leprosy, it is important to know which of the two main types of leprosy the person has.
 
-If there are light-colored skin patches with
-loss of sensation but no lumps or thickened skin, then the person probably has paucibacillary–PB (tuberculoid) leprosy and only 2 medicines are required.
+If there are light-colored skin patches with loss of sensation but no lumps or thickened skin, then the person probably has paucibacillary PB (tuberculoid) leprosy and only 2 medicines are required.
 
 If there are lumps, then the person probably has multibacillary–MB (lepromatous) leprosy and 3 medicines must be used.
 
@@ -2511,13 +2473,15 @@ _WARNING:_  **DDS is a dangerous drug.**
 
 Keep it where children cannot reach it.
 
-_Dosage for_ DDS (2 mg/kg/day): Take once a day.
+_Dosage for_ DDS (2 mg/kg/day):
 
-- adults: 100 mg
+  - Take once a day.
 
-- children 10 to 12 years: 50 mg
+  - adults: 100 mg
 
-- children under 10 years: 25 mg
+  - children 10 to 12 years: 50 mg
+
+  - children under 10 years: 25 mg
 
 
 **Rifampicin**
@@ -2597,8 +2561,7 @@ This is especially true for the most serious type of malaria (falciparum malaria
 
 It is important to learn from health workers, local health centers, or the Health Department what medicines work best in your area.
 
-IMPORTANT: Malaria can quickly kill persons
-who have not developed immunity.
+**IMPORTANT**: Malaria can quickly kill persons who have not developed immunity.
 
 Children, and people who visit areas with malaria, must be treated immediately.
 
@@ -2610,7 +2573,7 @@ Medicines for malaria can be used in two ways:
 
 Prevention is used in areas where malaria is common, especially to protect children who are weak or sick for other reasons.
 
-It is also used by persons visting a malaria area who have no defenses against the disease.
+It is also used by persons visiting a malaria area who have no defenses against the disease.
 
 Medicines are usually given weekly.
 
@@ -2672,8 +2635,6 @@ Give 10 mg/kg
 
 _Side effects:_ Artesunate can cause dizziness and problems balancing.
 
-
-
 _Dosage of_ artesunate (4 mg/kg/day) by mouth— using tablets of 50 mg
 
 Give artesunate once a day for 3 days.
@@ -2681,16 +2642,15 @@ Give artesunate once a day for 3 days.
 
 _In each dose give:_
 
-- adults and children over 13 years: 4 tablets (200 mg)
+  - adults and children over 13 years: 4 tablets (200 mg)
 
-- children 7 to 13 years: 2 tablets (100 mg)
+  - children 7 to 13 years: 2 tablets (100 mg)
 
-- children 1 to 6 years: 1 tablet (50 mg)
+  - children 1 to 6 years: 1 tablet (50 mg)
 
-- children 1 month to 1 year: 1⁄2 tablet (25 mg)
+  - children 1 month to 1 year: 1⁄2 tablet (25 mg)
 
 Also take a second anti-malaria medicine as part of ACT.
-
 
 To prepare artesunate injection in cases of emergency, see a health worker or doctor.
 
@@ -2701,8 +2661,6 @@ _Often comes in:_  tablets of 20 mg of artemether with 120 mg of lumefantrine
 
 Artemether is a medicine of the artemisinin family, available in a combined tablet with lumefantrine to treat falciparum malaria.
 
-
-
 _Dosage of_ artemether with lumefantrine by mouth— using tablets of 20 mg artemether with 120 mg lumefantrine.
 
 Give 2 times a day for 3 days.
@@ -2710,15 +2668,15 @@ Give 2 times a day for 3 days.
 
 In each dose, give:
 
-- adults and children over 13 years: 4 tablets
+  - adults and children over 13 years: 4 tablets
 
-- children 8 to 13 years: 3 tablets
+  - children 8 to 13 years: 3 tablets
 
-- children 4 to 7 years: 2 tablets
+  - children 4 to 7 years: 2 tablets
 
-- children 6 months to 3 years: 1 tablet
+  - children 6 months to 3 years: 1 tablet
 
-- children under 6 months: it is best not to give artemether with lumefantrine.
+  - children under 6 months: it is best not to give artemether with lumefantrine.
 
 
 _**CAUTION:**_  Women in the first 3 months of pregnancy should avoid using artemether.
@@ -2767,22 +2725,17 @@ Also give artesunate.
 
 **Mefloquine (familiar brand name: Lariam)**
 
+_Often comes in:_  tablets of 250 mg
 
- _Often comes in:_  tablets of 250 mg
 Mefloquine is used with artesunate to treat falciparum malaria.
 
 Mefloquine can also be used alone for malaria prevention.
 
-Precautions and _Side effects:_ Mefloquine should not be taken by persons with epilepsy
-or mental illness.
+Precautions and _Side effects:_ Mefloquine should not be taken by persons with epilepsy or mental illness.
 
 Pregnant women should take mefloquine only if they are not able to get another medicine.
 
-Persons with heart problems should
-get experienced medical advice before taking
-this medicine.
-
-Take with a large meal.
+Persons with heart problems should get experienced medical advice before taking this medicine. Take with a large meal.
 
 Mefloquine sometimes causes strange behavior, confusion, anxiety, seizures or unconsciousness.
 
@@ -2799,13 +2752,13 @@ _Dosage of_ mefloquine:
 
 Give one dose on the second day of taking artesunate, then on the third day give the second, smaller dose:
 
-- adults: first 4 tablets, then 2 tablets (1500 mg total)
+  - adults: first 4 tablets, then 2 tablets (1500 mg total)
 
-- children 7 to 13 years: first 2 tablets, then 1 tablet (750 mg total)
+  - children 7 to 13 years: first 2 tablets, then 1 tablet (750 mg total)
 
-- children 1 to 6 years: 1⁄2 tablet, then another 1⁄2 tablet (250 mg total)
+  - children 1 to 6 years: 1⁄2 tablet, then another 1⁄2 tablet (250 mg total)
 
-- babies 5 months to 1 year: 1⁄4 tablet, then another 1⁄4 tablet (125 mg total)
+  - babies 5 months to 1 year: 1⁄4 tablet, then another 1⁄4 tablet (125 mg total)
 
 Also give artesunate.
 
@@ -2828,14 +2781,12 @@ Give once a week continuing until 4 weeks after leaving malaria area:
 
 
 _Often comes in:_  153 or 200 mg tablets
+
 Amodiaquine is used with artesunate to treat falciparum malaria.
 
-Amodiaquine and artesunate sometimes come together in a combined tablet.
+Amodiaquine and artesunate sometimes come together in a combined tablet. This combination may be less safe for people with HIV.
 
-This combination may be less safe for people with HIV.
-
-
-_Dosage of_ amodiaquine—using tablets of 153 mg
+_Dosage of_ amodiaquine, using tablets of 153 mg
 For treatment of falciparum malaria, give once a day for 3 days.
 
 _In each dose give:_
