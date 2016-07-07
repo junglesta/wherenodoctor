@@ -544,11 +544,9 @@ If non–fat milk is used, add another spoonful of oil.
 
 1. Keep giving breast milk, if possible until the baby is 2 or 3 years old.
 
-2. When the baby is 6 months old, start giving her other foods in addition
-to breast milk. Always give the breast first, and then the other foods. It is good to start with a gruel or porridge made from the main food (p. 111) such as maize meal or rice cooked in water or milk. Then start adding a little cooking oil for extra energy. After a few days, start adding other helper foods (see p. 110). But start with just a little of the new food, and add only 1 at time or the baby may have trouble digesting them. These new foods need to be well cooked and mashed. At first they can be mixed with a little breast milk to make them easier for the baby to swallow.
+2. When the baby is 6 months old, start giving her other foods in addition to breast milk. Always give the breast first, and then the other foods. It is good to start with a gruel or porridge made from the main food (p. 111) such as maize meal or rice cooked in water or milk. Then start adding a little cooking oil for extra energy. After a few days, start adding other helper foods (see p. 110). But start with just a little of the new food, and add only 1 at time or the baby may have trouble digesting them. These new foods need to be well cooked and mashed. At first they can be mixed with a little breast milk to make them easier for the baby to swallow.
 
-3. Prepare inexpensive, nutritious feedings for the baby by adding helper
-foods to the main food (see p. 110). Most important is to add foods that give extra energy (such as oil) and, whenever possible, extra iron (such as dark green leafy vegetables).
+3. Prepare inexpensive, nutritious feedings for the baby by adding helper foods to the main food (see p. 110). Most important is to add foods that give extra energy (such as oil) and, whenever possible, extra iron (such as dark green leafy vegetables).
 
 Remember, a young child’s stomach is small and cannot hold much food at one time. So feed her often, and add high-energy helpers to the main food:
 
