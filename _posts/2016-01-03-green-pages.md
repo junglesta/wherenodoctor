@@ -35,11 +35,6 @@ In this book brand names are written in _italics_ and begin with a Capital lette
 For example, Phenergan is a brand name for an antihistamine called **promethazine** (promethazine is the generic name).
 
 
-With the information on each medicine, blank spaces _ _ _ _ _ have been left for you to **write in** the name and price of the most common or least expensive product in your area.
-
-For example, if the cheapest or only available form of tetracycline in your area is Terramycin, you would write in the blank spaces as follows:
-
-
 >_Note:_  Not all the medicines listed in the Green Pages are needed in your Home or Village Medicine kit.
 
 Because different medicines are available in different countries, information has sometimes been given for a number of medicines that do the same job.
@@ -52,7 +47,7 @@ Because different medicines are available in different countries, information ha
 {:.no_toc}
 
 
-DOSAGE INFORMATION
+**DOSAGE INFORMATION**
 
 ## how fractions are written
 
@@ -66,7 +61,7 @@ DOSAGE INFORMATION
 
 1⁄8 tablet = one eighth of a tablet (dividing it into 8 equal pieces and taking 1 piece)
 
-## deciding dosage by how much a person weighs
+## deciding dosage by how much a person weights
 
 In these pages most instructions for dosage are given according to the age of a person, so that children get smaller doses than adults.
 
@@ -74,23 +69,15 @@ However, it is more exact to determine dosage according to a person’s weight.
 
 Information for doing this is sometimes included briefly in parentheses ( ), for use of health workers who have scales.
 
-If you read.
-
-
-**(100 mg/kg/day),**
-
-this means 100 mg per kilogram of body weight per day.
+If you read **(100 mg/kg/day),** this means 100 mg per kilogram of body weight per day.
 
 In other words, during a 24 hour period you give 100 mg of the medicine for each kilogram the person weighs.
-
 
 For example, suppose you want to give aspirin to a boy with rheumatic fever who weighs 36 kilograms.
 
 The recommended dose of aspirin for rheumatic fever is 100 mg/kg/day.
 
-So multiply:
-
-**100 mg x 36 = 3600 mg**
+So multiply: **100 mg x 36 = 3600 mg**
 
 The boy should get 3600 mg of aspirin a day.
 
@@ -101,7 +88,7 @@ So give the boy 1 tablets 6 times a day (or 2 tablets every 4 hours).
 
 This is one way to figure the dosages for different medicines.
 
-For more information on measuring and deciding on dosages, see Chapter 8.
+For more information on measuring and deciding on dosages, see [Chapter 8](#08-how-to-measure-and-give-medicine).
 
 
 >Note to educators and planners of health care programs and to local distributors of this book:
@@ -111,7 +98,7 @@ For more information on measuring and deciding on dosages, see Chapter 8.
 
 >Local distributors are encouraged to duplicate a sheet with this information, so that it can be copied into the book by the user.
 
-Wherever possible, include local sources for **generic or low‐cost medicines and supplies**. See [“Buying Supplies for the Medicine Kit“, page 333](#page-333).
+Wherever possible, include local sources for **generic or low‐cost medicines and supplies**. See [“Buying Supplies for the Medicine Kit“](#page-333).
 
 
 
@@ -5474,7 +5461,7 @@ To eliminate poison from the body after effects of the poison have begun:
 
 For example, if the baby weighs 6 kg, give 6 g of activated charcoal for the first dose, and 3 g every 2 to 4 hours afterwards.
 
-## FOR SEIZURES (FITS, CONVULSIONS)
+## FOR SEIZURES (fits, convulsions)
 
 **Phenobarbital** and **phenytoin** are common medicines used to prevent seizures of epilepsy.
 
@@ -5767,7 +5754,7 @@ If the woman is feeling nauseous, you can also put the tablets in her rectum to 
 {:.no_toc}
 
 
-## FOR PILES (HEMORRHOIDS)
+## FOR PILES (hemorrhoids)
 
 **Suppositories for hemorrhoids**
 
@@ -6016,9 +6003,35 @@ _Dosage of_ vitamin B6—if problems develop while taking isoniazid:
 {:.no_toc}
 
 
-## FAMILY PLANNING METHODS
+# FAMILY PLANNING METHODS
 
-### combination birth control pills
+
+## ORAL CONTRACEPTIVES (birth control pills)
+
+Information about the use, risks, and precautions for birth control pills can be found on [page 289](#page-289).
+
+Most birth control pills contain 1 or 2 hormones similar to hormones that a woman’s body normally makes during her menstrual cycle (see pages[page 245](#page-245) and[page 291](#page-291) ).
+
+These hormones are called estrogen and progestin (see [page 288](#page-288)).
+
+Each type of pill comes in different strengths of each hormone and is sold under many different brand names.
+
+
+Women who take birth control pills usually have lighter monthly bleeding than they would without the pills.
+
+
+This may be a good thing, especially for women who are anemic.
+
+But if a woman has no monthly bleeding or very light monthly bleeding for months and does not like this side effect, she can try changing to a pill with more estrogen.
+
+
+**Other medicines interact with birth control pills**
+
+Rifampicin (for tuberculosis), ritonavir (for HIV) and some epilepsy medicines make birth control pills less effective.
+
+If you take these medicines, use a different family planning method.
+
+## COMBINATION BIRTH CONTROL PILLS
 
 **Multiphasic combination pills**
 
@@ -6046,7 +6059,7 @@ Some multiphasic brand names:
   - Triphasil
 
 
-### Fixed-dose combination pills
+## FIXED-DOSE COMBINATION PILLS
 
 These contain estrogen (usually 35 mcg) and progestin (usually 0.1 mg).
 
@@ -6058,42 +6071,28 @@ The amounts of each hormone are the same in all 21 hormone pills in each pack.
 
 
 
-
-### oral contraceptives (birth control pills)
-
-Information about the use, risks, and precautions for birth control pills can be found on [page 289](#page-289).
-
-Most birth control pills contain 1 or 2 hormones similar to hormones that a woman’s body normally makes during her menstrual cycle (see pages[page 245](#page-245) and[page 291](#page-291) ).
-
-These hormones are called estrogen and progestin (see [page 288](#page-288)).
-
-Each type of pill comes in different strengths of each hormone and is sold under many different brand names.
-
-
-Women who take birth control pills usually have lighter monthly bleeding than they would without the pills.
-
-
-This may be a good thing, especially for women who are anemic.
-
-But if a woman has no monthly bleeding or very light monthly bleeding for months and does not like this side effect, she can try changing to a pill with more estrogen.
-
-
-Other medicines interact with birth control pills
-
-Rifampicin (for tuberculosis), ritonavir (for HIV) and some epilepsy medicines make birth control pills less effective.
-
-If you take these medicines, use a different family planning method.
-
-
 Some brand names:
 
-- Alesse Cilest Gynera Harmonet Ortho-Novum
+- Alesse
 
-- Diane Norinyl Ovysmen
+- Cilest
+
+- Gynera
+
+- Harmonet
+
+- Ortho-Novum
+
+- Diane
+
+- Norinyl
+
+- Ovysmen
 
 - Femoden
 
-- Fixed-dose combination pills with less estrogen
+
+**Fixed-dose combination pills with less estrogen**
 
 These pills are higher in progestin (0.15 mg) and lower in estrogen (30 mcg).
 
@@ -6107,11 +6106,15 @@ The amounts of each hormone are the same in all 21 hormone pills in each pack.
 These pills may work better for a woman with very heavy monthly bleeding or painful breasts before her period begins.
 
 
-Some brand names:
+_Some brand names:_
 
-- Lo-Femenal Microvlar
+- Lo-Femenal
 
-- Lo/Ovral Nordette
+- Microvlar
+
+- Lo/Ovral
+
+- Nordette
 
 - Microgynon
 
@@ -6119,13 +6122,12 @@ Some brand names:
 
 If you are sure you are not pregnant and you are not breastfeeding a baby under 6 months old, you can start taking the pill any time.
 
-
 Pills will not prevent pregnancy until you have been taking them for about a week.
 
 So during the first 7 days after starting birth control pills, use condoms or avoid sex.
 
 
-_Combination pills can be used 3 ways_
+**Combination pills can be used 3 ways**
 
 **28-day use**: Take the pills for 21 days.
 
@@ -6193,7 +6195,7 @@ You can stop taking the pill at any time.
 
 You could then get pregnant right away, so if you want to avoid pregnancy, use condoms or another method.
 
-### the minipill
+## MINIPILL
 
 **Progestin-only pills.**
 
@@ -6257,7 +6259,7 @@ If you want to get pregnant or change methods, you can stop taking the minipill 
 
 You could get pregnant as soon as you stop, so if you do not want to, start another method immediately.
 
-### emergency family planning (emergency contraception, ec)
+## EMERGENCY FAMILY PLANNING (emergency contraception, ec)
 
 You can use emergency contraceptive pills or some brands of regular birth control pills to prevent pregnancy within 5 days after unprotected sex.
 
@@ -6452,11 +6454,11 @@ A woman can choose to have the implants removed at any time, but she must find a
 After removal, the woman can get pregnant right away, so she will need to use another family planning method if she does not want to become pregnant.
 
 
-## MEDICINES FOR HIV — antiretroviral therapy (art)
+# MEDICINES FOR HIV — antiretroviral therapy (ART)
 
 No medicine can cure HIV yet, but medicines called antiretrovirals can help people with HIV live longer and healthier lives, and taking them helps prevent HIV from spreading.
 
-Taken daily as a combination of at least 3 medicines, this is called Antiretroviral Therapy, or ART.
+Taken daily as a combination of at least 3 medicines, this is called Anti Retroviral Therapy, or ART.
 
 The medicine cotrimoxazole (see [page 357](#page-357)) can prevent many infections in people with HIV.
 
@@ -6467,7 +6469,7 @@ The medicine cotrimoxazole (see [page 357](#page-357)) can prevent many infectio
 
 
 
-### hiv care and a.r.t. programs
+## HIV care and ART programs
 
 As soon as you have a positive HIV test, try to find an HIV care program where health workers can see you regularly, treat your health problems quickly, and help you start ART.
 
@@ -6519,8 +6521,7 @@ ART for children is often available as a liquid that can be easily mixed into fo
 
 Whatever combination you use, take every medicine every day, at the same time of day.
 
-Twice-a-day medicines should be taken every
-12 hours.
+Twice-a-day medicines should be taken every 12 hours.
 
 Having too little medicine in your body for some hours can cause drug resistance and the drugs will no longer work for you or for others in your community as drug-resistant HIV spreads.
 
@@ -6543,7 +6544,7 @@ But keep taking your ART until your health worker tells you to change or stop.
 Other side effects can be life-threatening, such as severe liver problems, severe tiredness with shortness of breath, skin allergies and rashes, tingling or burning in the hands and feet, and anemia ([page 124](#page-124)).
 
 
-If you have serious side effects, see a health worker right away
+If you have serious side effects, see a health worker right away.
 
 **Preventing HIV right after a person has been exposed to it**
 
@@ -6564,11 +6565,9 @@ Other combinations may be available and recommended in your area.
 All must be taken for 28 days.
 
 
-### ART for pregnant women with hiv
+## ART for pregnant women with hiv
 
-Women who are pregnant, and any woman.
-
-with a CD4 count of 500 or less or who is sick with AIDS, should start ART to improve their health.
+Women who are pregnant, and any woman with a CD4 count of 500 or less or who is sick with AIDS, should start ART to improve their health.
 
 The mother’s ART will also help prevent HIV from spreading to her baby.
 
@@ -6641,9 +6640,7 @@ For babies, this medicine comes as a liquid to give by mouth:
 
   - 9 months until breastfeeding ends: 40 mg once a day
 
-or
-
-If nevirapine is not available, and the mother is NOT breastfeeding, use:
+or if nevirapine is not available, and the mother is NOT breastfeeding, use:
 
 **AZT (ZDV, zidovudine)**
 
