@@ -1,7 +1,7 @@
 //save battery styles
 body {
   background-color: black;
-  color: white;
+  color: rgba(255,255,255,.65);
 }
 blockquote {
   color: rgba(255,255,255,.75);
@@ -20,4 +20,67 @@ a {
 .chapter_no {
   pointer-events: none;
   color: rgba(255,255,255,.15);
+}
+
+#markdown-toc {
+  border-color: transparentize($brand_color, .6);
+  #green-pages & {
+    border-color: transparentize($color_green, .15);
+  }
+}
+
+#markdown-toc ul {
+  li {
+    border-left-color: transparentize($brand_color, .6);
+    #green-pages & {
+      border-left-color: transparentize($color_green, .15);
+    }
+  }
+  ul li {
+    border-left-color: transparentize($brand_color, .6);
+    #green-pages & {
+      border-left-color: transparentize($color_green, .15);
+    }
+  }
+}
+
+p strong {
+  font-weight: normal;
+  color: white;
+}
+p a {
+  color: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,.25);
+  &:hover {
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,.5);
+  }
+}
+
+
+.addon {
+  &.green {
+    background-color: transparent;
+    border-left: 10px solid $color_green;
+  }
+  &.yellow {
+    background-color: transparent;
+    border-left: 10px solid $color_yellow;
+  }
+  &.red {
+    background-color: transparent;
+    border-left: 10px solid $color_red;
+  }
+  &.brown {
+    background-color: transparent;
+    border-left: 10px solid $color_brown;
+  }
+  &.grey {
+    background-color: transparent;
+    border-left: 10px solid $color_grey;
+  }
+  &.blue {
+    background-color: transparent;
+    border-left: 10px solid $brand_color;
+  }
 }

@@ -85,6 +85,11 @@ main {
   }
 }
 
+
+#contents .chapter_title {
+  min-height: 0;
+  height: 60px;
+}
 .chapter_content {
   margin-top: $spacing_unit*2;
   padding-bottom:  $spacing_unit*2;
