@@ -75,7 +75,7 @@ If a combination of these 3 signs appears and the person gets sick more and more
 
 There is still no medicine to cure HIV or AIDS. But medicines called “antiretrovirals” can help people with HIV stay healthy and live longer. Taken in combination, they are called Antiretroviral Therapy, or ART. ART is becoming less costly and more available in many countries. (See [page 396](#page-396) to [page 398](#page-398)for information on ART.)
 
-Because people with HIV have difficulty fighting infections, many use cotrimoxazole daily to prevent infections (see page [page 357](#page-357)). Be sure to treat any problems that occur:
+Because people with HIV have difficulty fighting infections, many use cotrimoxazole daily to prevent infections (See [page 357](#page-357)). Be sure to treat any problems that occur:
 
   - For diarrhea, use Rehydration Drink (see [page 152](#page-152)).
 

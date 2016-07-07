@@ -289,7 +289,7 @@ Use latrines, wash hands before eating or handling food, protect food from flies
 
 **Treatment:**
 
-Mebendazole will usually get rid of roundworms. For dosage see [page 373](#page-373). Piperazine also works (see [page 374](#page-374)). Some home remedies work fairly well. For a home remedy using papaya see page [page 13](#page-13).
+Mebendazole will usually get rid of roundworms. For dosage see [page 373](#page-373). Piperazine also works (see [page 374](#page-374)). Some home remedies work fairly well. For a home remedy using papaya See [page 13](#page-13).
 WARNING: Do not use thiabendazole for roundworms. It often makes the worms move up to the nose or mouth and can cause gagging.
 
 
