@@ -215,7 +215,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[Selenium sulfide (Selsun, Exsel)](#page-371)|371|
 |[Tolnaftate (Tinactin)](#page-371)|371|
 |[Griseofulvin](#page-371)|371|
-|[Gentian violet—for yeast infections (thrush)](#page-371)| 371|
+|[Gentian violet, for yeast infections (thrush)](#page-371)| 371|
 |[Nystatin or miconazole](#page-372)|372|
 
 ### For Scabies and Lice
@@ -264,8 +264,8 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 ### For The Eyes
 
 |[For The Eyes](#page-378)|378|
-|[Antibiotic eye ointment—for conjunctivitis and newborn babies’ eyes](#page-378)|378|
-|[Tetracycline or Erythromycin—for newborn babies’ eyes](#page-378)|378|
+|[Antibiotic eye ointment, for conjunctivitis and newborn babies’ eyes](#page-378)|378|
+|[Tetracycline or Erythromycin, for newborn babies’ eyes](#page-378)|378|
 
 ### For Pain
 
@@ -274,7 +274,7 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[Child’s aspirin](#page-379) |379|
 |[Acetaminophen (paracetamol)](#page-379)| 379|
 |[Ibuprofen ](#page-379)|379|
-|[Ergotamine with caffeine—for migraine headache](#page-379)| 379|
+|[Ergotamine with caffeine, for migraine headache](#page-379)| 379|
 |[Codeine](#page-383) |383|
 
 ### For Stopping Pain When Closing Wounds
@@ -385,12 +385,12 @@ Wherever possible, include local sources for **generic or low‐cost medicines a
 |[For Malnutrition and Anemia](#page-391)|391|
 |[Powdered milk (dried milk)](#page-391)|391|
 |[Mixed (or multi) vitamins](#page-391)|391|
-|[Vitamin A—for night blindness and xerophthalmia](#page-391)|391|
+|[Vitamin A, for night blindness and xerophthalmia](#page-391)|391|
 |[Iron sulfate (ferrous sulfate) for anemia](#page-392)|392|
-|[Folic acid—for anemia](#page-392)|392|
-|[Vitamin B12 (cyanocobalamin)—for pernicious anemia only](#page-392)|392|
-|[Vitamin K (phytomenadione)—for bleeding in the newborn](#page-392)|392|
-|[Vitamin B6 (pyridoxine)—for persons taking INH ](#page-393)|393|
+|[Folic acid, for anemia](#page-392)|392|
+|[Vitamin B12 (cyanocobalamin), for pernicious anemia only](#page-392)|392|
+|[Vitamin K (phytomenadione), for bleeding in the newborn](#page-392)|392|
+|[Vitamin B6 (pyridoxine), for persons taking INH ](#page-393)|393|
 
 ### Family Planning Methods
 
@@ -1351,7 +1351,7 @@ Consult a health worker for dosage and precautions.
 In many parts of the world, gonorrhea and other sexually transmitted infections are now resistant to penicillin; [See page 359](#page-359)  for other antibiotics.
 
 
-Pneumonia is also sometimes resistant to penicillin—try cotrimoxazole ([page 357](#page-357)) or erythromycin ([page 354](#page-354)).
+Pneumonia is also sometimes resistant to penicillin, try cotrimoxazole ([page 357](#page-357)) or erythromycin ([page 354](#page-354)).
 
 
 
@@ -1468,7 +1468,7 @@ Benzathine penicillin often comes combined with faster-acting penicillins.
 _Often comes in:_  vials of 1 million U (600 mg) or 5 million U (3 g)
 
 
-_Dosage of_ crystalline penicillin or any short-acting penicillin—for severe infections:
+_Dosage of_ crystalline penicillin or any short-acting penicillin, for severe infections:
 
 Give an injection every 4 hours for 10 to 14 days. In each injection give:
 
@@ -1485,7 +1485,7 @@ Procaine penicillin (procaine benzylpenicillin, procaine penicillin G)
 
 _Often comes in:_  vials of 1 million U (1 g) or 3 million U (3 g), and more
 
-_Dosage of_ procaine penicillin—for moderately severe infections:
+_Dosage of_ procaine penicillin, for moderately severe infections:
 
 Give 1 injection a day for 10 to 15 days.
 
@@ -1590,7 +1590,7 @@ See Risks and Precautions for all types of penicillin, page 350.
 
 _Dosage for_ ampicillin and amoxicillin:
 
-By mouth (25 to 50 mg/kg/day)—capsules of 250 mg; syrup with 125 mg per teaspoon (5 ml) Ampicillin: Give 4 doses a day for 7 days.
+By mouth (25 to 50 mg/kg/day), capsules of 250 mg; syrup with 125 mg per teaspoon (5 ml) Ampicillin: Give 4 doses a day for 7 days.
 
 Amoxicillin: Give 3 doses a day for 7 days.
 
@@ -1749,7 +1749,7 @@ For many common infections it does not work as well as penicillin or sulfas. It 
 
 
 
-_Dosage for_ tetracycline (20 to 40 mg/kg/day) — capsules of 250 mg and mixture of 125 mg in 5 ml
+_Dosage for_ tetracycline (20 to 40 mg/kg/day),  capsules of 250 mg and mixture of 125 mg in 5 ml
 
 Give tetracycline by mouth 4 times a day for 7 to 10 days.
 
@@ -1760,7 +1760,7 @@ _In each dose give:_
 - children 8 to 12 years: 125 mg
 (1⁄2 capsule or 1 teaspoon)
 
-- children under 8 years: As a general rule, do not use tetracycline—instead use cotrimoxazole or erythromycin.
+- children under 8 years: As a general rule, do not use tetracycline, instead use cotrimoxazole or erythromycin.
 
 In severe cases, and for infections like chlamydia, pelvic inflammatory disease, cholera, typhus, stomach ulcers, and brucellosis, twice the above dose should be given (except to small children).
 
@@ -1783,7 +1783,7 @@ When available, it can be used for the same illnesses as tetracycline.
 Otherwise, the risks and precautions are the same as for tetracycline.
 
 
-_Dosage of_ doxycycline—tablets of 100 mg
+_Dosage of_ doxycycline, tablets of 100 mg
 
 Give doxycycline by mouth twice a day for 7 to 10 days.
 
@@ -1844,7 +1844,7 @@ Chloramphenicol taken by mouth often does more good than when it is injected, an
 Except in rare cases when the person cannot swallow, do not inject chloramphenicol.
 
 
-_Dosage for_ chloramphenicol (50 to 100 mg/kg/day)— capsules of 250 mg, or a mixture of 125 mg in 5 ml.
+_Dosage for_ chloramphenicol (50 to 100 mg/kg/day),  capsules of 250 mg, or a mixture of 125 mg in 5 ml.
 
 Give by mouth 4 times a day.
 
@@ -1910,7 +1910,7 @@ Unless they have HIV, women in the last 3 months of pregnancy and babies less th
 Do not give cotrimoxazole to someone who is allergic to medicines in the sulfa family.
 
 
-_Dosage of_ cotrimoxazole—using tablets of 400 mg sulfamethoxazole with 80 mg trimethoprim:
+_Dosage of_ cotrimoxazole, using tablets of 400 mg sulfamethoxazole with 80 mg trimethoprim:
 
 Important: **Take with lots of water.**
 
@@ -1937,7 +1937,7 @@ _In each dose give:_
 
   - For kidney infection: Take two 480 mg tablets 2 times a day for 10 days.
 
-  - Adults with HIV can take a 480 mg dose of cotrimoxazole 2 times every day—with lots of water—to prevent diarrhea, pneumonia, and other infections. Avoiding infections will help people with HIV live longer, healthier lives.
+  - Adults with HIV can take a 480 mg dose of cotrimoxazole 2 times every day, with lots of water, to prevent diarrhea, pneumonia, and other infections. Avoiding infections will help people with HIV live longer, healthier lives.
 
   - Children with HIV should also take cotrimoxazole.
 
@@ -2278,7 +2278,7 @@ It is never taken alone or the TB will become resistant to it.
 
 When combined with isoniazid and at least one other TB medicine, it can shorten treatment by several months.
 
-(Rifampicin is also used to treat leprosy—see [page 362](#page-362).)
+(Rifampicin is also used to treat leprosy, see [page 362](#page-362).)
 
 It is important to keep taking rifampicin regularly, without interruption.
 
@@ -2494,7 +2494,7 @@ Rifampicin is a very expensive medicine, but only a small amount is needed to tr
 
 Take rifampicin only with the advice of an experienced health worker or doctor:
 
-_Dosage of_ rifampicin for leprosy (10 to 20 mg/kg)— using tablets of 300 mg
+_Dosage of_ rifampicin for leprosy (10 to 20 mg/kg),  using tablets of 300 mg
 
 For leprosy, give rifampicin once a month.
 
@@ -2635,7 +2635,7 @@ Give 10 mg/kg
 
 _Side effects:_ Artesunate can cause dizziness and problems balancing.
 
-_Dosage of_ artesunate (4 mg/kg/day) by mouth— using tablets of 50 mg
+_Dosage of_ artesunate (4 mg/kg/day) by mouth,  using tablets of 50 mg
 
 Give artesunate once a day for 3 days.
 
@@ -2661,7 +2661,7 @@ _Often comes in:_  tablets of 20 mg of artemether with 120 mg of lumefantrine
 
 Artemether is a medicine of the artemisinin family, available in a combined tablet with lumefantrine to treat falciparum malaria.
 
-_Dosage of_ artemether with lumefantrine by mouth— using tablets of 20 mg artemether with 120 mg lumefantrine.
+_Dosage of_ artemether with lumefantrine by mouth,  using tablets of 20 mg artemether with 120 mg lumefantrine.
 
 Give 2 times a day for 3 days.
 
@@ -2817,7 +2817,7 @@ If vomiting is a problem when giving quinine by mouth, a medicine such as promet
 _Side effects:_ Quinine sometimes causes sweaty skin, ringing of the ears or impaired hearing, blurred vision, dizziness, nausea and vomiting, and diarrhea.
 
 
-_Dosage of_ quinine—using tablets of 300 mg for treating resistant falciparum malaria.
+_Dosage of_ quinine, using tablets of 300 mg for treating resistant falciparum malaria.
 
 Give 3 times a day for 3 days:
 
@@ -2865,7 +2865,7 @@ Artesunate is very effective but it must be prepared as a solution of artesunate
 
 _Quinine dihydrochloride injections, 300 mg in 2 ml_
 
-Quinine injections should be given very slowly, and never directly into the vein—this can be dangerous to the heart.
+Quinine injections should be given very slowly, and never directly into the vein, this can be dangerous to the heart.
 
 Take great care with children.
 
@@ -2906,7 +2906,7 @@ _Often comes in:_
 - 500 mg (which have 300 mg of chloroquine)
 
 
-_Dosage for_ chloroquine phosphate by mouth—using 250 mg tablets
+_Dosage for_ chloroquine phosphate by mouth, using 250 mg tablets
 
 For treatment of non-resistant malaria:
 
@@ -2964,7 +2964,7 @@ Give once a week beginning 1 week before and continuing for 4 weeks after leavin
 _Often comes in:_  200 mg tablets (which have 155 mg.of chloroquine)
 
 
-_Dosage of_ chloroquine sulfate by mouth—200 mg tablets
+_Dosage of_ chloroquine sulfate by mouth, 200 mg tablets
 
 **For treatment of non-resistant malaria:**
 
@@ -3157,7 +3157,7 @@ The man should be treated for trichomonas at the same time (even if he has no sy
 
 
 
-_Dosage for_ stomach ulcers (along with other medicines—see [page 129](#page-129)):
+_Dosage for_ stomach ulcers (along with other medicines, see [page 129](#page-129)):
 
 Give metronidazole 3 times a day for 10 to 14 days.
 
@@ -3175,7 +3175,8 @@ adults: Give 500 mg metronidazole 3 times a day for 7 to 10 days.
 Also give another antibiotic, such as penicillin ([page 351](#page-351)), doxycycline ([page 355](#page-355)), or cotrimoxazole ([page 357](#page-357)).
 
 
-_Dosage for_ amebic dysentery (25 to 50 mg/kg/day): —using 250 mg tablets
+_Dosage for_ amebic dysentery (25 to 50 mg/kg/day), using 250 mg tablets
+
 Give metronidazole 3 times a day for 5 to 10 days.
 
 _In each dose give:_
@@ -3206,7 +3207,8 @@ _Often comes in:_
 _Side effects:_ Occasionally causes gas, stomach pain, or nausea.
 
 
-_Dosage for_ diloxanide furoate (20 mg/kg/day) — tablets of 500 mg
+_Dosage for_ diloxanide furoate (20 mg/kg/day),  tablets of 500 mg
+
 Give 3 times a day (with meals) for 10 days.
 
 _In each dose give:_
@@ -3341,7 +3343,7 @@ Sulfur is useful for many skin problems:
 
   1. To avoid or discourage ticks, mites, chiggers, jiggers, and fleas.
 
-  Before going into fields or forests where these are common, dust the skin—especially legs or ankles, wrists, waist, and neck—with sulfur.
+  Before going into fields or forests where these are common, dust the skin, especially legs or ankles, wrists, waist, and neck, with sulfur.
 
   2. To help treat scabies, burrowing fleas, mites, and tiny ticks in or on the skin.
 
@@ -3495,7 +3497,7 @@ It is also used for fungal infections of the nails, but this may take months and
 Pregnant women should avoid taking griseofulvin.
 
 
-_Dosage of_ griseofulvin (15 mg/kg/day)—for microsized particle form, 250 mg capsules
+_Dosage of_ griseofulvin (15 mg/kg/day), for microsized particle form, 250 mg capsules
 
 Give once a day for at least a month.
 
@@ -3507,7 +3509,7 @@ Give once a day for at least a month.
 
 - children under 3 years: 125 mg (1⁄2 capsule)
 
-Gentian violet—for yeast infections (see [page 370](#page-370))
+Gentian violet, for yeast infections (see [page 370](#page-370))
 
 # [372](#page-372)
 {:.no_toc}
@@ -3750,7 +3752,7 @@ When treating heavy worm infections there may be some gut pain or diarrhea, but 
 _WARNING:_  Do not give mebendazole to women in the first 3 months of pregnancy or children under 6 months old.
 
 
-_Dosage of_ mebendazole — using 100 mg tablets
+_Dosage of_ mebendazole,  using 100 mg tablets
 
 Give the same amount to children over 1 year old and adults.
 
@@ -3793,7 +3795,7 @@ _WARNING:_  Do not give albendazole to women in the first 3 months of pregnancy 
 
 
 
-_Dosage of_ albendazole—using 400 mg tablets
+_Dosage of_ albendazole, using 400 mg tablets
 Give the same amount to children more than 2 years old and adults.
 
 For children 1 to 2 years old, give half the dosage below.
@@ -3807,7 +3809,7 @@ For trichinosis: 400 mg 2 times a day for 8 to 14 days.
 
 In severe cases, cortico-steroids also help, but should be given by a health worker or doctor.
 
-**Piperazine—for roundworm (Ascaris) and pinworm (threadworm, Enterobius)**
+**Piperazine, for roundworm (Ascaris) and pinworm (threadworm, Enterobius)**
 
 Prepared as piperazine citrate, tartrate, hydrate, adipate, or phosphate
 
@@ -3824,7 +3826,7 @@ There are few side effects.
 
 _Dosage of_ piperazine for roundworm (Ascaris)
 
-(75 mg/kg/day)—500 mg tablets
+(75 mg/kg/day), 500 mg tablets
 
 or
 
@@ -3875,7 +3877,7 @@ Therefore, if you suspect a person has roundworm in addition to other worms, it 
 _Side effects:_ Thiabendazole often causes tiredness, a sick feeling, and sometimes vomiting.
 
 
-_Dosage for__ thiabendazole (25 mg/kg/day) —500 mg tablets or mixture with 1 g in 5 ml.
+_Dosage for__ thiabendazole (25 mg/kg/day), 500 mg tablets or mixture with 1 g in 5 ml.
 
 Give twice a day for 3 days.
 
@@ -3903,7 +3905,7 @@ This medicine works for pinworm, hookworm, and roundworm (Ascaris), but it may b
 
 Pyrantel occasionally causes vomiting, dizziness, or headache.
 
-_Dosage for__ pyrantel (10 mg/kg)—using 250 mg tablets
+_Dosage for__ pyrantel (10 mg/kg), using 250 mg tablets
 For hookworm and roundworm, give one time.
 
 For pinworm, repeat dose after 2 weeks.
@@ -3943,7 +3945,7 @@ It works against most kinds of tapeworm in the gut, but not against cysts outsid
 {:.no_toc}
 
 
-_Dosage of_ niclosamide for tapeworm—500 mg tablets
+_Dosage of_ niclosamide for tapeworm, 500 mg tablets
 
 Chew well and swallow 1 dose only.
 
@@ -3973,7 +3975,7 @@ Women who are breastfeeding should stop giving their babies breast milk while ta
 _Side effects:_ Praziquantel may cause tiredness, dizziness, headache, and loss of appetite, but these side effects are rare at the low dosages used to treat tapeworm.
 
 
-_Dosage of_ praziquantel for most kinds of tapeworm, including beef and pork tapeworm (10 to 20 mg/kg)—using 600 mg tablets
+_Dosage of_ praziquantel for most kinds of tapeworm, including beef and pork tapeworm (10 to 20 mg/kg), using 600 mg tablets
 
 Take once only.
 
@@ -4026,7 +4028,7 @@ _Side effects:_ Praziquantel frequently causes tiredness, headache, dizziness, a
 To lessen side effects, praziquantel is best taken with a large meal.
 
 
-_Dosage of_ praziquantel for schistosomiasis (40 mg/kg)—using 600 mg tablets
+_Dosage of_ praziquantel for schistosomiasis (40 mg/kg), using 600 mg tablets
 
 To treat schistosomiasis that causes blood in the urine (S. hematobium), give 2 times a day for 1 day.
 
@@ -4206,7 +4208,7 @@ Treat allergic reactions with antihistamines.
 
 ## FOR THE EYES
 
-**Antibiotic eye ointment—for ‘pink eye’ (conjunctivitis)**
+**Antibiotic eye ointment, for ‘pink eye’ (conjunctivitis)**
 
 _Useful examples:_ oxytetracycline, chlortetracycline, or erythromycin eye ointments
 
@@ -4265,7 +4267,7 @@ Many different medicines sold for pain, arthritis, or colds contain aspirin, but
 
   2. Aspirin causes stomach pain or ‘heartburn’ in some persons.
 
-  To avoid this, take aspirin with milk, a little bicarbonate of soda, or a lot of water—or together with meals.
+  To avoid this, take aspirin with milk, a little bicarbonate of soda, or a lot of water, or together with meals.
 
   3. Do not give more than 1 dose of aspirin to a dehydrated person until he begins to urinate well.
 
@@ -4278,7 +4280,7 @@ Many different medicines sold for pain, arthritis, or colds contain aspirin, but
   6. Do not give to pregnant women.
 
 
-_Dosage of_ aspirin—for pain or fever—tablets of 300 mg (5 grains)
+_Dosage of_ aspirin, for pain or fever, tablets of 300 mg (5 grains)
 
 Take once every 4 to 6 hours (or 4 to 6 times a day).
 
@@ -4309,7 +4311,7 @@ Give children aspirin 4 times a day:
 
   - do not give aspirin to children under 1 year old
 
-**Acetaminophen (paracetamol)—for pain and fever**
+**Acetaminophen (paracetamol), for pain and fever**
 
 _Often comes in:_ 300 to 500 mg tablets, syrups
 
@@ -4319,10 +4321,10 @@ It does not cause stomach irritation and so can be used instead of aspirin by pe
 
 It can also be used by pregnant women.
 
-But be careful not to take too much acetaminophen—too much poisons the liver.
+But be careful not to take too much acetaminophen, too much poisons the liver.
 
 
-_Dosage of_ acetaminophen—for pain and fever— 500 mg. tablets
+_Dosage of_ acetaminophen, for pain and fever,  500 mg. tablets
 
 Give acetaminophen by mouth 4 times a day.
 
@@ -4355,7 +4357,7 @@ _WARNING:_  Ibuprofen should not be taken by persons who are allergic to aspirin
 
 Pregnant women should not use ibuprofen.
 
-_Dosage of_ ibuprofen—for pain and fever—200 mg tablets
+_Dosage of_ ibuprofen, for pain and fever, 200 mg tablets
 
 Give ibuprofen by mouth every 4 to 6 hours.
 
@@ -4386,7 +4388,7 @@ _WARNING:_  Do not take this medicine often.
 
 Do not take when pregnant.
 
-**Codeine** — for severe pain—see [page 383](#page-383).
+**Codeine**, for severe pain, see [page 383](#page-383).
 
 ## FOR STOPPING PAIN WHEN CLOSING WOUNDS: anesthetics
 
@@ -4448,7 +4450,7 @@ They may help calm the pain of a bladder infection or inflamed gallbladder.
 They are sometimes useful in the treatment of ulcers.
 
 
-_Dosage for_ belladonna—for gut cramps—tablets with 8 mg belladonna
+_Dosage for_ belladonna, for gut cramps, tablets with 8 mg belladonna
 
   - adults: 1 tablet, 3 to 6 times a day
 
@@ -4645,7 +4647,7 @@ Do not give laxatives to small children under 2 years old.
 
 Generally the best stool softeners are foods high in roughage or fiber, like bran or cassava.
 
-Drinking a lot of liquid (at least 8 glasses of water a day) and eating lots of fruit also help. Milk of magnesia (magnesium hydroxide)— laxative and antacid
+Drinking a lot of liquid (at least 8 glasses of water a day) and eating lots of fruit also help. Milk of magnesia (magnesium hydroxide),  laxative and antacid
 
 
 _Often comes as_ a milky solution
@@ -4673,14 +4675,14 @@ As a mild laxative give 1 dose at bedtime:
 - **do not give to children under 2 years old**
 
 
-**Epsom salts (magnesium sulfate)—as a laxative and for itching**
+**Epsom salts (magnesium sulfate), as a laxative and for itching**
 
 Often comes in white powder or crystals
 
 
 _Dosage for_ Epsom salts:
 
-As a mild laxative—mix the following amount of Epsom salts in a glass of water and drink (best taken on an empty stomach):
+As a mild laxative, mix the following amount of Epsom salts in a glass of water and drink (best taken on an empty stomach):
 
 - adults: 2 teaspoons
 
@@ -4690,9 +4692,9 @@ As a mild laxative—mix the following amount of Epsom salts in a glass of water
 
 - do not give to children under 2 years old
 
-To help stop itching—mix 8 teaspoons of Epsom salts in a liter of water and put on itching skin as cool soaks or compresses.
+To help stop itching, mix 8 teaspoons of Epsom salts in a liter of water and put on itching skin as cool soaks or compresses.
 
-**Mineral oil—as a laxative**
+**Mineral oil, as a laxative**
 
 
 This is sometimes taken by persons with piles (hemorrhoids) who have hard, painful stools.
@@ -4986,7 +4988,7 @@ severe allergic reactions or allergic shock due
 to penicillin injections, tetanus antitoxin, or other antitoxins made from horse serum (see [page 70](#page-70)).
 
 
-_Dosage of_ epinephrine for asthma—using ampules of 1 mg in 1 ml of liquid—
+_Dosage of_ epinephrine for asthma, using ampules of 1 mg in 1 ml of liquid,
 
 First count the pulse.
 
@@ -5001,7 +5003,7 @@ Then inject just under the skin: adults: 1⁄3 ml.
 You can repeat the dose every 1⁄2 hour if needed, up to 3 times.
 
 
-_Dosage of_ epinephrine for allergic shock—using ampules of 1 mg in 1 ml of liquid—
+_Dosage of_ epinephrine for allergic shock, using ampules of 1 mg in 1 ml of liquid,
 
 Inject into the muscle:
 
@@ -5085,7 +5087,7 @@ _Often comes in:_  tablets of 12.5 mg
 
 
 
-injections—ampules of 25 mg in 1 ml
+injections, ampules of 25 mg in 1 ml
 
 
 suppositories of 12.5 mg, 25 mg, and 50 mg
@@ -5096,7 +5098,7 @@ _**CAUTION:**_  Do not give to children under 2 years old.
 Pregnant or breastfeeding women should only use promethazine if it is absolutely necessary.
 
 
-_Dosage of_ promethazine (1 mg/kg/day) —using tablets of 12.5 mg.—
+_Dosage of_ promethazine (1 mg/kg/day), using tablets of 12.5 mg.,
 
 Give by mouth 2 times a day.
 
@@ -5112,7 +5114,7 @@ _In each dose give:_
 
 - babies 1 year old: 4 mg (1⁄3 tablet)
 
-- babies under 1 year: 3 mg (1⁄4 tablet) —using intramuscular (IM) injections, 25 mg in 1 ml— Inject once, and again in 2 to 4 hours, if necessary.
+- babies under 1 year: 3 mg (1⁄4 tablet), using intramuscular (IM) injections, 25 mg in 1 ml,  Inject once, and again in 2 to 4 hours, if necessary.
 
 In 1 dose inject:
 
@@ -5123,7 +5125,7 @@ In 1 dose inject:
 
 - children under 7 years: 6 to 12 mg (0.25 to 0.5 ml)
 
-- babies under 1 year: 2.5 mg (0.1 ml) —using rectal suppositories of 25 mg— Put well inside the rectum and repeat in 4 to 6 hours if necessary.
+- babies under 1 year: 2.5 mg (0.1 ml), using rectal suppositories of 25 mg,  Put well inside the rectum and repeat in 4 to 6 hours if necessary.
 
 _In each dose insert:_
 
@@ -5149,7 +5151,7 @@ _**CAUTION:**_  Do not give diphenhydramine to newborn babies or to women who ar
 It is best not to use diphenhydramine in pregnancy unless absolutely necessary.
 
 
-_Dosage of_ diphenhydramine (5 mg/kg/day)—using capsules of 25 mg—
+_Dosage of_ diphenhydramine (5 mg/kg/day), using capsules of 25 mg,
 
 Give 3 or 4 times a day:
 
@@ -5159,7 +5161,7 @@ Give 3 or 4 times a day:
 
 - children 2 to 7 years: 12.5 mg (1⁄2 capsule)
 
-- babies: 6 mg (1⁄4 capsule) —using intramuscular (IM) injections, 50 mg in1ml— Diphenhydramine should be injected only in the case of allergic shock.
+- babies: 6 mg (1⁄4 capsule), using intramuscular (IM) injections, 50 mg in1ml,  Diphenhydramine should be injected only in the case of allergic shock.
 
 Inject once, and again in 2 to 4 hours if necessary:
 
@@ -5263,7 +5265,7 @@ body against poisons, have been developed for the bites of poisonous snakes in m
 
 If you live where people are sometimes bitten or killed by poisonous snakes, find out what antivenoms are available, get them ahead of time, and keep them on hand.
 
-Some antivenoms—those in dried or ‘lyophilized’ form—can be kept without refrigeration.
+Some antivenoms, those in dried or ‘lyophilized’ form, can be kept without refrigeration.
 
 Others need to be kept cold.
 
@@ -5570,7 +5572,7 @@ For eclampsia (sudden seizures during pregnancy or childbirth), give 20 mg diaze
 Magnesium sulfate works better, and is safer for pregnant women.
 
 
-**Magnesium Sulfate—for eclampsia**
+**Magnesium Sulfate, for eclampsia**
 
 _Often comes in:_  10%, 12.5%, 25%, or 50% solution for injection
 
@@ -5700,7 +5702,7 @@ For babies, mother’s milk is best.
 
 It is rich in body-building vitamins and minerals.
 
-When breast milk is not available, other milk products—including powdered milk—can be used.
+When breast milk is not available, other milk products, including powdered milk, can be used.
 
 To allow a baby to make full use of its food value, mix the powdered milk with some sugar and cooking oil (see [page 120](#page-120)).
 
@@ -5739,7 +5741,7 @@ Using standard tablets of mixed vitamins, 1 tablet daily is usually enough.
 
 
 
-**Vitamin A (retinol)—for night blindness and xerophthalmia**
+**Vitamin A (retinol), for night blindness and xerophthalmia**
 
 _Often comes as:_
 
@@ -5843,7 +5845,7 @@ _In each dose give:_
 - children under 2 years: 1⁄8 to 1⁄4 tablet ground up fine and mixed with food.
 
 
-**Folic acid—for some kinds of anemia**
+**Folic acid, for some kinds of anemia**
 
 _Often comes in:_ tablets of 400 mcg
 
@@ -5862,7 +5864,7 @@ Pregnant women who are anemic and malnourished would be helped by taking folic a
 
 
 
-_Dosage of_ folic acid for anemia—using 400 mcg tablets: Give by mouth once a day.
+_Dosage of_ folic acid for anemia, using 400 mcg tablets: Give by mouth once a day.
 
 
 - adults and children over 4 years: 1 tablet (0.4 mg)
@@ -5870,7 +5872,7 @@ _Dosage of_ folic acid for anemia—using 400 mcg tablets: Give by mouth once a 
 - children under 4 years: 1⁄2 tablet (0.2 mg)
 
 
-**Vitamin B12 (cyanocobalamin)—for pernicious anemia only**
+**Vitamin B12 (cyanocobalamin), for pernicious anemia only**
 
 _This is mentioned only to discourage its use._
 
@@ -5908,7 +5910,7 @@ Or the vitamin can be given only to persons who develop problems because of its 
 
 _Signs_ include pain or tingling in the hands or feet, muscle twitching, nervousness, and being unable to sleep.
 
-_Dosage of_ vitamin B6—if problems develop while taking isoniazid:
+_Dosage of_ vitamin B6, if problems develop while taking isoniazid:
 
   - adults: take 50 mg (2 tablets), 3 times a day.
 
@@ -6050,7 +6052,7 @@ So during the first 7 days after starting birth control pills, use condoms or av
 
 If you have a 28-day packet, take 1 pill every day.
 
-The last 7 pills of a different color do not contain hormones—they are there to help you remember to take a pill each day.
+The last 7 pills of a different color do not contain hormones, they are there to help you remember to take a pill each day.
 
 
 If you have a 21-day packet, take 1 pill every day, stop for 7 days, and then start a new packet.
@@ -6309,7 +6311,6 @@ Injectable contraceptives work by preventing the woman’s ovaries from releasin
 
 The hormones also make the mucus at the opening of the womb very thick, which helps stop the sperm from getting inside the womb.
 
-
 Progestin-only injections, such as Depo- Provera and Noristerat, contain only the hormone progestin.
 
 These are especially good for women who should not use estrogen, but should not be used by women who should not take any type of oral contraceptive (see [page 289](#page-289)).
@@ -6321,7 +6322,6 @@ A woman using these injections may have light bleeding every day or every once i
 She will probably stop having monthly bleeding by the end of the first year.
 
 These changes are normal.
-
 
 Combined injections, such as Mesigyna or Cyclofem, contain both estrogen and progestin.
 
@@ -6371,7 +6371,7 @@ A woman can choose to have the implants removed at any time, but she must find a
 After removal, the woman can get pregnant right away, so she will need to use another family planning method if she does not want to become pregnant.
 
 
-# MEDICINES FOR HIV — antiretroviral therapy (ART)
+# MEDICINES FOR HIV,  antiretroviral therapy (ART)
 
 No medicine can cure HIV yet, but medicines called antiretrovirals can help people with HIV live longer and healthier lives, and taking them helps prevent HIV from spreading.
 
@@ -6471,7 +6471,7 @@ This is called Post-Exposure Prophylaxis, or PEP.
 
 If you may have been exposed to HIV (see [page 399](#page-399) for how HIV is spread), start PEP as soon as possible.
 
-The decision about whether to take PEP can be complicated—talk with a health worker you trust.
+The decision about whether to take PEP can be complicated, talk with a health worker you trust.
 
 PEP works best if you start taking medicines within a few hours, and no later than 3 days after exposure.
 

@@ -80,7 +80,7 @@ Also include useful home remedies in your medicine kit.
 |sterile gauze pads in individual sealed envelopes|20|[97](#page-97) [218](#page-218)|
 |clean cotton|1 small pack|[14](#page-14) [72](#page-72) [83](#page-83) [254](#page-254)|
 |adhesive tape (adhesive plaster) 1-inch wide roll|2 rolls|[85](#page-85)|
-|soap—if possible a disinfectant soap like Betadine|1 bar or small bottle|[370](#page-370)|
+|soap, if possible a disinfectant soap like Betadine|1 bar or small bottle|[370](#page-370)|
 |70% alcohol|1⁄4 liter|[72](#page-72) [201](#page-201) [211](#page-211) [254](#page-254)|
 |hydrogen peroxide, in a dark bottle|1 small bottle|[183](#page-183)|
 |petroleum jelly (Vaseline) in a jar or tube|1|[91](#page-91) [97](#page-97) [141](#page-141) [100](#page-199)|
@@ -204,7 +204,7 @@ Whether these and other medicines are included in the village medical supplies w
 
 Vaccines have not been included in the Village Medicine Kit because they are usually provided by the Health Department. However, a great effort should be made to see that all children are vaccinated as soon as they are old enough for the different vaccines (see [page 147](#page-147)).
 
-Therefore, if refrigeration is available, vaccines should be part of the village medical supplies—especially the DPT, polio, tuberculosis, and measles vaccines.
+Therefore, if refrigeration is available, vaccines should be part of the village medical supplies, especially the DPT, polio, tuberculosis, and measles vaccines.
 
 
 
@@ -225,7 +225,7 @@ For example:
 
   • If someone wants to buy a vitamin tonic, encourage him to buy eggs, fruit, or vegetables instead. Help him understand that these have more vitamins and nutritional value for the money.
 
-  • If people ask for an injection when medicine by mouth would work as well and be safer—which is usually the case—tell them so.
+  • If people ask for an injection when medicine by mouth would work as well and be safer, which is usually the case, tell them so.
 
   • If someone wants to buy ‘cold tablets’ or some other expensive combination of medicines for a cold, encourage him to save money by buying plain aspirin, acetaminophen, or ibuprofen tablets and taking them with lots of liquids.
 

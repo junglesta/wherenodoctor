@@ -377,7 +377,7 @@ What can be done to make your village a better, healthier place to live? Where m
 
 How you deal with a problem will depend upon what resources are available.
 
-Some activities require outside resources (materials, money, or people from somewhere else). For example, a vaccination program is possible only if vaccines are brought in—often from another country.
+Some activities require outside resources (materials, money, or people from somewhere else). For example, a vaccination program is possible only if vaccines are brought in, often from another country.
 Other activities can be carried out completely with local resources. A family or a group of neighbors can fence off a water hole or build simple latrines using materials close at hand.
 
 Some outside resources, such as vaccines and a few important medicines, can make a big difference in people’s health. You should do your best to get them. But as a general rule, it is in the best interest of your people to
@@ -386,7 +386,7 @@ The more you and your people can do for yourselves, and the less you have to dep
 
 Not only can you count on local resources to be on hand when you need them, but often they do the best job at the lowest cost.
 
-For example, if you can encourage mothers to breastfeed their babies, this will build self-reliance through a top quality local resource— breast milk!
+For example, if you can encourage mothers to breastfeed their babies, this will build self-reliance through a top quality local resource,  breast milk!
 
 It will also prevent needless sickness and death of many babies.
 
@@ -397,7 +397,7 @@ Use local resources whenever possible.
 
 
 The most valuable resource for the health of the people is the people themselves.
-BREAST MILK—A TOP QUALITY LOCAL RESOURCE—BETTER THAN ANYTHING MONEY CAN BUY!
+BREAST MILK, A TOP QUALITY LOCAL RESOURCE, BETTER THAN ANYTHING MONEY CAN BUY!
 
 # [w13](#page-w13)
 {:.no_toc}
@@ -414,7 +414,7 @@ POSSIBLE WAYS TO WORK TOWARD BETTER NUTRITION
 FAMILY GARDENS
 CONTOUR DITCHES to prevent soil from washing away
  ROTATION OF CROPS
-Every other planting season plant a crop that returns strength to the soil—like beans, peas, lentils, alfalfa, peanuts or some other plant with seed in pods (legumes).
+Every other planting season plant a crop that returns strength to the soil, like beans, peas, lentils, alfalfa, peanuts or some other plant with seed in pods (legumes).
 
 This year maize Next year beans
 
@@ -460,7 +460,7 @@ Here is an example of experimenting with a new idea.
 
 You learn that a certain kind of bean, such as soya, is an excellent body-building food. But will it grow in your area? And if it grows, will people eat it?
 
-Start by planting a small patch—or 2 or 3 small patches in different conditions of soil or water.
+Start by planting a small patch, or 2 or 3 small patches in different conditions of soil or water.
 
 If the beans do well, try preparing them in different ways, and see if people will eat them. If so, try planting more beans in the conditions where you found they grew best. But try out still other conditions in more small patches to see if you can get an even better crop.
 
@@ -483,7 +483,7 @@ For example, to find out if animal fertilizer (manure) helps the beans grow, and
 
 Health depends on many things, but above all it depends on whether people have enough to eat.
 
-Most food comes from the land. Land that is used well can produce more food. A health worker needs to know ways to help the land better feed the people—now and in the future. But even the best used piece of land can only feed a certain number of people.
+Most food comes from the land. Land that is used well can produce more food. A health worker needs to know ways to help the land better feed the people, now and in the future. But even the best used piece of land can only feed a certain number of people.
 
 And today, many of the people who farm do not have enough land to meet their needs or to stay healthy.
 
@@ -493,9 +493,9 @@ Many health programs try to work toward a balance between people and land throug
 
 Smaller families, they reason, will mean more land and food to go around. But family planning by itself has little effect. As long as people are very poor, they often want many children.
 
-Children help with work without having to be paid, and as they get bigger may even bring home a little money. When the parents grow old, some of their children—or grandchildren—will perhaps be able to help care for them.
+Children help with work without having to be paid, and as they get bigger may even bring home a little money. When the parents grow old, some of their children, or grandchildren, will perhaps be able to help care for them.
 
-For a poor country to have many children may be an economic disaster. But for a poor family to have many children is often an economic necessity—especially when many die young. In the world today, for most people, having many children is the surest form of social security they can hope for.
+For a poor country to have many children may be an economic disaster. But for a poor family to have many children is often an economic necessity, especially when many die young. In the world today, for most people, having many children is the surest form of social security they can hope for.
 
 Some groups and programs take a different approach. They recognize that hunger exists not because there is too little land to feed everyone, but because most of the land is in the hands of a few selfish persons. The balance they seek is a fairer distribution of land and wealth. They work to help people gain greater control over their health, land, and lives.
 
@@ -536,7 +536,7 @@ You cannot tell the mother whose child is ill that prevention is more important 
 
 
 
->**Work toward prevention — do not force it.**
+>**Work toward prevention ,  do not force it.**
 
 
 **Use treatment as a doorway to prevention.** One of the best times to talk to people about prevention is when they come for treatment. For example, if a mother brings a child with worms, carefully explain to her how to treat him. But also take time to explain to both the mother and child how the worms are spread and the different things they can do to prevent this from happening (see Chapter 12). Visit their home from time to time, not to find fault, but to help the family toward more effective self-care.
@@ -621,9 +621,9 @@ You may want to record each month or year the health activities that can be meas
 • How many mothers and children take part in an Under-Fives Program (regular check-ups and learning)?
 This kind of question will help you measure action taken. But to find out the result or impact of these activities on health, you will need to answer other questions such as:
 
-• How many children had diarrhea or signs of worms in the past month or year—as compared to before there were latrines?
+• How many children had diarrhea or signs of worms in the past month or year, as compared to before there were latrines?
 
-• How much was harvested this season (corn, beans, or other crops)—as compared to before improved methods were used?
+• How much was harvested this season (corn, beans, or other crops), as compared to before improved methods were used?
 
 • How many children show normal
 weight and weight-gain on their Child Health Charts (see [page 297](#page-297)), as compared to when the Under-Fives Program was started?
@@ -658,7 +658,7 @@ As you come to realize how many things affect health, you may think the health w
 
 Your community’s well-being depends on the involvement not of one person, but of nearly everyone. For this to happen, responsibility and knowledge must be shared.
 
-This is why your first job as a health worker is to teach—to teach children, parents, farmers, schoolteachers, other health workers—everyone you can.
+This is why your first job as a health worker is to teach, to teach children, parents, farmers, schoolteachers, other health workers, everyone you can.
 
 The art of teaching is the most important skill a person can learn.
 
@@ -715,7 +715,7 @@ The child also had a cough, and the doctor had prescribed a cough medicine. Iren
 
 She went to visit the family and learned that the older brother had been very sick for a long time and had coughed blood. Irene went to the health center and told the doctor she was afraid the child had tuberculosis.
 
-Tests were made, and it turned out that Irene was right... So you see, the health worker spotted the real problem before the doctor—because she knew her people and visited their homes.
+Tests were made, and it turned out that Irene was right... So you see, the health worker spotted the real problem before the doctor, because she knew her people and visited their homes.
 
 Stories also make learning more interesting. It helps if health workers are good story tellers.
 
@@ -735,7 +735,7 @@ The flies dirty the food that has not been covered. Then children eat this food 
 
 There are many ways to interest and involve people in working together to meet their common needs. Here are a few ideas:
 
-1. A village health committee. A group of able, interested persons can be chosen by the village to help plan and lead activities relating to the well-being of the community—for example, digging garbage pits or latrines. The health worker can and should share much of his responsibility with other persons.
+1. A village health committee. A group of able, interested persons can be chosen by the village to help plan and lead activities relating to the well-being of the community, for example, digging garbage pits or latrines. The health worker can and should share much of his responsibility with other persons.
 
 2. Group discussions. Mothers, fathers, schoolchildren, young people, folk healers, or other groups can discuss needs and problems that affect health. Their chief purpose can be to help people share ideas and build on what they already know.
 
@@ -748,7 +748,7 @@ There are many ways to interest and involve people in working together to meet t
 6. Mother and child health meetings. It is especially important that pregnant women and mothers of small children (under five years old) be well informed about their own and their babies’ health needs. Regular visits to the health post are opportunities for both check-ups and learning. Have mothers keep their children’s health records and bring them each month to have their children’s growth recorded (see the Child Health Chart, [page 297](#page-297)). Mothers who understand the chart often take pride in making sure their children are eating and growing well. They can learn to understand these charts even if they cannot read. Perhaps you can help train interested mothers to organize and lead these activities.
 
 7. Home visits. Make friendly visits to people’s homes, especially homes of families who have special problems, who do not come often to the health post, or who do
-not take part in group activities. But respect people’s privacy. If your visit cannot be friendly, do not make it—unless children or defenseless persons are in danger.
+not take part in group activities. But respect people’s privacy. If your visit cannot be friendly, do not make it, unless children or defenseless persons are in danger.
 
 
 # [w25](#page-w25)
@@ -777,7 +777,7 @@ If you can help people realize how much they already know and have done to chang
 
 Then how do you tell people these things?
 
-Often you cannot! But you can help them find out some of these things for themselves—by bringing them together for discussions.
+Often you cannot! But you can help them find out some of these things for themselves, by bringing them together for discussions.
 
 Say little yourself, but start the discussion by asking certain questions. Simple pictures like the drawing on the next page of a farm family in Central America may help. You will want to draw your own picture, with buildings, people, animals, and crops that look as much as possible like those in your area.
 
@@ -837,25 +837,25 @@ Try to think of questions that lead to others and get people asking for themselv
 
 Anyone who knows how to read can use this book in her own home. Even those who do not read can learn from the pictures. But to make the fullest and best use of the book, people often need some instruction. This can be done in several ways.
 
-A health worker or anyone who gives out the book should make sure that people understand how to use the list of Contents, the Index, the Green Pages, and the Vocabulary.
+A health worker or anyone who gives out the book should make sure that people understand how to use the list of [Contents](#page-152), the [Index (yellow-pages)](#yellow-pages), the [Green Pages](#green-pages), and the [Vocabulary](#vocabulary).
 
-Take special care to give examples of how to look things up. Urge each person to carefully read the sections of the book that will help her understand what may be helpful to do, what could be harmful or dangerous, and when it is important to get help (see especially Chapters 1, 2, 6, and 8, and also the SIGNS OF DANGEROUS ILLNESS, [page 42](#page-42)).
+Take special care to give examples of how to look things up. Urge each person to carefully read the sections of the book that will help her understand what may be helpful to do, what could be harmful or dangerous, and when it is important to get help (see especially [Chapter 1](#page-1), [Chapter 2](#page-17), [Chapter 6](#page-49), [and 8](#page-59), and also the [SIGNS OF DANGEROUS ILLNESS](#page-42)).
 
 Point out how important it is to prevent sickness before it starts.
 
-Encourage people to pay special attention to Chapters [page 11](#page-11) and 12, which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
+Encourage people to pay special attention to [Chapters 11](#page-109) and [Chapters 12](#page-131), which deal with eating right (nutrition) and keeping clean (hygiene and sanitation).
 
-Also show and mark the pages that tell about the most common problems in your area. For example, you can mark the pages on diarrhea and be sure mothers with small children understand about ‘special drink’ (oral rehydration, [page 152](#page-152)).
+Also show and mark the pages that tell about the most common problems in your area. For example, you can mark the pages on diarrhea and be sure mothers with small children understand about ‘special drink’ ([oral rehydration](#page-152)).
 
 Many problems and needs can be explained briefly. But the more time you spend with people discussing how to use the book or reading and using it together, the more everyone will get out of it.
 
-You as a health worker might encourage people to get together in small groups to read through the book, discussing one chapter at a time. Look at the biggest problems in your area—what to do about health problems that already exist and how to prevent similar problems in the future. Try to get people looking ahead.
+You as a health worker might encourage people to get together in small groups to read through the book, discussing one chapter at a time. Look at the biggest problems in your area, what to do about health problems that already exist and how to prevent similar problems in the future. Try to get people looking ahead.
 
 Perhaps interested persons can get together for a short class using this book (or others) as a text. Members of the group could discuss how to recognize, treat, and prevent different problems. They could take turns teaching and explaining things to each other.
 
-To help learning be fun in these classes you can act out situations. For example, someone can act as if he has a particular sickness and can explain what he feels. Others then ask questions and examine him (Chapter 3).
+To help learning be fun in these classes you can act out situations. For example, someone can act as if he has a particular sickness and can explain what he feels. Others then ask questions and examine him ([Chapter 3](#page-29)).
 
-Use the book to try to find out what his problem is and what can be done about it. The group should remember to involve the ‘sick’ person in learning more about his own sickness—and should end up by discussing with him ways of preventing the sickness in the future. All this can be acted out in class.
+Use the book to try to find out what his problem is and what can be done about it. The group should remember to involve the ‘sick’ person in learning more about his own sickness, and should end up by discussing with him ways of preventing the sickness in the future. All this can be acted out in class.
 
 Exciting and effective ways to teach about health care are in the book [_Helping Health Workers Learn_](#addresses-for-teaching-materials), also available from Hesperian.
 
@@ -870,7 +870,7 @@ In this way, even sickness gives a chance to help people learn.
 {:.no_toc}
 
 
-Dear village health worker—whoever and wherever you are, whether you have a title or official position, or are simply someone, like myself, with an interest in the well-being of others—make good use of this book. It is for you and for everyone.
+Dear village health worker, whoever and wherever you are, whether you have a title or official position, or are simply someone, like myself, with an interest in the well-being of others, make good use of this book. It is for you and for everyone.
 
 But remember, the most important part of health care you will not find in this book or any other. The key to good health lies within you and your people, in the care, the concern, and appreciation you have for each other.
 

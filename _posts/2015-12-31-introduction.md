@@ -16,7 +16,7 @@ It has been written in the belief that:
 
   2. **Informed self-care should be the main goal of any health program or activity.**
 
-  3. **Ordinary people provided with clear, simple information can prevent and treat most common health problems in their own homes—earlier, cheaper, and often better than can doctors.**
+  3. **Ordinary people provided with clear, simple information can prevent and treat most common health problems in their own homes, earlier, cheaper, and often better than can doctors.**
 
   4. **Medical knowledge should not be the guarded secret of a select few, but should be freely shared by everyone.**
 
@@ -51,7 +51,7 @@ In rewriting the book to serve people in many parts of the world, it has in some
 
 Persons or programs who wish to use this book, or portions of it, in preparing their own manuals and activities for villagers or health workers are encouraged to do so.
 
-We often grant permission at no charge, provided the parts reproduced are distributed free or at cost—not for profit.
+We often grant permission at no charge, provided the parts reproduced are distributed free or at cost, not for profit.
 
 Please see the explanation online at hesperian.org/about/open-copyright, or contact us at permissions@hesperian.org to answer any questions. Our goal is to help you design a program that works for you, not to make money.
 
@@ -74,7 +74,7 @@ Today in over-developed as well as under-developed countries, existing health ca
 
 Often, human needs are not being well met. There is too little fairness. Too much is in the hands of too few.
 
-Let us hope that through a more generous sharing of knowledge, and through learning to use what is best in both traditional and modern ways of healing, people everywhere will develop a kinder, more sensible approach to caring—for their own health, and for each other.
+Let us hope that through a more generous sharing of knowledge, and through learning to use what is best in both traditional and modern ways of healing, people everywhere will develop a kinder, more sensible approach to caring, for their own health, and for each other.
 
 
 # Note about this New Edition
@@ -87,7 +87,7 @@ The **[Additional Information](#page-399)** section at the end of the book has i
 
 Here also are topics such as measuring blood pressure, misuse of pesticides, drug addiction, and a method of caring for early and underweight babies.
 
-New ideas and information can be found throughout the book—medical knowledge is always changing! For example:
+New ideas and information can be found throughout the book, medical knowledge is always changing! For example:
 
 • **[Nutrition](#page-107)** advice has changed. Experts used to tell mothers to give children more foods rich in proteins. But it is now known that what most poorly nourished children need is more energy-rich foods. Many low-cost energy foods, especially grains, provide enough protein if the child eats enough of them. Finding ways to give enough energy foods is now emphasized, instead of the ‘four food groups’.
 

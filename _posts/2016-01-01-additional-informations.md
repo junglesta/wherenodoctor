@@ -572,7 +572,7 @@ Chemicals used to kill insects and weeds at first allow farmers who can afford t
 
 This happens because pesticides also kill the ‘good’ birds and insects that provide a natural control of pests and are beneficial to the soil. Also, as the insects and weeds become resistant, greater quantities and more poisonous kinds of pesticides are needed. So, once farmers begin to use these chemical poisons, they become dependent on them.
 
->Pesticides also kill the beneficial animals—such as bees and earthworms.
+>Pesticides also kill the beneficial animals, such as bees and earthworms.
 
 As farmers’ dependency on chemical pesticides and fertilizers goes up, so does the cost. When the smaller, poorer farmers can no longer afford them, they are forced off the land. As the land becomes owned by a few ‘giant’ farmers, and more and more people become landless, the number of malnourished and hungry people increases.
 
@@ -687,7 +687,7 @@ This delay could be fatal. Heavy bleeding (more than with a normal period) or in
 
   ♦ Abortions done under clean and safe conditions by trained health workers should be available to women free or at low cost. That way women will not need to have dangerous, illegal abortions.
 
-  ♦ A woman who has any signs of problems after an abortion—whether done at home or in the hospital—should get medical care immediately. To encourage this, doctors and health workers should never make a woman who has had an abortion feel ashamed.
+  ♦ A woman who has any signs of problems after an abortion, whether done at home or in the hospital, should get medical care immediately. To encourage this, doctors and health workers should never make a woman who has had an abortion feel ashamed.
 
 For more information about how to care for a woman after an abortion, see A Book for Midwives.
 
@@ -710,7 +710,7 @@ Health problems related to use of alcohol and tobacco are discussed on pages [pa
 In addition to alcohol and tobacco, many people in different parts of the world are using drugs that may be illegal. These vary from place to place, and include marijuana (weed, pot, grass, sin semilla, mota, hashish, ganja), opium (heroin, morphine, smack), methamphetamine (speed) and cocaine (crack, snow, rock).
 
 An increasing problem among poor children in cities is the sniffing
-of chemicals, especially glue, but sometimes paint thinner, shoe polish, gasoline, and cleaning fluid. Also, some people misuse medicines—especially certain strong painkillers, stimulants, and ‘appetite control’ drugs.
+of chemicals, especially glue, but sometimes paint thinner, shoe polish, gasoline, and cleaning fluid. Also, some people misuse medicines, especially certain strong painkillers, stimulants, and ‘appetite control’ drugs.
 
 Drugs can be swallowed, injected, smoked, chewed, or sniffed. Different drugs create different effects on the body and mind. Cocaine or kolanuts may make a person feel energetic and happy, but some time later he will feel tired, irritable, and depressed.
 
