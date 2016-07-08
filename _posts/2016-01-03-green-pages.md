@@ -6343,7 +6343,13 @@ If she stops having injections and does not want to become pregnant right away, 
 
 **Contraceptive implants**
 
-Common brands: Jadelle, Implanon, Norplant
+Common brands:
+
+  - Jadelle
+
+  - Implanon
+
+  - Norplant
 
 Implants work by preventing the woman’s ovaries from releasing an egg.
 
@@ -6356,7 +6362,7 @@ Jadelle has 2 tubes and prevents pregnancy for 5 years.
 
 **Implanon**
 
-has 1 tube and prevents pregnancy for 3 years.
+Implanon has 1 tube and prevents pregnancy for 3 years.
 
 Norplant has 6 tubes and prevents pregnancy for 5 to 7 years.
 
@@ -6371,7 +6377,7 @@ A woman can choose to have the implants removed at any time, but she must find a
 After removal, the woman can get pregnant right away, so she will need to use another family planning method if she does not want to become pregnant.
 
 
-# MEDICINES FOR HIV,  antiretroviral therapy (ART)
+# MEDICINES FOR HIV, antiretroviral therapy (ART)
 
 No medicine can cure HIV yet, but medicines called antiretrovirals can help people with HIV live longer and healthier lives, and taking them helps prevent HIV from spreading.
 
