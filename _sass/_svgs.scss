@@ -12,6 +12,8 @@
   height: 140px;
 }
 
-#icn--circlelogomenu .bandaid_color {
-  fill: $background_color_tone;
+#icn--circlelogomenu {
+  .bandaid_color {
+    fill: $background_color_tone;
+  }
 }

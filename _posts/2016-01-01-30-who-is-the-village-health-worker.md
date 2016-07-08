@@ -263,7 +263,7 @@ As a simple example of how each of these things can be important, let us suppose
 # [w9](#page-w9)
 {:.no_toc}
 
-# Finding Out the Needs
+# FINDING OUT THE NEEDS
 
 As a health worker, you will first want to find out your people’s most important health problems and their biggest concerns. To gather the information necessary to decide what the greatest needs and concerns really are, it may help to make up a list of questions.
 
@@ -277,17 +277,17 @@ Do not make your list of questions too long or complicated, especially a list yo
 {:.no_toc}
 
 
-### Sample Lists of Questions
+## Sample Lists of Questions
 
 To Help Determine Community Health Needs and at the Same Time Get People Thinking
 
-#### felt needs
+### felt needs
 
 What things in your people’s daily lives (living conditions, ways of doing things, beliefs, etc.) do they feel help them to be healthy?
 
 What do people feel to be their major problems, concerns, and needs, not only those related to health, but in general?
 
-#### housing and sanitation
+### housing and sanitation
 
 What are different houses made of? Walls? Floors? Are the houses kept clean? Is cooking done on the floor or where? How does smoke get out? On what do people sleep?
 
@@ -301,7 +301,7 @@ Where do families get their water? Is it safe to drink? What precautions are tak
 
 How many families have latrines? How many use them properly? Is the village clean? Where do people put garbage? Why?
 
-#### population
+### population
 
 How many people live in the community? How many are under 15 years old?
 
@@ -325,14 +325,14 @@ How many parents are interested in not having any more children or in not having
 
 
 
-#### nutrition
+### nutrition
 
 How many mothers breast feed their babies? For how long? Are these babies healthier than those who are not breastfed? Why?
 What are the main foods people eat? Where do they come from? Do people make good use of all foods available?
 How many children are underweight ([page 109](#page-109)) or show signs of poor nutrition? How much do parents and school children know about nutritional needs?
 How many people smoke a lot? How many drink alcoholic or soft drinks very often? What effect does this have on their own and their families’ health? (See [page 148](#page-148) to 150.)
 
-#### land and food
+### land and food
 
 Does the land provide enough food for each family?
 How long will it continue to produce enough food if families keep growing?
@@ -340,7 +340,7 @@ How is farm land distributed? How many people own their land?
 What efforts are being made to help the land produce more?
 How are crops and food stored? Is there much damage or loss? Why?
 
-#### healing, health
+### healing, health
 
 What role do local midwives and healers play in health care?
 What traditional ways of healing and medicines are used? Which are of greatest value? Are any harmful or dangerous?
@@ -350,7 +350,7 @@ What health services are nearby? How good are they? What do they cost? How much 
 How many children have been vaccinated? Against what sicknesses?
 What other preventive measures are being taken? What others might be taken? How important are they?
 
-#### self-help
+### self-help
 
 What are the most important things that affect your people’s health and well-being, now and in the future?
 

@@ -1,0 +1,165 @@
+$powersaving_text_color: rgba(255,255,255,.65);
+
+body.powersaving {
+
+  background-color: black;
+  color: $powersaving_text_color;
+
+
+
+  blockquote {color: $powersaving_text_color;}
+
+  nav {background-color: black;}
+
+  a {
+    color: $background_color_tone;
+    &:hover { color:lighten($background_color_tone, 10%);}
+    &:visited { color:darken($background_color_tone, 10%);}
+  }
+
+  .cover {
+    background-color: darken($brand_color, 10%);
+  }
+
+  .menu_footer {
+    border-top: 3px solid $powersaving_text_color;
+    background-color: transparent;
+    a {
+      color: $powersaving_text_color;
+      &:hover {
+        color:lighten($background_color_tone, 10%);
+      }
+    }
+  }
+
+  .menu_link.qr,
+  .darkmode {
+    color: $powersaving_text_color;
+  }
+
+
+
+  #markdown-toc {
+    border-color: transparentize($brand_color, .6);
+    #green-pages & {
+      border-color: transparentize($color_green, .15);
+    }
+    #vocabulary & {
+      border-color: transparentize($color_red, .15);
+    }
+  }
+
+  #markdown-toc ul {
+    li {
+      border-left-color: transparentize($brand_color, .6);
+      #green-pages & {
+        border-left-color: transparentize($color_green, .15);
+      }
+    }
+    ul li {
+      border-left-color: transparentize($brand_color, .6);
+      #green-pages & {
+        border-left-color: transparentize($color_green, .15);
+      }
+    }
+  }
+
+  p strong {
+    font-weight: normal;
+    color: white;
+  }
+  p a {
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,.25);
+    &:hover {
+      color: rgba(255,255,255,1);
+      border-color: rgba(255,255,255,.5);
+    }
+  }
+
+  .addon.green  { background-color: transparent;}
+  .addon.yellow { background-color: transparent;}
+  .addon.red { background-color: transparent;}
+  .addon.brown { background-color: transparent;}
+  .addon.grey { background-color: transparent;}
+  .addon.blue { background-color: transparent;}
+
+  #icn--circlelogo .logo_text{
+    fill: desaturate( $brand_color, 100%);
+  }
+  #icn--circlelogo .hand{
+    fill: desaturate( $brand_color, 100%);
+  }
+  #icn--circlelogo .bandaid_color{
+    fill: lighten(desaturate( $brand_color, 100%), 40%);
+  }
+
+  #icn--circlelogocover .logo_text{
+    fill: $background_color_tone;
+  }
+  #icn--circlelogocover .hand{
+    fill: darken($background_color_tone, 65%);
+  }
+  #icn--circlelogocover .bandaid_color{
+    fill: $background_color_tone;
+  }
+
+  .chapter,
+  .addon {
+    //pagenumbers
+    h1.no_toc[id*="page-"] a {color: $brand_color; }
+    h1.no_toc[id*="page-"]:after {background-color: rgba(255,255,255,.1); }
+  }
+
+  .chapter_no {
+    pointer-events: none;
+    color: rgba(255,255,255,.15);
+  }
+
+  .chapter_title {
+    background-color: transparent;
+    border-top: 3px solid rgba(255,255,255,.15);
+    border-bottom: 3px solid rgba(255,255,255,.15);
+    border-left: 0 none;
+  }
+
+  .chapter_title small { color: $background_color;}
+
+  .addon.brown {
+    h1, h2, h3 {color:lighten($color_brown, 30%); }
+    h1.no_toc[id*="page-"] a {color:lighten($color_brown, 30%);}
+    a {
+      color:lighten($color_brown, 30%);
+      &:hover {color: white;}
+    }
+  }
+  .addon.grey a {
+    color: lighten($color_grey_links, 30%);
+    &:hover {color: white;}
+  }
+
+
+  #green-pages {
+    h1, h2, h3 {color:lighten($color_green, 30%); }
+    a {
+      color:lighten($color_green, 30%);
+      &:hover {color: white;}
+    }
+  }
+
+  #yellow-pages {
+    h1, h2, h3 {color:lighten($color_yellow, 20%);}
+    a {
+      color:lighten($color_yellow, 20%);
+      &:hover {color: white;}
+    }
+  }
+
+  #vocabulary {
+    h1, h2, h3 {color:lighten($color_red, 20%);}
+    a {
+      color:lighten($color_red, 20%);
+      &:hover {color: white;}
+    }
+  }
+}

@@ -10,12 +10,13 @@ bookpage: 331
 Every family and every village should have certain medical supplies ready in case of emergency:
 
   - The family should have a HOME MEDICINE KIT (see [page 334](#page-334)) with the necessary medicines for first aid, simple infections, and the most common health problems.
+
   - The village should have a more complete medical kit (see VILLAGE MEDICINE KIT, [page 336](#page-336)) with supplies necessary to care for day-to-day problems as well as to meet a serious illness or an emergency. A responsible person should be in charge of it, a health worker, teacher, parent, storekeeper, or anyone who can be trusted by the community. If possible, all members of the village should take part in setting up and paying for the medical kit. Those who can afford more should contribute more. But everyone should understand that the medicine kit is for the benefit of all, those who can pay and those who cannot.
 
 On the following pages you will find suggestions for what the medicine kits might contain. You will want to change these lists to best meet the needs and resources
 in your area. Although the list includes mostly modern medicines, important home remedies known to be safe and to work well can also be included.
 
-#### How much of each medicine should you have?
+# How much of each medicine should you have?
 
 The amounts of medicines recommended for the medicine kits are the smallest amounts that should be kept on hand. In some cases there will be just enough to begin treatment. It may be necessary to take the sick person to a hospital or go for more medicine at once.
 

@@ -6,7 +6,11 @@
 $base_rem_size: 18px;
 $base_font_size:  1rem;
 $base_font_size_big: 20px;
+
 $base_font_weight: 300;
+$light_font_weight: 100;
+$bold_font_weight: 500;
+
 $base_line_height: 1.4;
 // derivates
   $small_font-size:  $base_font_size * 0.875;
@@ -19,7 +23,7 @@ $base_line_height: 1.4;
 
 $spacing_unit: 30px;
 //colors
-$background_color: darken(#fff, 3%);
+$background_color: darken(#fff, 10%);
 $text_color: #000;
 $brand_color: hsla(213, 95%, 39%, 1);
 $color_yellow: hsla(56, 100%, 50%, 0.75);
@@ -28,7 +32,12 @@ $color_red: red;
 $color_brown: hsla(29, 71%, 23%, 0.5);
 $color_grey: #333333;
 // links colors
-$color_green_links: hsla(115, 100%, 12%, 1);
+$color_green_links: darken($color_green, 30%);
+$color_red_links: darken($color_red, 20%);
+$color_yellow_links: darken($color_yellow, 20%);
+$color_brown_links: hsla(29, 71%, 40%, 1);
+$color_grey_links: $color_grey;
+$color_blue_links: darken($brand_color, 10%);
 
 
 
@@ -52,7 +61,6 @@ $mediaMaxWidth: 960px;
  "cmq",
  "base",
  "toc",
- "search",
  "helpers",
  "svgs",
  "code",
@@ -65,8 +73,8 @@ $mediaMaxWidth: 960px;
  "post",
  "index",
  "footer",
- "hashchange",
  "nav_toggle",
- //"save_battery",
+ "menu_footer",
+ "powersaving",
  "print"
 ;

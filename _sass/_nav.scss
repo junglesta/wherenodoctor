@@ -9,6 +9,7 @@ nav {
   box-sizing: border-box;
   width: 100%;
   height: $nav_height;
+  padding-top: $spacing_unit*4;
   overflow-x: hidden;
   overflow-y: scroll;
   //-webkit-transition: all .2s ease-in;
@@ -27,6 +28,7 @@ nav {
       padding: .5rem 20vw .5rem 20vw;
     }
     border: 0 none;
+
     svg {
       max-width: 180px;
       max-height: 180px;
@@ -34,12 +36,9 @@ nav {
       left: 0;
       top: .5rem;
     }
-
   }
 
-  .menu_link:visited span{
-    margin-left: .5rem;
-  }
+  .menu_link:visited span{ margin-left: .5rem; }
 
   .menu_link:hover {
     border:0 none;
@@ -53,8 +52,10 @@ nav {
   }
 
 
-  .menu_link:first-child {margin-top: $spacing_unit*4;}
-  .menu_link:last-child {margin-bottom: $spacing_unit*4;}
+  // .menu_link:first-child {
+  //   margin-top: $spacing_unit*4;
+  // }
+  .menu_link:last-child { margin-bottom: $spacing_unit; }
 
   small {
     display: none;
@@ -72,12 +73,4 @@ nav {
       opacity: .3;
     }
   }
-}
-
-.menu_link.variant { color: lighten($brand_color, 40%); }
-
-.menu_link.qr {
-  color: white;
-  pointer-events: none;
-  span {display: block;}
 }

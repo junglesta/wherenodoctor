@@ -143,7 +143,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bold;
+  font-weight: $bold_font_weight;
 }
 
 dfn {
@@ -280,7 +280,7 @@ legend {
 
 textarea {overflow: auto;}
 
-optgroup {font-weight: bold;}
+optgroup {font-weight: $bold_font_weight;}
 
 table {
   border-collapse: collapse;

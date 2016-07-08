@@ -28,4 +28,8 @@
     toggleClass(document.getElementById('close_ico'), 'hide'),
     toggleClass(document.body, ' showing_menu');
   });
+
+  document.querySelector('#dark_mode_switch').addEventListener('change', function() {
+      toggleClass(document.body, ' powersaving');
+  });
 </script>

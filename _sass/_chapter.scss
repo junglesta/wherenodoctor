@@ -19,9 +19,9 @@ main {
   color: rgba(255,255,255,.5);
   font-size: 30rem;
   position: absolute;
-  top: -95px;
+  top: -115px;
   right: 10px;
-  font-weight: 100;
+  font-weight: $light_font_weight;
   line-height: 1;
   text-align: right;
   z-index: 0;
@@ -60,29 +60,14 @@ main {
     z-index: 1;
   }
 
-  small {
-    color: $background_color;
-  }
+  small { color: $background_color; }
 
-  .yellow & {
-    background-color: $color_yellow;
-  }
-  .green & {
-    background-color: $color_green;
-  }
-  .brown & {
-    background-color: $color_brown;
-  }
-  .red & {
-    background-color: lighten($color_red, 20%);
-  }
-
-  .grey & {
-    background-color: lighten($color_grey--light, 20%);
-  }
-  .blue & {
-    background-color: lighten($brand_color, 50%);
-  }
+  .yellow & { background-color: $color_yellow; }
+  .green & { background-color: $color_green; }
+  .brown & { background-color: $color_brown; }
+  .red & { background-color: lighten($color_red, 20%); }
+  .grey & { background-color: lighten($color_grey--light, 20%); }
+  .blue & { background-color: lighten($brand_color, 50%); }
 }
 
 
@@ -106,3 +91,17 @@ main {
     font-size: 110%;
   }
 }
+
+
+#green-pages a { color: $color_green_links;}
+
+#yellow-pages a { color: $color_yellow_links;}
+
+#vocabulary a { color: $color_red_links;}
+
+.addon.brown a,
+.addon.brown h1.no_toc a { color: $color_brown_links;}
+
+.addon.blue a { color: $color_blue_links;}
+
+.addon.grey a { color: $color_grey_links;}
