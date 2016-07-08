@@ -30,7 +30,9 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # Done
 
-- [X] rationalized navigation component
+- [X] powersaving dark mode.
+- [X] QR in menu.
+- [X] rationalized navigation componen.t
 - [X]  dumped [jekyll search](https://github.com/christian, fei/Simple, Jekyll, Search), it just gets chapter titles! NOT ENOUGH! no success in making it use 'content' too...
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
 - [X] squeezed all chapters into one single page.
