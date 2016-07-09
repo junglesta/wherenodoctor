@@ -1,5 +1,5 @@
 ---
-title:  "the green pages"
+title:  "green pages"
 chapter: use
 style: green
 index: true

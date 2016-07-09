@@ -1,13 +1,11 @@
 ---
-title:  "the yellow pages"
+title:  "yellow pages index"
 chapter: index
 index: true
 style: yellow
 bookpage: 391
 pdfpage: 433
 ---
-
-# INDEX
 
 Things in this book are listed in the order of the alphabet:
 
@@ -18,7 +16,7 @@ _[A](#a-subjects) [B](#b-subjects) [C](#c-subjects) [D](#d-subjects) [E](#e-subj
 
 Each subject in this list links to the section in the book. Page numbers are here if you need to refer to the book.
 
-The [Index of Medicines](#markdown-toc-index-of-medicines-in-the-green-pages) might be useful too.  
+The [Index of Medicines in the Green Pages](#markdown-toc-index-of-medicines-in-the-green-pages) might be useful too.  
 
 
 # A subjects
