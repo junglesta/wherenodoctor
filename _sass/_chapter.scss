@@ -98,14 +98,14 @@ main {
 #green-pages a { color: $color_green_links;}
 
 #yellow-pages {
-  h1:not(.no_toc) {
+
+  :not(.chapter_title) h1:not(.no_toc):not(:first-child) {
     margin-top: $spacing_unit*3;
     padding-bottom: 5px;
     border-bottom: 3px solid $color_yellow_links;
   }
   .chapter_title h1{
-    margin-top: 0;
-    border-bottom: 0 none;
+    border-bottom: 0 none!important;
   }
   a { color: $color_yellow_links;}
   ul {
