@@ -136,11 +136,11 @@ Even if a child regularly gets enough of the main food to fill her, she may beco
 
 We can do 2 things to help meet such children’s energy needs:
 
-  1. Feed children more often, at least 5 times a day when a child is very young, too thin, or not growing well. Also give her snacks between meals.
+  - Feed children more often, at least 5 times a day when a child is very young, too thin, or not growing well. Also give her snacks between meals.
 
   >CHILDREN, LIKE CHICKENS, SHOULD ALWAYS BE PECKING.
 
-  2. Also add high energy ‘helper foods’ such as oils and sugar or honey to the main food. It is best to add vegetable oil or foods containing oils, nuts, groundnuts (peanuts), or seeds, especially pumpkin or sesame seeds.
+  - Also add high energy ‘helper foods’ such as oils and sugar or honey to the main food. It is best to add vegetable oil or foods containing oils, nuts, groundnuts (peanuts), or seeds, especially pumpkin or sesame seeds.
 
   >If the child’s belly fills up before her energy needs are met, the child will become thin and weak.
 
@@ -158,7 +158,7 @@ Also try to add protective foods such as orange or yellow fruits and vegetables,
 {:.no_toc}
 
 
-#EATING RIGHT TO STAY HEALTHY
+# EATING RIGHT TO STAY HEALTHY
 
 The ‘main food’ your family eats usually provides most, but not all, of the body’s energy and other nutritional needs. By adding helper foods to the main food you can make low cost nutritious meals. You do not have to eat all the foods listed here to be healthy.
 
@@ -398,13 +398,13 @@ For another source of iron, put some iron nails in a little lemon juice for a fe
 12. In some countries, low-cost baby food preparations
 are available, made from different combinations of soybean, cotton seed, skim milk, or dried fish. Some taste better than others, but most are well balanced foods. When mixed with gruel, cooked cereal, or other baby food, they add to its nutrition content at low cost.
 
-# WHERE TO GET VITAMINS: PILLS, INJECTIONS, SYRUPS, OR FOODS?
+# WHERE TO GET VITAMINS: pills, injections, syrups, or foods?
 
 Anyone who eats a good mixture of foods, including vegetables and fruits, gets all the vitamins he needs. It is always better to eat well than to buy vitamin pills, injections, syrups, or tonics.
 
 Sometimes nutritious foods are scarce. If a person is already poorly nourished, or has a serious illness like HIV, he should eat as well as he can and perhaps take vitamins besides.
 
-Vitamins taken by mouth work as well as injections, cost less, and are not as dangerous. Do not inject vitamins! It is better to swallow them,  preferably in the form of nutritious foods.
+Vitamins taken by mouth work as well as injections, cost less, and are not as dangerous. Do not inject vitamins! It is better to swallow them, preferably in the form of nutritious foods.
 
 If you want vitamins, buy eggs or other nutritious foods instead of pills or injections.
 
@@ -450,22 +450,21 @@ A sick person has even greater need for plenty of nutritious food than a healthy
 
 As a general rule:
 
+The same foods that are good for us when we are healthy are good for us when we are sick.
+
 Also, the things that harm us when we are healthy do us even more harm when we are sick.
 
 Avoid these things:
 
-The same foods that are good for us when we are healthy are good for us when we are sick.
+  - alcoholic drinks
 
+  - tobacco
 
-- alcoholic drinks
+  - greasy food
 
-- tobacco
+  - a lot of sugar and sweets
 
-- greasy food
-
-- a lot of sugar and sweets
-
-- too much coffee
+  - too much coffee
 
 
 • Alcohol causes or makes worse diseases of the liver, stomach, heart, and nerves. It also causes social problems.
@@ -476,7 +475,7 @@ The same foods that are good for us when we are healthy are good for us when we 
 
 • Too much sugar and sweets spoil the appetite and rot the teeth. However, some sugar with other foods may help give needed energy to a sick person or poorly nourished child.
 
-A few diseases require not eating certain other foods. For example, people with high blood pressure, certain heart problems, or swollen feet should use little or no salt. Too much salt is not good for anyone. Stomach ulcers and diabetes also require special diets (see pages 127 and 128).
+A few diseases require not eating certain other foods. For example, people with high blood pressure, certain heart problems, or swollen feet should use little or no salt. Too much salt is not good for anyone. Stomach ulcers and diabetes also require special diets (see [pages 127](#page-127)).
 
 
 # [120](#page-120)
@@ -491,8 +490,7 @@ For the first 6 months give the baby breast milk and nothing else. It is better 
 
 Some mothers stop breastfeeding early because they think that their milk is not good enough for their baby, or that their breasts are not making enough milk. However, a mother’s milk is always very nutritious for her baby, even if the mother herself is thin and weak.
 
-If a woman has HIV, sometimes she can pass HIV to a baby in her breast milk.
-But if she does not have access to clean water, her baby is more likely to die from diarrhea, dehydration, and malnutrition than AIDS. Now medicines can prevent the spread of HIV to babies through breast milk (see p. 398).
+If a woman has HIV, sometimes she can pass HIV to a baby in her breast milk. But if she does not have access to clean water, her baby is more likely to die from diarrhea, dehydration, and malnutrition than AIDS. Now medicines can prevent the spread of HIV to babies through breast milk (see p. 398).
 
 But only you can evaluate the conditions in your home and community and decide what to do.
 
@@ -504,7 +502,7 @@ Nearly all mothers can produce all the breast milk their babies need:
 
   ♦ If a mother’s breasts produce little or no milk, she should continue to eat well, drink lots of liquids and let the baby suck her breasts often.
 
-After each breastfeeding, give the baby, by cup (not bottle), some other type of milk,  like boiled cow’s or goat’s milk, canned milk, or powdered milk. (Do not use condensed milk.) Add a little sugar or vegetable oil to any of these milks.
+After each breastfeeding, give the baby, by cup (not bottle), some other type of milk, like boiled cow’s or goat’s milk, canned milk, or powdered milk. (Do not use condensed milk.) Add a little sugar or vegetable oil to any of these milks.
 
 **Note:** Whatever type of milk is used, some cooled, boiled water should be added.
 

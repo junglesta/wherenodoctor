@@ -93,11 +93,30 @@ main {
 }
 
 
+#vocabulary a { color: $color_red_links;}
+
 #green-pages a { color: $color_green_links;}
 
-#yellow-pages a { color: $color_yellow_links;}
+#yellow-pages {
+  h1:not(.no_toc) {
+    margin-top: $spacing_unit*3;
+    padding-bottom: 5px;
+    border-bottom: 3px solid $color_yellow_links;
+  }
+  .chapter_title h1{
+    margin-top: 0;
+    border-bottom: 0 none;
+  }
+  a { color: $color_yellow_links;}
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: .5rem;
+    border-left: 3px solid $color_yellow_links;
+  }
+  li {}
+}
 
-#vocabulary a { color: $color_red_links;}
 
 .addon.brown a,
 .addon.brown h1.no_toc a { color: $color_brown_links;}

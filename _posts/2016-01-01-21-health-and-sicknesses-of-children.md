@@ -86,7 +86,7 @@ A good way to check whether a child is healthy and is getting enough nutritious 
 
 When used well, the charts tell mothers and health workers when a child is not growing normally, so they can take early action. They can make sure the child gets more to eat, and can check for and treat any illness the child may have.
 
-On the next page is a typical Child Health Chart showing the ‘road to health’. This chart can be cut out and copied. Or larger, ready-made cards can be obtained (in English, Spanish, Portuguese, or Zulu) from Teaching Aids at Low Cost (TALC, see [page 431](#page-431) for address). Similar charts are produced in local languages by the Health Departments in many countries.
+On the next page is a typical Child Health Chart showing the ‘road to health’. This chart can be cut out and copied. Or larger, ready-made cards can be obtained (in English, Spanish, Portuguese, or Zulu) from [Teaching Aids at Low Cost - TALC](#teaching-material) for address). Similar charts are produced in local languages by the Health Departments in many countries.
 
 It is a good idea for every mother to keep a Child Health Chart for each of her children under 5 years of age. If there is a health center or ‘under-fives clinic’ nearby, she should take her children, with their charts, to be weighed and to have a ‘check-up’ each month. The health worker can help explain the Chart and its use. To protect the Chart, keep it in a plastic envelope.
 
@@ -178,17 +178,17 @@ DANGER - Not gaining weight find out why
 VERY DANGEROUS - Losing weight. Maybe ill, needs extra care.
 
 
-WRITE ON THE CHART
+WRITE ON THE CHART:
 
-- Any illness e.g. diarrhea measles
+  - Any illness e.g. diarrhea measles
 
-- Admission to hospital
+  - Admission to hospital
 
-- Solids introduced
+  - Solids introduced
 
-- Breastfeeding stopped
+  - Breastfeeding stopped
 
-- Birth of next child
+  - Birth of next child
 
 
 WATCH THE DIRECTION OF THE LINE SHOWING THE CHILD’S GROWTH
@@ -280,10 +280,9 @@ WATCH THE DIRECTION OF THE LINE SHOWING THE CHILD’S GROWTH
 
 **A TYPICAL CHILD HEALTH CHART SHOWING A CHILD’S PROGRESS:**
 
-This baby was healthy and gained weight well for the  rst 6 months of life, because his mother breastfed him.
+This baby was healthy and gained weight well for the first 6 months of life, because his mother breastfed him.
 
-At 6 months, the mother became pregnant
-again and stopped breastfeeding him. The baby was fed little more than corn and rice. He stopped gaining weight.
+At 6 months, the mother became pregnant again and stopped breastfeeding him. The baby was fed little more than corn and rice. He stopped gaining weight.
 
 At 10 months he developed chronic diarrhea and began losing weight. He became very thin and sick.
 
@@ -299,9 +298,11 @@ When the child was 13 months old, his mother learned about ways to give the chil
 
 _Example of information to annotate:_
 
-- off breast at 6 months
-- diarrhea begins at 10 months
-- nutritious feeding begins at 13 months
+  - off breast at 6 months
+
+  - diarrhea begins at 10 months
+
+  - nutritious feeding begins at 13 months
 
 
 Child Health Charts are important. **When used correctly, they help mothers know when their children need more nutritious food and special attention.** They help health workers better understand the needs of the child and his family. They also let the mother know when she is doing a good job.
@@ -310,11 +311,11 @@ Child Health Charts are important. **When used correctly, they help mothers know
 # [305](#page-305)
 {:.no_toc}
 
-# REVIEW OF CHILDREN’S HEALTH PROBLEMS DISCUSSED IN OTHER CHAPTERS
+# REVIEW OF CHILDREN’S HEALTH PROBLEMS discussed in other chapters
 
 Many of the sicknesses discussed in other chapters of this book are found in children. Here some of the more frequent problems are reviewed in brief. For more information on each problem, see the pages indicated.
 
-For special care and problems of newborn babies, see [page 270](#page-270) to 275, and [page 405](#page-405).
+For special care and problems of newborn babies, see from [page 270](#page-270) [to 275](#page-275), and [page 405](#page-405).
 
 **Remember:** In children, sicknesses often become serious very quickly. An illness that takes days or weeks to severely harm or kill an adult may kill a small child in hours. So, it is important to **notice early signs of sickness and attend to them right away.**
 
@@ -322,7 +323,7 @@ For special care and problems of newborn babies, see [page 270](#page-270) to 27
 
 Many children are malnourished because they do not get enough to eat. Or if they eat mainly foods with a lot of water and fiber in them, like cassava, taro root, or maize gruel, their bellies may get full before they get enough energy food for their bodies’ needs.
 
-Also, some children may lack certain things in their food, like Vitamin A (see [page 226](#page-226)) or iodine (see [page 130](#page-130)). For a fuller discussion of the foods children need, read Chapter 11, especially pages 120 to 122.
+Also, some children may lack certain things in their food, like Vitamin A (see [page 226](#page-226)) or iodine (see [page 130](#page-130)). For a fuller discussion of the foods children need, read Chapter 11, especially [pages 120](#page-120) to 122.
 
 
 
@@ -357,8 +358,9 @@ Malnutrition may cause many different problems in children, including:
 
   • little or no weight gain
 
-  • swelling of feet (sometimes face also) • dark
-  spots, ‘bruises’, or open peeling sores
+  • swelling of feet (sometimes face also)
+
+  • dark spots, ‘bruises’, or open peeling sores
 
   • thinness or loss of hair
 
@@ -401,8 +403,8 @@ In small children, high fever (over 39°) can easily cause seizures. To lower fe
 
 ## Seizures (Fits, Convulsions) (see [page 178](#page-178))
 
-Common causes of seizures or convulsions
-in children are high fever, dehydration, epilepsy, malaria, and meningitis. If fever is high, lower it rapidly (see [page 76](#page-76)). Check for signs of dehydration ([page 151](#page-151)), malaria ([page 186](#page-186)), and meningitis ([page 185](#page-185)).
+Common causes of seizures or convulsions in children are high fever, dehydration, epilepsy, malaria, and meningitis. If fever is high, lower it rapidly (see [page 76](#page-76)). Check for signs of dehydration ([page 151](#page-151)), malaria ([page 186](#page-186)), and meningitis ([page 185](#page-185)).
+
 Seizures that come suddenly without fever or other signs are probably epilepsy ([page 178](#page-178)), especially if the child seems well between them. Seizures or spasms in which first the jaw and then the whole body become stiff may be tetanus ([page 182](#page-182)).
 
 ## Meningitis (see [page 185](#page-185))
@@ -436,9 +438,7 @@ This dangerous disease may come as a complication of measles, mumps, or another 
 
   ♦ Treat the cause of anemia, and do not go barefoot if hookworm is common.
 
-  ♦ If you suspect hookworm, a health worker may be able to look at the child’s
-  stools under a microscope. If hookworm eggs are found, treat for hookworm
-  (pages [page 373](#page-373) to [page 375](#page-375)).
+  ♦ If you suspect hookworm, a health worker may be able to look at the child’s stools under a microscope. If hookworm eggs are found, treat for hookworm (from [page 373](#page-373) to [page 375](#page-375)).
 
   ♦ If necessary, give iron salts by mouth (ferrous sulfate, [page 392](#page-392)).
 
@@ -451,9 +451,9 @@ Or crush a tablet into powder and mix it with food.
 {:.no_toc}
 
 
-## Worms and Other Parasites of the Gut (see [page 140](#page-140))
+## Worms and Other Parasites of the Gut
 
-If one child in the family has worms, all the family should be treated. To prevent worm infections, children should:
+If one child in the family has worms, all the family should be treated (see [page 140](#page-140)). To prevent worm infections, children should:
 
 
   ♦ Observe the Guidelines of Cleanliness ([page 133](#page-133)).
@@ -466,7 +466,9 @@ If one child in the family has worms, all the family should be treated. To preve
 
   ♦ Drink only boiled or pure water.
 
-## Skin Problems (see Chapter 15)
+## Skin Problems
+
+(see [Chapter 15](#15-skin-problems))
 
 **Those most common in children include:**
 
@@ -522,8 +524,7 @@ Ear infections are common in small children. The infection often begins after a 
 
   ♦ Teach children to wipe but not to blow their noses when they have a cold.
 
-  ♦ Do not bottle feed babies, or if you do, do not let baby feed lying on his back,
-  as the milk can go up his nose and lead to an ear infection.
+  ♦ Do not bottle feed babies, or if you do, do not let baby feed lying on his back, as the milk can go up his nose and lead to an ear infection.
 
   ♦ When children’s noses are plugged up, use salt drops and suck the mucus out of the nose as described on [page 164](#page-164).
 
@@ -543,8 +544,7 @@ The tonsils (two lymph nodes seen as lumps on each side at the back of the throa
 
   ♦ Take acetaminophen for pain.
 
-  ♦ Be sure the child drinks enough, even if it hurts to swallow. Try giving tea or watered down fruit juice.
-  If pain and fever come on suddenly or continue for more than 3 days, see the following page.
+  ♦ Be sure the child drinks enough, even if it hurts to swallow. Try giving tea or watered down fruit juice. If pain and fever come on suddenly or continue for more than 3 days, see the following page.
 
 
 # [310](#page-310)

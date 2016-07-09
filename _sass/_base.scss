@@ -355,7 +355,8 @@ a {
 blockquote {
   color: $color_grey;
   border-left: 4px solid $color_grey--light;
-  padding-left: $spacing_unit / 2;
+  padding-left: $spacing_unit/2;
+  padding-right: $spacing_unit/2;
   font-size: $h3_font_size;
   font-weight: $base_font_weight;
   letter-spacing: -1px;
