@@ -116,8 +116,9 @@ Infectious diseases are caused by bacteria and other organisms (living things) t
 
 ## examples of INFECTIOUS DISEASES
 
+---
 
-Organism that causes the sickness:
+**Organism that causes the sickness:**
 
 ---
 
@@ -125,178 +126,106 @@ Organism that causes the sickness:
 
 ---
 
-**Name of the sickness:**
+#### tuberculosis
 
-tuberculosis
+_How it is spread or enters the body:_ through the air (coughing)
 
-**How it is spread or enters the body:**
-
-through the air (coughing)
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-tetanus
-
-**How it is spread or enters the body:**
-
-dirty wounds
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-some diarrhea
-
-**How it is spread or enters the body:**
-
-dirty fingers, water, flies
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-pneumonia (some kinds)
-
-**How it is spread or enters the body:**
-
-through the air (coughing)
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-gonorrhea, chlamydia, and syphillis
-
-**How it is spread or enters the body:**
-
-sexual contact
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-earache
-
-**How it is spread or enters the body:**
-
-with a cold
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-infected wounds
-
-**How it is spread or enters the body:**
-
-contact with dirty things
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
-
----
-
-**Name of the sickness:**
-
-sores with pus
-
-**How it is spread or enters the body:**
-
-direct contact (by touch)
-
-**Principal medicine:**
-
-different antibiotics for different bacterial infections
+_Principal medicine:_ different antibiotics for different bacterial infections
 
 
 ---
 
+#### tetanus
+
+_How it is spread or enters the body:_ dirty wounds
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+---
+
+#### some diarrhea
+
+_How it is spread or enters the body:_ dirty fingers, water, flies
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+---
+
+#### pneumonia (some kinds)
+
+_How it is spread or enters the body:_ through the air (coughing)
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+---
+
+#### gonorrhea, chlamydia, and syphillis
+
+_How it is spread or enters the body:_ sexual contact
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+---
+
+#### earache
+
+_How it is spread or enters the body:_ with a cold
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+---
+
+#### infected wounds
+
+_How it is spread or enters the body:_ contact with dirty things
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+---
+
+#### sores with pus
+
+_How it is spread or enters the body:_ direct contact (by touch)
+
+_Principal medicine:_ different antibiotics for different bacterial infections
+
+
+---
 
 ### virus (germs smaller than bacteria)
 
 ---
 
-**Name of the sickness:**
+#### colds, flu, measles, mumps, chickenpox, infantile paralysis, virus diarrhea
 
-colds, flu, measles, mumps, chickenpox, infantile paralysis, virus diarrhea
+_How it is spread or enters the body:_ from someone who is sick, through the air, by coughing. flies, etc.
 
-**How it is spread or enters the body:**
-
-from someone who is sick, through the air, by coughing. flies, etc.
-
-**Principal medicine:**
-
-acetaminophen and other painkillers
+_Principal medicine:_ acetaminophen and other painkillers
 
 ---
 
-**Name of the sickness:**
+#### rabies
 
-rabies
+_How it is spread or enters the body:_ animal bites
 
-**How it is spread or enters the body:**
-
-animal bites
-
-**Principal medicine:**
-
-vaccinations prevent some virus infections
+_Principal medicine:_ vaccinations prevent some virus infections
 
 
 ---
 
-**Name of the sickness:**
+#### warts
 
-warts
+_How it is spread or enters the body:_ touch
 
-**How it is spread or enters the body:**
-
-touch
-
-**Principal medicine:**
-
-vaccinations prevent some virus infections
+_Principal medicine:_ vaccinations prevent some virus infections
 
 ---
 
-**Name of the sickness:**
+#### HIV
 
-HIV
+_How it is spread or enters the body:_ body fluids of someone infected get inside another person ́s body
 
-**How it is spread or enters the body:**
-
-body fluids of someone infected get inside another person ́s body
-
-**Principal medicine:**
-
-Antiretroviral medicines fight HIV.
+_Principal medicine:_ Antiretroviral medicines fight HIV.
 
 ---
 
@@ -304,17 +233,11 @@ Antiretroviral medicines fight HIV.
 
 ---
 
-**Name of the sickness:**
+#### ringworm fungus athlete’s foot, jock itch, yeast infection
 
-ringworm fungus athlete’s foot, jock itch, yeast infection
+_How it is spread or enters the body:_ by touch or from clothing
 
-**How it is spread or enters the body:**
-
-by touch or from clothing
-
-**Principal medicine:**
-
-nystatin, miconazole, gentian violet, ointments with undecylenic, benzoic, or salicylic acid
+_Principal medicine:_ nystatin, miconazole, gentian violet, ointments with undecylenic, benzoic, or salicylic acid
 
 ---
 
@@ -322,17 +245,11 @@ nystatin, miconazole, gentian violet, ointments with undecylenic, benzoic, or sa
 
 ---
 
-**Name of the sickness:**
+#### In the gut: worms, amebas (dysentery)
 
-In the gut: worms, amebas (dysentery)
+_How it is spread or enters the body:_ feces-to-mouth lack of cleanliness
 
-**How it is spread or enters the body:**
-
-feces-to-mouth lack of cleanliness
-
-**Principal medicine:**
-
-different specific medicines
+_Principal medicine:_ different specific medicines
 
 ---
 
@@ -341,17 +258,11 @@ different specific medicines
 
 ---
 
-**Name of the sickness:**
+#### In the blood: malaria
 
-In the blood: malaria
+_How it is spread or enters the body:_ mosquito bite
 
-**How it is spread or enters the body:**
-
-mosquito bite
-
-**Principal medicine:**
-
-a combination of malaria medicines
+_Principal medicine:_ a combination of malaria medicines
 
 ---
 
@@ -359,17 +270,12 @@ a combination of malaria medicines
 
 ---
 
-**Name of the sickness:**
 
-lice, fleas bedbugs scabies
+#### lice, fleas bedbugs scabies
 
-**How it is spread or enters the body:**
+_How it is spread or enters the body:_ by contact with infected persons or their clothes
 
-by contact with infected persons or their clothes
-
-**Principal medicine:**
-
-permethrin, keeping very clean
+_Principal medicine:_ permethrin, keeping very clean
 
 ---
 
@@ -436,8 +342,7 @@ This book describes the typical history and signs for many illnesses. But be car
 # [21](#page-21)
 {:.no_toc}
 
-# SICKNESSES THAT ARE OFTEN CONFUSED
-OR GIVEN THE SAME NAME
+# SICKNESSES THAT ARE OFTEN CONFUSED or given the same name
 
 Many of the common names people use for their sicknesses were first used long before anyone knew about germs or bacteria or the medicines that fight them. Different diseases that caused more or less similar problems-such as ‘high fever’ or ‘pain in the side’, were often given a single name. In many parts of the world, these common names are still used.
 
@@ -459,6 +364,9 @@ The rest of this chapter gives examples of common or traditional names people us
 Examples cannot be given for each country or area where this book may be used. Therefore, I have kept those from the Spanish edition, with names used by villagers in western Mexico. They will not be the same names you use. However, people in many parts of the world see and speak of their illnesses in a similar way. So the examples may help you think about how people name diseases in your area.
 
 ## examples of local names for sicknesses
+
+
+---
 
 STOPPED-UP GUT
 
