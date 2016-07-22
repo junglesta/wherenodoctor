@@ -22,11 +22,12 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 # 2do
 
-- [ ] finish broken link fix
-- [ ] finish OG head stuff test (pictue size?!)
+- [ ] finish link check+fix, cosmetics check+fix
+- [ ] finish OG head stuff test (picture size?!)
 - [ ] **install [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
+- [ ] **install [vue.js](https://github.com/vuejs/vue)** maybe
 - [ ] Make it easily translatable.
-- [ ] maybe make Patient Report (page 44) fillable and printable PDF.
+- [ ] make Patient Report useful (p.44) fillable + printable.
 
 # Done
 
@@ -63,8 +64,13 @@ Firstly published in 1977 by [hesperian.org](http://hesperian.org/books, and, re
 
 ## Dev
 
+
 ```sh
-jekyll serve , , watch , , trace , , baseurl ''
+bundle install
+```
+
+```sh
+bundle exec jekyll serve --watch --baseurl ""
 ```
 
 ### Book formatting style guide
