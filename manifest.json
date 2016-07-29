@@ -1,6 +1,8 @@
 {
 	"name": "WHERE THERE IS NO DOCTOR",
 	"short_name": "Where No Doctor",
+	"background_color": "#000000",
+	"theme_color": "#7eb6fc",
 	"icons": [
 		{
 			"src": "\/wherenodoctor\/android-chrome-36x36.png",
