@@ -2,6 +2,8 @@ WHERE THERE IS NO DOCTOR
 ---
 A Village Health Care Book **turned Offline Ready Web App**.
 
+![qr link](qr.jpg)
+
 _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman, Jane Maxwell
 (orignal title: Donde No Hay Doctor ISBN	978, 0, 942364, 15, 6)_
 
@@ -25,7 +27,7 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 - [ ] finish link check+fix, cosmetics check+fix
 - [ ] finish OG head stuff test (picture size?!)
 - [ ] **install [search](https://github.com/olivernn/lunr.js)** maybe [lunr.js](http://lunrjs.com/)
-- [ ] **install [vue.js](https://github.com/vuejs/vue)** maybe
+- [ ] **refactor w/ [vue.js](https://github.com/vuejs/vue)** maybe
 - [ ] Make it easily translatable.
 - [ ] make Patient Report useful (p.44) fillable + printable.
 
