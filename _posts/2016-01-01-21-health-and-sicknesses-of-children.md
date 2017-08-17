@@ -21,9 +21,13 @@ It is important that children eat the most nutritious foods they can get, so tha
 The best foods for children at different ages are:
 
   - in the first 6 months: breast milk and nothing more.
+
   - from 6 months to 1 year: breast milk and also other nutritious foods,  such as boiled cereals, mashed-up beans, eggs, meat, cooked fruits and vegetables.
+
   - from 1 year on: the child should eat the same foods as adults, but more often. To the main food (rice, maize, wheat, potatoes, or cassava) add ‘helper foods’ as discussed in Chapter 11.
+
   - Above all, children should get enough to eat, several times a day.
+
   - All parents should watch for signs of malnutrition in their children and should give them the best food they can.
 
 
@@ -586,11 +590,9 @@ This is a disease of children and young adults. It usually begins 1 to 3 weeks a
 
 **Prevention:**
 
-  ♦ To prevent rheumatic fever, treat ‘strep throat’
-  early with penicillin, for 10 days.
+  ♦ To prevent rheumatic fever, treat ‘strep throat’ early with penicillin, for 10 days.
 
-  ♦ To prevent return of rheumatic fever, and added
-  heart damage, a child who has once had rheumatic fever should take penicillin for 10 days at the first sign of a sore throat. If he already shows signs of heart damage, he should take penicillin on a regular basis or have monthly injections of benzathine penicillin ([page 351](#page-351)) perhaps for the rest of his life. Follow the advice of an experienced health worker or doctor.
+  ♦ To prevent return of rheumatic fever, and added heart damage, a child who has once had rheumatic fever should take penicillin for 10 days at the first sign of a sore throat. If he already shows signs of heart damage, he should take penicillin on a regular basis or have monthly injections of benzathine penicillin ([page 351](#page-351)) perhaps for the rest of his life. Follow the advice of an experienced health worker or doctor.
 
 
 # [311](#page-311)
@@ -630,8 +632,7 @@ After the rash appears, the child usually begins to get better. The rash lasts a
 
   ♦ If earache develops, give an antibiotic ([page 350](#page-350)).
 
-  ♦ If signs of pneumonia, meningitis, or severe pain in the ear or stomach
-  develop, get medical help.
+  ♦ If signs of pneumonia, meningitis, or severe pain in the ear or stomach develop, get medical help.
 
   ♦ If the child has diarrhea, give Rehydration Drink ([page 152](#page-152)).
 
@@ -694,12 +695,10 @@ Whooping cough is **especially dangerous in babies** under 1 year of age, so vac
 
   ♦ If the cough causes convulsions, phenobarbital ([page 389](#page-389)) may help.
 
-  ♦ If the baby stops breathing after a cough, turn her over and pull the sticky
-  mucus from her mouth with your finger. Then slap her on the back with the flat
+  ♦ If the baby stops breathing after a cough, turn her over and pull the sticky mucus from her mouth with your finger. Then slap her on the back with the flat
   of your hand.
 
-  ♦ To avoid weight loss and malnutrition, be sure the child gets enough nutritious
-  food. Have her eat and drink shortly after she vomits.
+  ♦ To avoid weight loss and malnutrition, be sure the child gets enough nutritious food. Have her eat and drink shortly after she vomits.
 
 **Complications:**
 
@@ -793,7 +792,6 @@ Some children are born with a dislocated hip, the leg has slipped out of its joi
 2. Hold both legs with the knees doubled,
 like this, and open them wide like this.
 
-
 If one leg stops early or makes a jump or click when you open it wide, the hip is dislocated.
 
 **Treatment:**
@@ -833,8 +831,7 @@ A hernia needs surgery (see [page 177](#page-177)).
 
 Sometimes the **hernia** causes a swelling here in either a boy or a girl.
 
-You can tell this from a swollen lymph node
-([page 88](#page-88)) because the hernia swells when the baby cries or is held upright and disappears when he lies quietly.
+You can tell this from a swollen lymph node ([page 88](#page-88)) because the hernia swells when the baby cries or is held upright and disappears when he lies quietly.
 
 
 
@@ -849,8 +846,7 @@ Sometimes parents will have a child who is born deaf, mentally slow (retarded), 
 
 However, certain things greatly increase the chance of birth defects. **A baby is less likely to have something wrong if parents take certain precautions.**
 
-1. Lack of nutritious food during pregnancy can cause mental slowness or birth defects in babies.
-**To have healthy babies, pregnant women must eat enough nutritious food** (see [page 110](#page-110)).
+1. Lack of nutritious food during pregnancy can cause mental slowness or birth defects in babies. **To have healthy babies, pregnant women must eat enough nutritious food** (see [page 110](#page-110)).
 
 2. Lack of iodine in a pregnant woman’s diet can cause hypothyroidism in her baby. The baby’s face is puffy, and he looks dull. His skin and eyes may remain yellow (jaundiced) for a long time after he is born. His tongue hangs out, and his forehead may be hairy. He is weak, feeds poorly, cries little, and sleeps a lot. He is mentally slow, may be deaf, and usually has an umbilical hernia. He will begin to walk and talk later than normal babies.
 
@@ -863,7 +859,7 @@ If you suspect your baby may have hypothyroidism, take him to a health worker or
 
 4. **After age 35**, there is more chance that a mother will have a child with defects. Down syndrome, which looks somewhat like hypothyroidism, is more likely to occur in babies of older mothers..
 
-**It is wise to plan your family so as to have no more children after age 35** (see Chapter 20).
+**It is wise to plan your family so as to have no more children after age 35** (see [Chapter 20](#page-283)).
 
 5. **Many medicines** can harm the baby developing inside a pregnant mother. Use as little medicine as possible during pregnancy, and only those known to be safe.
 
@@ -883,8 +879,7 @@ If your child is born with a birth defect, take him to a health center. Often so
 
   ♦ For cross-eyes, see [page 223](#page-223).
 
-  ♦ If an extra finger or toe is very small with no bone in it, tie a string around it very tightly.
-  It will dry up and fall off. If it is larger or has bone in it, either leave it or have it taken off by surgery.
+  ♦ If an extra finger or toe is very small with no bone in it, tie a string around it very tightly. It will dry up and fall off. If it is larger or has bone in it, either leave it or have it taken off by surgery.
 
   ♦ If a newborn baby’s feet are turned inward or have the wrong shape (clubbed), try to bend them to normal shape. If you can do this easily, repeat this several times each day. The feet (or foot) should slowly grow to be normal.
 
@@ -1012,4 +1007,4 @@ United Kingdom
 
 Tel: +44 207-612-6649
 
-e-mail: ccenquiries@ioe.ac.uk www.childtochild.org
+e-mail: ccenquiries@ioe.ac.uk [childtochild.org](http://www.childtochild.org.uk/)

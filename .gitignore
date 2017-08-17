@@ -1,8 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-__LAB/UpUp-master
-__LAB/favicons
-__LAB/_diff.txt
+__LAB
 *.zip
 node_modules

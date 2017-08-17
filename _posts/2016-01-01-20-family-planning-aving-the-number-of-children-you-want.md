@@ -34,10 +34,12 @@ Having the number of children you want, when you want them, is called family pla
 Every year, half a million women die of problems from pregnancy, childbirth, and unsafe abortion. Most of these deaths could be prevented by family planning. For example, family planning can prevent dangers from pregnancies that are:
 
   - in young women. Women under the age of 18 are more likely to die in childbirth because their bodies are not fully grown. Their babies have a greater chance of dying in the first year.
+
   - in older women. Older women face more danger in child bearing, especially if they have other health problems or have had many children.
+
   - too close. A woman’s body needs time to recover between pregnancies.
-  - too many. A woman with more than 4 children has a greater risk of death after
-  childbirth from bleeding and other causes.
+
+  - too many. A woman with more than 4 children has a greater risk of death after childbirth from bleeding and other causes.
 
 Millions of women safely use the family planning methods described in this chapter and on pages [page 393](#page-393) to [page 396](#page-396).
 
@@ -46,11 +48,17 @@ Millions of women safely use the family planning methods described in this chapt
 On the following pages, several methods of family planning are described. Each one works better for some people than others. Study these pages and talk with your midwife, health worker, or doctor about what methods are available and are likely to work best for you. As you read about each method, here are some questions you may want to consider:
 
   - How well does it prevent pregnancy? How effective is it?
+
   - How well does it protect against HIV and other sexually transmitted infections, if at all?
+
   - How safe is it? If a woman has any of the health problems mentioned in this chapter, she may need to avoid some types of family planning methods.
+
   - How easy is it to use?
+
   - How much does it cost?
+
   - Is it easy to get? Will you need to visit the health center often?
+
   - Will the side effects (the problems the method may cause) create difficulties for you?
 
 Family planning methods work best when both the man and the woman take responsibility for preventing pregnancy and protecting each other from sexually transmitted infections (STIs).
@@ -277,9 +285,9 @@ Different brands of combination birth control pills have different doses of 2 ho
 
 ## THE MINIPILL (progestin-only pills)
 
-This birth control pill does not contain estrogen, only progestin. It is safe for most women who cannot use combined pills for health reasons (see page 289) or who have side effects from combination pills.
+This birth control pill does not contain estrogen, only progestin. It is safe for most women who cannot use combined pills for health reasons (see [page 289](#page-389)) or who have side effects from combination pills.
 
-The minipill is also very effective for breastfeeding mothers who have not had monthly bleeding since giving birth. For descriptions of the most common brands and how to take them, see page 394.
+The minipill is also very effective for breastfeeding mothers who have not had monthly bleeding since giving birth. For descriptions of the most common brands and how to take them, see [page 394](#page-394).
 
 
 # QUESTIONS AND ANSWERS ABOUT BIRTH CONTROL PILLS
@@ -312,7 +320,7 @@ A woman who has any of the following signs should not take any type of oral cont
 
 • Missed period. A woman who thinks she might be pregnant or whose monthly bleeding is late.
 
-• Breast cancer or a hard lump in the breast (see page 279). Birth control pills do not cause cancer, but if a woman already has breast cancer, the pill can make it worse.
+• Breast cancer or a hard lump in the breast (see [page 279](#page-279)). Birth control pills do not cause cancer, but if a woman already has breast cancer, the pill can make it worse.
 
 • Abnormal bleeding from the vagina during the 3 months before starting to take birth control pills. See a health worker first to find out if there is a serious problem (see [page 280](#page-280)).
 
@@ -344,8 +352,7 @@ Most women with any of these health problems can safely use the progestin-only m
 
 **STOP taking the pill and see a health worker if you:**
 
-  • have severe headaches with blurred vision (migraines) that begin after you start
-  taking the pill.
+  • have severe headaches with blurred vision (migraines) that begin after you start taking the pill.
 
   • feel weakness or numbness in your arms or legs.
 
@@ -382,7 +389,7 @@ Both types of injection are usually given by a health worker. These injections d
 
 Combined injections, such as Cyclofem and Mesigyna, are given once a month. Women who should not use estrogen should avoid these (see [page 289](#page-289)).
 
-Progestin-only injections, such as Depo Provera and Noristerat are given every 2 or 3 months. See page 396.
+Progestin-only injections, such as Depo Provera and Noristerat are given every 2 or 3 months. See [page 396](#page-396).
 
 ## The IUD
 
@@ -392,9 +399,9 @@ An IUD (Intra-Uterine Device) is a small plastic, or plastic and copper, object 
 
 • Women with cancer of the cervix or uterus. Women with breast cancer should not use an IUD with progestin, but they can use a copper-T or similar IUD.
 
-• Women with gonorrhea or chlamydia. See page 236.
+• Women with gonorrhea or chlamydia. See [page 236](#page-236).
 
-• Women with pelvic infection (PID). See page 243.
+• Women with pelvic infection (PID). See [page 243](#page-243).
 
 ## Spermicide
 
@@ -487,7 +494,7 @@ There are many ways to be close to someone, to have sexual pleasure, and to show
 
 This traditional method seems to make pregnancy less likely but does not always work. Also, it can irritate the inside of the vagina, making sex uncomfortable, and making it easier for women to get sexually transmitted infections including HIV. If you use lemon juice, use a different method at least some days so the vagina is not being irritated so often.
 
-Boil a small sponge or piece of soft fabric to kill any germs in it. Then soak it in 1⁄2 lemon juice, 1⁄2 water. Or use lime juice or vinegar instead of lemon. Put the sponge deep into your vagina before you have sex. Leave it in for 6 hours after you have sex, then take it out and boil it again. As long as you boil it every time, you can use the same sponge over and over.
+Boil a small sponge or piece of soft fabric to kill any germs in it. Then soak it in 1/2 lemon juice, 1/2 water. Or use lime juice or vinegar instead of lemon. Put the sponge deep into your vagina before you have sex. Leave it in for 6 hours after you have sex, then take it out and boil it again. As long as you boil it every time, you can use the same sponge over and over.
 
 # THESE METHODS DO NOT PREVENT PREGNANCY
 

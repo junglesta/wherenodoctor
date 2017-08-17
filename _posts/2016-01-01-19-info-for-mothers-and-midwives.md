@@ -64,7 +64,7 @@ Because she will not have any more children, a woman may be more free now to spe
 
 # PREGNANCY
 
-Signs of pregnancy:
+**Signs of pregnancy:**
 
 All these signs are normal:
 
@@ -178,24 +178,24 @@ If you are a midwife, you can provide an important service to mothers-to-be (and
 
 Here are some important things prenatal care should cover:
 
-1. **Sharing information**
+1 - **Sharing information**
 
 Ask the mother about her problems and needs. Find out how many pregnancies
 she has had, when she had her last baby, and any problems she may have had during pregnancy or childbirth. Talk with her about ways she can help herself and her baby be healthy, including:
 
-♦ **Eating right**. Encourage her to eat enough energy foods, and also foods rich in protein, vitamins, iron, and calcium (see Chapter 11).
+  ♦ **Eating right**. Encourage her to eat enough energy foods, and also foods rich in protein, vitamins, iron, and calcium (see Chapter 11).
 
-♦ **Good hygiene** (Chapter 12 and [page 242](#page-242)).
+  ♦ **Good hygiene** (Chapter 12 and [page 242](#page-242)).
 
-♦ The importance of taking **few or no medicines** ([page 54](#page-54))
+  ♦ The importance of taking **few or no medicines** ([page 54](#page-54))
 
-♦ The importance of **not smoking** ([page 149](#page-149)), **not drinking alcoholic drinks** ([page 148](#page-148)), and **not using drugs** (pages 416 and 417).
+  ♦ The importance of **not smoking** ([page 149](#page-149)), **not drinking alcoholic drinks** ([page 148](#page-148)), and **not using drugs** ([page 416](#page-416) and 417).
 
-♦ Getting enough **exercise and rest.**
+  ♦ Getting enough **exercise and rest.**
 
-♦ **Tetanus vaccination** to prevent tetanus in the newborn. (Give at the 6th, 7th, and 8th month if first time. If she has been vaccinated against tetanus before, give one booster during the 7th month.)
+  ♦ **Tetanus vaccination** to prevent tetanus in the newborn. (Give at the 6th, 7th, and 8th month if first time. If she has been vaccinated against tetanus before, give one booster during the 7th month.)
 
-2. **Nutrition**
+2 - **Nutrition**
 
 Does the mother look well nourished? Is she anemic? If so, discuss ways of eating better. If possible, see that she gets iron pills preferably with folic acid and vitamin C. Advise her about how to handle morning sickness ([page 248](#page-248)) and heartburn ([page 128](#page-128)).
 
@@ -211,10 +211,12 @@ Ask the mother if she has any of the common problems of pregnancy.
 {:.no_toc}
 
 
-3. **Minor problems**
+3 - **Minor problems**
+
 that they are not serious, and give what advice you can (see [page 248](#page-248)).
 
-4. **Signs of danger and special risk**
+4 - **Signs of danger and special risk**
+
 Check for each of the danger signs on [page 249](#page-249). Take the mother’s pulse each visit.
 This will let you know what is normal for her in case she has problems later (for example, shock from pre-eclampsia or severe bleeding). If you have a blood pressure cuff, take her blood pressure (see [page 410](#page-410)). And weigh her.
 
@@ -222,7 +224,7 @@ Watch out especially for the following danger signs of pre-eclampsia: ([page 249
 
   • high blood pressure (140/90 or greater)
 
-  • protein in the urine }
+  • protein in the urine
 
   • sudden weight gain
 
@@ -238,7 +240,7 @@ Some midwives may have paper ‘dip sticks’ or other methods for measuring the
 
 If any of the danger signs appear, see that the woman gets medical help as soon as possible. Also, check for signs of special risk, page 256. If any are present, it is safer if the mother gives birth in a hospital.
 
-5. **Growth and position of the baby in the womb**
+5 - **Growth and position of the baby in the womb**
 
 Feel the mother’s womb each time she visits; or show her how to do it herself.
 
@@ -256,7 +258,7 @@ At 4 1⁄2 months it is usually at the level of the navel.
 {:.no_toc}
 
 
-6. **Baby’s heartbeat (fetal heartbeat) and movement**
+6 - **Baby’s heartbeat (fetal heartbeat) and movement**
 
 After 5 months, listen for the baby’s heartbeat and check for movement. You can try putting your ear against the belly, but it may be hard to hear. It will be easier if you get a fetoscope.
 
@@ -273,7 +275,8 @@ A baby’s heart beats about twice as fast as an adult’s. If you have a watch 
 From 120 to 160 per minute is normal.
 If less than 120, something is wrong. (Or perhaps you counted wrong or heard the mother’s heartbeat. Check her pulse. The baby’s heartbeat is often hard to hear. It takes practice.)
 
-7. **Preparing the mother for labor**
+7 - **Preparing the mother for labor**
+
 As the birth approaches, see the mother more often. If she has other children, ask her how long labor lasted and if she had any problems. Perhaps suggest that she lie down to rest after eating, twice a day for an hour each time. Talk with her about ways to make the birth easier and less painful (see the next pages). You may want to have her practice deep, slow breathing, so that she can do this during the contractions of labor. Explain to her that relaxing during contractions, and resting between them, will help her save strength, reduce pain, and speed labor.
 
 **If there is any reason to suspect the labor may result in problems you cannot handle, send the mother to a health center or hospital to have her baby. Be sure she is near the hospital by the time labor begins.**
@@ -286,7 +289,7 @@ May 10 minus 3 months is February 10, plus 7 days is February 17.
 
 The baby is likely to be born around February 17.
 
-8. **Keeping records**
+8 - **Keeping records**
 
 To compare your findings from month to month and see how the mother is progressing, it helps to keep simple records. On the next page is a sample record sheet. Change it as you see fit. A larger sheet of paper would be better. Each mother can keep her own record sheet and bring it when she comes for her check-up.
 
@@ -295,7 +298,8 @@ To compare your findings from month to month and see how the mother is progressi
 # [253](#page-253)
 {:.no_toc}
 
-## record of prenatal care                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+## Record of prenatal care
+
 Make a table and annotate:
 
   - NAME
@@ -359,7 +363,7 @@ Make a table and annotate:
 
 
 
-## things a mother should have ready before giving birth
+# things a mother should have ready before giving birth
 
 Every pregnant woman should have the following things ready by the seventh month of pregnancy:
 
@@ -388,9 +392,6 @@ Clean cotton.
 
 
 
-
-
-
 ## Additional Supplies for the Well-Prepared Midwife or Birth Attendant
 
 Flashlight (torch).
@@ -399,7 +400,7 @@ Suction bulb for sucking mucus out of the baby’s nose and mouth.
 
 Sterile syringe and needles.
 
-Several injections of oxytocin or ergonovine, or tablets of misoprostol (see pages 390 and 391).
+Several injections of oxytocin or ergonovine, or tablets of misoprostol (see [page 390](#page-390) and 391).
 
 HIV medicines for mother and baby if mother or father has HIV (see [page 398](#page-398)).
 
@@ -408,6 +409,7 @@ Fetoscope, or fetal stethoscope, for listening to the baby’s heartbeat through
 Blunt-tipped scissors for cutting the cord before the baby is all the way born (extreme emergency only).
 
 Two clamps (hemostats) for clamping the umbilical cord or clamping bleeding veins from tears of birth opening.
+
 Rubber or plastic gloves (that can be sterilized by boiling, see [page 74](#page-74)) to wear while examining the woman, while the baby is coming out, when sewing tears in the birth opening, and for catching and examining afterbirth.
 
 Sterile needle and gut thread for sewing tears in the birth opening.
@@ -429,7 +431,7 @@ Difficulties in childbirth do occur, and sometimes the life of the mother or chi
 
 _**CAUTION:**_  If you have a fever, cough, sore throat, or sores or infections on your skin at the time of the birth, it would be better for someone else to deliver the baby.
 
-Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife Attend the Birth, if Possible in a Hospital:
+## Signs of Special Risk that Make it Important that a Doctor or Skilled Midwife Attend the Birth, if Possible in a Hospital:
 
 • If regular labor pains begin more than 3 weeks before the baby is expected.
 
@@ -478,7 +480,7 @@ THE BIRTHS WITH THE GREATEST CHANCE OF PROBLEMS ARE:
 
 To make sure the baby is head down, in the normal position for birth, feel for his head, like this:
 
-1. Have the mother breathe out all the way. With the thumb and 2 fingers, push in here, just above the pelvic bone.
+**1** - Have the mother breathe out all the way. With the thumb and 2 fingers, push in here, just above the pelvic bone.
 
 With the other hand, feel the top of the
 
@@ -491,7 +493,7 @@ Butt up feels larger high up.
 Butt down feels larger low down.
 
 
-2. Push gently from side to side, first with one hand, then the other.
+**2** - Push gently from side to side, first with one hand, then the other.
 
 If the baby’s butt is pushed gently sideways, the baby’s whole body will move too.
 
@@ -499,7 +501,7 @@ But if the head is pushed gently sideways, it will bend at the neck and the back
 
 If the baby still is high in the womb, you can move the head a little. But if it has already engaged (dropped lower) getting ready for birth, you cannot move it.
 
-A woman’s  rst baby sometimes engages 2 weeks before labor begins. Later babies may not engage until labor starts.
+A woman’s first baby sometimes engages 2 weeks before labor begins. Later babies may not engage until labor starts.
 
 If the baby’s head is down, his birth is likely to go well.
 
@@ -516,21 +518,21 @@ If the baby is sideways, the mother should have her baby in a hospital. She and 
 
 ## signs that show labor is near
 
-• A few days before labor begins, usually the baby moves lower in the womb. This lets the mother breathe more easily, but she may need to urinate more often because of pressure on the bladder. (In the first birth these signs can appear up to 4 weeks before delivery.)
+• A few days before labor begins, usually the **baby moves** lower in the womb. This lets the mother breathe more easily, but she may need to urinate more often because of pressure on the bladder. (In the first birth these signs can appear up to 4 weeks before delivery.)
 
-• A short time before the labor begins, some thick mucus (jelly) may come out. Or some mucus may come out for 2 or 3 days before labor begins. Sometimes it is tinted with blood. This is normal.
+• A short time before the labor begins, **some thick mucus** (jelly) may come out. Or some mucus may come out for 2 or 3 days before labor begins. Sometimes it is tinted with blood. This is normal.
 
-• The contractions (sudden tightening of the womb) or labor pains may start up to several days before childbirth at first a long time usually passes between contractions, several minutes or even hours. When the contractions become stronger, regular, and more frequent, labor is beginning.
+• The **contractions** (sudden tightening of the womb) or labor pains may start up to several days before childbirth at first a long time usually passes between contractions, several minutes or even hours. When the contractions become stronger, regular, and more frequent, labor is beginning.
 
-• Some women have a few practice contractions weeks before labor. This is normal. On rare occasions, a woman may have false labor. This happens when the contractions are coming strong and close together, but then stop for hours or days before childbirth actually begins. Sometimes walking, a warm bath, or resting will help calm the contractions if they are false, or bring on childbirth if they are real. Even if it is false labor, the contractions help to prepare the womb for labor.
+• Some women have a few **practice contractions** weeks before labor. This is normal. On rare occasions, a woman may have false labor. This happens when the contractions are coming strong and close together, but then stop for hours or days before childbirth actually begins. Sometimes walking, a warm bath, or resting will help calm the contractions if they are false, or bring on childbirth if they are real. Even if it is **false labor**, the contractions help to prepare the womb for labor.
 
 • The bag of water that holds the baby in the womb usually breaks with a flood of liquid sometime after labor has begun. If the waters break before the contractions start, this usually means the beginning of labor. After the waters break, the mother should keep very clean. Walking back and forth may help bring on labor more quickly. To prevent infection, avoid sexual intercourse, do not sit in a bath of water, and do not douche or put anything in the vagina. If labor does not start within 12 hours, seek medical help.
 
-Labor pains are caused by contractions or tightening of the womb. Between contractions the womb is relaxed like this:
+**Labor pains are caused by contractions or tightening of the womb. Between contractions the womb is relaxed**
 
-During contractions, the womb tightens and lifts up like this:
+**During contractions, the womb tightens and lifts up**
 
-The contractions push the baby down farther. This causes the cervix or ‘door of the womb’ to open, a little more each time.
+**The contractions push the baby down farther. This causes the cervix or ‘door of the womb’ to open, a little more each time.**
 
 
 
@@ -543,11 +545,11 @@ The contractions push the baby down farther. This causes the cervix or ‘door o
 
 Labor has 3 parts or stages:
 
-• The first stage lasts from the beginning of the strong contractions until the womb opens and the baby starts to move through the birth canal.
+  • The first stage lasts from the beginning of the strong contractions until the womb opens and the baby starts to move through the birth canal.
 
-• The second stage lasts from when the baby enters the birth canal until it is born.
+  • The second stage lasts from when the baby enters the birth canal until it is born.
 
-• The third stage lasts from the birth of the baby until the placenta (afterbirth) comes out.
+  • The third stage lasts from the birth of the baby until the placenta (afterbirth) comes out.
 
 THE FIRST STAGE OF LABOR usually lasts 10 to 20 hours or more when it is the mother’s first birth, and from 7 to 10 hours in later births. This varies a lot.
 
@@ -555,16 +557,9 @@ During the first stage of labor, the mother should not try to hurry the birth. I
 
 The mother should not try to push or bear down until the child is beginning to move down into the birth canal, and she feels she has to push.
 
-The mother should keep her bowels and bladder empty.
+The mother should keep her bowels (Feces, stools) and bladder empty.
 
-If the bladder and the bowels are full, they get in the way when the baby is being born.
-
-Bladder full of urine
-
-Feces (stools)
-
-
-
+If the bladder and the bowels are full (of urine), they get in the way when the baby is being born.
 
 
 During labor, the mother should urinate often. If she has not moved her bowels in several hours, an enema may make labor easier. During labor the mother should drink water or other liquids often. Too little liquid in the body can slow down or stop labor. If labor is long, she should eat lightly, as well. If she is vomiting, she should sip a little Rehydration Drink, herbal tea, or fruit juices between each contraction.
@@ -607,43 +602,46 @@ If possible, wear gloves to attend the birth, to protect the health of the mothe
 
 Normally the baby is born head first like this:
 
-  Now push hard.
+1 - Until the head is not yet visible, push hard.
 
-Now try not to push hard. Take many short, fast breaths. This helps prevent tearing the opening (see [page 269](#page-269)).
-The head usually comes out face down. If the baby has feces (shit) in her mouth and nose, clean it out immediately (see [page 262](#page-262)).
+2 - WHen the head is starting to show, try not to push hard. Take many short, fast breaths. This helps prevent tearing the opening (see [page 269](#page-269)).
 
-Then the baby’s body turns to one side so the shoulders can come out.
+3 - The head usually comes out face down. If the baby has feces (shit) in her mouth and nose, clean it out immediately (see [page 262](#page-262)).
 
-If the shoulders get stuck after the head comes out:
-The midwife can take the baby’s head in her hands and lower it very carefully, so the shoulder can come out.
-Then she can raise the head a little so that the other shoulder comes out.
+4 - Then the baby’s body turns to one side so the shoulders can come out.
 
-All the force must come from the mother. The midwife should never pull on the head, or twist or bend the baby’s neck, because this can harm the baby.
+**If the shoulders get stuck after the head comes out:**
+
+1 - The midwife can take the baby’s head in her hands and lower it very carefully, so the shoulder can come out.
+
+2 - Then she can raise the head a little so that the other shoulder comes out.
+
+All the force must come from the mother. The midwife should **never pull on the head, or twist or bend the baby’s neck**, because this can harm the baby.
 
 
 
 # [262](#page-262)
 {:.no_toc}
 
-THE THIRD STAGE OF LABOR begins when the baby has been born and lasts until the placenta (afterbirth) comes out. Usually, the placenta comes out by itself 5 minutes to an hour after the baby. In the meantime, care for the baby. If there is a lot of bleeding (see [page 265](#page-265)) or if the placenta does not come out within 1 hour, seek medical help.
+THE THIRD STAGE OF LABOR begins when the baby has been born and lasts until the placenta (afterbirth) comes out. Usually, the placenta comes out by itself 5 minutes to an hour after the baby. In the meantime, **care for the baby**. If there is a lot of bleeding (see [page 265](#page-265)) or if the placenta does not come out within 1 hour, seek medical help.
 
 # CARE OF THE BABY AT BIRTH
 
 Immediately after the baby comes out:
 
-♦ Put the baby’s head down so that the mucus comes out of his mouth and throat. Keep it this way until he begins to breathe.
+  ♦ Put the baby’s head down so that the mucus comes out of his mouth and throat. Keep it this way until he begins to breathe.
 
-♦ Keep the baby below the level of the mother until the cord is tied. (This way, the baby gets more blood and will be stronger.)
+  ♦ Keep the baby below the level of the mother until the cord is tied. (This way, the baby gets more blood and will be stronger.)
 
-♦ Dry the baby and if he does not begin to breathe right away, rub his back with a towel or a cloth.
+  ♦ Dry the baby and if he does not begin to breathe right away, rub his back with a towel or a cloth.
 
-♦ If he still does not breathe, clean the mucus out of his nose and mouth with a clean cloth wrapped around your finger.
+  ♦ If he still does not breathe, clean the mucus out of his nose and mouth with a clean cloth wrapped around your finger.
 
-♦ If the baby has not begun to breathe within one minute after birth, start MOUTH-TO-MOUTH BREATHING at once (see [page 80](#page-80)).
+  ♦ If the baby has not begun to breathe within one minute after birth, start MOUTH-TO-MOUTH BREATHING at once (see [page 80](#page-80)).
 
-♦ Wrap the baby in a clean cloth. It is very important not to let him get cold, especially if he is premature (born too early).
+  ♦ Wrap the baby in a clean cloth. It is very important not to let him get cold, especially if he is premature (born too early).
 
-How to Cut the Cord
+## How to Cut the Cord
 
 When the child is born, the cord pulses and is fat and blue. WAIT.
 
@@ -651,12 +649,16 @@ After a while, the cord becomes thin and white. It stops pulsing. Now tie it in 
 
 
 IMPORTANT: Cut the cord with a clean, unused razor blade. Before unwrapping it, wash your hands very well. Or wear clean rubber or plastic gloves. If you do not have a new razor blade, use freshly boiled scissors.
-Always cut the cord close to the body of the newborn baby. Leave only about 2 centimeters attached to the baby. These precautions help prevent tetanus (see [page 182](#page-182)).
+
+**Always cut the cord close to the body of the newborn baby**. Leave only about 2 centimeters attached to the baby. These precautions help prevent tetanus (see [page 182](#page-182)).
 
 
 
 # [263](#page-263)
 {:.no_toc}
+
+
+## Care of the Cut Cord
 
 Keep the cord stump clean and dry. Always wash your hands before touching the cord stump.
 
@@ -670,17 +672,16 @@ The cord stump usually falls off 5 to 7 days after birth. There may be a few dro
 
 This is normal. But if there is a lot of blood or any pus, get medical help.
 
-Cleaning the Newborn Baby
+## Cleaning the Newborn Baby
 
 With a warm, soft, damp cloth, gently clean away any blood or fluid.
 
 It is better not to bathe the baby until after the cord drops off. Then bathe him daily in warm water, using a mild soap.
 
-Put the Newborn Baby to the Breast at Once
+## Put the Newborn Baby to the Breast at Once
 
 Place the baby at its mother’s breast as soon as the baby is born. If the baby breastfeeds, this will help to make the afterbirth come out sooner and to prevent or control heavy bleeding.
 
-Care of the Cut Cord
 
 
 
@@ -691,20 +692,21 @@ Care of the Cut Cord
 
 Normally, the placenta comes out 5 minutes to   hour after the baby is born, but sometimes it is delayed (see below).
 
-Checking the afterbirth:
+**Checking the afterbirth:**
 
 When the afterbirth comes out, pick it up and examine it to see if it is complete. If it is torn and there seem to be pieces missing, get medical help. A piece of placenta left inside the womb can cause continued bleeding or infection.
 
-When the placenta is delayed in coming:
+**When the placenta is delayed in coming:**
 
 Use gloves or plastic bags on your hands to handle the placenta. Wash your hands well afterwards.
 
-If the mother is not losing much blood, do nothing. Do not pull on the cord. This could cause dangerous hemorrhage (heavy bleeding). Sometimes the placenta will come out if the woman squats and pushes a little.
+If the mother is not losing much blood, do nothing. **Do not pull on the cord**. This could cause dangerous hemorrhage (heavy bleeding). Sometimes the placenta will come out if the woman squats and pushes a little.
 
 If the mother is losing blood, feel the womb (uterus) through the belly. If it is soft, do the following:
-Massage the womb carefully, until it gets hard. This should make it contract and push out the placenta.
 
-If the placenta does not come out soon and bleeding continues, push downward on the top of the womb very carefully, while supporting the bottom of the womb like this.
+ - Massage the womb carefully, until it gets hard. This should make it contract and push out the placenta.
+
+ - If the placenta does not come out soon and bleeding continues, push downward on the top of the womb very carefully, while supporting the bottom of the womb like this.
 
 If the placenta still does not come out, and the bleeding continues, give medicines to control the bleeding (see page 266) and seek medical help fast.
 
@@ -734,9 +736,10 @@ If heavy bleeding continues, or if the mother is losing a great deal of blood th
 ♦ Keep massaging the womb. Rub harder, squeezing the womb between two hands. It will hurt, but should work.
 Rub the womb until it is hard. Then cup 1 hand on the top of the womb.
 
-Put your other hand, in a  st, at the bottom of the womb.
+Put your other hand, in a fist, at the bottom of the womb.
 
 If the bleeding still does not stop, you can put one hand inside the vagina, make a fist, and then use the other hand to press the womb into your fist.
+
 _Note:_ Although some doctors use it, vitamin K does not help stop bleeding related to childbirth, miscarriage, or abortion. Vitamin K is only helpful for babies. Do not give to adults.
 
 
@@ -746,17 +749,17 @@ _Note:_ Although some doctors use it, vitamin K does not help stop bleeding rela
 
 ## medicines to control bleeding after birth or miscarriage
 
-Oxytocin, misoprostol, and ergometrine (ergonovine) are medicines that cause the uterus and its blood vessels to contract. They are important but dangerous drugs. Used the wrong way, or before the baby is born, they can cause the death of the mother or the child in her womb. Used correctly, they can save lives. These are their lifesaving uses:
+**Oxytocin, misoprostol, and ergometrine (ergonovine)** are medicines that cause the uterus and its blood vessels to contract. They are important but dangerous drugs. Used the wrong way, or before the baby is born, they can cause the death of the mother or the child in her womb. Used correctly, they can save lives. These are their lifesaving uses:
 
-1. To control heavy bleeding before the placenta comes out. Inject 10 units of oxytocin in the buttock or thigh muscle one time only ([page 390](#page-390)). If there is no oxytocin, you can use misoprostol instead. Give 800 mcg to dissolve under the tongue ([page 391](#page-391)).
+1. **To control heavy bleeding before the placenta comes out.** Inject 10 units of oxytocin in the buttock or thigh muscle one time only ([page 390](#page-390)). If there is no oxytocin, you can use misoprostol instead. Give 800 mcg to dissolve under the tongue ([page 391](#page-391)).
 
-2. If the bleeding starts after the placenta comes out. Inject 10 units of oxytocin in the buttock or thigh muscle. You can give this dose again in 20 minutes if bleeding does not stop. Or, give the woman 800 mcg of misoprostol to dissolve under the tongue ([page 391](#page-391)). Or, you can give ergometrine ([page 390](#page-390)), but do not use ergometrine for a woman who has hypertension or before the placenta is out.
+2. **If the bleeding starts after the placenta comes out.** Inject 10 units of oxytocin in the buttock or thigh muscle. You can give this dose again in 20 minutes if bleeding does not stop. Or, give the woman 800 mcg of misoprostol to dissolve under the tongue ([page 391](#page-391)). Or, you can give ergometrine ([page 390](#page-390)), but do not use ergometrine for a woman who has hypertension or before the placenta is out.
 
 IMPORTANT: Midwives and other health workers who help women deliver should carry enough medicines to stop heavy bleeding if it happens. Too many mothers bleed to death who could be saved.
 
-3. To help prevent heavy bleeding after birth. Some authorities now recommend giving all women a single dose of oxytocin, misoprostol, or ergometrine to prevent heavy bleeding after birth. This will prevent some dangerous bleeding, but also treats many women with medicine when they do not need it. A midwife who only has a little medicine may choose to save the medicine she has for emergencies.
+3. **To help prevent heavy bleeding after birth.** Some authorities now recommend giving all women a single dose of oxytocin, misoprostol, or ergometrine to prevent heavy bleeding after birth. This will prevent some dangerous bleeding, but also treats many women with medicine when they do not need it. A midwife who only has a little medicine may choose to save the medicine she has for emergencies.
 
-4. To control the bleeding of a miscarriage ([page 281](#page-281)). If the woman is rapidly losing blood and medical help is far away, use oyxtocin, misoprostol, or ergometrine as suggested above.
+4. **To control the bleeding of a miscarriage** ([page 281](#page-281)). If the woman is rapidly losing blood and medical help is far away, use oyxtocin, misoprostol, or ergometrine as suggested above.
 
 WARNING: The use of oxytocin, misoprostol, or ergometrine to hasten childbirth or give strength to the mother’s labor is very dangerous for both her and the child. These medicines are rarely needed before the baby is born, and then only a highly trained birth attendant should use them.
 
@@ -780,15 +783,15 @@ It is important to get medical help as quickly as possible when there is any ser
 
 1. LABOR STOPS OR SLOWS DOWN, or lasts a very long time after being strong or after the waters break. This has several possible causes:
 
-• The woman may be frightened or upset. This can slow down or even stop contractions. Talk to her. Help her to relax. Try to reassure her. Explain that the birth is slow, but there are no serious problems. Encourage her to change her position often and to drink, eat, and urinate. Stimulation (massage or milking motion) of the nipples can help speed labor.
+• **The woman may be frightened or upset.** This can slow down or even stop contractions. Talk to her. Help her to relax. Try to reassure her. Explain that the birth is slow, but there are no serious problems. Encourage her to change her position often and to drink, eat, and urinate. Stimulation (massage or milking motion) of the nipples can help speed labor.
 
-• The baby may be in an unusual position. Feel the belly between contractions to see if the baby is sideways. Sometimes the midwife can turn the baby through gentle handling of the woman’s belly. Try to work the baby around little by little between contractions, until the head is down. But do not use force as this could tear the womb or placenta, or pinch the cord. If the baby cannot be turned, try to get the mother to the hospital.
+• **The baby may be in an unusual position.** Feel the belly between contractions to see if the baby is sideways. Sometimes the midwife can turn the baby through gentle handling of the woman’s belly. Try to work the baby around little by little between contractions, until the head is down. But do not use force as this could tear the womb or placenta, or pinch the cord. If the baby cannot be turned, try to get the mother to the hospital.
 
-• If the baby is facing forward rather than backward, you may feel the lumpy arms and legs rather than the rounded back. This is usually no big problem, but labor may be longer and cause the woman more back pain. She should change positions often, as this may help turn the baby. Have her try on her hands and knees.
+• **If the baby is facing forward** rather than backward, you may feel the lumpy arms and legs rather than the rounded back. This is usually no big problem, but labor may be longer and cause the woman more back pain. She should change positions often, as this may help turn the baby. Have her try on her hands and knees.
 
-• The baby’s head may be too large to fit through the woman’s hip bones (pelvis). This is more likely in a woman with very narrow hips or a young woman or girl whose body is not fully grown. (It is very unlikely in a woman who has given normal birth before.) You may feel that the baby does not move down. If you suspect this problem, try to get the mother to a hospital as she may need an operation (Cesarean). Women who are of short stature (dwarfs), have very narrow hips or are especially young should have at least their first child in or near a hospital.
+• **The baby’s head may be too large to fit through the woman’s hip bones (pelvis)**. This is more likely in a woman with very narrow hips or a young woman or girl whose body is not fully grown. (It is very unlikely in a woman who has given normal birth before.) You may feel that the baby does not move down. If you suspect this problem, try to get the mother to a hospital as she may need an operation (Cesarean). Women who are of short stature (dwarfs), have very narrow hips or are especially young should have at least their first child in or near a hospital.
 
-• If the mother has been vomiting or has not been drinking liquids, she may be dehydrated. This can slow down or stop contractions. Have her sip Rehydration
+• **If the mother has been vomiting or has not been drinking liquids**, she may be dehydrated. This can slow down or stop contractions. Have her sip Rehydration
 Drink or other liquids after each contraction.
 
 
@@ -810,7 +813,7 @@ If the baby gets stuck, have the mother lie face up.
 
 Put your finger in the baby’s mouth and push his head towards his chest. At the same time have someone push the baby’s head down by pressing on the mother’s belly like this:
 
-Have the mother push hard. But never pull on the body of the baby.
+Have the mother push hard. But **never pull on the body of the baby**.
 
 3. PRESENTATION OF AN ARM (hand first). If the baby’s hand comes out first, get medical help right away. An operation may be needed to get the baby out.
 
@@ -829,13 +832,14 @@ Because with twins labor often begins early, the mother should be within easy re
 
 Signs that a woman is likely to have twins:
 
-• The belly grows faster and the womb is larger than usual, especially in the last months (see [page 251](#page-251))
+  • The belly grows faster and the womb is larger than usual, especially in the last months (see [page 251](#page-251))
 
-• If the woman gains weight faster than normal, or the common problems of pregnancy (morning sickness, backache, varicose veins, piles, swelling, and difficult breathing) are worse than usual, be sure to check for twins.
+  • If the woman gains weight faster than normal, or the common problems of pregnancy (morning sickness, backache, varicose veins, piles, swelling, and difficult breathing) are worse than usual, be sure to check for twins.
 
-• If you can feel 3 or more large objects (heads and buttocks) in a womb that seems extra large, twins are likely.
+  • If you can feel 3 or more large objects (heads and buttocks) in a womb that seems extra large, twins are likely.
 
-• Sometimes you can hear 2 different heartbeats (other than the mother’s), but this is difficult.
+  • Sometimes you can hear 2 different heartbeats (other than the mother’s), but this is difficult.
+
 During the last months, if the woman rests a lot and is careful to avoid hard work, twins are less likely to be born too early.
 
 Twins are often born small and need special care. However, there is no truth in beliefs that twins have strange or magic powers.
@@ -850,6 +854,7 @@ Tearing can usually be prevented if care is taken:
 The mother should try to stop pushing when the baby’s head is coming out. This gives her birth opening time to stretch. In order not to push, she should pant (take many rapid breaths).
 
 When the birth opening is stretching, the midwife can support it with one hand and with the other hand gently keep the head from coming too fast, like this:
+
 It may also help to put warm compresses against the skin below the birth opening. Start when it begins to stretch. You can also massage the stretched skin with oil.
 
 If a tear does happen, someone who knows how should carefully sew it shut after the placenta comes out (see [page 86](#page-86) and 379).
@@ -861,34 +866,33 @@ If a tear does happen, someone who knows how should carefully sew it shut after 
 
 # CARE OF THE NEWBORN BABY
 
-The Cord
+**The Cord**
 
 To prevent the freshly cut cord from becoming infected, it should be kept clean and dry. The drier it is, the sooner it will fall off and the navel will heal. For thiS reason, it is better not to use a belly band, or if one is used, to keep it very loose (see pages 184 and 263).
 
-The Eyes
+**The Eyes**
 
 To protect a newborn baby’s eyes from dangerous conjunctivitis, put a line of 1% tetracycline or erythromycin 0.5% to 1% ointment in each eye within the first 2 hours ([page 221](#page-221) and 378). This is especially important if either parent has ever had signs of gonorrhea or chlamydia ([page 236](#page-236)).
 
-Keeping the Baby Warm, but Not Too Warm
+**Keeping the Baby Warm, but Not Too Warm**
 
 Protect the baby from cold, but also from too much heat. Dress him as warmly as you feel like dressing yourself.
 
 To keep a baby just warm enough, keep him close to his mother’s body. This is especially important for a baby that is born early or very small. See ‘Special Care for Small, Early, and Underweight Babies’, [page 405](#page-405).
 
-Cleanliness
+**Cleanliness**
 
 It is important to follow the Guidelines of Cleanliness as discussed in Chapter 12. Take special care with the following:
 
-♦ Change the baby’s diapers (nappy) or bedding each time he wets or dirties them. If the skin gets red, change the diaper more often, or better, leave it off!
-(See [page 215](#page-215).)
+  ♦ Change the baby’s diapers (nappy) or bedding each time he wets or dirties them. If the skin gets red, change the diaper more often, or better, leave it off! (See [page 215](#page-215).)
 
-♦ After the cord drops off, bathe the baby daily with mild soap and warm water.
+  ♦ After the cord drops off, bathe the baby daily with mild soap and warm water.
 
-♦ If there are flies or mosquitos, cover the baby’s crib with mosquito netting or a thin cloth.
+  ♦ If there are flies or mosquitos, cover the baby’s crib with mosquito netting or a thin cloth.
 
-♦ Persons with open sores, colds, sore throat, tuberculosis, or other infectious illnesses should not touch or go near the newborn baby or the woman while she is giving birth.
+  ♦ Persons with open sores, colds, sore throat, tuberculosis, or other infectious illnesses should not touch or go near the newborn baby or the woman while she is giving birth.
 
-♦ Keep the baby in a clean place away from smoke and dust.
+  ♦ Keep the baby in a clean place away from smoke and dust.
 
 IN COLD WEATHER WRAP THE BABY WELL.
 
@@ -899,6 +903,7 @@ LEAVE HIM NAKED.
 # [271](#page-271)
 {:.no_toc}
 
+## Feeding
 
 (Also see “The Best Diet for Small Children,” [page 120](#page-120).)
 
@@ -917,19 +922,18 @@ The mother should give her breast to the baby as soon as he is born. For the fir
 It is best for the baby if the mother gives him only breast milk for the first 6 months. After that, she should continue to breastfeed her baby, but should begin to give him other nourishing foods also (see [page 122](#page-122)). Mothers with HIV should
 stop breastfeeding when the baby is 12 months old if they can give enough other nutritious foods.
 
-## how a mother can produce more breast milk:
+## How a mother can produce more breast milk:
 
-She should...
+**She should:**
 
-♦ drink plenty of liquids,
+  ♦ drink plenty of liquids,
 
-♦ eat as well as possible, especially food with a lot of calcium (like milk products) and body building foods (see [page 110](#page-110)),
+  ♦ eat as well as possible, especially food with a lot of calcium (like milk products) and body building foods (see [page 110](#page-110)),
 
-♦ get plenty of sleep and avoid getting very tired or upset,
+  ♦ get plenty of sleep and avoid getting very tired or upset,
 
+  ♦ nurse her baby more often, at least every 2 hours.
 
-♦ nurse her baby more often, at least every 2 hours.
-Feeding
 
 BOTTLE-FED BABIES ARE MORE LIKELY TO GET SICK AND DIE.
 
@@ -940,7 +944,7 @@ BREAST-FED BABIES ARE HEALTHIER.
 {:.no_toc}
 
 
-Care in Giving Medicines to the Newborn
+## Care in Giving Medicines to the Newborn
 
 Many medicines are dangerous for the newborn. Use only medicines you are sure are recommended for the newborn and use them only when they are absolutely necessary. Be sure you know the right dose and do not give too much.
 
@@ -948,24 +952,25 @@ Chloramphenicol, for example, is dangerous to newborns, especially if the baby i
 
 Sometimes it is important to give medicines to a newborn. For example, giving cotrimoxazole to a baby whose mother has HIV can protect the baby’s health. See [page 357](#page-357).
 
-## illnesses of the newborn
+# illnesses of the newborn
 
 It is very important to notice any problem or illness a baby may have and to act quickly.
 
-Problems the Baby Is Born With (Also see [page 316](#page-316))
+## Problems the Baby Is Born With
+
+(Also see [page 316](#page-316))
 
 These may result from something that went wrong with the development of the baby in the womb or from damage to the baby while he was being born. Examine the baby carefully immediately after birth. If he shows any of the following signs, something is probably seriously wrong with him:
 
-• If he does not breathe as soon as he is born.
+  • If he does not breathe as soon as he is born.
 
-• If his pulse cannot be felt or heard, or is less than 100 beats per minute.
+  • If his pulse cannot be felt or heard, or is less than 100 beats per minute.
 
-• If his face and body are white, blue, or yellow after he has begun breathing.
+  • If his face and body are white, blue, or yellow after he has begun breathing.
 
-• If his arms and legs are floppy, he does not move them by himself or when you
-pinch them.
+  • If his arms and legs are floppy, he does not move them by himself or when you pinch them.
 
-• If he grunts or has difficulty breathing after the first 15 minutes.
+  • If he grunts or has difficulty breathing after the first 15 minutes.
 
 Some of these problems may be caused by brain damage at birth. They are almost never caused by infection (unless the water broke more than 12 hours before birth). Common medicines probably will not help. Keep the baby warm, but not too warm (see [page 270](#page-270)). Try to get medical help.
 If the newborn baby vomits or shits blood, or develops many bruises, she may need vitamin K (see [page 392](#page-392)).
@@ -987,13 +992,9 @@ Diseases that take days or weeks to kill adults can kill a baby in a matter of h
 
 4. The baby does not gain weight. During the first days of life, most babies lose a little weight. This is normal. After the first week, a healthy baby should gain about 200 g., a week. By two weeks the healthy baby should weigh as much as he did at birth. If he does not gain weight, or loses weight, something is wrong. Did the baby seem healthy at birth? Does he feed well? Examine the baby carefully for signs of infection or other problems. If you cannot find out the cause of the problem and correct it, get medical help.
 
-5. Vomiting. When healthy babies burp (or bring up
-air they have swallowed while feeding), sometimes a little milk comes up too. This is normal. Help the baby bring up air after feeding by holding him against your shoulder and patting his back gently, like this.
+5. Vomiting. When healthy babies burp (or bring up air they have swallowed while feeding), sometimes a little milk comes up too. This is normal. Help the baby bring up air after feeding by holding him against your shoulder and patting his back gently, like this.
 
-If a baby vomits when you lay him down after nursing, try sitting him upright for a while after each feeding.
-A baby who vomits violently, or so much and so often
-that he begins to lose weight or become dehydrated, is
-ill. If the baby also has diarrhea, he probably has a gut infection ([page 157](#page-157)). Bacterial infection of the blood (see the next pages), meningitis ([page 185](#page-185)), and other infections may also cause vomiting.
+If a baby vomits when you lay him down after nursing, try sitting him upright for a while after each feeding. A baby who vomits violently, or so much and so often that he begins to lose weight or become dehydrated, is ill. If the baby also has diarrhea, he probably has a gut infection ([page 157](#page-157)). Bacterial infection of the blood (see the next pages), meningitis ([page 185](#page-185)), and other infections may also cause vomiting.
 
 If the vomit is yellow or green, there may be a gut obstruction ([page 94](#page-94)), especially if the belly is very swollen or the baby has not been having bowel movements. Take the baby to a health center at once.
 
@@ -1008,7 +1009,7 @@ A baby who stops nursing during the fifth to fifteenth day may have tetanus.
 # [274](#page-274)
 {:.no_toc}
 
-If a Baby Stops Sucking Well or Seems Ill
+**If a Baby Stops Sucking Well or Seems Ill**
 
 Examine him carefully and completely as described in Chapter 3. Be sure to check the following:
 
@@ -1075,7 +1076,7 @@ Each of these signs may be caused by something other than septicemia, but if the
 
 Newborn babies do not always have a fever when they have a serious infection. The temperature may be high, low, or normal.
 
-Treatment when you suspect septicemia in the newborn:
+**Treatment when you suspect septicemia in the newborn:**
 
 ♦ Inject 50 mg. of ampicillin ([page 352](#page-352)) for each kilogram the baby weighs, 2 times a day for a baby less than 1 week old or 3 times a day if the baby is older than 1 week. If you cannot calculate the dosage, inject the average dose of 150 mg. of ampicillin.
 
@@ -1083,8 +1084,7 @@ Treatment when you suspect septicemia in the newborn:
 
 ♦ Be sure the baby has enough liquids. Spoon feed breast milk and Rehydration Drink, if necessary (see [page 152](#page-152)).
 
-♦ Try to get medical help.
-  Infections in newborn babies are sometimes hard to recognize. Often there is no fever. If possible, get medical help. If not, treat with ampicillin and gentamicin as described above. Ampicillin is one of the safest and most useful antibiotics for babies.
+♦ Try to get medical help. Infections in newborn babies are sometimes hard to recognize. Often there is no fever. If possible, get medical help. If not, treat with ampicillin and gentamicin as described above. Ampicillin is one of the safest and most useful antibiotics for babies.
 
 
 
@@ -1100,17 +1100,15 @@ As was explained in Chapter 11, after she gives birth to a baby, the mother can 
 
 The mother can and should bathe in the first few days after giving birth. In the first week, it is better if she bathes with a wet towel and does not go into the water. Bathing is not harmful following childbirth. In fact, women who let many days go by without bathing may get infections that will make their skin unhealthy and their babies sick.
 
-During the days and weeks following childbirth, the mother should:
+During the days and weeks following childbirth, the mother should eat nutritious foods and bathe regularly.
 
-eat nutritious foods and bathe regularly.
-
-Childbirth Fever (Infection after Giving Birth, Womb Infection)
+**Childbirth Fever (Infection after Giving Birth, Womb Infection)**
 
 Sometimes a mother develops fever and infection after childbirth, often because someone attending the birth did not keep everything very clean or because he or she put a hand inside the mother.
 
 The signs of childbirth fever are: Chills or fever, headache or low back pain, sometimes pain in the belly, and a foul-smelling or bloody discharge from the vagina.
 
-Treatment:
+**Treatment:**
 
 Give 3 medicines: inject 2 grams of ampicillin for the first dose, and then 1 gram 4 times a day. Also inject 80 mg of gentamicin 3 times a day. Also give 500 mg of metronidazole by mouth 3 times a day. Continue giving these medicines until after the fever has been gone for 2 days.
 
@@ -1145,8 +1143,7 @@ Another reason it is important to milk the breasts if the baby stops sucking is 
 
 If your baby is too weak to suck, squeeze milk out of your breast by hand and give it to the baby by spoon or dropper.
 
-Regular bathing will help to keep your breasts clean. It is not necessary to clean your breasts and nipples each time you breastfeed your baby. Do not use soap
-to clean your breasts, as this may cause cracking of the skin, sore nipples, and infection.
+Regular bathing will help to keep your breasts clean. It is not necessary to clean your breasts and nipples each time you breastfeed your baby. Do not use soap to clean your breasts, as this may cause cracking of the skin, sore nipples, and infection.
 
 
 
@@ -1158,7 +1155,7 @@ to clean your breasts, as this may cause cracking of the skin, sore nipples, and
 
 Sore or cracked nipples develop when the baby sucks only the nipple instead of taking the nipple and part of the breast when she is breastfeeding.
 
-Treatment:
+**Treatment:**
 
 It is important to keep breastfeeding the baby even if it hurts. To avoid sore nipples, breastfeed often, for as long as the baby wants to suck, and be sure the baby is taking as much of the breast into her mouth as she can. It also helps to change the baby’s position each time she nurses.
 
@@ -1190,8 +1187,7 @@ Painful breasts and sore or cracked nipples can lead to an infection or abscess 
 
 ♦ Rest and drink lots of liquids.
 
-♦ Use hot compresses on the sore breast for 15 minutes before each feeding. Use
-cold compresses on the sore breast between feedings to reduce pain.
+♦ Use hot compresses on the sore breast for 15 minutes before each feeding. Use cold compresses on the sore breast between feedings to reduce pain.
 
 ♦ Gently massage the sore breast while the baby is nursing.
 
@@ -1219,10 +1215,9 @@ Most women have some small lumps in their breasts. These lumps can change in siz
 
 Successful treatment depends on spotting the first sign of possible cancer and getting medical care soon. Surgery is usually necessary.
 
-Signs of breast cancer:
+**Signs of breast cancer:**
 
-• The woman may notice a slow-growing lump during self-examination of the breasts
-(see below).
+• The woman may notice a slow-growing lump during self-examination of the breasts (see below).
 
 • Or the breast may have an abnormal dent or dimple, or many tiny pits like the skin of an orange.
 
@@ -1256,12 +1251,11 @@ If you find a lump that is smooth or rubbery, and moves under the skin when you 
 
 The most common lump is, of course, caused by the normal development of a baby. Abnormal lumps or masses may be caused by:
 
-• a cyst or watery swelling, often in the ovaries
+  • a cyst or watery swelling, often in the ovaries
 
-• a baby that has accidentally begun to develop
-outside of the womb (ectopic pregnancy), or
+  • a baby that has accidentally begun to develop outside of the womb (ectopic pregnancy), or
 
-• cancer
+  • cancer
 
 All 3 of these conditions are usually painless or mildly
 uncomfortable at first, and become very painful later. All require medical attention and usually surgery. If you find any unusual, gradually growing lump, seek medical advice.
@@ -1320,7 +1314,7 @@ The woman should rest and take ibuprofen ([page 379](#page-379)) or codeine ([pa
 
 ♦ Stay in bed until the heavy bleeding stops.
 
-♦ If the bleeding is extreme, follow the instructions on page 266.
+♦ If the bleeding is extreme, follow the instructions on [page 266](#page-266).
 
 ♦ If fever or other signs of infection develop, treat as for Childbirth Fever (see [page 276](#page-276))
 

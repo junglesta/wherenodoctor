@@ -3,6 +3,7 @@ email:
 description: Village Healthcare Handbook is the most widely-used health care manual for health workers, educators and others, involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
 baseurl: ""
 url: "https://nodoctor.junglestar.org"
+
 twitter_username: rokmatwit
 github:
   repository: junglesta/wherenodoctor
@@ -16,13 +17,12 @@ release: 0.4.0
 permalink: nil ## should disable post output, but...
 exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, LICENSE]
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-sitemap
- - html-proofer
+plugins_dir:
+  - html-proofer
+  - jekyll-seo-tag
 
- exclude:
+exclude:
+  - Gemfile
   - Gemfile.lock
 
 #turn off if something is not working:
