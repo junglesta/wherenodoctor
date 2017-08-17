@@ -16,6 +16,14 @@ release: 0.4.0
 permalink: nil ## should disable post output, but...
 exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, LICENSE]
 
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - html-proofer
+
+ exclude:
+  - Gemfile.lock
 
 #turn off if something is not working:
 compress_html:

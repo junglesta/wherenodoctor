@@ -3,8 +3,6 @@ _site
 .jekyll-metadata
 __LAB/UpUp-master
 __LAB/favicons
-
+__LAB/_diff.txt
 *.zip
 node_modules
-
-_diff.txt
