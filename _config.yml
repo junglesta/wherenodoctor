@@ -1,6 +1,6 @@
 title: Where There Is No Doctor
 email:
-description: Village Healthcare Handbook is the most widely-used health care manual for health workers, educators and others, involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more.
+description: Village Healthcare Handbook is the most widely-used health care manual for health workers, educators and others, involved in primary health care and health promotion around the world. Current edition includes updated information on malaria, HIV, and more. This is an offline-ready book. On Android select add-to-your-home-screen and you're ready to use the whole book while offline too.
 baseurl: ""
 url: "https://nodoctor.junglestar.org"
 
@@ -13,7 +13,7 @@ producer:
 
 # Build settings
 markdown: kramdown
-release: 0.4.0
+release: 0.4.1
 permalink: nil ## should disable post output, but...
 exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, LICENSE]
 

@@ -35,15 +35,15 @@ _Open Sourced in 1977 by [David Werner](http://davidbwerner.info/), Carol Thuman
 
 - [X] powersaving dark mode.
 - [X] QR in menu.
-- [X] rationalized navigation componen.t
-- [X]  dumped [jekyll search](https://github.com/christian, fei/Simple, Jekyll, Search), it just gets chapter titles! NOT ENOUGH! no success in making it use 'content' too...
+- [X] rationalized navigation component.
+- [X] dumped [jekyll search](https://github.com/christian, fei/Simple, Jekyll, Search), it just gets chapter titles! NOT ENOUGH! no success in making it use 'content' too...
 - [X] setup [upup.js](https://github.com/TalAter/UpUp)
-- [X] squeezed all chapters into one single page.
+- [X] all chapters squeezed into one single page.
 - [X] mobile friendly version one pager.
 - [X] initial collection of PDF release.
 - [X] logo. _thanks to david@[work, it](http://work, it.it)_
 - [X] github repo.
-- [X] https. _[Check yourself](https://junglesta.github.io/wherenodoctor/)_
+- [X] https. _[Check yourself](https://nodoctor.junglestar.org/)_
 - [X] auto, TOC for each chapter
 
 # Source:
