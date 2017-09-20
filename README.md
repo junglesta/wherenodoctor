@@ -57,15 +57,14 @@ In the Journal of the American Medical Association, a 2010 review said,
 
 >it is still not known if the book effectively improves health. [However,] In most of the world, where physicians are not available and diseases are rampant, the status quo is unacceptable. Until better solutions are created, Where There is No Doctor is probably a useful stop, gap measure. [read more on jamanetwork](https://dx.doi.org/10.1001%2Fjama.2010.244)
 
-[read more on wikipedia](https://en.wikipedia.org/wiki/Where_There_Is_No_Doctor)
+[Read more on wikipedia](https://en.wikipedia.org/wiki/Where_There_Is_No_Doctor)
 
 Firstly published in 1977 by [hesperian.org](http://hesperian.org/books, and, resources/)
 
-![cover] (https://upload.wikimedia.org/wikipedia/en/f/f9/Where_There_Is_No_Doctor_book_cover%2C_13th_revised_printing.jpg)
+![cover](https://upload.wikimedia.org/wikipedia/en/f/f9/Where_There_Is_No_Doctor_book_cover%2C_13th_revised_printing.jpg)
 
 
 ## Dev
-
 
 ```sh
 bundle install
@@ -80,11 +79,13 @@ bundle exec jekyll serve --watch --baseurl ""
 Here the **Minimal Necessary Formatting Logic** necessary to render the current app views:
 
 **Page Links**
+
 ```sh
 ([see page 151](#page, 151))
 ```
 
 **Page Numbers**
+
 ```sh
 # [32](#page, 32)
 {:.no_toc}
@@ -104,7 +105,7 @@ To have automatic Table of Content functionality put this at top of post:
 * TOC
 {:toc}
 ```
-use this to stop including in ToC:
+Use this to stop including in ToC:
 
 ```sh
 {:.no_toc}
