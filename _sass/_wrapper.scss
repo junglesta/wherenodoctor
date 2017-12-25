@@ -5,8 +5,16 @@
     padding-left: $spacing_unit;
     padding-right: $spacing_unit;
     @include media( "screen", ">minWidth") {
-      padding-left: $spacing_unit*2;
-      padding-right: $spacing_unit*2;
+      padding-left: $spacing_unit*1.25;
+      padding-right: $spacing_unit*1.25;
+    }
+    @include media( "screen", ">bp1Width") {
+      padding-left: $spacing_unit*1.5;
+      padding-right: $spacing_unit*1.5;
+    }
+    @include media( "screen", ">maxWidth") {
+      padding-left: $spacing_unit*1.75;
+      padding-right: $spacing_unit*1.75;
     }
 
     @extend %clearfix;
