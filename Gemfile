@@ -8,6 +8,4 @@ gem 'github-pages', '88'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem 'jekyll-sitemap'
-   gem 'jekyll-seo-tag'
-   gem 'html-proofer'
 end
