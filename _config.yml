@@ -18,7 +18,7 @@ permalink: nil ## should disable post output, but...
 exclude: [gulpfile.js, node_modules, package.json, icon, Gemfile, Gemfile.lock, LICENSE]
 
 #this version of jekyll need plugins_dir here:
-plugins_dir:
+plugins:
   - html-proofer
   - jekyll-seo-tag
 
