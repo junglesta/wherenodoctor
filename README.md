@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d902315-5185-41b6-88f8-12220418b5d4/deploy-status)](https://app.netlify.com/sites/nodoctor/deploys)
+
 WHERE THERE IS NO DOCTOR
 ---
 A Village Health Care Book **turned Offline Ready Web App**.
